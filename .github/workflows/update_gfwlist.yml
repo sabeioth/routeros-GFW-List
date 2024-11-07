@@ -1,0 +1,35 @@
+name: Update GFW List Rules
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # 每周日凌晨0点运行
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update_gfwlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run update script
+        run: python update_gfwlist.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add gfwlist_rules.rsc
+          git commit -m "Update GFW list rules" || echo "No changes to commit"
+          git push origin main
