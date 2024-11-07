@@ -1,154 +1,139 @@
-import base64
-import requests
 import re
+import requests
+from collections import Counter
+import base64
 
-# 获取 gfwlist.txt 文件
-def fetch_gfwlist():
-    url = 'https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt'
+# 定义初始正则表达式模式
+initial_patterns = [
+    r".*(\.)\?(.*|\.)\.(cu|at|ca|nz|br|jp|in|tw|hk|mo|ph|vn|tr|my|sg|it|uk|us|kr|ru)$",
+    r".*(\.)\?(google|facebook|blogspot|jav|pinterest|pron|github|bbcfmt|uk-live|hbo).*",
+    r".*(\.)\?(dropbox|hbo).*",
+    r".*(\.)\?(aa|akamai*|cloudfront|tiqcdn|akstat|go-mpulse|2o7).*",
+    r".*(\.)\?(amazon|amazonaws|kindle|primevideo).*\.com",
+    r".*(\.)\?(quora|quoracdn)\.(com|net)$",
+    r".*(\.)\?(yahoo|ytimg|scorecardresearch)\.com$",
+    r".*(\.)\?dazn.*\.com$",
+    r".*(\.)\?(docker|mysql|mongodb|apache|mariadb|nginx|caddy)\.(io|com|org|net)$",
+    r".*(\.)\?(oraclecloud|alicloud|salesforces|sap|workday)\.com$",
+    r".*(\.)\?(pandora|pbs)\.(com|org)",
+    r".*(\.)\?(azure|bing|live|outlook|msn|surface|1drv|microsoft)\.(net|com|org)",
+    r".*(\.)\?(azureedge|msauth|[a-z]-msedge|cd20|office)\.(net|com|org)",
+    r".*(\.)\?(twitch|ttvnw).*(\.net|\.tv)",
+    r".*(\.)\?(nflx|netflix|fast).*(\.net|\.com)",
+    r".*(\.)\?(youtube|ytimg)\.(com)",
+    r".*(\.)\?(android|androidify|appspot|autodraw|blogger)\.com",
+    r".*(\.)\?(capitalg|chrome|chromeexperiments|chromestatus|creativelab5)\.com",
+    r".*(\.)\?(debug|deepmind|dialogflow|firebaseio|googletagmanager)\.com",
+    r".*(\.)\?(ggpht|gmail|gmail|gmodules|gstatic|gv|gvt0|gvt1|gvt2|gvt3)\.com",
+    r".*(\.)\?(itasoftware|madewithcode|synergyse|tiltbrush|waymo)\.com",
+    r".*(\.)\?(widevine|x|app-measurement)\.(company|com)",
+    r".*(\.)\?(ampproject|certificate-transparency|chromium)\.org",
+    r".*(\.)\?(getoutline|godoc|golang|gwtproject)\.org",
+    r".*(\.)\?(polymer-project|tensorflow)\.org",
+    r".*(\.)\?(messenger|whatsapp|oculus|oculuscdn)\.(com|net)",
+    r".*(\.)\?(cdninstagram|fb|fbcdn|instagram)\.(com|net|me)",
+    r".*(\.)\?(twimg|twitpic|twitter)\.(co|com)",
+    r".*(\.)\?(line(.*|\.)|naver)\.(me|com|net|jp)",
+    r".*(\.)\?(openai|ai|discord|oaistatic|oaiusercontent)\.(com|gg)$",
+    r".*(\.)\?(intercom|intercomcdn|featuregates|chatgpt)\.(io|org|com)$"
+]
+
+# 获取 GFW 列表
+def get_gfwlist():
+    url = "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
     response = requests.get(url)
     if response.status_code == 200:
         return response.text
     else:
-        raise Exception(f"Failed to fetch gfwlist.txt: {response.status_code}")
+        raise Exception("Failed to fetch GFW list")
 
-# 解码 base64 编码的内容
-def decode_gfwlist(encoded_content):
-    return base64.b64decode(encoded_content).decode('utf-8')
+# 解码 Base64 编码的 GFW 列表
+def decode_gfwlist(gfwlist):
+    return base64.b64decode(gfwlist).decode('utf-8')
 
-# 过滤和优化规则
-def optimize_rules(decoded_content):
-    # 定义要过滤掉的正则表达式模式
-    filter_patterns = [
-        r'^!.*$',  # 注释行
-        r'^@@.*$',  # 白名单规则
-    ]
-    
-    # 编译正则表达式模式
-    filter_regex = [re.compile(pattern) for pattern in filter_patterns]
-    
-    # 过滤规则
-    filtered_lines = []
-    for line in decoded_content.splitlines():
-        if not any(regex.match(line) for regex in filter_regex):
-            # 替换 || 为 |
-            line = line.replace('||', '|')
-            filtered_lines.append(line)
-    
-    return filtered_lines
+# 统计后缀频率
+def count_suffixes(gfwlist):
+    suffixes = []
+    lines = gfwlist.splitlines()
+    for line in lines:
+        if not line or line.startswith("!") or line.startswith("["):
+            continue
+        parts = line.split('.')
+        if len(parts) > 1:
+            suffix = parts[-1]
+            suffixes.append(suffix)
+    return Counter(suffixes)
+
+# 动态生成新的正则表达式模式
+def generate_new_patterns(suffix_counts):
+    new_patterns = []
+    for suffix, count in suffix_counts.items():
+        if count > 10:
+            new_patterns.append(rf".*(\.)\?(.*|\.)\.{suffix}$")
+    return new_patterns
 
 # 动态调整提取规则
-def adjust_patterns(filtered_lines, patterns):
-    adjusted_patterns = {}
-    for key, pattern in patterns.items():
-        # 提取子域名
-        subdomains = re.findall(r'\|(.*?)\|', pattern)
-        valid_subdomains = []
-        for subdomain in subdomains:
-            if any(subdomain in line for line in filtered_lines):
-                valid_subdomains.append(subdomain)
-        # 重新构建调整后的模式
-        adjusted_pattern = pattern
-        for subdomain in subdomains:
-            if subdomain not in valid_subdomains:
-                adjusted_pattern = adjusted_pattern.replace(f"|{subdomain}|", "")
-        adjusted_patterns[key] = adjusted_pattern
+def adjust_patterns(initial_patterns, gfwlist):
+    adjusted_patterns = initial_patterns.copy()
+    lines = gfwlist.splitlines()
+    for pattern in initial_patterns:
+        for line in lines:
+            if not line or line.startswith("!") or line.startswith("["):
+                continue
+            match = re.search(r'\|(.*?)\|', line)
+            if match:
+                domain = match.group(1)
+                if domain in pattern:
+                    adjusted_pattern = pattern.replace(f"|{domain}|", "|")
+                    adjusted_patterns.remove(pattern)
+                    adjusted_patterns.append(adjusted_pattern)
+                    break
     return adjusted_patterns
 
-# 提取特定的正则表达式模式
-def extract_specific_patterns(filtered_lines, patterns):
-    extracted_lines = {key: [] for key in patterns}
-    
-    for line in filtered_lines:
-        for key, pattern in patterns.items():
+# 应用正则表达式过滤域名
+def filter_domains(gfwlist, patterns):
+    filtered_domains = []
+    lines = gfwlist.splitlines()
+    for line in lines:
+        if not line or line.startswith("!") or line.startswith("["):
+            continue
+        matched = False
+        for pattern in patterns:
             if re.match(pattern, line):
-                extracted_lines[key].append(line)
+                filtered_domains.append(line)
+                matched = True
                 break
-    
-    return extracted_lines
+        if not matched:
+            filtered_domains.append(line)
+    return filtered_domains
 
-# 生成 .rsc 文件内容
-def generate_rsc_content(filtered_lines, extracted_lines, patterns):
-    rsc_content = "/ip dns static\n"
-    
-    def add_rule(comment, domain_pattern):
-        nonlocal rsc_content
-        rsc_content += f'add comment="{comment}" forward-to=198.18.0.1 regexp="{domain_pattern}" type=FWD\n'
-    
-    # 添加特定模式的条目
-    for key, lines in extracted_lines.items():
-        if lines:
-            add_rule(key, patterns[key])
-    
-    # 处理未提取的条目
-    for line in filtered_lines:
-        if not any(line in v for v in extracted_lines.values()) and not line.startswith('!') and not line.startswith('@@'):
-            domain_pattern = line.replace('.', '\\.').replace('*', '.*')
-            add_rule("GFW", domain_pattern)
-    
-    return rsc_content
+# 生成 gfwlist.rsc 文件
+def generate_gfwlist_rsc(domains, filename="gfwlist.rsc"):
+    with open(filename, "w") as f:
+        f.write("/ip firewall address-list\n")
+        for domain in domains:
+            f.write(f'add address={domain} list=gfwlist\n')
 
-# 写入 .rsc 文件
-def write_rsc_file(rsc_content, filename):
-    with open(filename, 'w') as file:
-        file.write(rsc_content)
+# 生成 dns.rsc 文件
+def generate_dns_rsc(domains, filename="dns.rsc"):
+    with open(filename, "w") as f:
+        f.write("/ip dns static\n")
+        for domain in domains:
+            f.write(f'add name={domain} type=FWD forward-to=198.18.0.1\n')
 
+# 主函数
 def main():
     try:
-        encoded_content = fetch_gfwlist()
-        decoded_content = decode_gfwlist(encoded_content)
-        
-        # 保存解码后的 gfwlist.rsc 文件
-        write_rsc_file(decoded_content, 'gfwlist.rsc')
-        
-        # 过滤和优化规则
-        filtered_lines = optimize_rules(decoded_content)
-        
-        # 定义提取规则
-        patterns = {
-            "country_domains": r".*(\\.)\?(.*|\\.)\?\\.(cu|at|ca|nz|br|jp|in|tw|hk|mo|ph|vn|tr|my|sg|it|uk|us|kr|ru)\$",
-            "specific_domains": r".*(\\.)\?(google|facebook|blogspot|jav|pinterest|pron|github|bbcfmt|uk-live|hbo).*",
-            "dropbox_hbo": r".*(\\.)\?(dropbox|hbo).*",
-            "cdn_domains": r".*(\\.)\?(aa|akamai*|cloudfront|tiqcdn|akstat|go-mpulse|2o7).*",
-            "amazon_domains": r".*(\\.)\?(amazon|amazonaws|kindle|primevideo).*\\.com",
-            "quora_domains": r".*(\\.)\?(quora|quoracdn)\\.(com|net)\$",
-            "yahoo_domains": r".*(\\.)\?(yahoo|ytimg|scorecardresearch)\\.com\$",
-            "dazn_domains": r".*(\\.)\?dazn.*\\.com\$",
-            "docker_domains": r".*(\\.)\?(docker|mysql|mongodb|apache|mariadb|nginx|caddy)\\.(io|com|org|net)\$",
-            "oracle_alibaba_domains": r".*(\\.)\?(oraclecloud|alicloud|salesforces|sap|workday)\\.com\$",
-            "pandora_pbs_domains": r".*(\\.)\?(pandora|pbs)\\.(com|org)",
-            "microsoft_domains": r".*(\\.)\?(azure|bing|live|outlook|msn|surface|1drv|microsoft)\\.(net|com|org)",
-            "microsoft_cdn_domains": r".*(\\.)\?(azureedge|msauth|[a-z]-msedge|cd20|office)\\.(net|com|org)",
-            "twitch_domains": r".*(\\.)\?(twitch|ttvnw).*(\\.net|\\.tv)",
-            "netflix_domains": r".*(\\.)\?(nflx|netflix|fast).*(\\.net|\\.com)",
-            "youtube_domains": r".*(\\.)\?(youtube|ytimg)\\.(com)",
-            "google_domains": r".*(\\.)\?(android|androidify|appspot|autodraw|blogger)\\.com",
-            "google_services_domains": r".*(\\.)\?(capitalg|chrome|chromeexperiments|chromestatus|creativelab5)\\.com",
-            "google_debug_domains": r".*(\\.)\?(debug|deepmind|dialogflow|firebaseio|googletagmanager)\\.com",
-            "google_media_domains": r".*(\\.)\?(ggpht|gmail|gmail|gmodules|gstatic|gv|gvt0|gvt1|gvt2|gvt3)\\.com",
-            "google_other_domains": r".*(\\.)\?(itasoftware|madewithcode|synergyse|tiltbrush|waymo)\\.com",
-            "google_widevine_domains": r".*(\\.)\?(widevine|x|app-measurement)\\.(company|com)",
-            "google_org_domains": r".*(\\.)\?(ampproject|certificate-transparency|chromium)\\.org",
-            "google_org2_domains": r".*(\\.)\?(getoutline|godoc|golang|gwtproject)\\.org",
-            "google_org3_domains": r".*(\\.)\?(polymer-project|tensorflow)\\.org",
-            "facebook_domains": r".*(\\.)\?(messenger|whatsapp|oculus|oculuscdn)\\.(com|net)",
-            "instagram_domains": r".*(\\.)\?(cdninstagram|fb|fbcdn|instagram)\\.(com|net|me)",
-            "twitter_domains": r".*(\\.)\?(twimg|twitpic|twitter)\\.(co|com)",
-            "line_naver_domains": r".*(\\.)\?(line(.*|\\.)|naver)\\.(me|com|net|jp)",
-            "openai_discord_domains": r".*(\\.)\?(openai|ai|discord|oaistatic|oaiusercontent)\\.(com|gg)\$",
-            "intercom_domains": r".*(\\.)\?(intercom|intercomcdn|featuregates|chatgpt)\\.(io|org|com)\$"
-        }
-        
-        # 动态调整提取规则
-        adjusted_patterns = adjust_patterns(filtered_lines, patterns)
-        
-        # 提取特定的正则表达式模式
-        extracted_lines = extract_specific_patterns(filtered_lines, adjusted_patterns)
-        
-        # 生成并保存转换后的 dns.rsc 文件
-        rsc_content = generate_rsc_content(filtered_lines, extracted_lines, adjusted_patterns)
-        write_rsc_file(rsc_content, 'dns.rsc')
-        
-        print("转换完成，已生成 gfwlist.rsc 和 dns.rsc 文件。")
+        gfwlist = get_gfwlist()
+        decoded_gfwlist = decode_gfwlist(gfwlist)
+        suffix_counts = count_suffixes(decoded_gfwlist)
+        new_patterns = generate_new_patterns(suffix_counts)
+        adjusted_patterns = adjust_patterns(initial_patterns, decoded_gfwlist)
+        all_patterns = adjusted_patterns + new_patterns
+        filtered_domains = filter_domains(decoded_gfwlist, all_patterns)
+        generate_gfwlist_rsc(filtered_domains)
+        generate_dns_rsc(filtered_domains)
+        print("GFW list updated successfully.")
     except Exception as e:
         print(f"Error: {e}")
 
