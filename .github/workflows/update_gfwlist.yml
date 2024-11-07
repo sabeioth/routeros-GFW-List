@@ -12,6 +12,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          ref: main
+          token: ${{ secrets.TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -32,4 +35,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add gfwlist_rules.rsc
           git commit -m "Update GFW list rules" || echo "No changes to commit"
-          git push origin main
+          git push https://${{ secrets.TOKEN }}@github.com/${{ github.repository }}.git main
