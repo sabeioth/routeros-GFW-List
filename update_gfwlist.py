@@ -1,5 +1,6 @@
 import base64
 import requests
+import re
 
 def fetch_gfwlist():
     # GitHub 上 GFWList 的 raw 链接
@@ -18,8 +19,18 @@ def convert_to_routeros_format(data, forward_to):
     lines = data.splitlines()
     output = ['ip dns static']
     for line in lines:
-        if not line or line.startswith('!'):
+        # 注释直接跳过
+        if line == '' or line.startswith('!') or line.startswith('@@') or line.startswith('[AutoProxy'):
             continue
+
+        # 清除前缀
+        line = re.sub(r'^\|?https?://', '', line)
+        line = re.sub(r'^\|\|', '', line)
+        line = line.lstrip('.*')
+
+        # 清除后缀
+        line = line.rstrip('/^*')
+
         # 替换 . 为 \\. 并添加正则表达式格式
         line = line.replace('.', '\\.')
         output.append(f'add regexp=".*\\.{line}\$" forward-to={forward_to} type=FWD')
@@ -27,7 +38,7 @@ def convert_to_routeros_format(data, forward_to):
 
 def main():
     # 前向 DNS 地址，根据实际情况修改
-    gfwdns = '8.8.8.8'  # 这里填写您希望使用的DNS服务器地址
+    gfwdns = '198.18.0.1'  # 修改为您的 DNS 服务器地址
     
     # 获取并解码 GFWList
     gfwlist_data = fetch_gfwlist()
