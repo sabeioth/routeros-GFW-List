@@ -22,7 +22,7 @@ def process_gfwlist(gfwlist):
             continue
         if line.startswith('||'):
             domain = line[2:].strip('^')
-            rule = f'/ip dns static add comment="GFW" forward-to={DNS_FORWARD_IP} regexp="^{domain}$" type=FWD'
+            rule = f'add comment=GFW forward-to={DNS_FORWARD_IP} regexp="^{domain}$" type=FWD'
             processed_rules.append(rule)
     return "\n".join(processed_rules)
 
