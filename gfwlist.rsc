@@ -1,8508 +1,6196 @@
-[AutoProxy 0.2.9]
-! Checksum: j9+lCGr2eTNyrwZCFg8ZzQ
-! Expires: 6h
-! Title: GFWList4LL
-! GFWList with EVERYTHING included
-! Last Modified: Mon, 07 Oct 2024 11:39:43 -0400
-!
-! HomePage: https://github.com/gfwlist/gfwlist
-! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
-!
-! GFWList is unlikely to fully comprise the real
-! rules being deployed inside GFW system. We try
-! our best to keep the list up to date. Please
-! contact us regarding URL submission / removal,
-! or suggestion / enhancement at issue tracker:
-! https://github.com/gfwlist/gfwlist/issues/.
-
-!---------403/451/503/520 & URL Redirects---------
-!--ehentai
-|http://85.17.73.31/
-!--||adorama.com
-||afreecatv.com
-||agnesb.fr
-||akiba-web.com
-||altrec.com
-||angela-merkel.de
-||angola.org
-||anthropic.com
-||apartmentratings.com
-||apartments.com
-||arena.taipei
-||asianspiss.com
-||assimp.org
-||athenaeizou.com
-||azubu.tv
-||bankmobilevibe.com
-||banorte.com
-||beeg.com
-||global.bing.com
-||booktopia.com.au
-||boysmaster.com
-||bynet.co.il
-||byrut.org
-||carfax.com
-.casinobellini.com
-||casinobellini.com
-||centauro.com.br
-||chobit.cc
-||ciciai.com
-||claude.ai
-||clearsurance.com
-||images.comico.tw
-||static.comico.tw
-||counter.social
-||costco.com
-||coze.com
-||crossfire.co.kr
-||crunchyroll.com
-||d2pass.com
-||darpa.mil
-||dawangidc.com
-||deezer.com
-||desipro.de
-||dingchin.com.tw
-||discord.com
-||discord.gg
-||discordapp.com
-||discordapp.net
-||dish.com
-|http://img.dlsite.jp/
-||dm530.net
-share.dmhy.org
-||dmhy.org
-||dmm.co.jp
-|http://www.dmm.com/netgame
-||dnvod.tv
-||dubox.com
-||dvdpac.com
-||eesti.ee
-||esurance.com
-.expekt.com
-||expekt.com
-.extmatrix.com
-||extmatrix.com
-||fakku.net
-||fastpic.ru
-||filesor.com
-||financetwitter.com
-||flipboard.com
-||flitto.com
-||fnac.be
-||fnac.com
-||funkyimg.com
-||fxnetworks.com
-||g-area.org
-||gettyimages.com
-||getuploader.com
-||ghidra-sre.org
-!--|https://github.com/programthink/zhao
-!--|https://raw.githubusercontent.com/programthink/zhao
-||glass8.eu
-||glype.com
-||go141.com
-||guo.media
-||hautelook.com
-||hautelookcdn.com
-||wego.here.com
-||gamer-cds.cdn.hinet.net
-||gamer2-cds.cdn.hinet.net
-||hmoegirl.com
-||hmvdigital.ca
-||hmvdigital.com
-||homedepot.com
-||hoovers.com
-||hulu.com
-||huluim.com
-|http://secure.hustler.com
-|http://hustlercash.com
-|http://www.hustlercash.com
-||hybrid-analysis.com
-||cdn*.i-scmp.com
-||ilbe.com
-||ilovelongtoes.com
-|http://imgmega.com/*.gif.html
-|http://imgmega.com/*.jpg.html
-|http://imgmega.com/*.jpeg.html
-|http://imgmega.com/*.png.html
-||imlive.com
-||tw.iqiyi.com
-||javhub.net
-||javhuge.com
-.javlibrary.com
-||javlibrary.com
-||jcpenney.com
-||jims.net
-||tv.jtbc.joins.com
-||jukujo-club.com
-||juliepost.com
-||kawaiikawaii.jp
-||kendatire.com
-||khatrimaza.org
-||kkbox.com
-||leisurepro.com
-||lifemiles.com
-||longtoes.com
-||lovetvshow.com
-|http://www.m-sport.co.uk
-||macgamestore.com
-||madonna-av.com
-||mandiant.com
-||mangafox.com
-||mangafox.me
-||manta.com
-||matome-plus.com
-||matome-plus.net
-||mattwilcox.net
-||metarthunter.com
-||mfxmedia.com
-||mojim.com
-||kb.monitorware.com
-||monster.com
-||moodyz.com
-||moonbingo.com
-||mos.ru
-||msha.gov
-||muzu.tv
-||mvg.jp
-.mybet.com
-||mybet.com
-||mypikpak.com
-||nationwide.com
-|http://www.nbc.com/live
-||neo-miracle.com
-||netflix.com
-||netflix.net
-||nflximg.com
-||nflximg.net
-||nflxext.com
-||nflxso.net
-||nflxvideo.net
-||nic.gov
-|http://mo.nightlife141.com
-||purpose.nike.com
-||noxinfluencer.com
-@@||cn.noxinfluencer.com
-||nordstrom.com
-||nordstromimage.com
-||nordstromrack.com
-||nottinghampost.com
-||npsboost.com
-||ntdtv.cz
-||s1.nudezz.com
-||nusatrip.com
-||nuuvem.com
-||olehdtv.com
-||omni7.jp
-||onapp.com
-!--We are confused as well
-||ontrac.com
-@@|http://blog.ontrac.com
-||openai.com
-||pandora.com
-.pandora.tv
-||parkansky.com
-||phmsociety.org
-|http://*.pimg.tw/
-||podcast.co
-||pure18.com
-||pytorch.org
-||qq.co.za
-||r18.com
-|http://radiko.jp
-||ramcity.com.au
-||rateyourmusic.com
-||rd.com
-||rdio.com
-|https://riseup.net
-||sadistic-v.com
-||isc.sans.edu
-|http://cdn*.search.xxx/
-||shiksha.com
-||slacker.com
-||sm-miracle.com
-||softnology.biz
-||soylentnews.org
-||spotify.com
-||spreadshirt.es
-||springboardplatform.com
-||sprite.org
-@@|http://store.sprite.org
-||superokayama.com
-||superpages.com
-||swagbucks.com
-||switch1.jp
-||tapanwap.com
-||gsp.target.com
-||login.target.com
-!--@@||intl.target.com
-||rcam.target.com
-||technews.tw
-||terabox.com
-||thinkgeek.com
-||thebodyshop-usa.com
-||tiktok.com
-||tma.co.jp
-||tracfone.com
-||tryheart.jp
-||turntable.fm
-||twerkingbutt.com
-||ulop.net
-||uukanshu.com
-||vegasred.com
-||vevo.com
-||vip-enterprise.com
-|http://viu.tv/ch/
-|http://viu.tv/encore/
-||vmpsoft.com
-|http://ecsm.vs.com/
-||wanz-factory.com
-||ssl.webpack.de
-||wheretowatch.com
-||wingamestore.com
-||wizcrafts.net
-||wowhead.com
-||vod.wwe.com
-||xfinity.com
-||xiaomi.eu
-||youwin.com
-||ytn.co.kr
-||zamimg.com
-||zattoo.com
-||zim.vn
-||zozotown.com
-
-!##############General List Start###############
-!-------------------Pure IP---------------------
-14.102.250.18
-14.102.250.19
-50.7.31.230:8898
-174.142.105.153
-69.65.19.160
-
-!----------------------IDN----------------------
-||xn--4gq171p.com
-||xn--czq75pvv1aj5c.org
-||xn--i2ru8q2qg.com
-||xn--oiq.cc
-||xn--p8j9a0d9c9a.xn--q9jyb4c
-||xn--9pr62r24a.com
-
-!-----------------DNS Poisoning-----------------
-!---Amazon---
-!-||cdn-images.mailchimp.com
-||abebooks.com
-|https://*.s3.amazonaws.com
-||s3-ap-southeast-2.amazonaws.com
-
-||43110.cf
-||9cache.com
-||9gag.com
-||agro.hk
-||share.america.gov
-||apkmirror.com
-||arte.tv
-||artstation.com
-||bangdream.space
-||behance.net
-||bird.so
-||bitterwinter.org
-||bnn.co
-||businessinsider.com
-||boomssr.com
-||bwgyhw.com
-||castbox.fm
-||chinatimes.com
-||clyp.it
-||cmcn.org
-||cmx.im
-||dailyview.tw
-||daum.net
-||depositphotos.com
-||disconnect.me
-||documentingreality.com
-||doubibackup.com
-||doubmirror.cf
-||encyclopedia.com
-||fangeqiang.com
-||fanqiangdang.com
-||feedly.com
-||feedx.net
-||flyzy2005.com
-||foreignpolicy.com
-||free-ss.site
-||freehongkong.org
-||blog.fuckgfw233.org
-||g0v.social
-||globalvoices.org
-||glorystar.me
-||goregrish.com
-||guangnianvpn.com
-||hanime.tv
-||hbo.com
-||spaces.hightail.com
-||hkgalden.com
-||hkgolden.com
-||hudson.org
-||ipfs.io
-||japantimes.co.jp
-||jiji.com
-||jintian.net
-||jinx.com
-||joinmastodon.org
-||liangzhichuanmei.com
-||lighti.me
-||lightyearvpn.com
-||lihkg.com
-||line-scdn.net
-||i.lithium.com
-||cloud.mail.ru
-||cdn-images.mailchimp.com
-||mastodon.cloud
-||mastodon.host
-||mastodon.social
-||mastodon.xyz
-||matters.news
-||me.me
-||metart.com
-||mohu.club
-||mohu.ml
-||motiyun.com
-||msa-it.org
-||goo.ne.jp
-||go.nesnode.com
-||international-news.newsmagazine.asia
-||nikkei.com
-||nitter.cc
-||nitter.net
-||niu.moe
-||nofile.io
-||now.com
-||openvpn.org
-||onejav.com
-||paste.ee
-||my.pcloud.com
-||picacomic.com
-||pincong.rocks
-||pixiv.net
-||potato.im
-||premproxy.com
-||prism-break.org
-||proton.me
-||protonvpn.com
-||api.pureapk.com
-||quora.com
-||quoracdn.net
-||qz.com
-||cdn.seatguru.com
-||secure.raxcdn.com
-||redd.it
-||reddit.com
-.redditlist.com
-|http://redditlist.com
-||redditmedia.com
-||redditstatic.com
-!--defunct
-||rixcloud.com
-||rixcloud.us
-||rsdlmonitor.com
-||shadowsocks.be
-||shadowsocks9.com
-||tn1.shemalez.com
-||tn2.shemalez.com
-||tn3.shemalez.com
-||static.shemalez.com
-||six-degrees.io
-||softfamous.com
-||softsmirror.cf
-||sosreader.com
-||sspanel.net
-||sulian.me
-||supchina.com
-||teddysun.com
-||textnow.me
-||tineye.com
-||top10vpn.com
-||tubepornclassic.com
-||uku.im
-||unseen.is
-||cn.uptodown.com
-||uraban.me
-||vrsmash.com
-||vultryhw.com
-||scache.vzw.com
-||scache1.vzw.com
-||scache2.vzw.com
-||ss7.vzw.com
-||ssr.tools
-||steemit.com
-||taiwanjustice.net
-||tinc-vpn.org
-||u15.info
-||washingtonpost.com
-||wenzhao.ca
-||whatsonweibo.com
-||wire.com
-||blog.workflow.is
-||xm.com
-||xuehua.us
-||yes-news.com
-||yigeni.com
-||you-get.org
-||zzcloud.me
-
-!---Digital Currency Exchange(CRYPTO)---
-||aex.com
-||allcoin.com
-||adcex.com
-||bcex.ca
-||bibox.com
-||big.one
-||bigone.com
-||binance.com
-||bit-z.com
-||bitz.ai
-||bitbay.net
-||bitcoinworld.com
-||bitfinex.com
-||bithumb.com
-||bitinka.com.ar
-||bitmex.com
-||bnbstatic.com
-||btc98.com
-||btcbank.bank
-||btctrade.im
-||bybit.com
-||c2cx.com
-||chaoex.com
-||cobinhood.com
-||coin2co.in
-||coinbene.com
-.coinegg.com
-||coinegg.com
-||coinex.com
-!--|https://www.coinexchange.io/
-||coingecko.com
-||coingi.com
-||coinmarketcap.com
-||coinrail.co.kr
-||cointiger.com
-||cointobe.com
-||coinut.com
-||discoins.com
-||dragonex.io
-||ebtcbank.com
-||etherdelta.com
-||ethermine.org
-||etherscan.io
-||exmo.com
-||exrates.me
-||exx.com
-||f2pool.com
-||fatbtc.com
-||ftx.com
-||gate.io
-||gatecoin.com
-||hbg.com
-||hitbtc.com
-||hotcoin.com
-||huobi.co
-||huobi.com
-||huobi.me
-!--||huobi.li
-||huobi.pro
-||huobi.sc
-||huobipro.com
-||bx.in.th
-||jex.com
-||kex.com
-||kraken.com
-||kspcoin.com
-||kucoin.com
-||lbank.info
-||liquiditytp.com
-||livecoin.net
-||localbitcoins.com
-||mercatox.com
-||oanda.com
-||obyte.org
-||oex.com
-||okex.com
-||okx.com
-||opensea.io
-||otcbtc.com
-||paxful.com
-||poolin.com
-||rightbtc.com
-||solv.finance
-||topbtc.com
-||tronscan.org
-||xbtce.com
-||yobit.net
-||zb.com
-
-!----------------Frauds & Scams-----------------
-!!---Content Farm(fake 500 error)---
-||read01.com
-||kknews.cc
-
-china-mmm.jp.net
-.lsxszzg.com
-.china-mmm.net
-||china-mmm.net
-china-mmm.sa.com
-
-!---------------------Groups--------------------
-!!---Afraid FreeDNS---
-.allowed.org
-.now.im
-
-!!---Amazon---
-||amazon.co.jp
-.amazon.com/Dalai-Lama
-amazon.com/Prisoner-State-Secret-Journal-Premier
-s3-ap-northeast-1.amazonaws.com
-
-!!---AOL---
-||aolchannels.aol.com
-video.aol.ca/video-detail
-video.aol.co.uk/video-detail
-video.aol.com
-||video.aol.com
-||search.aol.com
-www.aolnews.com
-
-!!---AvMoo---
-.avmo.pw
-!--|http://avmo.pw
-.avmoo.com
-|http://avmoo.com
-.avmoo.net
-|http://avmoo.net
-||avmoo.pw
-.javmoo.xyz
-|http://javmoo.xyz
-.javtag.com
-|http://javtag.com
-.javzoo.com
-|http://javzoo.com
-.tellme.pw
-
-!!---BBC---
-!--.bbc.co.uk/blogs
-!--.bbc.co.uk/chinese
-!--.bbc.co.uk/news/world-asia-china
-!--.bbc.co.uk/tv
-!--.bbc.co.uk/zhongwen
-!--.bbc.com/ukchina
-!--.bbc.com/zhongwen
-!--.bbc.com%2Fzhongwen
-!--news.bbc.co.uk/onthisday*newsid_2496000/2496277
-!--newsforums.bbc.co.uk
-.bbc.com
-||bbc.com
-.bbc.co.uk
-||bbc.co.uk
-||bbci.co.uk
-.bbcchinese.com
-||bbcchinese.com
-|http://bbc.in
-
-!!---Bloomberg---
-.bloomberg.cn
-||bloomberg.cn
-.bloomberg.com
-||bloomberg.com
-bloomberg.de
-||bloomberg.de
-||bloombergview.com
-.businessweek.com
-
-!!---ChangeIP---
-.1dumb.com
-.25u.com
-.2waky.com
-.3-a.net
-.4dq.com
-.4mydomain.com
-.4pu.com
-.acmetoy.com
-.almostmy.com
-.americanunfinished.com
-.authorizeddns.net
-.authorizeddns.org
-.authorizeddns.us
-.bigmoney.biz
-.changeip.name
-.changeip.net
-.changeip.org
-.cleansite.biz
-.cleansite.info
-.cleansite.us
-.compress.to
-.ddns.info
-.ddns.me.uk
-.ddns.mobi
-.ddns.ms
-.ddns.name
-.ddns.us
-.dhcp.biz
-.dns-dns.com
-.dns-stuff.com
-.dns04.com
-.dns05.com
-.dns1.us
-.dns2.us
-.dnset.com
-.dnsrd.com
-.dsmtp.com
-.dumb1.com
-.dynamic-dns.net
-.dynamicdns.biz
-.dynamicdns.co.uk
-.dynamicdns.me.uk
-.dynamicdns.org.uk
-.dyndns.pro
-.dynssl.com
-.edns.biz
-.epac.to
-.esmtp.biz
-.ezua.com
-.faqserv.com
-.fartit.com
-.freeddns.com
-.freetcp.com
-.freewww.biz
-.freewww.info
-.ftp1.biz
-.ftpserver.biz
-.gettrials.com
-.got-game.org
-.gr8domain.biz
-.gr8name.biz
-.https443.net
-.https443.org
-.ikwb.com
-.instanthq.com
-.iownyour.biz
-.iownyour.org
-.isasecret.com
-.itemdb.com
-.itsaol.com
-.jetos.com
-.jkub.com
-.jungleheart.com
-.justdied.com
-.lflink.com
-.lflinkup.com
-.lflinkup.net
-.lflinkup.org
-.longmusic.com
-.mefound.com
-.moneyhome.biz
-.mrbasic.com
-.mrbonus.com
-.mrface.com
-.mrslove.com
-.my03.com
-.mydad.info
-.myddns.com
-.myftp.info
-.myftp.name
-.mylftv.com
-.mymom.info
-.mynetav.net
-.mynetav.org
-.mynumber.org
-.mypicture.info
-.mypop3.net
-.mypop3.org
-.mysecondarydns.com
-.mywww.biz
-.myz.info
-.ninth.biz
-.ns01.biz
-.ns01.info
-.ns01.us
-.ns02.biz
-.ns02.info
-.ns02.us
-.ns1.name
-.ns2.name
-.ns3.name
-.ocry.com
-.onedumb.com
-.onmypc.biz
-.onmypc.info
-.onmypc.net
-.onmypc.org
-.onmypc.us
-.organiccrap.com
-.otzo.com
-.ourhobby.com
-.pcanywhere.net
-.port25.biz
-.proxydns.com
-.qhigh.com
-.qpoe.com
-.rebatesrule.net
-.sellclassics.com
-.sendsmtp.com
-.serveuser.com
-.serveusers.com
-.sexidude.com
-.sexxxy.biz
-.sixth.biz
-.squirly.info
-.ssl443.org
-.toh.info
-.toythieves.com
-.trickip.net
-.trickip.org
-.vizvaz.com
-.wha.la
-.wikaba.com
-.www1.biz
-.wwwhost.biz
-@@|http://xx.wwwhost.biz
-.x24hr.com
-.xxuz.com
-.xxxy.biz
-.xxxy.info
-.ygto.com
-.youdontcare.com
-.yourtrap.com
-.zyns.com
-.zzux.com
-
-!!--Cloudflare--
-!--||pages.dev
-
-!!---CloudFront---
-d1b183sg0nvnuh.cloudfront.net
-|https://d1b183sg0nvnuh.cloudfront.net
-d1c37gjwa26taa.cloudfront.net
-|https://d1c37gjwa26taa.cloudfront.net
-d3c33hcgiwev3.cloudfront.net
-|https://d3c33hcgiwev3.cloudfront.net
-||d3rhr7kgmtrq1v.cloudfront.net
-
-!!---DtDNS---
-!###https://www.dtdns.com/dtsite/faq
-.3d-game.com
-.4irc.com
-.b0ne.com
-.chatnook.com
-.darktech.org
-.deaftone.com
-.dtdns.net
-.effers.com
-.etowns.net
-.etowns.org
-.flnet.org
-.gotgeeks.com
-.scieron.com
-.slyip.com
-.slyip.net
-.suroot.com
-
-!!---DynDNS---
-!###https://help.dyn.com/list-of-dyn-dns-pro-remote-access-domain-names/
-.blogdns.org
-.dyndns.org
-.dyndns-ip.com
-.dyndns-pics.com
-.from-sd.com
-.from-pr.com
-.is-a-hunter.com
-
-!!---Dynu---
-.dynu.com
-||dynu.com
-.dynu.net
-.freeddns.org
-
-!!---Facebook---
-||accountkit.com
-cdninstagram.com
-||cdninstagram.com
-||f8.com
-||facebook.br
-.facebook.com
-||facebook.com
-!--/^https?:\/\/[^\/]+facebook\.com/
-@@||v6.facebook.com
-||facebook.de
-||facebook.design
-||connect.facebook.net
-||facebook.hu
-||facebook.in
-||facebook.nl
-||facebook.se
-||facebookmail.com
-||fb.com
-||fb.me
-||fb.watch
-||fbcdn.net
-||fbsbx.com
-||fbaddins.com
-||fbworkmail.com
-.instagram.com
-||instagram.com
-||m.me
-||messenger.com
-||meta.com
-||oculus.com
-||oculuscdn.com
-||rocksdb.org
-@@||ip6.static.sl-reverse.com
-||parse.com
-||thefacebook.com
-||threads.net
-||whatsapp.com
-||whatsapp.net
-
-!!---Fandom---
-||auntology.fandom.com
-||hongkong.fandom.com
-
-!!---FTChinese---
-.ftchinese.com
-||ftchinese.com
-!--.ftchinese.com/channel/video
-!--.ftchinese.com/premium/001081066
-!--.ftchinese.com/story/00102753
-!--.ftchinese.com/story/001026616
-!--.ftchinese.com/story/001026749
-!--.ftchinese.com/story/001026807
-!--.ftchinese.com/story/001026808
-!--.ftchinese.com/story/001026834
-!--.ftchinese.com/story/001026880
-!--.ftchinese.com/story/001027429
-!--.ftchinese.com/story/001030341
-!--.ftchinese.com/story/001030502
-!--.ftchinese.com/story/001030803
-!--.ftchinese.com/story/001031317
-!--.ftchinese.com/story/001032617
-!--.ftchinese.com/story/001032636
-!--.ftchinese.com/story/001032692
-!--.ftchinese.com/story/001032762
-!--.ftchinese.com/story/001033138
-!--.ftchinese.com/story/001034917
-!--.ftchinese.com/story/001034926
-!--.ftchinese.com/story/001034927
-!--.ftchinese.com/story/001034928
-!--.ftchinese.com/story/001034952
-!--.ftchinese.com/story/001035890
-!--.ftchinese.com/story/001035972
-!--.ftchinese.com/story/001035993
-!--.ftchinese.com/story/001036417
-!--.ftchinese.com/story/001037090
-!--.ftchinese.com/story/001037091
-!--.ftchinese.com/story/001038178
-!--.ftchinese.com/story/001038199
-!--.ftchinese.com/story/001038220
-!--.ftchinese.com/story/001038819
-!--.ftchinese.com/story/001038862
-!--.ftchinese.com/story/001039067
-!--.ftchinese.com/story/001039178
-!--.ftchinese.com/story/001039211
-!--.ftchinese.com/story/001039271
-!--.ftchinese.com/story/001039295
-!--.ftchinese.com/story/001039369
-!--.ftchinese.com/story/001039482
-!--.ftchinese.com/story/001039534
-!--.ftchinese.com/story/001039555
-!--.ftchinese.com/story/001039576
-!--.ftchinese.com/story/001039712
-!--.ftchinese.com/story/001039779
-!--.ftchinese.com/story/001039809
-!--.ftchinese.com/story/001040134
-!--.ftchinese.com/story/001040835
-!--.ftchinese.com/story/001040890
-!--.ftchinese.com/story/001040918
-!--.ftchinese.com/story/001040992
-!--.ftchinese.com/story/001041209
-!--.ftchinese.com/story/001042100
-!--.ftchinese.com/story/001042252
-!--.ftchinese.com/story/001042272
-!--.ftchinese.com/story/001042280
-!--.ftchinese.com/story/001043029
-!--.ftchinese.com/story/001043066
-!--.ftchinese.com/story/001043096
-!--.ftchinese.com/story/001043124
-!--.ftchinese.com/story/001043152
-!--.ftchinese.com/story/001043189
-!--.ftchinese.com/story/001043428
-!--.ftchinese.com/story/001043439
-!--.ftchinese.com/story/001043534
-!--.ftchinese.com/story/001043675
-!--.ftchinese.com/story/001043680
-!--.ftchinese.com/story/001043702
-!--.ftchinese.com/story/001043849
-!--.ftchinese.com/story/001044099
-!--.ftchinese.com/story/001044776
-!--.ftchinese.com/story/001044871
-!--.ftchinese.com/story/001044897
-!--.ftchinese.com/story/001045114
-!--.ftchinese.com/story/001045139
-!--.ftchinese.com/story/001045186
-!--.ftchinese.com/story/001045755
-!--.ftchinese.com/story/001046087
-!--.ftchinese.com/story/001046105
-!--.ftchinese.com/story/001046118
-!--.ftchinese.com/story/001046132
-!--.ftchinese.com/story/001046517
-!--.ftchinese.com/story/001046822
-!--.ftchinese.com/story/001046866
-!--.ftchinese.com/story/001046942
-!--.ftchinese.com/story/001047180
-!--.ftchinese.com/story/001047206
-!--.ftchinese.com/story/001047304
-!--.ftchinese.com/story/001047317
-!--.ftchinese.com/story/001047345
-!--.ftchinese.com/story/001047358
-!--.ftchinese.com/story/001047375
-!--.ftchinese.com/story/001047381
-!--.ftchinese.com/story/001047413
-!--.ftchinese.com/story/001047456
-!--.ftchinese.com/story/001047491
-!--.ftchinese.com/story/001047545
-!--.ftchinese.com/story/001047558
-!--.ftchinese.com/story/001047568
-!--.ftchinese.com/story/001047627
-!--.ftchinese.com/story/001048293
-!--.ftchinese.com/story/001048343
-!--.ftchinese.com/story/001048710
-!--.ftchinese.com/story/001049289
-!--.ftchinese.com/story/001049360
-!--.ftchinese.com/story/001049896
-!--.ftchinese.com/story/001050152
-!--.ftchinese.com/story/001051027
-!--.ftchinese.com/story/001051161
-!--.ftchinese.com/story/001051372
-!--.ftchinese.com/story/001051479
-!--.ftchinese.com/story/001052138
-!--.ftchinese.com/story/001052161
-!--.ftchinese.com/story/001052525
-!--.ftchinese.com/story/001052549
-!--.ftchinese.com/story/001052701
-!--.ftchinese.com/story/001052965
-!--.ftchinese.com/story/001053149
-!--.ftchinese.com/story/001053150
-!--.ftchinese.com/story/001053200
-!--.ftchinese.com/story/001053425
-!--.ftchinese.com/story/001053496
-!--.ftchinese.com/story/001053526
-!--.ftchinese.com/story/001053557
-!--.ftchinese.com/story/001053906
-!--.ftchinese.com/story/001054049
-!--.ftchinese.com/story/001054103
-!--.ftchinese.com/story/001054109
-!--.ftchinese.com/story/001054119
-!--.ftchinese.com/story/001054123
-!--.ftchinese.com/story/001054139
-!--.ftchinese.com/story/001054166
-!--.ftchinese.com/story/001054168
-!--.ftchinese.com/story/001054190
-!--.ftchinese.com/story/001054437
-!--.ftchinese.com/story/001054526
-!--.ftchinese.com/story/001054607
-!--.ftchinese.com/story/001054644
-!--.ftchinese.com/story/001054786
-!--.ftchinese.com/story/001054843
-!--.ftchinese.com/story/001054925
-!--.ftchinese.com/story/001054940
-!--.ftchinese.com/story/001055051
-!--.ftchinese.com/story/001055063
-!--.ftchinese.com/story/001055069
-!--.ftchinese.com/story/001055136
-!--.ftchinese.com/story/001055170
-!--.ftchinese.com/story/001055202
-!--.ftchinese.com/story/001055242
-!--.ftchinese.com/story/001055263
-!--.ftchinese.com/story/001055274
-!--.ftchinese.com/story/001055299
-!--.ftchinese.com/story/001055480
-!--.ftchinese.com/story/001055551
-!--.ftchinese.com/story/001055559
-!--.ftchinese.com/story/001055566
-!--.ftchinese.com/story/001055840
-!--.ftchinese.com/story/001056099
-!--.ftchinese.com/story/001056108
-!--.ftchinese.com/story/001056131
-!--.ftchinese.com/story/001056375
-!--.ftchinese.com/story/001056491
-!--.ftchinese.com/story/001056529
-!--.ftchinese.com/story/001056534
-!--.ftchinese.com/story/001056538
-!--.ftchinese.com/story/001056541
-!--.ftchinese.com/story/001056554
-!--.ftchinese.com/story/001056557
-!--.ftchinese.com/story/001056560
-!--.ftchinese.com/story/001056567
-!--.ftchinese.com/story/001056574
-!--.ftchinese.com/story/001056588
-!--.ftchinese.com/story/001056594
-!--.ftchinese.com/story/001056596
-!--.ftchinese.com/story/001056684
-!--.ftchinese.com/story/001056832
-!--.ftchinese.com/story/001056833
-!--.ftchinese.com/story/001056851
-!--.ftchinese.com/story/001056874
-!--.ftchinese.com/story/001056896
-!--.ftchinese.com/story/001056927
-!--.ftchinese.com/story/001057011
-!--.ftchinese.com/story/001057018
-!--.ftchinese.com/story/001057044
-!--.ftchinese.com/story/001057162
-!--.ftchinese.com/story/001057500
-!--.ftchinese.com/story/001057504
-!--.ftchinese.com/story/001057509
-!--.ftchinese.com/story/001057518
-!--.ftchinese.com/story/001057532
-!--.ftchinese.com/story/001057533
-!--.ftchinese.com/story/001057556
-!--.ftchinese.com/story/001057580
-!--.ftchinese.com/story/001057638
-!--.ftchinese.com/story/001057644
-!--.ftchinese.com/story/001057817
-!--.ftchinese.com/story/001057875
-!--.ftchinese.com/story/001058009
-!--.ftchinese.com/story/001058056
-!--.ftchinese.com/story/001058224
-!--.ftchinese.com/story/001058257
-!--.ftchinese.com/story/001058295
-!--.ftchinese.com/story/001058328
-!--.ftchinese.com/story/001058339
-!--.ftchinese.com/story/001058344
-!--.ftchinese.com/story/001058352
-!--.ftchinese.com/story/001058413
-!--.ftchinese.com/story/001058421
-!--.ftchinese.com/story/001058440
-!--.ftchinese.com/story/001058458
-!--.ftchinese.com/story/001058468
-!--.ftchinese.com/story/001058561
-!--.ftchinese.com/story/001058566
-!--.ftchinese.com/story/001058567
-!--.ftchinese.com/story/001058585
-!--.ftchinese.com/story/001058628
-!--.ftchinese.com/story/001058656
-!--.ftchinese.com/story/001058665
-!--.ftchinese.com/story/001058678
-!--.ftchinese.com/story/001058691
-!--.ftchinese.com/story/001058721
-!--.ftchinese.com/story/001058728
-!--.ftchinese.com/story/001059464
-!--.ftchinese.com/story/001059484
-!--.ftchinese.com/story/001059537
-!--.ftchinese.com/story/001059538
-!--.ftchinese.com/story/001059551
-!--.ftchinese.com/story/001059818
-!--.ftchinese.com/story/001059914
-!--.ftchinese.com/story/001059920
-!--.ftchinese.com/story/001059957
-!--.ftchinese.com/story/001060088
-!--.ftchinese.com/story/001060156
-!--.ftchinese.com/story/001060157
-!--.ftchinese.com/story/001060160
-!--.ftchinese.com/story/001060181
-!--.ftchinese.com/story/001060185
-!--.ftchinese.com/story/001060493
-!--.ftchinese.com/story/001060495
-!--.ftchinese.com/story/001060590
-!--.ftchinese.com/story/001060846
-!--.ftchinese.com/story/001060847
-!--.ftchinese.com/story/001060875
-!--.ftchinese.com/story/001060921
-!--.ftchinese.com/story/001060946
-!--.ftchinese.com/story/001061120
-!--.ftchinese.com/story/001061474
-!--.ftchinese.com/story/001061524
-!--.ftchinese.com/story/001061642
-!--.ftchinese.com/story/001062017
-!--.ftchinese.com/story/001062020
-!--.ftchinese.com/story/001062028
-!--.ftchinese.com/story/001062092
-!--.ftchinese.com/story/001062096
-!--.ftchinese.com/story/001062147
-!--.ftchinese.com/story/001062176
-!--.ftchinese.com/story/001062188
-!--.ftchinese.com/story/001062254
-!--.ftchinese.com/story/001062374
-!--.ftchinese.com/story/001062482
-!--.ftchinese.com/story/001062496
-!--.ftchinese.com/story/001062501
-!--.ftchinese.com/story/001062508
-!--.ftchinese.com/story/001062519
-!--.ftchinese.com/story/001062554
-!--.ftchinese.com/story/001062741
-!--.ftchinese.com/story/001062794
-!--.ftchinese.com/story/001063160
-!--.ftchinese.com/story/001063359
-!--.ftchinese.com/story/001063512
-!--.ftchinese.com/story/001063668
-!--.ftchinese.com/story/001063692
-!--.ftchinese.com/story/001063763
-!--.ftchinese.com/story/001063764
-!--.ftchinese.com/story/001063826
-!--.ftchinese.com/story/001064127
-!--.ftchinese.com/story/001064312
-!--.ftchinese.com/story/001064705
-!--.ftchinese.com/story/001064807
-!--.ftchinese.com/story/001065120
-!--.ftchinese.com/story/001065168
-!--.ftchinese.com/story/001065249
-!--.ftchinese.com/story/001065287
-!--.ftchinese.com/story/001065335
-!--.ftchinese.com/story/001065337
-!--.ftchinese.com/story/001065541
-!--.ftchinese.com/story/001065715
-!--.ftchinese.com/story/001065735
-!--.ftchinese.com/story/001065756
-!--.ftchinese.com/story/001065802
-!--.ftchinese.com/story/001066112
-!--.ftchinese.com/story/001066136
-!--.ftchinese.com/story/001066140
-!--.ftchinese.com/story/001066465
-!--.ftchinese.com/story/001066881
-!--.ftchinese.com/story/001066950
-!--.ftchinese.com/story/001066959
-!--.ftchinese.com/story/001067435
-!--www.ftchinese.com/story/001067479
-!--.ftchinese.com/story/001067528
-!--.ftchinese.com/story/001067545
-!--.ftchinese.com/story/001067572
-!--.ftchinese.com/story/001067648
-!--.ftchinese.com/story/001067650
-!--.ftchinese.com/story/001067680
-!--.ftchinese.com/story/001067692
-!--.ftchinese.com/story/001067871
-!--.ftchinese.com/story/001067923
-!--.ftchinese.com/story/001068062
-!--.ftchinese.com/story/001068248
-!--.ftchinese.com/story/001068278
-!--.ftchinese.com/story/001068379
-!--.ftchinese.com/story/001068483
-!--.ftchinese.com/story/001068506
-!--.ftchinese.com/story/001068547
-!--.ftchinese.com/story/001068616
-!--.ftchinese.com/story/001068622
-!--.ftchinese.com/story/001068707
-!--.ftchinese.com/story/001069146
-!--.ftchinese.com/story/001069373
-!--.ftchinese.com/story/001069516
-!--.ftchinese.com/story/001069517
-!--.ftchinese.com/story/001069687
-!--.ftchinese.com/story/001069741
-!--.ftchinese.com/story/001069861
-!--.ftchinese.com/story/001069952
-!--.ftchinese.com/story/001070053
-!--.ftchinese.com/story/001070177
-!--.ftchinese.com/story/001070307
-!--.ftchinese.com/story/001070809
-!--.ftchinese.com/story/001070990
-!--.ftchinese.com/story/001071042
-!--.ftchinese.com/story/001071044
-!--.ftchinese.com/story/001071106
-!--.ftchinese.com/story/001071166
-!--.ftchinese.com/story/001071181
-!--ftchinese.com/story/001071200
-!--.ftchinese.com/story/001071208
-!--.ftchinese.com/story/001071238
-!--.ftchinese.com/story/001071683
-!--.ftchinese.com/story/001072271
-!--.ftchinese.com/story/001072348
-!--.ftchinese.com/story/001072677
-!--.ftchinese.com/story/001072726
-!--.ftchinese.com/story/001072794
-!--.ftchinese.com/story/001072853
-!--.ftchinese.com/story/001072895
-!--.ftchinese.com/story/001072993
-!--.ftchinese.com/story/001073043
-!--.ftchinese.com/story/001073103
-!--.ftchinese.com/story/001073157
-!--.ftchinese.com/story/001073216
-!--.ftchinese.com/story/001073246
-!--.ftchinese.com/story/001073305
-!--.ftchinese.com/story/001073307
-!--.ftchinese.com/story/001073408
-!--.ftchinese.com/story/001073537
-!--.ftchinese.com/story/001073672
-!--.ftchinese.com/story/001073849
-!--.ftchinese.com/story/001073906
-!--.ftchinese.com/story/001074089
-!--.ftchinese.com/story/001074110
-!--.ftchinese.com/story/001074128
-!--.ftchinese.com/story/001074157
-!--.ftchinese.com/story/001074246
-!--.ftchinese.com/story/001074307
-!--.ftchinese.com/story/001074347
-!--.ftchinese.com/story/001074423
-!--.ftchinese.com/story/001074454
-!--.ftchinese.com/story/001074467
-!--.ftchinese.com/story/001074493
-!--.ftchinese.com/story/001074550
-!--.ftchinese.com/story/001074562
-!--.ftchinese.com/story/001074653
-!--.ftchinese.com/story/001074693
-!--.ftchinese.com/story/001074699
-!--.ftchinese.com/story/001074712
-!--.ftchinese.com/story/001074713
-!--.ftchinese.com/story/001074768
-!--.ftchinese.com/story/001074782
-!--.ftchinese.com/story/001074794
-!--.ftchinese.com/story/001074822
-!--.ftchinese.com/story/001074874
-!--.ftchinese.com/story/001074891
-!--.ftchinese.com/story/001074918
-!--.ftchinese.com/story/001075081
-!--.ftchinese.com/story/001075134
-!--.ftchinese.com/story/001075142
-!--.ftchinese.com/story/001075216
-!--.ftchinese.com/story/001075230
-!--.ftchinese.com/story/001075238
-!--.ftchinese.com/story/001075262
-!--.ftchinese.com/story/001075269
-!--.ftchinese.com/story/001075491
-!--.ftchinese.com/story/001075500
-!--.ftchinese.com/story/001075650
-!--.ftchinese.com/story/001075678
-!--.ftchinese.com/story/001075703
-!--.ftchinese.com/story/001075739
-!--.ftchinese.com/story/001076066
-!--.ftchinese.com/story/001076142
-!--.ftchinese.com/story/001076459
-!--.ftchinese.com/story/001076470
-!--.ftchinese.com/story/001076538
-!--.ftchinese.com/story/001076573
-!--.ftchinese.com/story/001076901
-!--.ftchinese.com/story/001077067
-!--.ftchinese.com/story/001077084
-!--.ftchinese.com/story/001077235
-!--.ftchinese.com/story/001077344
-!--.ftchinese.com/story/001077390
-!--.ftchinese.com/story/001077392
-!--.ftchinese.com/story/001077465
-!--.ftchinese.com/story/001077468
-!--.ftchinese.com/story/001077492
-!--.ftchinese.com/story/001077745
-!--.ftchinese.com/story/001077768
-!--.ftchinese.com/story/001077804
-!--.ftchinese.com/story/001077852
-!--.ftchinese.com/story/001078646
-!--.ftchinese.com/story/001078928
-!--.ftchinese.com/story/001078967
-!--.ftchinese.com/story/001079559
-!--.ftchinese.com/story/001079641
-!--.ftchinese.com/story/001079909
-!--.ftchinese.com/story/001079934
-!--.ftchinese.com/story/001079992
-!--.ftchinese.com/story/001080054
-!--.ftchinese.com/story/001080109
-!--.ftchinese.com/story/001080169
-!--.ftchinese.com/story/001080226
-!--.ftchinese.com/story/001080429
-!--.ftchinese.com/story/001080471
-!--.ftchinese.com/story/001080550
-!--.ftchinese.com/story/001080581
-!--.ftchinese.com/story/001080647
-!--.ftchinese.com/story/001080778
-!--.ftchinese.com/story/001080892
-!--.ftchinese.com/story/001080915
-!--.ftchinese.com/story/001080935
-!--.ftchinese.com/story/001081059
-!--.ftchinese.com/story/001081127
-!--.ftchinese.com/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A
-!--.ftchinese.com/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D
-!--.ftchinese.com/tag/%E8%96%84%E7%86%99%E6%9D%A5
-!--.ftchinese.com/video/1437
-!--.ftchinese.com/video/1882
-!--.ftchinese.com/video/2446
-!--.ftchinese.com/video/2601
-!--.ftchinese.com/comments
-
-!!---Google---
-!###https://www.google.com/supported_domains###
-!...GFWList doesn't intend to support typosquatting...
-||1e100.net
-||466453.com
-||abc.xyz
-||about.google
-||admob.com
-||adsense.com
-||advertisercommunity.com
-||agoogleaday.com
-||ai.google
-||ampproject.org
-@@|https://www.ampproject.org
-@@|https://cdn.ampproject.org
-||android.com
-||androidify.com
-||androidtv.com
-||api.ai
-.appspot.com
-||appspot.com
-||autodraw.com
-||blog.google
-||blogblog.com
-blogspot.com
-/^https?:\/\/[^\/]+blogspot\.(.*)/
-.blogspot.hk
-.blogspot.jp
-.blogspot.tw
-||business.page
-!--||capitalg.com
-||certificate-transparency.org
-||chrome.com
-||chromecast.com
-||chromeenterprise.google
-||chromeexperiments.com
-||chromercise.com
-||chromestatus.com
-||chromium.org
-||cloudfunctions.net
-||com.google
-||crbug.com
-||creativelab5.com
-||crisisresponse.google
-||crrev.com
-||data-vocabulary.org
-||debug.com
-||deepmind.com
-||deja.com
-||design.google
-||digisfera.com
-||dns.google
-||hub.docker.com
-||domains.google
-||duck.com
-||environment.google
-||feedburner.com
-||firebaseio.com
-||g.co
-||gcr.io
-||get.app
-||get.dev
-||get.how
-||get.page
-||getmdl.io
-||getoutline.org
-||ggpht.com
-||gmail.com
-||gmodules.com
-||godoc.org
-||golang.org
-||goo.gl
-||goo.gle
-.google.ae
-.google.as
-.google.am
-.google.at
-.google.az
-.google.ba
-.google.be
-.google.bg
-.google.ca
-.google.cd
-.google.ci
-.google.co.id
-.google.co.jp
-.google.co.kr
-.google.co.ma
-.google.co.uk
-.google.com
-.google.de
-||google.dev
-.google.dj
-.google.dk
-.google.es
-.google.fi
-.google.fm
-.google.fr
-.google.gg
-.google.gl
-.google.gr
-.google.ie
-.google.is
-.google.it
-.google.jo
-.google.kz
-.google.lv
-.google.mn
-.google.ms
-.google.nl
-.google.nu
-.google.no
-.google.ro
-.google.ru
-.google.rw
-.google.sc
-.google.sh
-.google.sk
-.google.sm
-.google.sn
-.google.tk
-.google.tm
-.google.to
-.google.tt
-.google.vu
-.google.ws
-/^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|af|ai|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
-!--||google-analytics.com
-!--||googleadservices.com
-||googleapis.cn
-||googleapis.com
-||googleapps.com
-||googleartproject.com
-||googleblog.com
-||googlebot.com
-!--||googlecapital.com
-||googlechinawebmaster.com
-||googlecode.com
-||googlecommerce.com
-||googledomains.com
-||googlearth.com
-||googleearth.com
-||googledrive.com
-||googlefiber.net
-||googlegroups.com
-||googlehosted.com
-||googleideas.com
-||googleinsidesearch.com
-||googlelabs.com
-||googlemail.com
-||googlemashups.com
-||googlepagecreator.com
-||googleplay.com
-||googleplus.com
-||googlescholar.comUSA
-||googlesource.com
-!--||googlesyndication.com
-!--||googletagmanager.com
-!--||googletagservices.com
-||googleusercontent.com
-.googlevideo.com
-||googlevideo.com
-||googleweblight.com
-||googlezip.net
-||groups.google.cn
-||grow.google
-||gstatic.com
-!--||gv.com
-||gvt0.com
-||gvt1.com
-@@||redirector.gvt1.com
-||gvt3.com
-||gwtproject.org
-||html5rocks.com
-||iam.soy
-||igoogle.com
-||itasoftware.com
-||lers.google
-||like.com
-||madewithcode.com
-||material.io
-||nic.google
-||on2.com
-||opensource.google
-||panoramio.com
-||passwords.google
-||picasaweb.com
-||pki.goog
-||plus.codes
-||polymer-project.org
-||pride.google
-||questvisual.com
-||admin.recaptcha.net
-||api.recaptcha.net
-||api-secure.recaptcha.net
-||api-verify.recaptcha.net
-||redhotlabs.com
-||registry.google
-||research.google
-||safety.google
-||savethedate.foo
-||schema.org
-||shattered.io
-|http://sipml5.org/
-||stories.google
-||sustainability.google
-||synergyse.com
-||teachparentstech.org
-||tensorflow.org
-||tfhub.dev
-||thinkwithgoogle.com
-||tiltbrush.com
-||translate.goog
-||tv.google
-||urchin.com
-!--||www.google
-||waveprotocol.org
-||waymo.com
-||web.dev
-||webmproject.org
-||webpkgcache.com
-||webrtc.org
-||whatbrowser.org
-||widevine.com
-||withgoogle.com
-||withyoutube.com
-||x.company
-||xn--ngstr-lra8j.com
-||youtu.be
-.youtube.com
-||youtube.com
-||youtube-nocookie.com
-||youtubeeducation.com
-||youtubegaming.com
-||youtubekids.com
-||yt.be
-||ytimg.com
-||zynamics.com
-
-!!---KickASS---
-!--OFFICIAL URL list at: https://kastatus.com
-
-!!---NaughtyAmerica---
-||naughtyamerica.com
-
-!!---NYTimes---
-!--||d1f1eryiqyjs0r.cloudfront.net
-!--||d3lar09xbwlsge.cloudfront.net
-!--||d3q1qj9jzsu8nw.cloudfront.net
-!--||dc8xl0ndzn2cb.cloudfront.net
-!--||a1.nyt.com
-!--||int.nyt.com
-!--||s1.nyt.com
-static01.nyt.com
-!--||static01.nyt.com
-!--||typeface.nyt.com
-||nyt.com
-nytchina.com
-nytcn.me
-||nytcn.me
-||nytco.com
-|http://nyti.ms/
-.nytimes.com
-||nytimes.com
-||nytimg.com
-userapi.nytlog.com
-cn.nytstyle.com
-||nytstyle.com
-
-!!---Steam---
-.steamcommunity.com
-||steamcommunity.com
-!--steamcommunity.com/profiles/76561198062771609
-!--steamcommunity.com/groups/LibetTibet
-!--steamcommunity.com/groups/zhonggong
-!--steamcommunity.com/id/CJT_Jackton
-||store.steampowered.com
-
-!!---Telegram---
-!!!---Domain---
-||cdn-telegram.org
-||comments.app
-||graph.org
-||quiz.directory
-||t.me
-||updates.tdesktop.com
-||telegram.dog
-||telegram.me
-||telegram.org
-||telegram.space
-||telegram-cdn.org
-||telegramdownload.com
-||telegra.ph
-||telesco.pe
-!!!---IP---
-
-!!---Twitch---
-||jtvnw.net
-||ttvnw.net
-||twitch.tv
-||twitchcdn.net
-
-!!---Twitter---
-||periscope.tv
-.pscp.tv
-||pscp.tv
-.t.co
-||t.co
-.tweetdeck.com
-||tweetdeck.com
-||twimg.com
-.twitpic.com
-||twitpic.com
-.twitter.com
-||twitter.com
-||twitter.jp
-||vine.co
-||x.com
-
-!!---Taiwan---
-||gov.taipei
-.gov.tw
-|https://aiss.anws.gov.tw
-||archives.gov.tw
-||tacc.cwb.gov.tw
-||data.gov.tw
-||epa.gov.tw
-||fa.gov.tw
-||fda.gov.tw
-||hpa.gov.tw
-||immigration.gov.tw
-||itaiwan.gov.tw
-||li.taipei
-||mjib.gov.tw
-||moeaic.gov.tw
-||mofa.gov.tw
-||mol.gov.tw
-||mvdis.gov.tw
-||nat.gov.tw
-||nhi.gov.tw
-||npa.gov.tw
-||nsc.gov.tw
-||ntbk.gov.tw
-||ntbna.gov.tw
-||ntbt.gov.tw
-||ntsna.gov.tw
-||pcc.gov.tw
-||stat.gov.tw
-||taipei.gov.tw
-||taiwanjobs.gov.tw
-||thb.gov.tw
-||tipo.gov.tw
-||wda.gov.tw
-
-||teco-hk.org
-||teco-mo.org
-
-@@||aftygh.gov.tw
-@@||aide.gov.tw
-@@||tpde.aide.gov.tw
-@@||arte.gov.tw
-@@||chukuang.gov.tw
-@@||cwb.gov.tw
-@@||cycab.gov.tw
-@@||dbnsa.gov.tw
-@@||df.gov.tw
-@@||eastcoast-nsa.gov.tw
-@@||erv-nsa.gov.tw
-@@||grb.gov.tw
-@@||gysd.nyc.gov.tw
-@@||hchcc.gov.tw
-@@||hsinchu-cc.gov.tw
-@@||iner.gov.tw
-@@||klsio.gov.tw
-@@||kmseh.gov.tw
-@@||lungtanhr.gov.tw
-@@||maolin-nsa.gov.tw
-@@||matsu-news.gov.tw
-@@||matsu-nsa.gov.tw
-@@||matsucc.gov.tw
-@@||moe.gov.tw
-@@||nankan.gov.tw
-@@||ncree.gov.tw
-@@||necoast-nsa.gov.tw
-@@||siraya-nsa.gov.tw
-@@||cromotc.nat.gov.tw
-@@||tax.nat.gov.tw
-@@||necoast-nsa.gov.tw
-@@||ner.gov.tw
-@@||nmmba.gov.tw
-@@||nmp.gov.tw
-@@||nmvttc.gov.tw
-@@||northguan-nsa.gov.tw
-||npm.gov.tw
-@@||nstm.gov.tw
-@@||ntdmh.gov.tw
-@@||ntl.gov.tw
-@@||ntsec.gov.tw
-@@||ntuh.gov.tw
-@@||nvri.gov.tw
-@@||penghu-nsa.gov.tw
-@@||post.gov.tw
-@@||siraya-nsa.gov.tw
-@@||stdtime.gov.tw
-@@||sunmoonlake.gov.tw
-@@||taitung-house.gov.tw
-@@||taoyuan.gov.tw
-@@||tphcc.gov.tw
-@@||trimt-nsa.gov.tw
-@@||vghtpe.gov.tw
-@@||vghks.gov.tw
-@@||vghtc.gov.tw
-@@||wanfang.gov.tw
-@@||yatsen.gov.tw
-@@||yda.gov.tw
-
-!--@@||4pppc.gov.tw
-!--@@||921.gov.tw
-!--@@||dmtip.gov.tw
-!--@@||etraining.gov.tw
-!--@@||gsn-cert.nat.gov.tw
-!--@@||nici.nat.gov.tw
-!--@@||hcc.gov.tw
-!--@@||hengchuen.gov.tw
-!--@@||khcc.gov.tw
-!--@@||khms.gov.tw
-!--@@||kk.gov.tw
-!--@@||klccab.gov.tw
-!--@@||klra.gov.tw
-!--@@||nmh.gov.tw
-!--@@||nmtl.gov.tw
-!--@@||pabp.gov.tw
-!--@@||pet.gov.tw
-!--@@||tchb.gov.tw
-!--@@||tcsac.gov.tw
-!--@@||tncsec.gov.tw
-||kinmen.org.tw
-
-!!---USA---
-|http://www.americorps.gov
-||jpl.nasa.gov
-||pds.nasa.gov
-||solarsystem.nasa.gov
-iipdigital.usembassy.gov
-||usfk.mil
-||usmc.mil
-|http://tarr.uspto.gov/
-||tsdr.uspto.gov
-
-!!---V2EX---
-||v2ex.com
-!--.v2ex.com
-!--Included in above rule: dns.v2ex.com
-!--@@|http://v2ex.com
-!--@@|http://cdn.v2ex.com
-!--@@|http://cn.v2ex.com
-!--@@|http://hk.v2ex.com
-!--@@|http://i.v2ex.com
-!--@@|http://lax.v2ex.com
-!--@@|http://neue.v2ex.com
-!--@@|http://pagespeed.v2ex.com
-!--@@|http://static.v2ex.com
-!--@@|http://workspace.v2ex.com
-!--@@|http://www.v2ex.com
-
-!!---VOA---
-cn.voa.mobi
-tw.voa.mobi
-||voacambodia.com
-.voachineseblog.com
-||voachineseblog.com
-.voacantonese.com
-||voacantonese.com
-voachinese.com
-||voachinese.com
-voagd.com
-||voaindonesia.com
-.voanews.com
-||voanews.com
-voatibetan.com
-||voatibetan.com
-.voatibetanenglish.com
-||voatibetanenglish.com
-
-!!---Wikia---
-||zh.ecdm.wikia.com
-||evchk.wikia.com
-fq.wikia.com
-zh.pttpedia.wikia.com/wiki/%E7%BF%92%E5%8C%85%E5%AD%90%E4%B9%8B%E4%BA%82
-cn.uncyclopedia.wikia.com
-zh.uncyclopedia.wikia.com
-
-!-------------Wikipedia Related-------------
-!!Emergency need only(IP/Port block usage)!!
-!------0------
-!--||mediawiki.org
-!--@@||m.mediawiki.org
-!------1------
-!--||wikidata.org
-!--@@||m.wikidata.org
-!------2------
-||wikimedia.org
-!--@@||lists.wikimedia.org
-!--@@||m.wikimedia.org
-!--@@||phabricator.wikimedia.org
-!--@@||upload.wikimedia.org
-!--@@||wikitech.wikimedia.org
-!------3------
-!--||wikibooks.org
-!--@@||m.wikibooks.org
-!------4------
-!--||wikiversity.org
-!--@@||m.wikiversity.org
-!------5------
-!--||wikisource.org
-!--@@||m.wikisource.org
-|http://zh.wikisource.org
-!------6------
-||zh.wikiquote.org
-!--@@||m.wikiquote.org
-!------7------
-!--||wikinews.org
-!--@@||m.wikinews.org
-||zh.wikinews.org
-!------8------
-!--||wikivoyage.org
-!--@@||m.wikivoyage.org
-!--|http://zh.wikivoyage.org
-!------9------
-!--||wiktionary.org
-!--@@||m.wiktionary.org
-!--|http://zh.wiktionary.org
-!-----10------
-!--||wikimediafoundation.org
-!--@@||m.wikimediafoundation.org
-!----Main-----
-!!--||en.wikipedia.org
-!--||wikipedia.org
-||ja.wikipedia.org
-!!--zh.wikipedia.org
-!--||zh.wikipedia.org
-!!--||ug.m.wikipedia.org
-!!--zh.m.wikipedia.org
-!!--|https://zh.m.wikipedia.org
-!--@@||m.wikipedia.org
-!!--|https://zh.wikipedia.org
-!--Other Languages of Wikipedia
-!!--wuu.wikipedia.org
-!!--|https://wuu.wikipedia.org
-!!--zh-yue.wikipedia.org
-!!--|https://zh-yue.wikipedia.org
-!!! Starting with !! are previous rules replaced by:
-||wikipedia.org
-
-!!---Yahoo---
-||data.flurry.com
-||page.bid.yahoo.com
-||tw.bid.yahoo.com
-||auctions.yahoo.co.jp
-||blogs.yahoo.co.jp
-||search.yahoo.co.jp
-||buy.yahoo.com.tw
-||hk.yahoo.com
-||hk.knowledge.yahoo.com
-||tw.money.yahoo.com
-||hk.myblog.yahoo.com
-news.yahoo.com/china-blocks-bbc
-||hk.news.yahoo.com
-hk.rd.yahoo.com
-hk.search.yahoo.com/search
-hk.video.news.yahoo.com/video
-meme.yahoo.com
-!--tw.yahoo.com
-tw.answers.yahoo.com
-|https://tw.answers.yahoo.com
-||tw.knowledge.yahoo.com
-||tw.mall.yahoo.com
-tw.yahoo.com
-||tw.mobi.yahoo.com
-tw.myblog.yahoo.com
-||tw.news.yahoo.com
-pulse.yahoo.com
-||search.yahoo.com
-upcoming.yahoo.com
-video.yahoo.com
-||yahoo.com.hk
-||duckduckgo-owned-server.yahoo.net
-
-!------------------Numerics---------------------
-||000webhost.com
-.030buy.com
-.0rz.tw
-|http://0rz.tw
-1-apple.com.tw
-||1-apple.com.tw
-.10.tt
-.100ke.org
-.1000giri.net
-||1000giri.net
-||10beasts.net
-.10conditionsoflove.com
-||10musume.com
-123rf.com
-.12bet.com
-||12bet.com
-.12vpn.com
-.12vpn.net
-||12vpn.com
-||12vpn.net
-||1337x.to
-.138.com
-141hongkong.com/forum
-||141jj.com
-.141tube.com
-||1688.com.au
-.173ng.com
-||173ng.com
-.177pic.info
-.17t17p.com
-||18board.com
-||18board.info
-18onlygirls.com
-.18p2p.com
-.18virginsex.com
-.1949er.org
-zhao.1984.city
-||zhao.1984.city
-1984bbs.com
-||1984bbs.com
-!--||1984blog.com
-.1984bbs.org
-||1984bbs.org
-.1991way.com
-||1991way.com
-.1998cdp.org
-.1bao.org
-|http://1bao.org
-.1eew.com
-.1mobile.com
-|http://*.1mobile.tw
-||1pondo.tv
-.2-hand.info
-.2000fun.com/bbs
-.2008xianzhang.info
-||2008xianzhang.info
-||2017.hk
-||2021hkcharter.com
-||2047.name
-21andy.com/blog
-.21join.com
-.21pron.com
-21sextury.com
-.228.net.tw
-||233abc.com
-||24hrs.ca
-24smile.org
-2lipstube.com
-.2shared.com
-30boxes.com
-.315lz.com
-||32red.com
-||36rain.com
-.3a5a.com
-3arabtv.com
-.3boys2girls.com
-.3proxy.ru
-.3ren.ca
-.3tui.net
-||404museum.com
-||4bluestones.biz
-.4chan.com
-!--||4chan.org
-.4everproxy.com
-||4everproxy.com
-||4rbtv.com
-||4shared.com
-taiwannation.50webs.com
-||51.ca
-||51jav.org
-.51luoben.com
-||51luoben.com
-||5278.cc
-.5299.tv
-5aimiku.com
-5i01.com
-.5isotoi5.org
-.5maodang.com
-||63i.com
-.64museum.org
-64tianwang.com
-64wiki.com
-.66.ca
-666kb.com
-||6do.news
-.6park.com
-||6park.com
-||6parkbbs.com
-||6parker.com
-||6parknews.com
-||7capture.com
-.7cow.com
-!--||7-zip.org
-.8-d.com
-|http://8-d.com
-85cc.net
-.85cc.us
-|http://85cc.us
-|http://85st.com
-.881903.com/page/zh-tw/
-||881903.com
-.888.com
-.888poker.com
-89.64.charter.constitutionalism.solutions
-89-64.org
-||89-64.org
-||8964museum.com
-.8news.com.tw
-.8z1.net
-||8z1.net
-.9001700.com
-|http://908taiwan.org/
-||91porn.com
-||91vps.club
-.92ccav.com
-.991.com
-|http://991.com
-.99btgc01.com
-||99btgc01.com
-.99cn.info
-|http://99cn.info
-||9bis.com
-||9bis.net
-||9news.com.au
-
-!--------------------AA-------------------------
-.tibet.a.se
-|http://tibet.a.se
-||a-normal-day.com
-a5.com.ru
-|http://aamacau.com
-!--|http://cdn*.abc.com/
-.abc.com
-.abc.net.au
-||abc.net.au
-.abchinese.com
-abclite.net
-|https://www.abclite.net
-.ablwang.com
-.aboluowang.com
-||aboluowang.com
-||about.me
-.aboutgfw.com
-.abs.edu
-||acast.com
-.accim.org
-.aceros-de-hispania.com
-.acevpn.com
-||acevpn.com
-.acg18.me
-|http://acg18.me
-||acgbox.org
-||acgkj.com
-||acgnx.se
-.acmedia365.com
-.acnw.com.au
-actfortibet.org
-actimes.com.au
-activpn.com
-||activpn.com
-||aculo.us
-||addictedtocoffee.de
-||addyoutube.com
-.adelaidebbs.com/bbs
-.adpl.org.hk
-|http://adpl.org.hk
-.adult-sex-games.com
-||adult-sex-games.com
-adultfriendfinder.com
-adultkeep.net/peepshow/members/main.htm
-||advanscene.com
-||advertfan.com
-.ae.org
-||aei.org
-||aenhancers.com
-||af.mil
-.afantibbs.com
-|http://afantibbs.com
-||afr.com
-.ai-kan.net
-||ai-kan.net
-ai-wen.net
-.aiph.net
-||aiph.net
-.airasia.com
-||airconsole.com
-|http://download.aircrack-ng.org
-.airvpn.org
-||airvpn.org
-.aisex.com
-||ait.org.tw
-aiweiwei.com
-.aiweiweiblog.com
-||aiweiweiblog.com
-||www.ajsands.com
-
-!!---Akamai---
-a248.e.akamai.net
-||a248.e.akamai.net
-
-rfalive1.akacast.akamaistream.net
-voa-11.akacast.akamaistream.net
-
-!!--403
-||abematv.akamaized.net
-||linear-abematv.akamaized.net
-||vod-abematv.akamaized.net
-
-|https://fbcdn*.akamaihd.net/
-!--||fbexternal-a.akamaihd.net
-!--||fbstatic-a.akamaihd.net
-!--|https://igcdn*.akamaihd.net
-rthklive2-lh.akamaihd.net
-
-.akademiye.org/ug
-|http://akademiye.org/ug
-||akiba-online.com
-||akow.org
-.al-islam.com
-||al-qimmah.net
-||alabout.com
-.alanhou.com
-|http://alanhou.com
-.alarab.qa
-||alasbarricadas.org
-alexlur.org
-||alforattv.net
-.alhayat.com
-.alicejapan.co.jp
-aliengu.com
-||alive.bar
-||alkasir.com
-||all4mom.org
-||allconnected.co
-.alldrawnsex.com
-||alldrawnsex.com
-.allervpn.com
-||allfinegirls.com
-.allgirlmassage.com
-allgirlsallowed.org
-.allgravure.com
-alliance.org.hk
-.allinfa.com
-||allinfa.com
-.alljackpotscasino.com
-||allmovie.com
-||almasdarnews.com
-.alphaporno.com
-||alternate-tools.com
-alternativeto.net/software
-alvinalexander.com
-alwaysdata.com
-||alwaysdata.com
-||alwaysdata.net
-.alwaysvpn.com
-||alwaysvpn.com
-||am730.com.hk
-ameblo.jp
-||ameblo.jp
-www1.american.edu/ted/ice/tibet
-||americangreencard.com
-||amiblockedornot.com
-.amigobbs.net
-.amitabhafoundation.us
-|http://amitabhafoundation.us
-.amnesty.org
-||amnesty.org
-||amnesty.org.hk
-.amnesty.tw
-.amnestyusa.org
-||amnestyusa.org
-.amnyemachen.org
-.amoiist.com
-.amtb-taipei.org
-androidplus.co/apk
-.andygod.com
-|http://andygod.com
-annatam.com/chinese
-||anchor.fm
-||anchorfree.com
-!--GHS
-||ancsconf.org
-||andfaraway.net
-||android-x86.org
-angelfire.com/hi/hayashi
-||angularjs.org
-animecrazy.net
-aniscartujo.com
-||aniscartujo.com
-||anobii.com
-||anonfiles.com
-.anonymitynetwork.com
-.anonymizer.com
-.anonymouse.org
-||anonymouse.org
-anontext.com
-.anpopo.com
-.answering-islam.org
-|http://www.antd.org
-||anthonycalzadilla.com
-.anti1984.com
-antichristendom.com
-.antiwave.net
-|http://antiwave.net
-.anyporn.com
-.anysex.com
-|http://anysex.com
-.ao3.org
-||ao3.org
-||aobo.com.au
-.aofriend.com
-|http://aofriend.com
-.aofriend.com.au
-.aojiao.org
-||aomiwang.com
-video.ap.org
-||apat1989.org
-.apetube.com
-||apiary.io
-.apigee.com
-||apigee.com
-||apk.support
-||apk-dl.com
-||apkcombo.com
-.apkmonk.com/app
-||apkmonk.com
-||apkplz.com
-||apkpure.com
-||apkpure.net
-.aplusvpn.com
-!--||appannie.com
-||appbrain.com
-.appdownloader.net/Android
-.appledaily.com
-||appledaily.com
-appledaily.com.hk
-||appledaily.com.hk
-appledaily.com.tw
-||appledaily.com.tw
-.appshopper.com
-|http://appshopper.com
-||appsocks.net
-||appsto.re
-.aptoide.com
-||aptoide.com
-||archives.gov
-.archive.fo
-||archive.fo
-.archive.is
-||archive.is
-.archive.li
-||archive.li
-||archive.md
-||archive.org
-||archive.ph
-archive.today
-|https://archive.today
-||archiveofourown.com
-||archiveofourown.org
-.arctosia.com
-|http://arctosia.com
-||areca-backup.org
-.arethusa.su
-||arethusa.su
-||arlingtoncemetery.mil
-||army.mil
-.art4tibet1998.org
-artofpeacefoundation.org
-artsy.net
-||asacp.org
-asdfg.jp/dabr
-asg.to
-.asia-gaming.com
-.asiaharvest.org
-||asiaharvest.org
-||asianage.com
-||asianews.it
-|http://japanfirst.asianfreeforum.com/
-||asiansexdiary.com
-||asianwomensfilm.de
-||asiaone.com
-.asiatgp.com
-.asiatoday.us
-||askstudent.com
-.askynz.net
-||askynz.net
-||aspi.org.au
-||aspistrategist.org.au
-||assembla.com
-||astrill.com
-||atc.org.au
-.atchinese.com
-|http://atchinese.com
-atgfw.org
-.atlaspost.com
-||atlaspost.com
-||atdmt.com
-.atlanta168.com
-||atlanta168.com
-.atnext.com
-||atnext.com
-ice.audionow.com
-.av.com
-||av.movie
-.av-e-body.com
-avaaz.org
-||avaaz.org
-!--||avast.com
-.avbody.tv
-.avcity.tv
-.avcool.com
-.avdb.in
-||avdb.in
-.avdb.tv
-||avdb.tv
-.avfantasy.com
-||avg.com
-.avgle.com
-||avgle.com
-||avidemux.org
-||avoision.com
-.avyahoo.com
-||axios.com
-||axureformac.com
-.azerbaycan.tv
-azerimix.com
-||azirevpn.com
-!--boxun.azurewebsites.net doesn't exist.
-boxun*.azurewebsites.net
-||boxun*.azurewebsites.net
-
-!--------------------BB-------------------------
-||b-ok.cc
-forum.baby-kingdom.com
-||babylonbee.com
-babynet.com.hk
-backchina.com
-||backchina.com
-.backpackers.com.tw/forum
-backtotiananmen.com
-||bad.news
-.badiucao.com
-||badiucao.com
-.badjojo.com
-badoo.com
-|http://*2.bahamut.com.tw
-||baidu.jp
-.baijie.org
-||baijie.org
-||bailandaily.com
-||baixing.me
-||baizhi.org
-||bakgeekhome.tk
-.banana-vpn.com
-||banana-vpn.com
-.band.us
-||bandcamp.com
-.bandwagonhost.com
-||bandwagonhost.com
-.bangbrosnetwork.com
-.bangchen.net
-|http://bangchen.net
-||bangkokpost.com
-||bangyoulater.com
-bannedbook.org
-||bannedbook.org
-.bannednews.org
-.baramangaonline.com
-|http://baramangaonline.com
-.barenakedislam.com
-||barnabu.co.uk
-||barton.de
-.bastillepost.com
-||bastillepost.com
-bayvoice.net
-||bayvoice.net
-dajusha.baywords.com
-||bbchat.tv
-||bb-chat.tv
-.bbg.gov
-.bbkz.com/forum
-.bbnradio.org
-bbs-tw.com
-.bbsdigest.com/thread
-||bbsfeed.com
-bbsland.com
-.bbsmo.com
-.bbsone.com
-bbtoystore.com
-.bcast.co.nz
-.bcc.com.tw/board
-.bcchinese.net
-.bcmorning.com
-bdsmvideos.net
-.beaconevents.com
-.bebo.com
-||bebo.com
-.beevpn.com
-||beevpn.com
-.behindkink.com
-||beijing1989.com
-||beijing2022.art
-beijingspring.com
-||beijingspring.com
-.beijingzx.org
-|http://beijingzx.org
-.belamionline.com
-.bell.wiki
-|http://bell.wiki
-bemywife.cc
-beric.me
-||berlinerbericht.de
-.berlintwitterwall.com
-||berlintwitterwall.com
-.berm.co.nz
-.bestforchina.org
-||bestforchina.org
-.bestgore.com
-.bestpornstardb.com
-||bestvpn.com
-.bestvpnanalysis.com
-.bestvpnserver.com
-.bestvpnservice.com
-.bestvpnusa.com
-||bet365.com
-.betfair.com
-||betternet.co
-.bettervpn.com
-||bettervpn.com
-.bettween.com
-||bettween.com
-||betvictor.com
-.bewww.net
-.beyondfirewall.com
-||bfnn.org
-||bfsh.hk
-.bgvpn.com
-||bgvpn.com
-.bianlei.com
-@@||bianlei.com
-biantailajiao.com
-biantailajiao.in
-.biblesforamerica.org
-|http://biblesforamerica.org
-.bic2011.org
-||biedian.me
-bigfools.com
-||bigjapanesesex.com
-.bignews.org
-||bignews.org
-.bigsound.org
-||bild.de
-.biliworld.com
-|http://biliworld.com
-|http://billypan.com/wiki
-.binux.me
-ai.binwang.me/couplet
-.bit.do
-|http://bit.do
-.bit.ly
-|http://bit.ly
-!--||bitbucket.org
-||bitchute.com
-||bitcointalk.org
-.bitshare.com
-||bitshare.com
-bitsnoop.com
-.bitvise.com
-||bitvise.com
-bizhat.com
-||bl-doujinsouko.com
-.bjnewlife.org
-.bjs.org
-bjzc.org
-||bjzc.org
-.blacklogic.com
-.blackvpn.com
-||blackvpn.com
-blewpass.com
-tor.blingblingsquad.net
-.blinkx.com
-||blinkx.com
-blinw.com
-.blip.tv
-||blip.tv/
-||blockcast.it
-.blockcn.com
-||blockcn.com
-||blockedbyhk.com
-||blockless.com
-||blog.de
-.blog.jp
-|http://blog.jp
-@@||jpush.cn
-.blogcatalog.com
-||blogcatalog.com
-||blogcity.me
-.blogger.com
-||blogger.com
-blogimg.jp
-||blog.kangye.org
-.bloglines.com
-||bloglines.com
-||bloglovin.com
-rconversation.blogs.com
-blogtd.net
-.blogtd.org
-|http://blogtd.org
-||bloodshed.net
-!--403
-||assets.bwbx.io
-
-||bloomfortune.com
-blueangellive.com
-||blubrry.com
-.bmfinn.com
-.bnews.co
-||bnews.co
-||bnext.com.tw
-||bnrmetal.com
-boardreader.com/thread
-||boardreader.com
-.bod.asia
-||bod.asia
-.bodog88.com
-.bolehvpn.net
-||bolehvpn.net
-bonbonme.com
-.bonbonsex.com
-.bonfoundation.org
-.bongacams.com
-||boobstagram.com
-||book.com.tw
-||bookdepository.com
-bookepub.com
-||books.com.tw
-||borgenmagazine.com
-||botanwang.com
-.bot.nu
-.bowenpress.com
-||bowenpress.com
-||app.box.com
-dl.box.net
-||dl.box.net
-.boxpn.com
-||boxpn.com
-boxun.com
-||boxun.com
-.boxun.tv
-||boxun.tv
-boxunblog.com
-||boxunblog.com
-.boxunclub.com
-boyangu.com
-.boyfriendtv.com
-.boysfood.com
-||br.st
-.brainyquote.com/quotes/authors/d/dalai_lama
-||brandonhutchinson.com
-||braumeister.org
-||brave.com
-.bravotube.net
-||bravotube.net
-.brazzers.com
-||brazzers.com
-||breached.to
-.break.com
-||break.com
-breakgfw.com
-||breakgfw.com
-breaking911.com
-.breakingtweets.com
-||breakingtweets.com
-||breakwall.net
-briian.com/6511/freegate
-.briefdream.com/%E7%B4%A0%E6%A3%BA
-||brill.com
-brizzly.com
-||brizzly.com
-||brkmd.com
-broadbook.com
-.broadpressinc.com
-||broadpressinc.com
-bbs.brockbbs.com
-||brookings.edu
-brucewang.net
-.brutaltgp.com
-||brutaltgp.com
-.bt2mag.com
-||bt95.com
-.btaia.com
-.btbtav.com
-||btdig.com
-||btdigg.org
-.btku.me
-||btku.me
-||btku.org
-.btspread.com
-.btsynckeys.com
-.budaedu.org
-||budaedu.org
-.buddhanet.com.tw/zfrop/tibet
-||buffered.com
-||bullguard.com
-.bullog.org
-||bullog.org
-.bullogger.com
-||bullogger.com
-||bumingbai.net
-||bunbunhk.com
-.busayari.com
-|http://busayari.com
-||business-humanrights.org
-.businessinsider.com/bing-could-be-censoring-search-results-2014
-.businessinsider.com/china-banks-preparing-for-debt-implosion-2014
-.businessinsider.com/hong-kong-activists-defy-police-tear-gas-as-protests-continue-overnight-2014
-.businessinsider.com/internet-outages-reported-in-north-korea-2014
-.businessinsider.com/iphone-6-is-approved-for-sale-in-china-2014
-.businessinsider.com/nfl-announcers-surface-tablets-2014
-.businessinsider.com/panama-papers
-.businessinsider.com/umbrella-man-hong-kong-2014
-|http://www.businessinsider.com.au/*
-.businesstoday.com.tw
-||businesstoday.com.tw
-.busu.org/news
-|http://busu.org/news
-busytrade.com
-.buugaa.com
-.buzzhand.com
-.buzzhand.net
-.buzzorange.com
-||buzzorange.com
-||buzzsprout.com
-||bvpn.com
-||bwh1.net
-bwsj.hk
-||bx.tl
-||bypasscensorship.org
-
-!--------------------CC-------------------------
-||c-span.org
-.c-spanvideo.org
-||c-spanvideo.org
-||c-est-simple.com
-.c100tibet.org
-||cableav.tv
-||cablegatesearch.net
-.cachinese.com
-.cacnw.com
-|http://cacnw.com
-.cactusvpn.com
-||cactusvpn.com
-.cafepress.com
-.cahr.org.tw
-.caijinglengyan.com
-||caijinglengyan.com
-.calameo.com/books
-||calendarz.com
-.calgarychinese.ca
-.calgarychinese.com
-.calgarychinese.net
-|http://blog.calibre-ebook.com
-falun.caltech.edu
-.its.caltech.edu/~falun/
-.cam4.com
-.cam4.jp
-.cam4.sg
-.camfrog.com
-||camfrog.com
-||campaignforuyghurs.org
-||cams.com
-.cams.org.sg
-canadameet.com
-.canalporno.com
-|http://bbs.cantonese.asia/
-!--http://www.cantonese.asia/action-bbs.html
-.canyu.org
-||canyu.org
-.cao.im
-.caobian.info
-||caobian.info
-caochangqing.com
-||caochangqing.com
-.cap.org.hk
-||cap.org.hk
-.carabinasypistolas.com
-cardinalkungfoundation.org
-||posts.careerengine.us
-carmotorshow.com
-||carrd.co
-ss.carryzhou.com
-.cartoonmovement.com
-||cartoonmovement.com
-.casadeltibetbcn.org
-.casatibet.org.mx
-|http://casatibet.org.mx
-.cari.com.my
-||cari.com.my
-||caribbeancom.com
-.casinoking.com
-.casinoriva.com
-||catch22.net
-.catchgod.com
-|http://catchgod.com
-||catfightpayperview.xxx
-.catholic.org.hk
-||catholic.org.hk
-catholic.org.tw
-||catholic.org.tw
-.cathvoice.org.tw
-||cato.org
-||cattt.com
-.cbc.ca
-||cbc.ca
-.cbsnews.com/video
-.cbtc.org.hk
-||southpark.cc.com
-!-.ccc.de
-!-||ccc.de
-||cccat.cc
-||cccat.co
-.ccdtr.org
-||ccdtr.org
-.cchere.com
-||cchere.com
-.ccim.org
-.cclife.ca
-cclife.org
-||cclife.org
-cclifefl.org
-||cclifefl.org
-.ccthere.com
-||ccthere.com
-||ccthere.net
-.cctmweb.net
-.cctongbao.com/article/2078732
-ccue.ca
-ccue.com
-.ccvoice.ca
-.ccw.org.tw
-.cgdepot.org
-|http://cgdepot.org
-||cdbook.org
-.cdcparty.com
-.cdef.org
-||cdef.org
-||cdig.info
-cdjp.org
-||cdjp.org
-!--.cdn-apple.com
-!--||cdn-apple.com
-.cdnews.com.tw
-cdp1989.org
-cdp1998.org
-||cdp1998.org
-cdp2006.org
-||cdp2006.org
-.cdpa.url.tw
-cdpeu.org
-cdpusa.org
-cdpweb.org
-||cdpweb.org
-cdpwu.org
-||cdpwu.org
-||cdw.com
-.cecc.gov
-||cecc.gov
-||cellulo.info
-||cenews.eu
-||centerforhumanreprod.com
-||centralnation.com
-.centurys.net
-|http://centurys.net
-.cfhks.org.hk
-.cfos.de
-||cfr.org
-.cftfc.com
-.cgst.edu
-.change.org
-||change.org
-.changp.com
-||changp.com
-.changsa.net
-|http://changsa.net
-||channelnewsasia.com
-.chapm25.com
-||chatgpt.com
-.chaturbate.com
-||chaturbate.com
-.chuang-yen.org
-||checkgfw.com
-chengmingmag.com
-.chenguangcheng.com
-||chenguangcheng.com
-.chenpokong.com
-||chenpokong.com
-.chenpokong.net
-|http://chenpokong.net
-||chenpokongvip.com
-||cherrysave.com
-.chhongbi.org
-chicagoncmtv.com
-|http://chicagoncmtv.com
-.china-week.com
-china101.com
-||china101.com
-||china18.org
-||china21.com
-china21.org
-||china21.org
-.china5000.us
-chinaaffairs.org
-||chinaaffairs.org
-||chinaaid.me
-chinaaid.us
-chinaaid.org
-chinaaid.net
-||chinaaid.net
-chinacomments.org
-||chinacomments.org
-.chinachange.org
-||chinachange.org
-chinachannel.hk
-||chinachannel.hk
-.chinacitynews.be
-.chinadialogue.net
-.chinadigitaltimes.net
-||chinadigitaltimes.net
-.chinaelections.org
-||chinaelections.org
-.chinaeweekly.com
-||chinaeweekly.com
-||chinafile.com
-||chinafreepress.org
-.chinagate.com
-chinageeks.org
-chinagfw.org
-||chinagfw.org
-.chinagonet.com
-.chinagreenparty.org
-||chinagreenparty.org
-.chinahorizon.org
-||chinahorizon.org
-.chinahush.com
-.chinainperspective.com
-||chinainterimgov.org
-chinalaborwatch.org
-chinalawtranslate.com
-.chinapost.com.tw/taiwan/national/national-news
-chinaxchina.com/howto
-chinalawandpolicy.com
-.chinamule.com
-||chinamule.com
-chinamz.org
-.chinanewscenter.com
-|https://chinanewscenter.com
-.chinapress.com.my
-||chinapress.com.my
-.china-review.com.ua
-|http://china-review.com.ua
-.chinarightsia.org
-chinasmile.net/forums
-chinasocialdemocraticparty.com
-||chinasocialdemocraticparty.com
-chinasoul.org
-||chinasoul.org
-.chinasucks.net
-||chinatopsex.com
-.chinatown.com.au
-chinatweeps.com
-chinaway.org
-.chinaworker.info
-||chinaworker.info
-chinayouth.org.hk
-chinayuanmin.org
-||chinayuanmin.org
-.chinese-hermit.net
-chinese-leaders.org
-chinese-memorial.org
-.chinesedaily.com
-||chinesedailynews.com
-.chinesedemocracy.com
-||chinesedemocracy.com
-||chinesegay.org
-.chinesen.de
-||chinesen.de
-.chinesenews.net.au/
-.chinesepen.org
-||chineseradioseattle.com
-.chinesetalks.net/ch
-||chineseupress.com
-.chingcheong.com
-||chingcheong.com
-.chinman.net
-|http://chinman.net
-chithu.org
-||cnnews.chosun.com
-.chrdnet.com
-|http://chrdnet.com
-.christianfreedom.org
-||christianfreedom.org
-christianstudy.com
-||christianstudy.com
-christusrex.org/www1/sdc
-.chubold.com
-chubun.com
-||christiantimes.org.hk
-.chrlawyers.hk
-||chrlawyers.hk
-.churchinhongkong.org/b5/index.php
-|http://churchinhongkong.org/b5/index.php
-.chushigangdrug.ch
-.cienen.com
-.cineastentreff.de
-.cipfg.org
-||circlethebayfortibet.org
-||cirosantilli.com
-.citizencn.com
-||citizencn.com
-||citizenlab.ca
-||citizenlab.org
-||citizenscommission.hk
-.citizenlab.org
-citizensradio.org
-.city365.ca
-|http://city365.ca
-city9x.com
-||citypopulation.de
-.citytalk.tw/event
-.civicparty.hk
-||civicparty.hk
-.civildisobediencemovement.org
-civilhrfront.org
-||civilhrfront.org
-.civiliangunner.com
-.civilmedia.tw
-||civilmedia.tw
-psiphon.civisec.org
-||civitai.com
-.ck101.com
-||ck101.com
-.clarionproject.org/news/islamic-state-isis-isil-propaganda
-||classicalguitarblog.net
-.clb.org.hk
-clearharmony.net
-clearwisdom.net
-||clinica-tibet.ru
-.clipfish.de
-cloakpoint.com
-||app.cloudcone.com
-||cloudflare-ipfs.com
-||club1069.com
-||clubhouseapi.com
-||cmegroup.com
-||cmi.org.tw
-|http://www.cmoinc.org
-cmp.hku.hk
-hkupop.hku.hk
-||cmule.com
-||cmule.org
-||cms.gov
-|http://vpn.cmu.edu
-|http://vpn.sv.cmu.edu
-.cn6.eu
-.cna.com.tw
-||cna.com.tw
-.cnabc.com
-.cnd.org
-||cnd.org
-download.cnet.com
-.cnex.org.cn
-.cnineu.com
-wiki.cnitter.com
-.cnn.com/video
-.cnpolitics.org
-||cnpolitics.org
-.cn-proxy.com
-|http://cn-proxy.com
-.cnproxy.com
-blog.cnyes.com
-news.cnyes.com
-||coat.co.jp
-.cochina.co
-||cochina.co
-||cochina.org
-.code1984.com/64
-|http://goagent.codeplex.com
-||codeshare.io
-||codeskulptor.org
-||conoha.jp
-|http://tosh.comedycentral.com
-comefromchina.com
-||comefromchina.com
-.comic-mega.me
-commandarms.com
-||commentshk.com
-.communistcrimes.org
-||communistcrimes.org
-||communitychoicecu.com
-||comparitech.com
-||compileheart.com
-||conoha.jp
-.contactmagazine.net
-.convio.net
-.coobay.com
-||cool18.com
-.coolaler.com
-||coolaler.com
-coolder.com
-||coolder.com
-||coolloud.org.tw
-.coolncute.com
-||coolstuffinc.com
-corumcollege.com
-.cos-moe.com
-|http://cos-moe.com
-.cosplayjav.pl
-|http://cosplayjav.pl
-.cotweet.com
-||cotweet.com
-.coursehero.com
-||coursehero.com
-cpj.org
-||cpj.org
-.cq99.us
-|http://cq99.us
-crackle.com
-||crackle.com
-.crazys.cc
-.crazyshit.com
-||crazyshit.com
-||crchina.org
-crd-net.org
-creaders.net
-||creaders.net
-.creadersnet.com
-||cristyli.com
-||croxyproxy.com
-.crocotube.com
-|http://crocotube.com
-.crossthewall.net
-||crossthewall.net
-.crossvpn.net
-||crossvpn.net
-||crucial.com
-||blog.cryptographyengineering.com
-csdparty.com
-||csdparty.com
-||csis.org
-||csmonitor.com
-||csuchen.de
-.csw.org.uk
-.ct.org.tw
-||ct.org.tw
-.ctao.org
-.ctfriend.net
-.ctitv.com.tw
-||ctowc.org
-.cts.com.tw
-||cts.com.tw
-||ctwant.com
-|http://library.usc.cuhk.edu.hk/
-|http://mjlsh.usc.cuhk.edu.hk/
-.cuhkacs.org/~benng
-.cuihua.org
-||cuihua.org
-.cuiweiping.net
-||cuiweiping.net
-||culture.tw
-.cumlouder.com
-||cumlouder.com
-||curvefish.com
-||cusp.hk
-.cusu.hk
-||cusu.hk
-.cutscenes.net
-||cutscenes.net
-.cw.com.tw
-||cw.com.tw
-|http://forum.cyberctm.com
-cyberghostvpn.com
-||cyberghostvpn.com
-||cynscribe.com
-cytode.us
-||ifan.cz.cc
-||mike.cz.cc
-||nic.cz.cc
-
-!--------------------DD-------------------------
-.d-fukyu.com
-|http://d-fukyu.com
-cl.d0z.net
-.d100.net
-||d100.net
-.d2bay.com
-|http://d2bay.com
-.dabr.co.uk
-||dabr.co.uk
-dabr.eu
-dabr.mobi
-||dabr.mobi
-||dabr.me
-dadazim.com
-||dadazim.com
-.dadi360.com
-.dafabet.com
-dafagood.com
-dafahao.com
-.dafoh.org
-.daftporn.com
-.dagelijksestandaard.nl
-.daidostup.ru
-|http://daidostup.ru
-.dailidaili.com
-||dailidaili.com
-||dailymail.co.uk
-.dailymotion.com
-||dailymotion.com
-||dailysabah.com
-daiphapinfo.net
-.dajiyuan.com
-||dajiyuan.de
-dajiyuan.eu
-dalailama.com
-.dalailama.mn
-|http://dalailama.mn
-.dalailama.ru
-||dalailama.ru
-dalailama80.org
-.dalailama-archives.org
-.dalailamacenter.org
-|http://dalailamacenter.org
-dalailamafellows.org
-.dalailamafilm.com
-.dalailamafoundation.org
-.dalailamahindi.com
-.dalailamainaustralia.org
-.dalailamajapanese.com
-.dalailamaprotesters.info
-.dalailamaquotes.org
-.dalailamatrust.org
-.dalailamavisit.org.nz
-.dalailamaworld.com
-||dalailamaworld.com
-dalianmeng.org
-||dalianmeng.org
-.daliulian.org
-||daliulian.org
-.danke4china.net
-||danke4china.net
-daolan.net
-darktoy.net
-||darrenliuwei.com
-||dastrassi.org
-||daum.net
-.david-kilgour.com
-|http://david-kilgour.com
-daxa.cn
-||daxa.cn
-cn.dayabook.com
-.daylife.com/topic/dalai_lama
-||db.tt
-.dbc.hk/main
-||dbgjd.com
-||dcard.tw
-dcmilitary.com
-.ddc.com.tw
-.ddhw.info
-||de-sci.org
-.de-sci.org
-||deadline.com
-||decodet.co
-
-!--Origin:cdn-i30$_
-!--Exception: Homepage access without rst
-!--Keyword is $_
-.definebabe.com
-
-||delcamp.net
-delicious.com/GFWbookmark
-.democrats.org
-||democrats.org
-.demosisto.hk
-||demosisto.hk
-||desc.se
-||dessci.com
-.destroy-china.jp
-||deutsche-welle.de
-||deviantart.com
-||deviantart.net
-||devio.us
-||devpn.com
-||devv.ai
-||dfas.mil
-dfn.org
-dharmakara.net
-.dharamsalanet.com
-.diaoyuislands.org
-||diaoyuislands.org
-.difangwenge.org
-|http://digiland.tw/
-||digitalnomadsproject.org
-.diigo.com
-||diigo.com
-||dilber.se
-||furl.net
-.dipity.com
-||directcreative.com
-!--||discogs.com
-!--@@||cdn.discogs.com
-.discuss.com.hk
-||discuss.com.hk
-.discuss4u.com
-disp.cc
-.disqus.com
-||disqus.com
-.dit-inc.us
-||dit-inc.us
-.dizhidizhi.com
-||dizhuzhishang.com
-djangosnippets.org
-.djorz.com
-||djorz.com
-||dl-laby.jp
-||dlive.tv
-||dlsite.com
-||dlyoutube.com
-||dmc.nico
-||dmcdn.net
-.dnscrypt.org
-||dnscrypt.org
-||dns2go.com
-||dnssec.net
-doctorvoice.org
-
-!--DogFartNetwork
-.dogfartnetwork.com/tour
-gloryhole.com
-
-.dojin.com
-.dok-forum.net
-||dolc.de
-||dolf.org.hk
-||dollf.com
-.domain.club.tw
-.domaintoday.com.au
-chinese.donga.com
-dongtaiwang.com
-||dongtaiwang.com
-.dongtaiwang.net
-||dongtaiwang.net
-.dongyangjing.com
-|http://danbooru.donmai.us
-.dontfilter.us
-||dontmovetochina.com
-.dorjeshugden.com
-.dotplane.com
-||dotplane.com
-||dotsub.com
-.dotvpn.com
-||dotvpn.com
-.doub.io
-||doub.io
-||doublethinklab.org
-||dougscripts.com
-||douhokanko.net
-||doujincafe.com
-dowei.org
-|https://bartender.dowjones.com
-dphk.org
-dpp.org.tw
-||dpp.org.tw
-||dpr.info
-||dragonsprings.org
-!--||draw.io
-.dreamamateurs.com
-.drepung.org
-||drgan.net
-.drmingxia.org
-|http://drmingxia.org
-||dropbooks.tv
-||dropbox.com
-||api.dropboxapi.com
-||notify.dropboxapi.com
-||dropboxusercontent.com
-drsunacademy.com
-.drtuber.com
-.dscn.info
-|http://dscn.info
-.dstk.dk
-|http://dstk.dk
-||dtiblog.com
-||dtic.mil
-.dtwang.org
-.duanzhihu.com
-.duckdns.org
-|http://duckdns.org
-.duckduckgo.com
-||duckduckgo.com
-.duckload.com/download
-||duckmylife.com
-.duga.jp
-|http://duga.jp
-.duihua.org
-||duihua.org
-||duihuahrjournal.org
-.dunyabulteni.net
-.duoweitimes.com
-||duoweitimes.com
-duping.net
-||duplicati.com
-dupola.com
-dupola.net
-.dushi.ca
-||duyaoss.com
-||dvorak.org
-.dw.com
-||dw.com
-||dw.de
-.dw-world.com
-||dw-world.com
-.dw-world.de
-|http://dw-world.de
-www.dwheeler.com
-dwnews.com
-||dwnews.com
-dwnews.net
-||dwnews.net
-xys.dxiong.com
-||dynawebinc.com
-||dysfz.cc
-.dzze.com
-
-!--------------------EE-------------------------
-||e-classical.com.tw
-||e-gold.com
-.e-gold.com
-.e-hentai.org
-||e-hentai.org
-.e-hentaidb.com
-|http://e-hentaidb.com
-e-info.org.tw
-.e-traderland.net/board
-.e-zone.com.hk/discuz
-|http://e-zone.com.hk/discuz
-.e123.hk
-||e123.hk
-.earlytibet.com
-|http://earlytibet.com
-.earthcam.com
-.earthvpn.com
-||earthvpn.com
-eastern-ark.com
-.easternlightning.org
-.eastturkestan.com
-|http://www.eastturkistan.net/
-.eastturkistan-gov.org
-.eastturkistancc.org
-.eastturkistangovernmentinexile.us
-||eastturkistangovernmentinexile.us
-.easyca.ca
-.easypic.com
-||fnc.ebc.net.tw
-||news.ebc.net.tw
-.ebony-beauty.com
-ebookbrowse.com
-ebookee.com
-||ecfa.org.tw
-ushuarencity.echainhost.com
-||ecimg.tw
-ecministry.net
-.economist.com
-bbs.ecstart.com
-edgecastcdn.net
-||edgecastcdn.net
-/twimg\.edgesuite\.net\/\/?appledaily/
-edicypages.com
-.edmontonchina.cn
-.edmontonservice.com
-edoors.com
-.edubridge.com
-||edubridge.com
-.edupro.org
-||eevpn.com
-efcc.org.hk
-.efukt.com
-|http://efukt.com
-||eic-av.com
-||eireinikotaerukai.com
-.eisbb.com
-.eksisozluk.com
-||eksisozluk.com
-electionsmeter.com
-||elgoog.im
-.ellawine.org
-.elpais.com
-||elpais.com
-.eltondisney.com
-.emaga.com/info/3407
-emilylau.org.hk
-.emanna.com/chineseTraditional
-bitc.bme.emory.edu/~lzhou/blogs
-.empfil.com
-.emule-ed2k.com
-|http://emule-ed2k.com
-.emulefans.com
-|http://emulefans.com
-.emuparadise.me
-.enanyang.my
-!--.enanyang.my/news/20170502/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%E5%A4%A7%E5%9C%B0%E9%9C%87%E3%80%8A%E8%8B%B9%E6%9E%9C%E3%80%8B%E7%8B%AC%E5%AE%B6
-||encrypt.me
-||enewstree.com
-.enfal.de
-||chinese.engadget.com
-||engagedaily.org
-englishforeveryone.org
-||englishfromengland.co.uk
-englishpen.org
-.enlighten.org.tw
-||entermap.com
-||app.evozi.com
-.episcopalchurch.org
-.epochhk.com
-||epochhk.com
-epochtimes-bg.com
-||epochtimes-bg.com
-epochtimes-romania.com
-||epochtimes-romania.com
-epochtimes.co.il
-||epochtimes.co.il
-epochtimes.co.kr
-||epochtimes.co.kr
-epochtimes.com
-||epochtimes.com
-.epochtimes.cz
-||epochtimes.de
-||epochtimes.fr
-||epochtimes.ie
-||epochtimes.it
-||epochtimes.jp
-||epochtimes.ru
-||epochtimes.se
-||epochtimestr.com
-.epochweek.com
-||epochweek.com
-||epochweekly.com
-.eporner.com
-.equinenow.com
-erabaru.net
-.eracom.com.tw
-.eraysoft.com.tr
-.erepublik.com
-.erights.net
-||erights.net
-.erktv.com
-|http://erktv.com
-||ernestmandel.org
-||erodaizensyu.com
-||erodoujinlog.com
-||erodoujinworld.com
-||eromanga-kingdom.com
-||eromangadouzin.com
-.eromon.net
-|http://eromon.net
-.eroprofile.com
-.eroticsaloon.net
-.eslite.com
-||eslite.com
-!--.eslite.com/product
-!--.eslite.com/Search_BW.aspx?q
-wiki.esu.im/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95
-||esu.dog
-.etaa.org.au
-.etadult.com
-etaiwannews.com
-||etizer.org
-||etokki.com
-||etsy.com
-!--.ettoday.net
-.ettoday.net/news/20151216/614081
-etvonline.hk
-.eu.org
-||eu.org
-.eucasino.com
-.eulam.com
-.eurekavpt.com
-||eurekavpt.com
-.euronews.com
-||euronews.com
-eeas.europa.eu/delegations/china/press_corner/all_news/news/2015/20150716_zh
-eeas.europa.eu/statements-eeas/2015/151022
-||apps.evozi.com
-||evschool.net
-||exblog.jp
-||blog.exblog.co.jp
-@@||www.exblog.jp
-.exchristian.hk
-||exchristian.hk
-|http://blog.excite.co.jp
-||exhentai.org
-||exmormon.org
-||expatshield.com
-.expecthim.com
-||expecthim.com
-experts-univers.com
-||exploader.net
-.expressvpn.com
-||expressvpn.com
-.extremetube.com
-eyevio.jp
-||eyevio.jp
-.eyny.com
-||eyny.com
-.ezpc.tk/category/soft
-.ezpeer.com
-
-!--------------------FF-------------------------
-||facebookquotes4u.com
-.faceless.me
-||faceless.me
-|http://facesoftibetanselfimmolators.info
-||facesofnyfw.com
-||factpedia.org
-.faith100.org
-|http://faith100.org
-
-!--Enhancement:
-!--http://faithfuleye.com.detail.website/
-!--http://faithfuleye.com.ipaddress.com/
-.faithfuleye.com
-
-||faiththedog.info
-.fakku.net
-||fallenark.com
-.falsefire.com
-||falsefire.com
-falun-co.org
-falunart.org
-||falunasia.info
-|http://falunau.org
-.falunaz.net
-falundafa.org
-falundafa-dc.org
-||falundafa-florida.org
-||falundafa-nc.org
-||falundafa-pa.net
-||falundafa-sacramento.org
-falun-ny.net
-||falundafaindia.org
-falundafamuseum.org
-.falungong.club
-.falungong.de
-falungong.org.uk
-||falunhr.org
-faluninfo.de
-faluninfo.net
-.falunpilipinas.net
-||falunworld.net
-familyfed.org
-.fangeming.com
-||fanglizhi.info
-||fangong.org
-fangongheike.com
-||fanhaolou.com
-.fanqiang.tk
-fanqianghou.com
-||fanqianghou.com
-.fanqiangzhe.com
-||fanqiangzhe.com
-||fantv.hk
-fapdu.com
-faproxy.com
-!--.farxian.com
-.fawanghuihui.org
-fanqiangyakexi.net
-fail.hk
-||famunion.com
-.fan-qiang.com
-.fangbinxing.com
-||fangbinxing.com
-fangeming.com
-.fangmincn.org
-||fangmincn.org
-.fanhaodang.com
-||fanqiang.network
-||fanswong.com
-.fanyue.info
-.farwestchina.com
-
-!--Fastly
-en.favotter.net
-!--||rnw.global.ssl.fastly.net
-!--|https://*global.ssl.fastly.net/
-nytimes.map.fastly.net
-||nytimes.map.fastly.net
-||fast.wistia.com
-
-||fastestvpn.com
-||fastssh.com
-||faststone.org
-favstar.fm
-||favstar.fm
-faydao.com/weblog
-||faz.net
-.fc2.com
-.fc2china.com
-.fc2cn.com
-||fc2cn.com
-fc2blog.net
-|http://uygur.fc2web.com/
-video.fdbox.com
-.fdc64.de
-.fdc64.org
-.fdc89.jp
-||fourface.nodesnoop.com
-!--feedbooks.mobi
-||feeder.co
-||feelssh.com
-feer.com
-.feifeiss.com
-|http://feitianacademy.org
-.feitian-california.org
-||feixiaohao.com
-||feministteacher.com
-.fengzhenghu.com
-||fengzhenghu.com
-.fengzhenghu.net
-||fengzhenghu.net
-.fevernet.com
-|http://ff.im
-fffff.at
-fflick.com
-.ffvpn.com
-fgmtv.net
-.fgmtv.org
-.fhreports.net
-|http://fhreports.net
-.figprayer.com
-||figprayer.com
-.fileflyer.com
-||fileflyer.com
-|http://feeds.fileforum.com
-.files2me.com
-.fileserve.com/file
-fillthesquare.org
-filmingfortibet.org
-.filthdump.com
-.finchvpn.com
-||finchvpn.com
-!--findbook.tw
-findmespot.com
-||findyoutube.com
-||findyoutube.net
-.fingerdaily.com
-finler.net
-.firearmsworld.net
-|http://firearmsworld.net
-||relay.firefox.com
-.fireofliberty.org
-||fireofliberty.org
-.firetweet.io
-||firetweet.io
-||firstpost.com
-||firstrade.com
-!--||flagfox.net
-.flagsonline.it
-fleshbot.com
-.fleursdeslettres.com
-|http://fleursdeslettres.com
-||flgg.us
-||flgjustice.org
-
-!--||farm6.staticflickr.com
-!--.flickr.com/photos/46231077@N06
-!--.flickr.com/groups/aiweiwei
-!--.flickr.com/photos/digitalboy100
-!--.flickr.com/photos/fzhenghu
-!--.flickr.com/photos/lonelyfox
-!--flickr.com/photos/vanvan/529925157
-!--.flickr.com/photos/winterkanal
-!--.flickr.com/photos/zola
-||flickr.com
-||staticflickr.com
-
-flickrhivemind.net
-.flickriver.com
-.fling.com
-||flipkart.com
-||flog.tw
-.flyvpn.com
-||flyvpn.com
-|http://cn.fmnnow.com
-fofldfradio.org
-blog.foolsmountain.com
-.forum4hk.com
-fangong.forums-free.com
-pioneer-worker.forums-free.com
-!--foursquare.com
-!--|http://4sq.com
-|https://ss*.4sqi.net
-video.foxbusiness.com
-|http://foxgay.com
-||fringenetwork.com
-||flecheinthepeche.fr
-.fochk.org
-||fochk.org
-||focustaiwan.tw
-.focusvpn.com
-||fofg.org
-.fofg-europe.net
-.fooooo.com
-||fooooo.com
-||foreignaffairs.com
-.fotile.me
-||fourthinternational.org
-||foxdie.us
-||foxsub.com
-foxtang.com
-.fpmt.org
-|http://fpmt.org
-.fpmt.tw
-.fpmt-osel.org
-||fpmtmexico.org
-fqok.org
-||fqrouter.com
-||franklc.com
-.freakshare.com
-|http://freakshare.com
-||free4u.com.ar
-free-gate.org
-.free-hada-now.org
-free-proxy.cz
-.free.fr/adsl
-kineox.free.fr
-tibetlibre.free.fr
-||freealim.com
-whitebear.freebearblog.org
-||freebrowser.org
-.freechal.com
-.freedomchina.info
-||freedomchina.info
-.freedomhouse.org
-||freedomhouse.org
-.freedomsherald.org
-||freedomsherald.org
-.freefq.com
-.freefuckvids.com
-.freegao.com
-||freegao.com
-freeilhamtohti.org
-||freekazakhs.org
-.freekwonpyong.org
-||saveliuxiaobo.com
-.freelotto.com
-||freelotto.com
-freeman2.com
-.freeopenvpn.com
-freemoren.com
-freemorenews.com
-freemuse.org/archives/789
-freenet-china.org
-freenewscn.com
-cn.freeones.com
-.freeoz.org/bbs
-||freeoz.org
-||freessh.us
-free4u.com.ar
-.free-ssh.com
-||free-ssh.com
-||freebeacon.com
-.freechina.news
-||freechinaforum.org
-||freechinaweibo.com
-.freedomcollection.org/interviews/rebiya_kadeer
-.freeforums.org
-||freenetproject.org
-.freeoz.org
-.freetibet.net
-||freetibet.org
-.freetibetanheroes.org
-|http://freetibetanheroes.org
-||freetribe.me
-.freeviewmovies.com
-.freevpn.me
-|http://freevpn.me
-||freewallpaper4.me
-.freewebs.com
-.freewechat.com
-||freewechat.com
-freeweibo.com
-||freeweibo.com
-.freexinwen.com
-.freeyoutubeproxy.net
-||freeyoutubeproxy.net
-friendfeed.com
-friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e
-friends-of-tibet.org
-.friendsoftibet.org
-||friendsoftibet.org
-freechina.net
-|http://www.zensur.freerk.com/
-freevpn.nl
-freeyellow.com
-hk.frienddy.com/hk
-|http://adult.friendfinder.com/
-.fring.com
-||fring.com
-.fromchinatousa.net
-||frommel.net
-.frontlinedefenders.org
-||frontlinedefenders.org
-.frootvpn.com
-||frootvpn.com
-||fscked.org
-.fsurf.com
-.ftv.com.tw
-||ftv.com.tw
-||ftvnews.com.tw
-fucd.com
-.fuckcnnic.net
-||fuckcnnic.net
-fuckgfw.org
-.fulione.com
-|https://fulione.com
-||fullerconsideration.com
-fulue.com
-.funf.tw
-funp.com
-.fuq.com
-.furhhdl.org
-||furinkan.com
-.futurechinaforum.org
-||futuremessage.org
-.fux.com
-.fuyin.net
-.fuyindiantai.org
-.fuyu.org.tw
-||fw.cm
-.fxcm-chinese.com
-||fxcm-chinese.com
-fzh999.com
-fzh999.net
-fzlm.com
-
-!--------------------GG-------------------------
-.g6hentai.com
-|http://g6hentai.com
-||g-queen.com
-||gab.com
-||gabocorp.com
-.gaeproxy.com
-.gaforum.org
-.gagaoolala.com
-||gagaoolala.com
-.galaxymacau.com
-||galenwu.com
-.galstars.net
-||game735.com
-gamebase.com.tw
-gamejolt.com
-|http://wiki.gamerp.jp
-||gamer.com.tw
-.gamer.com.tw
-.gamez.com.tw
-||gamez.com.tw
-.gamousa.com
-.gaoming.net
-||gaoming.net
-ganges.com
-||ganjing.com
-||ganjingworld.com
-.gaopi.net
-|http://gaopi.net
-.gaozhisheng.org
-.gaozhisheng.net
-gardennetworks.com
-||gardennetworks.org
-!--IP of Garden Network
-72.52.81.22
-||gartlive.com
-||gate-project.com
-||gather.com
-.gatherproxy.com
-gati.org.tw
-.gaybubble.com
-.gaycn.net
-.gayhub.com
-||gaymap.cc
-.gaymenring.com
-.gaytube.com
-!--||gaytube.com
-||images-gaytube.com
-.gaywatch.com
-|http://gaywatch.com
-.gazotube.com
-||gazotube.com
-||gcc.org.hk
-||gclooney.com
-||gclubs.com
-||gcmasia.com
-.gcpnews.com
-|http://gcpnews.com
-.gdbt.net/forum
-gdzf.org
-||geek-art.net
-geekerhome.com/2010/03/xixiang-project-cross-gfw
-||geekheart.info
-.gekikame.com
-|http://gekikame.com
-.gelbooru.com
-|http://gelbooru.com
-||generated.photos
-||genius.com
-!--||genuitec.com
-.geocities.co.jp
-.geocities.com/SiliconValley/Circuit/5683/download.html
-hk.geocities.com
-geocities.jp
-||geph.io
-.gerefoundation.org
-||getastrill.com
-.getchu.com
-.getcloak.com
-||getcloak.com
-||getfoxyproxy.org
-.getfreedur.com
-||getgom.com
-.geti2p.net
-||geti2p.net
-getiton.com
-.getjetso.com/forum
-.getlantern.org
-||getlantern.org
-||getmalus.com
-.getsocialscope.com
-||getsync.com
-||gettr.com
-gfbv.de
-.gfgold.com.hk
-.gfsale.com
-||gfsale.com
-gfw.org.ua
-.gfw.press
-||gfw.press
-||gfw.report
-.ggssl.com
-||ggssl.com
-!--||ghost.org
-.ghostpath.com
-||ghostpath.com
-||ghut.org
-.giantessnight.com
-|http://giantessnight.com
-.gifree.com
-||giga-web.jp
-tw.gigacircle.com
-|http://cn.giganews.com/
-gigporno.ru
-||girlbanker.com
-.git.io
-||git.io
-|http://softwaredownload.gitbooks.io
-||raw.githack.com
-
-!---GitHub---
-||github.blog
-||github.com
-!--github.com/getlantern
-!--|https://gist.github.com
-!--http://cthlo.github.io/hktv
-!--hahaxixi.github.io
-!--|https://hahaxixi.github.io
-!--||haoel.github.io
-!--|http://onionhacker.github.io
-!--||rg3.github.io
-!--||sikaozhe1997.github.io
-!--||sodatea.github.io
-!--||terminus2049.github.io
-!--||toutyrater.github.io
-!--wsgzao.github.io
-!--|https://wsgzao.github.io
-.github.io
-||github.io
-||githubusercontent.com
-||githubassets.com
-
-.gizlen.net
-||gizlen.net
-.gjczz.com
-||gjczz.com
-globaljihad.net
-globalmediaoutreach.com
-globalmuseumoncommunism.org
-||globalrescue.net
-.globaltm.org
-.globalvoicesonline.org
-||globalvoicesonline.org
-||globalvpn.net
-.glock.com
-gluckman.com/DalaiLama
-||gmgard.com
-||gmhz.org
-|http://www.gmiddle.com
-|http://www.gmiddle.net
-.gmll.org
-||suche.gmx.net
-||gnci.org.hk
-||gnews.org
-go-pki.com
-||goagent.biz
-||goagentplus.com
-gobet.cc
-||godaddy.com
-godfootsteps.org
-||godfootsteps.org
-godns.work
-godsdirectcontact.co.uk
-.godsdirectcontact.org
-godsdirectcontact.org.tw
-.godsimmediatecontact.com
-||gofundme.com
-.gogotunnel.com
-||gohappy.com.tw
-.gokbayrak.com
-.goldbet.com
-||goldbetsports.com
-||golden-ages.org
-||goldeneyevault.com
-.goldenfrog.com
-||goldenfrog.com
-.goldjizz.com
-|http://goldjizz.com
-.goldstep.net
-||goldwave.com
-gongmeng.info
-gongm.in
-gongminliliang.com
-.gongwt.com
-|http://gongwt.com
-blog.goo.ne.jp/duck-tail_2009
-.gooday.xyz
-||gooday.xyz
-||goodhope.school
-.goodreads.com
-||goodreads.com
-.goodreaders.com
-||goodreaders.com
-.goodtv.com.tw
-.goodtv.tv
-||goofind.com
-.googlesile.com
-.gopetition.com
-||gopetition.com
-.goproxing.net
-||goreforum.com
-.gotrusted.com
-||gotrusted.com
-||gotw.ca
-||grammaly.com
-grandtrial.org
-.graphis.ne.jp
-||graphis.ne.jp
-||graphql.org
-||gravatar.com
-greatfirewall.biz
-||greatfirewallofchina.net
-.greatfirewallofchina.org
-||greatfirewallofchina.org
-||greenfieldbookstore.com.hk
-.greenparty.org.tw
-||greenpeace.org
-.greenreadings.com/forum
-great-firewall.com
-great-roc.org
-greatroc.org
-greatzhonghua.org
-.greenpeace.com.tw
-.greenvpn.net
-||greenvpn.net
-.greenvpn.org
-||grindr.com
-||grotty-monday.com
-gs-discuss.com
-||gsearch.media
-||gtricks.com
-guancha.org
-guaneryu.com
-.guardster.com
-.gun-world.net
-gunsandammo.com
-||gutteruncensored.com
-||gvm.com.tw
-||gwins.org
-.gzm.tv
-||gzone-anime.info
-
-!-------------GHS-----
-!-||feeds.cbsnews.com
-!-||www.chinesealbumart.com
-||clementine-player.org
-!-||clemesha.org
-!-||www.cloudgirlfriend.com
-!-||cocoawithlove.com
-!-||blog.controlspace.org
-!-D
-!-||www.dailygyan.com
-!-||dailytodo.org
-!-||blog.danmarner.com
-!-||github.danmarner.com
-!-||design-seeds.com
-!-||designers-artists.com
-!-||mail.diyang.org
-!-||blog.doughellmann.com
-!-||downforeveryoneorjustme.com
-!-||droidsecurity.com
-!-||www.dropmocks.com
-!-||dumblittleman.com
-!-E
-echofon.com
-!-||echofon.com
-!-||epc-jav.com
-!-||everdark.info
-!-||evhead.com
-!-F
-!-||facilelogin.com
-!-||*.fatduck.org
-!-||blog.fdcn.org
-!-||fftogo.com
-!-||flightsimtalk.com
-!-||mclee.foolme.net
-!-||www.frienddeck.com
-!-||fringespoilers.com
-!-||fringetelevision.com
-!-||funpea.com
-!-G
-!-||blog.gatein.org
-!-||feeds.gawker.com
-!-||geektang.com
-!-||geohot.us
-!-||getaround.com
-!-||gmer.net
-!-||www.gmote.org
-!-||blog.go2web20.net
-!-||google-melange.com
-!-||fame.gonzolabs.org
-!-||govecn.org
-!-||gqueues.com
-!-||graphycalc.com
-!-||blog.growlforwindows.com
-!-H
-!-||hcm.com.tw
-!-||blog.headius.com
-!-||hogbaysoftware.com
-!-||blog.hotot.org
-!-||feeds.howstuffworks.com
-!-||huhaitai.com
-!-||blog.humanrightsfirst.org
-!-I
-!-||site.icu-project.org
-!-||igorware.com
-!-||ihas1337code.com
-!-||inknouveau.com
-!-||inote.tw
-!-||ironhelmet.com
-!-||iwfwcf.com
-!-J
-!-||blog.jangmt.com
-!-||blog.jayfields.com
-!-||blog.joint.net
-!-||blog.jsquaredjavascript.com
-!-||blog.jtbworld.com
-!-K
-!-||kathyschwalbe.com
-!-||tomatovpn.keithmoyer.com
-!-||www.keithmoyer.com
-!-||kendalvandyke.com
-!-||blog.kengao.tw
-!-||log.keso.cn
-!-||www.khanacademy.org
-||www.klip.me
-!-||usbloadergx.koureio.net
-!-||blog.kowalczyk.info
-!-L
-!-||labyrinth2.com
-!-||larsgeorge.com
-!-||blog.lastpass.com
-!-||docs.latexlab.org
-!-||leanessays.com
-!-||blog.lidaobing.info
-!-||log.lightory.net
-!-||feeds.limi.net
-!-||www.liteapplications.com
-!-||blog.liukangxu.info
-!-||twitter.liukangxu.info
-!-||oasisnewsroom.live4ever.us
-!-||www.lockergnome.com
-!-||locql.com
-@@||site.locql.com
-!-||feeds.loiclemeur.com
-!-||blog.louisgray.com
-!-M
-!-||madebysofa.com
-!-||mademoisellerobot.com
-!-||masamixes.com
-!-||www.metamuse.net
-!-||blog.metasploit.com
-!-||milazi.com
-!-||www.miniweather.com
-!-||twitter.missiu.com
-!-||plurktop-button.mmdays.com
-!-||feeds.mobileread.com
-!-||www.modernizr.com
-!-||www.modk.it
-!-||mytwishirt.com
-!-N
-!-||blog.netflix.com
-!-||blog.nihilogic.dk
-!-||ntlk.org
-!-||nvquan.org
-!-||nogoodatcoding.com
-!-||blog.notdot.net
-!-||www.notify.io
-!-O
-!-||blog.obvious.com
-!-||onebigfluke.com
-!-||overstimulate.com
-!-P
-!-||pcgeekblog.com
-!-||feeds.pdfchm.net
-!-||feeds.people.com
-!-||blog.persistent.info
-!-||chrome.plantsvszombies.com
-!-||portablesoft.org.ru
-!-||prasannatech.net
-!-||talk.news.pts.org.tw
-!-||python-excel.org
-!-Q
-!-R
-!-||r-chart.com
-!-||rameshsubramanian.org
-!-||rapid.pk
-!-||blog.renanse.com
-!-||robertmao.com
-!-||www.romeo-foxtrot.com
-!-S
-!-||salmiyuck.com
-!-||samsal.com
-!-||blog.seeminglee.com
-!-||blog.sflow.com
-!-||blog.sigfpe.com
-!-||simpletext.ws
-!-||www.skulpt.org
-!-||rss.slashdot.org
-!-||snippetsapp.com
-!-||w.sns.ly
-!-||www.socialnmobile.com
-!-||www.socialwhois.com
-!-||spiritjb.org
-!-||ssbook.com
-!-||sshforwarding.com
-!-||stationeria.com
-||stephaniered.com
-!-||sunjidong.net
-!-||syniumsoftware.com
-@@||download.syniumsoftware.com
-!-T
-!-||tagxedo.com
-!-||blog.tatoeba.org
-!-||www.techfob.com
-!-||teachparentstech.org
-!-||the8pen.com
-!-||theiphonewiki.com
-!-||blog.thesilentnumber.me
-!-||thesponty.com
-!-||theultralinx.com
-!-||blog.think-async.com
-!-||tornadoweb.org
-!-||transparentuptime.com
-!-||triangulationblog.com
-!-||blog.tsunanet.net
-!-||en.tuxero.com
-!-||twazzup.com
-!-||tweetswell.com
-!-||twibes.com
-!-||art.twgg.org
-!-||twivert.com
-!-U
-|http://ub0.cc
-!-||jonny.ubuntu-tw.net
-!-||blog.umonkey.net
-!-V
-!-||tp.vbap.com.au
-!-||www.virtuousrom.com
-!-||blog.visibotech.com
-!-W
-!-||waveprotocol.org
-!-||www.wavesandbox.com
-!-||webfee.org.ru
-!-||blog.webmproject.org
-!-||webupd8.org
-!-||www.whatbrowser.org
-!-||www.wheredoyougo.net
-!-||willhains.com
-!-||feeds.wired.com
-!-||wisemapping.org
-wozy.in
-!-||wozy.in/
-!-||blog.wundercounter.com
-!-X
-!-||xdelta.org
-!-||xiaogaozi.org
-!-||xilou.us
-!-||xzy.org.ru
-!-Y
-!-||yooper.be
-!-||tsong.yunxi.net
-!-Z
-
-gospelherald.com
-||gospelherald.com
-|http://hk.gradconnection.com/
-||grangorz.org
-greatfire.org
-||greatfire.org
-greatfirewallofchina.org
-||greatroc.tw
-.gts-vpn.com
-|http://gts-vpn.com
-||gtv.org
-||gtv1.org
-.gu-chu-sum.org
-|http://gu-chu-sum.org
-.guaguass.com
-|http://guaguass.com
-.guaguass.org
-|http://guaguass.org
-.guangming.com.my
-guishan.org
-||guishan.org
-.gumroad.com
-||gumroad.com
-||gunsamerica.com
-guruonline.hk
-|http://gvlib.com
-.gyalwarinpoche.com
-.gyatsostudio.com
-
-!--------------------HH-------------------------
-.h528.com
-.h5dm.com
-.h5galgame.me
-||h-china.org
-.h-moe.com
-|http://h-moe.com
-h1n1china.org
-.hacg.club
-||hacg.club
-.hacg.in
-|http://hacg.in
-.hacg.li
-|http://hacg.li
-.hacg.me
-|http://hacg.me
-.hacg.red
-|http://hacg.red
-.hacken.cc/bbs
-.hacker.org
-||hackmd.io
-||hackthatphone.net
-hahlo.com
-||hakkatv.org.tw
-.handcraftedsoftware.org
-|http://bbs.hanminzu.org/
-.hanunyi.com
-.hao.news/news
-|http://ae.hao123.com
-|http://ar.hao123.com
-|http://br.hao123.com
-|http://en.hao123.com
-|http://id.hao123.com
-|http://jp.hao123.com
-|http://ma.hao123.com
-|http://mx.hao123.com
-|http://sa.hao123.com
-|http://th.hao123.com
-|http://tw.hao123.com
-|http://vn.hao123.com
-|http://hk.hao123img.com
-|http://ld.hao123img.com
-||happy-vpn.com
-.haproxy.org
-||hardsextube.com
-.harunyahya.com
-|http://harunyahya.com
-bbs.hasi.wang
-have8.com
-@@||haygo.com
-.hclips.com
-||hdlt.me
-||hdtvb.net
-.hdzog.com
-|http://hdzog.com
-||ordns.he.net
-||heartyit.com
-.heavy-r.com
-.hec.su
-|http://hec.su
-.hecaitou.net
-||hecaitou.net
-.hechaji.com
-||hechaji.com
-||heeact.edu.tw
-.hegre-art.com
-|http://hegre-art.com
-||cdn.helixstudios.net
-||helplinfen.com
-||helpuyghursnow.org
-||helloandroid.com
-||helloqueer.com
-.helloss.pw
-hellotxt.com
-||hellotxt.com
-.hentai.to
-.hellouk.org/forum/lofiversion
-.helpeachpeople.com
-||helpeachpeople.com
-||helpster.de
-.helpzhuling.org
-hentaitube.tv
-.hentaivideoworld.com
-
-!###########--Heroku--##########
-!--||getcloudapp.com
-!--||cl.ly
-!--@@||f.cl.ly
-!--EC2 DNS Poisoned
-||id.heroku.com
-
-heqinglian.net
-||heqinglian.net
-||heritage.org
-||heungkongdiscuss.com
-.hexieshe.com
-||hexieshe.com
-||hexieshe.xyz
-!--Google employee within Google IP
-||hexxeh.net
-||heyuedi.com
-app.heywire.com
-.heyzo.com
-.hgseav.com
-.hhdcb3office.org
-.hhthesakyatrizin.org
-hi-on.org.tw
-||hiccears.com
-hidden-advent.org
-||hidden-advent.org
-hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
-||hide.me
-.hidein.net
-.hideipvpn.com
-||hideipvpn.com
-.hideman.net
-||hideman.net
-hideme.nl
-||hidemy.name
-.hidemyass.com
-||hidemyass.com
-hidemycomp.com
-||hidemycomp.com
-.hihiforum.com
-.hihistory.net
-||hihistory.net
-.higfw.com
-highpeakspureearth.com
-||highrockmedia.com
-||hiitch.com
-||hikinggfw.org
-.hilive.tv
-.himalayan-foundation.org
-||himalayan-foundation.org
-himalayanglacier.com
-.himemix.com
-||himemix.com
-.himemix.net
-times.hinet.net
-.hitomi.la
-|http://hitomi.la
-.hiwifi.com
-@@||hiwifi.com
-hizbuttahrir.org
-hizb-ut-tahrir.info
-hizb-ut-tahrir.org
-.hjclub.info
-.hk-pub.com/forum
-|http://hk-pub.com
-.hk01.com
-||hk01.com
-.hk32168.com
-||hk32168.com
-||hkacg.com
-||hkacg.net
-.hkatvnews.com
-hkbc.net
-.hkbf.org
-.hkbookcity.com
-||hkbookcity.com
-||hkchronicles.com
-.hkchurch.org
-hkci.org.hk
-.hkcmi.edu
-||hkcnews.com
-||hkcoc.com
-||hkctu.org.hk
-hkday.net
-.hkdailynews.com.hk/china.php
-||hkdc.us
-hkdf.org
-.hkej.com
-.hkepc.com/forum/viewthread.php?tid=1153322
-||hket.com
-||hkfaa.com
-hkfreezone.com
-hkfront.org
-m.hkgalden.com
-|https://m.hkgalden.com
-.hkgreenradio.org/home
-||hkgpao.com
-.hkheadline.com*blog
-.hkheadline.com/instantnews
-hkhkhk.com
-hkhrc.org.hk
-hkhrm.org.hk
-||hkip.org.uk
-1989report.hkja.org.hk
-hkjc.com
-.hkjp.org
-.hklft.com
-.hklts.org.hk
-||hklts.org.hk
-||hkmap.live
-||hkopentv.com
-||hkpeanut.com
-hkptu.org
-.hkreporter.com
-||hkreporter.com
-|http://hkupop.hku.hk/
-.hkusu.net
-||hkusu.net
-.hkvwet.com
-.hkwcc.org.hk
-||hkzone.org
-.hmonghot.com
-|http://hmonghot.com
-.hmv.co.jp/
-hnjhj.com
-||hnjhj.com
-.hnntube.com
-||hojemacau.com.mo
-||hola.com
-||hola.org
-holymountaincn.com
-holyspiritspeaks.org
-||holyspiritspeaks.org
-||derekhsu.homeip.net
-.homeperversion.com
-|http://homeservershow.com
-|http://old.honeynet.org/scans/scan31/sub/doug_eric/spam_translation.html
-.hongkongfp.com
-||hongkongfp.com
-hongmeimei.com
-||hongzhi.li
-||honven.xyz
-.hootsuite.com
-||hootsuite.com
-||hoover.org
-.hopedialogue.org
-|http://hopedialogue.org
-.hopto.org
-.hornygamer.com
-.hornytrip.com
-|http://hornytrip.com
-||horrorporn.com
-||hostloc.com
-||hotair.com
-.hotav.tv
-.hotels.cn
-hotfrog.com.tw
-hotgoo.com
-.hotpornshow.com
-hotpot.hk
-.hotshame.com
-||hotspotshield.com
-||hottg.com
-.hotvpn.com
-||hotvpn.com
-||hougaige.com
-||howtoforge.com
-||hoxx.com
-.hqcdp.org
-||hqcdp.org
-||hqjapanesesex.com
-hqmovies.com
-.hrcir.com
-.hrcchina.org
-.hrea.org
-.hrichina.org
-||hrichina.org
-||hrntt.org
-.hrtsea.com
-.hrw.org
-||hrw.org
-hrweb.org
-||hsjp.net
-||hsselite.com
-|http://hst.net.tw
-.hstern.net
-.hstt.net
-.htkou.net
-||htkou.net
-.hua-yue.net
-.huaglad.com
-||huaglad.com
-.huanghuagang.org
-||huanghuagang.org
-.huangyiyu.com
-.huaren.us
-||huaren.us
-.huaren4us.com
-.huashangnews.com
-|http://huashangnews.com
-bbs.huasing.org
-huaxia-news.com
-huaxiabao.org
-huaxin.ph
-||huayuworld.org
-||huffingtonpost.com
-||huffpost.com
-||huggingface.co
-||hugoroy.eu
-||huhaitai.com
-||huhamhire.com
-.huhangfei.com
-||huhangfei.com
-huiyi.in
-.hulkshare.com
-||humanparty.me
-||humanrightspressawards.org
-||hung-ya.com
-||hungerstrikeforaids.org
-||huping.net
-hurgokbayrak.com
-.hurriyet.com.tr
-.hut2.ru
-||hutianyi.net
-hutong9.net
-huyandex.com
-.hwadzan.tw
-||hwayue.org.tw
-||hwinfo.com
-||hxwk.org
-hxwq.org
-||hyperrate.com
-ebook.hyread.com.tw
-||ebook.hyread.com.tw
-
-!--------------------II-------------------------
-||i1.hk
-||i2p2.de
-||i2runner.com
-||i818hk.com
-.i-cable.com
-.i-part.com.tw
-.iamtopone.com
-iask.ca
-||iask.ca
-iask.bz
-||iask.bz
-.iav19.com
-ibiblio.org/pub/packages/ccic
-||ibit.am
-.iblist.com
-||iblogserv-f.net
-ibros.org
-|http://cn.ibtimes.com
-.ibvpn.com
-||ibvpn.com
-icams.com
-||icedrive.net
-.icij.org
-||icij.org
-||icl-fi.org
-.icoco.com
-||icoco.com
-
-!--38.103.165.50
-||furbo.org
-!--||iconfactory.com
-||warbler.iconfactory.net
-
-||iconpaper.org
-!-- Google Pages
-||icu-project.org
-w.idaiwan.com/forum
-idemocracy.asia
-.identi.ca
-||identi.ca
-||idiomconnection.com
-|http://www.idlcoyote.com
-.idouga.com
-.idreamx.com
-forum.idsam.com
-.idv.tw
-.ieasy5.com
-|http://ieasy5.com
-.ied2k.net
-.ienergy1.com
-||iepl.us
-||ift.tt
-ifanqiang.com
-.ifcss.org
-||ifcss.org
-ifjc.org
-.ift.tt
-|http://ift.tt
-||ifreewares.com
-||igcd.net
-.igfw.net
-||igfw.net
-.igfw.tech
-||igfw.tech
-.igmg.de
-||ignitedetroit.net
-.igotmail.com.tw
-||igvita.com
-||ihakka.net
-.ihao.org/dz5
-||iicns.com
-.ikstar.com
-||ilhamtohtiinstitute.org
-||illusionfactory.com
-||ilove80.be
-||im.tv
-@@||myvlog.im.tv
-||im88.tw
-||imgchili.net
-.imageab.com
-.imagefap.com
-||imagefap.com
-||imageflea.com
-||imageglass.org
-||imageshack.us
-||imagevenue.com
-||imagezilla.net
-.imb.org
-|http://imb.org
-
-!--IMDB
-|http://www.imdb.com/name/nm0482730
-.imdb.com/title/tt0819354
-.imdb.com/title/tt1540068
-.imdb.com/title/tt4908644
-
-.img.ly
-||img.ly
-||imgasd.com
-.imgur.com
-||imgur.com
-.imkev.com
-||imkev.com
-.imlive.com
-.immoral.jp
-impact.org.au
-impp.mn
-|http://tech2.in.com/video/
-in99.org
-in-disguise.com
-.incapdns.net
-.incloak.com
-||incloak.com
-||incredibox.fr
-||independent.co.uk
-||indiablooms.com
-||indiandefensenews.in
-||indianarrative.com
-||timesofindia.indiatimes.com
-.indiemerch.com
-||indiemerch.com
-||info-graf.fr
-website.informer.com
-||initiativesforchina.org
-||inkbunny.net
-||inkui.com
-||inmediahk.net
-||inmediahk.net
-||innermongolia.org
-||inoreader.com
-||inote.tw
-||insecam.org
-|http://insecam.org
-||inside.com.tw
-||insidevoa.com
-||institut-tibetain.org
-||interactivebrokers.com
-||internet.org
-internetdefenseleague.org
-internetfreedom.org
-!--||interpol.int
-||internetpopculture.com
-.inthenameofconfuciusmovie.com
-||inthenameofconfuciusmovie.com
-inxian.com
-||inxian.com
-ipalter.com
-!--||ipcf.org.tw
-||ipfire.org
-||iphone4hongkong.com
-||iphonehacks.com
-||iphonetaiwan.org
-||iphonix.fr
-||ipicture.ru
-.ipjetable.net
-||ipjetable.net
-.ipobar.com/read.php?
-ipoock.com/img
-.iportal.me
-|http://iportal.me
-||ippotv.com
-.ipredator.se
-||ipredator.se
-.iptv.com.tw
-||iptvbin.com
-||ipvanish.com
-iredmail.org
-chinese.irib.ir
-||ironbigfools.compython.net
-||ironpython.net
-.ironsocket.com
-||ironsocket.com
-.is.gd
-.islahhaber.net
-.islam.org.hk
-|http://islam.org.hk
-.islamawareness.net/Asia/China
-.islamhouse.com
-||islamhouse.com
-.islamicity.com
-.islamicpluralism.org
-.islamtoday.net
-.isaacmao.com
-||isaacmao.com
-||isgreat.org
-||ismaelan.com
-.ismalltits.com
-||ismprofessional.net
-isohunt.com
-||israbox.com
-.issuu.com
-||issuu.com
-.istars.co.nz
-oversea.istarshine.com
-||oversea.istarshine.com
-blog.istef.info/2007/10/21/myentunnel
-.istiqlalhewer.com
-.istockphoto.com
-isunaffairs.com
-isuntv.com
-||isupportuyghurs.org
-itaboo.info
-||itaboo.info
-||italiatibet.org
-||itemfix.com
-ithelp.ithome.com.tw
-||itshidden.com
-.itsky.it
-.itweet.net
-|http://itweet.net
-.iu45.com
-.iuhrdf.org
-||iuhrdf.org
-.iuksky.com
-.ivacy.com
-||ivacy.com
-.iverycd.com
-||ivonblog.com
-.ivpn.net
-||ivpn.net
-||iwara.tv
-||ixquick.com
-.ixxx.com
-.iyouport.com
-||iyouport.com
-||iyouport.org
-.izaobao.us
-||gmozomg.izihost.org
-.izles.net
-.izlesem.org
-
-!--------------------JJ-------------------------
-||j.mp
-||jable.tv
-||blog.jackjia.com
-jamaat.org
-||jamestown.org
-||jamyangnorbu.com
-||jan.ai
-.jandyx.com
-||janwongphoto.com
-||japan-whores.com
-.jav.com
-.jav101.com
-.jav2be.com
-||jav2be.com
-.jav68.tv
-.javakiba.org
-|http://javakiba.org
-.javbus.com
-||javbus.com
-||javfor.me
-.javhd.com
-.javhip.com
-.javmobile.net
-|http://javmobile.net
-.javmoo.com
-.javseen.com
-|http://javseen.com
-jbtalks.cc
-jbtalks.com
-jbtalks.my
-.jdwsy.com
-jeanyim.com
-||jfqu36.club
-||jfqu37.xyz
-||jgoodies.com
-.jiangweiping.com
-||jiangweiping.com
-||jiaoyou8.com
-||jichangtj.com
-.jiehua.cz
-||hk.jiepang.com
-||tw.jiepang.com
-jieshibaobao.com
-.jigglegifs.com
-56cun04.jigsy.com
-jigong1024.com
-daodu14.jigsy.com
-specxinzl.jigsy.com
-wlcnew.jigsy.com
-.jihadology.net
-|http://jihadology.net
-jinbushe.org
-||jinbushe.org
-.jingsim.org
-zhao.jinhai.de
-jingpin.org
-||jingpin.org
-jinpianwang.com
-.jinroukong.com
-ac.jiruan.net
-||jitouch.com
-.jizzthis.com
-jjgirls.com
-.jkb.cc
-|http://jkb.cc
-jkforum.net
-||jma.go.jp
-research.jmsc.hku.hk/social
-weiboscope.jmsc.hku.hk
-.jmscult.com
-|http://jmscult.com
-||joachims.org
-||jobso.tv
-.sunwinism.joinbbs.net
-||joinclubhouse.com
-||jornaldacidadeonline.com.br
-.journalchretien.net
-||journalofdemocracy.org
-.joymiihub.com
-.joyourself.com
-jpopforum.net
-||jsdelivr.net
-||fiddle.jshell.net
-.jubushoushen.com
-||jubushoushen.com
-!--Doamin parking
-.juhuaren.com
-||juliereyc.com
-||junauza.com
-.june4commemoration.org
-.junefourth-20.net
-||junefourth-20.net
-||bbs.junglobal.net
-.juoaa.com
-|http://juoaa.com
-justfreevpn.com
-||justhost.ru
-.justicefortenzin.org
-justpaste.it
-||justmysocks1.net
-justtristan.com
-juyuange.org
-juziyue.com
-||juziyue.com
-||jwmusic.org
-@@||music.jwmusic.org
-||cdn.jwplayer.com
-.jyxf.net
-
-!--------------------KK-------------------------
-||k-doujin.net
-||ka-wai.com
-||kadokawa.co.jp
-.kagyu.org
-||kagyu.org.za
-.kagyumonlam.org
-.kagyunews.com.hk
-.kagyuoffice.org
-||kagyuoffice.org
-||kagyuoffice.org.tw
-.kaiyuan.de
-.kakao.com
-||kakao.com
-.kalachakralugano.org
-.kankan.today
-.kannewyork.com
-||kannewyork.com
-.kanshifang.com
-||kanshifang.com
-||kantie.org
-kanzhongguo.com
-kanzhongguo.eu
-.kaotic.com
-||kaotic.com
-||karayou.com
-karkhung.com
-.karmapa.org
-.karmapa-teachings.org
-||kawase.com
-.kba-tx.org
-.kcoolonline.com
-.kebrum.com
-||kebrum.com
-.kechara.com
-.keepandshare.com/visit/visit_page.php?i=688154
-!--||keepvid.com
-.keezmovies.com
-.kendincos.net
-.kenengba.com
-||kenengba.com
-||keontech.net
-.kepard.com
-||kepard.com
-wiki.keso.cn/Home
-||keycdn.com
-.khabdha.org
-.khmusic.com.tw
-||kichiku-doujinko.com
-.kik.com
-||kik.com
-bbs.kimy.com.tw
-.kindleren.com
-|http://kindleren.com
-|http://www.kindleren.com
-.kingdomsalvation.org
-||kingdomsalvation.org
-kinghost.com
-!--.kingstone.com.tw/book/
-||kingstone.com.tw
-.kink.com
-.kinokuniya.com
-||kinokuniya.com
-killwall.com
-||killwall.com
-||kinmen.travel
-.kir.jp
-.kissbbao.cn
-|http://kiwi.kz
-||kk-whys.co.jp
-!--||kmt.org.tw
-.kmuh.org.tw
-.knowledgerush.com/kr/encyclopedia
-||knowyourmeme.com
-.kobo.com
-||kobo.com
-.kobobooks.com
-||kobobooks.com
-||kodingen.com
-@@||www.kodingen.com
-||kompozer.net
-.konachan.com
-||konachan.com
-.kone.com
-||koolsolutions.com
-.koornk.com
-||koornk.com
-||koranmandarin.com
-.korenan2.com
-||kqes.net
-|http://gojet.krtco.com.tw
-.ksdl.org
-.ksnews.com.tw
-||ktzhk.com
-.kui.name/event
-||kukuku.uk
-kun.im
-.kurashsultan.com
-||kurtmunger.com
-kusocity.com
-||kwcg.ca
-||kwok7.com
-.kwongwah.com.my
-||kwongwah.com.my
-.kxsw.life
-||kxsw.life
-.kyofun.com
-kyohk.net
-||kyoyue.com
-.kyzyhello.com
-||kyzyhello.com
-.kzeng.info
-||kzeng.info
-
-!--------------------LL-------------------------
-la-forum.org
-ladbrokes.com
-||labiennale.org
-.lagranepoca.com
-||lagranepoca.com
-||lala.im
-.lalulalu.com
-.lama.com.tw
-||lama.com.tw
-.lamayeshe.com
-|http://lamayeshe.com
-|http://www.lamenhu.com
-.lamnia.co.uk
-||lamnia.co.uk
-lamrim.com
-||landofhope.tv
-.lanterncn.cn
-|http://lanterncn.cn
-.lantosfoundation.org
-.laod.cn
-|http://laod.cn
-laogai.org
-||laogai.org
-||laogairesearch.org
-laomiu.com
-.laoyang.info
-|http://laoyang.info
-||laptoplockdown.com
-.laqingdan.net
-||laqingdan.net
-||larsgeorge.com
-.lastcombat.com
-|http://lastcombat.com
-||lastfm.es
-latelinenews.com
-||lausan.hk
-||le-vpn.com
-.leafyvpn.net
-||leafyvpn.net
-||ledger.com
-leeao.com.cn/bbs/forum.php
-!--||leecheukyan.org
-lefora.com
-||left21.hk
-.legalporno.com
-.legsjapan.com
-|http://leirentv.ca
-leisurecafe.ca
-||lematin.ch
-.lemonde.fr
-||lenwhite.com
-||leorockwell.com
-lerosua.org
-||lerosua.org
-blog.lester850.info
-||lesoir.be
-.letou.com
-letscorp.net
-||letscorp.net
-||ocsp.int-x3.letsencrypt.org
-||ss.levyhsu.com
-!69.16.175.42
-||cdn.assets.lfpcontent.com
-.lhakar.org
-|http://lhakar.org
-.lhasocialwork.org
-.liangyou.net
-||liangyou.net
-.lianyue.net
-||liaowangxizang.net
-.liaowangxizang.net
-||liberal.org.hk
-||libertysculpturepark.com
-||libertytimes.com.tw
-blogs.libraryinformationtechnology.com/jxyz
-||libredd.it
-||lighten.org.tw
-||lightnovel.cn
-limiao.net
-linkuswell.com
-abitno.linpie.com/use-ipv6-to-fuck-gfw
-||line.me
-||line-apps.com
-.linglingfa.com
-||lingvodics.com
-.link-o-rama.com
-|http://link-o-rama.com
-||linkedin.com
-.linkideo.com
-||api.linksalpha.com
-||apidocs.linksalpha.com
-||www.linksalpha.com
-||help.linksalpha.com
-||linux.org.hk
-linuxtoy.org/archives/installing-west-chamber-on-ubuntu
-.lionsroar.com
-.lipuman.com
-||liquidvpn.com
-||greatfire.us7.list-manage.com
-||listennotes.com
-||listentoyoutube.com
-listorious.com
-.liu-xiaobo.org
-||liudejun.com
-.liuhanyu.com
-.liujianshu.com
-||liujianshu.com
-.liuxiaobo.net
-||liuxiaobo.net
-liuxiaotong.com
-||liuxiaotong.com
-.livedoor.jp
-.liveleak.com
-||liveleak.com
-||livemint.com
-livestream.com
-||livestream.com
-||livingonline.us
-||livingstream.com
-||livevideo.com
-.livevideo.com
-.liwangyang.com
-lizhizhuangbi.com
-lkcn.net
-||chat.lmsys.org
-||lncn.org
-.load.to
-.lobsangwangyal.com
-.localdomain.ws
-||localdomain.ws
-localpresshk.com
-||lockestek.com
-logbot.net
-||logiqx.com
-secure.logmein.com
-||secure.logmein.com
-||logos.com.hk
-.londonchinese.ca
-.longhair.hk
-longmusic.com
-||longtermly.net
-||lookpic.com
-.looktoronto.com
-|http://looktoronto.com
-.lotsawahouse.org/tibetan-masters/fourteenth-dalai-lama
-.lotuslight.org.hk
-.lotuslight.org.tw
-hkreporter.loved.hk
-!--403?
-||lpsg.com
-||lrfz.com
-.lrip.org
-||lrip.org
-.lsd.org.hk
-||lsd.org.hk
-lsforum.net
-.lsm.org
-||lsm.org
-.lsmchinese.org
-||lsmchinese.org
-.lsmkorean.org
-||lsmkorean.org
-.lsmradio.com/rad_archives
-.lsmwebcast.com
-.ltn.com.tw
-||ltn.com.tw
-||luckydesigner.space
-.luke54.com
-.luke54.org
-.lupm.org
-||lupm.org
-||lushstories.com
-luxebc.com
-lvhai.org
-||lvhai.org
-||lvv2.com
-.lyfhk.net
-|http://lyfhk.net
-||lzjscript.com
-.lzmtnews.org
-||lzmtnews.org
-
-!--------------------MM-------------------------
-http://*.m-team.cc
-!--m-team.cc/forum
-.macrovpn.com
-macts.com.tw
-||mad-ar.ch
-||madrau.com
-||madthumbs.com
-||magic-net.info
-mahabodhi.org
-my.mail.ru
-.maiplus.com
-|http://maiplus.com
-.maizhong.org
-makkahnewspaper.com
-.mamingzhe.com
-manicur4ik.ru
-||manyvoices.news
-.maplew.com
-|http://maplew.com
-||marc.info
-marguerite.su
-||martincartoons.com
-maskedip.com
-.maiio.net
-.mail-archive.com
-.malaysiakini.com
-||makemymood.com
-.manchukuo.net
-.maniash.com
-|http://maniash.com
-.mansion.com
-.mansionpoker.com
-!--||marines.mil
-!--markmail.org*message
-||martau.com
-|http://blog.martinoei.com
-.martsangkagyuofficial.org
-|http://martsangkagyuofficial.org
-maruta.be/forget
-.marxist.com
-||marxist.net
-.marxists.org/chinese
-!--||mashable.com
-||matainja.com
-||mathable.io
-||mathiew-badimon.com
-||matrix.org
-||matsushimakaede.com
-||matters.town
-||maturejp.com
-mayimayi.com
-.maxing.jp
-.mcaf.ee
-|http://mcaf.ee
-||mcadforums.com
-mcfog.com
-mcreasite.com
-.md-t.org
-||md-t.org
-||meansys.com
-.media.org.hk
-.mediachinese.com
-||mediachinese.com
-.mediafire.com/?
-.mediafire.com/download
-.mediafreakcity.com
-||mediafreakcity.com
-.medium.com
-||medium.com
-.meetav.com
-||meetup.com
-mefeedia.com
-jihadintel.meforum.org
-||mega.co.nz
-||mega.io
-||mega.nz
-||megaproxy.com
-||megarotic.com
-megavideo.com
-||megurineluka.com
-||meizhong.blog
-||meizhong.report
-.meltoday.com
-.memehk.com
-||memehk.com
-memorybbs.com
-.memri.org
-.memrijttm.org
-||mercdn.net
-.mercyprophet.org
-||mercyprophet.org
-||mergersandinquisitions.org
-.meridian-trust.org
-||meridian-trust.org
-.meripet.biz
-||meripet.biz
-.meripet.com
-||meripet.com
-||merit-times.com.tw
-meshrep.com
-.mesotw.com/bbs
-metacafe.com/watch
-||metafilter.com
-||meteorshowersonline.com
-||metro.taipei
-.metrohk.com.hk/?cmd=detail&categoryID=2
-||metrolife.ca
-.metroradio.com.hk
-|http://metroradio.com.hk
-||mewe.com
-meyou.jp
-.meyul.com
-||mgoon.com
-||mgstage.com
-||mh4u.org
-mhradio.org
-|http://michaelanti.com
-||michaelmarketl.com
-|http://bbs.mikocon.com
-.microvpn.com
-|http://microvpn.com
-middle-way.net
-.mihk.hk/forum
-.mihr.com
-mihua.org
-!--IP
-||mikesoltys.com
-.milph.net
-|http://milph.net
-.milsurps.com
-mimiai.net
-.mimivip.com
-.mimivv.com
-.mindrolling.org
-|http://mindrolling.org
-||mingdemedia.org
-.minghui.or.kr
-|http://minghui.or.kr
-minghui.org
-||minghui.org
-minghui-a.org
-minghui-b.org
-minghui-school.org
-.mingjinglishi.com
-||mingjinglishi.com
-mingjingnews.com
-||mingjingtimes.com
-.mingpao.com
-||mingpao.com
-.mingpaocanada.com
-.mingpaomonthly.com
-|http://mingpaomonthly.com
-mingpaonews.com
-.mingpaony.com
-.mingpaosf.com
-.mingpaotor.com
-.mingpaovan.com
-.mingshengbao.com
-.minhhue.net
-.miniforum.org
-.ministrybooks.org
-.minzhuhua.net
-||minzhuhua.net
-minzhuzhanxian.com
-minzhuzhongguo.org
-||miroguide.com
-mirrorbooks.com
-||mirrormedia.mg
-.mist.vip
-||thecenter.mit.edu
-||scratch.mit.edu
-.mitao.com.tw
-.mitbbs.com
-||mitbbs.com
-mitbbsau.com
-.mixero.com
-||mixero.com
-||mixi.jp
-mixpod.com
-.mixx.com
-||mixx.com
-||mizzmona.com
-.mk5000.com
-.mlcool.com
-||mlzs.work
-.mm-cg.com
-||mmaaxx.com
-.mmmca.com
-mnewstv.com
-||mobatek.net
-.mobile01.com
-||mobile01.com
-||mobileways.de
-.mobypicture.com
-|http://moby.to
-||mod.io
-||modernchinastudies.org
-||moeerolibrary.com
-wiki.moegirl.org
-.mofaxiehui.com
-.mofos.com
-||mog.com
-||mohu.rocks
-molihua.org
-||mondex.org
-.money-link.com.tw
-|http://money-link.com.tw
-|http://www.monlamit.org
-||moon.fm
-.moonbbs.com
-||moonbbs.com
-||moptt.tw
-||monica.im
-||monitorchina.org
-||monocloud.me
-bbs.morbell.com
-||morningsun.org
-||moroneta.com
-.motherless.com
-|http://motherless.com
-motor4ik.ru
-.mousebreaker.com
-!--||movabletype.com
-.movements.org
-||movements.org
-||moviefap.com
-||www.moztw.org
-.mp3buscador.com
-||mpettis.com
-.mpfinance.com
-||mpfinance.com
-.mpinews.com
-||mpinews.com
-mponline.hk
-.mqxd.org
-|http://mqxd.org
-mrtweet.com
-||mrtweet.com
-news.hk.msn.com
-news.msn.com.tw
-msguancha.com
-.mswe1.org
-|http://mswe1.org
-||mthruf.com
-||mubi.com
-muchosucko.com
-||multiply.com
-multiproxy.org
-multiupload.com
-.mullvad.net
-||mullvad.net
-.mummysgold.com
-.murmur.tw
-|http://murmur.tw
-.musicade.net
-.muslimvideo.com
-||muzi.com
-||muzi.net
-||mx981.com
-.my-formosa.com
-.my-proxy.com
-.my-private-network.co.uk
-||my-private-network.co.uk
-forum.my903.com
-.myactimes.com/actimes
-||myanniu.com
-.myaudiocast.com
-||myaudiocast.com
-.myav.com.tw/bbs
-.mybbs.us
-.myca168.com
-.mycanadanow.com
-||bbs.mychat.to
-||mychinamyhome.com
-.mychinamyhome.com
-.mychinanet.com
-.mychinanews.com
-||mychinanews.com
-.mychinese.news
-||mycnnews.com
-||mykomica.org
-mycould.com/discuz
-.myeasytv.com
-||myeclipseide.com
-.myforum.com.hk
-||myforum.com.hk
-||myforum.com.uk
-.myfreecams.com
-.myfreepaysite.com
-.myfreshnet.com
-.myiphide.com
-||myiphide.com
-forum.mymaji.com
-mymediarom.com/files/box
-||mymoe.moe
-||mymusic.net.tw
-||myparagliding.com
-||mypopescu.com
-myradio.hk/podcast
-.myreadingmanga.info
-mysinablog.com
-.myspace.com
-!--.blogs.myspace.com
-!--||blogs.myspace.com
-!--vids.myspace.com/index.cfm?fuseaction=vids.
-!--viewmorepics.myspace.com
-||myspacecdn.com
-.mytalkbox.com
-.mytizi.com
-
-!--------------------NN-------------------------
-||naacoalition.org
-old.nabble.com
-||naitik.net
-.nakido.com
-||nakido.com
-.nakuz.com/bbs
-||nalandabodhi.org
-||nalandawest.org
-.namgyal.org
-namgyalmonastery.org
-||namsisi.com
-.nanyang.com
-||nanyang.com
-.nanyangpost.com
-||nanyangpost.com
-.nanzao.com
-!--.nanzao.com/sc/china/20223
-!--.nanzao.com/sc/hk-macau-tw
-.naol.ca
-.naol.cc
-uighur.narod.ru
-.nat.moe
-||nat.moe
-cyberghost.natado.com
-||national-lottery.co.uk
-||nationalawakening.org
-||nationalinterest.org
-news.nationalgeographic.com/news/2014/06/140603-tiananmen-square
-||nationalreview.com
-.nationsonline.org/oneworld/tibet
-||line.naver.jp
-||navyfamily.navy.mil
-||navyreserve.navy.mil
-||nko.navy.mil
-||usno.navy.mil
-naweeklytimes.com
-||nbcnews.com
-.nbtvpn.com
-|http://nbtvpn.com
-nccwatch.org.tw
-.nch.com.tw
-.ncn.org
-||nchrd.org
-||ncn.org
-||etools.ncol.com
-.nde.de
-||ndi.org
-.ndr.de
-.ned.org
-||nekoslovakia.net
-||neowin.net
-||nepusoku.com
-||net-fits.pro
-||netalert.me
-!--bbsnew.netbig.com
-bbs.netbig.com
-.netbirds.com
-netcolony.com
-bolin.netfirms.com
-||netflav.com
-||netme.cc
-||netsarang.com
-netsneak.com
-.network54.com
-networkedblogs.com
-.networktunnel.net
-neverforget8964.org
-new-3lunch.net
-.new-akiba.com
-.new96.ca
-.newcenturymc.com
-|http://newcenturymc.com
-newcenturynews.com
-||newchen.com
-.newchen.com
-.newgrounds.com
-||newhighlandvision.com
-newipnow.com
-.newlandmagazine.com.au
-||newmitbbs.com
-.newnews.ca
-news100.com.tw
-newschinacomment.org
-.newscn.org
-||newscn.org
-newspeak.cc/story
-.newsancai.com
-||newsancai.com
-.newsdetox.ca
-.newsdh.com
-||newsmax.com
-||newstamago.com
-||newstapa.org
-||newstatesman.com
-newstarnet.com
-||newsweek.com
-.newtaiwan.com.tw
-newtalk.tw
-||newtalk.tw
-||newyorker.com
-newyorktimes.com
-||nexon.com
-.next11.co.jp
-||nextdigital.com.hk
-.nextmag.com.tw
-
-!--hk*.nextmedia.com
-!--tw*.nextmedia.com
-!--static*.nextmedia.com
-.nextmedia.com
-
-||nexton-net.jp
-||nexttv.com.tw
-.nfjtyd.com
-||co.ng.mil
-||nga.mil
-ngensis.com
-||ngodupdongchung.com
-.nhentai.net
-|http://nhentai.net
-.nhk-ondemand.jp
-.nicovideo.jp/watch
-||nicovideo.jp
-||nighost.org
-av.nightlife141.com
-ninecommentaries.com
-.ninjacloak.com
-||ninjaproxy.ninja
-nintendium.com
-taiwanyes.ning.com
-usmgtcg.ning.com/forum
-||niusnews.com
-||njactb.org
-njuice.com
-||njuice.com
-||nlfreevpn.com
-||nmsl.website
-||nnews.eu
-
-!--no-ip.com#NOIP
-.ddns.net/
-.gooddns.info
-||gotdns.ch
-.maildns.xyz
-.no-ip.org
-.opendn.xyz
-.servehttp.com
-sytes.net
-.whodns.xyz
-.zapto.org
-|http://dynupdate.no-ip.com/
-
-||nobel.se
-!--.nobelprize.org
-!--|http://nobelprize.org
-nobelprize.org/nobel_prizes/peace/laureates/1989
-nobelprize.org/nobel_prizes/peace/laureates/2010
-nobodycanstop.us
-||nobodycanstop.us
-||nokogiri.org
-||nokola.com
-noodlevpn.com
-.norbulingka.org
-nordvpn.com
-||nordvpn.com
-||notepad-plus-plus.org
-||novelasia.com
-.news.now.com
-|http://news.now.com
-!--|http://news.now.com/home*
-news.now.com%2Fhome
-||nownews.com
-.nowtorrents.com
-.noypf.com
-||noypf.com
-||npa.go.jp
-.npnt.me
-|http://npnt.me
-.nps.gov
-.nradio.me
-|http://nradio.me
-.nrk.no
-||nrk.no
-.ntd.tv
-||ntd.tv
-.ntdtv.com
-||ntdtv.com
-||ntdtv.com.tw
-.ntdtv.co.kr
-ntdtv.ca
-ntdtv.org
-ntdtv.ru
-ntdtvla.com
-.ntrfun.com
-||cbs.ntu.edu.tw
-||media.nu.nl
-.nubiles.net
-||nuexpo.com
-.nukistream.com
-||nurgo-software.com
-||nutaku.net
-||nutsvpn.work
-.nuvid.com
-||nvdst.com
-nuzcom.com
-.nvquan.org
-.nvtongzhisheng.org
-|http://nvtongzhisheng.org
-.nwtca.org
-|http://nyaa.eu
-||nyaa.si
-||nybooks.com
-.nydus.ca
-nylon-angel.com
-nylonstockingsonline.com
-||nypost.com
-!--nysingtao.com
-.nzchinese.com
-||nzchinese.net.nz
-
-!--------------------OO-------------------------
-||oann.com
-observechina.net
-.obutu.com
-ocaspro.com
-occupytiananmen.com
-oclp.hk
-.ocreampies.com
-||october-review.org
-||odysee.com
-offbeatchina.com
-||officeoftibet.com
-|http://ofile.org
-||ogaoga.org
-twtr2src.ogaoga.org
-.ogate.org
-||ogate.org
-www2.ohchr.org/english/bodies/cat/docs/ngos/II_China_41.pdf
-||ohmyrss.com
-.oikos.com.tw/v4
-.oiktv.com
-oizoblog.com
-.ok.ru
-||ok.ru
-.okayfreedom.com
-||okayfreedom.com
-||okk.tw
-|http://filmy.olabloga.pl/player
-old-cat.net
-||olevod.com
-||olumpo.com
-.olympicwatch.org
-||omct.org
-omgili.com
-||omnitalk.com
-||omnitalk.org
-||omny.fm
-cling.omy.sg
-forum.omy.sg
-news.omy.sg
-showbiz.omy.sg
-||on.cc
-||onedrive.live.com
-||onion.city
-||onion.ly
-.onlinecha.com
-||onlineyoutube.com
-||onlygayvideo.com
-.onlytweets.com
-|http://onlytweets.com
-onmoon.net
-onmoon.com
-.onthehunt.com
-|http://onthehunt.com
-.oopsforum.com
-open.com.hk
-openallweb.com
-opendemocracy.net
-||opendemocracy.net
-.openervpn.in
-openid.net
-||openid.net
-.openleaks.org
-||openleaks.org
-||openstreetmap.org
-||opentech.fund
-openvpn.net
-||openvpn.net
-||openwebster.com
-.openwrt.org.cn
-@@||openwrt.org.cn
-my.opera.com/dahema
-||demo.opera-mini.net
-.opus-gaming.com
-|http://opus-gaming.com
-www.orchidbbs.com
-.organcare.org.tw
-organharvestinvestigation.net
-.orgasm.com
-.orgfree.com
-||oricon.co.jp
-||orient-doll.com
-orientaldaily.com.my
-||orientaldaily.com.my
-!--orientaldaily.on.cc
-||orn.jp
-t.orzdream.com
-||t.orzdream.com
-tui.orzdream.com
-||orzistic.org
-||osfoora.com
-.otnd.org
-||otnd.org
-||otto.de
-||ourdearamy.com
-oursogo.com
-.oursteps.com.au
-||oursteps.com.au
-.oursweb.net
-||ourtv.hk
-xinqimeng.over-blog.com
-||overcast.fm
-||overdaily.org
-||overplay.net
-share.ovi.com/media
-||ovpn.com
-|http://owl.li
-|http://ht.ly
-|http://htl.li
-|http://mash.to
-www.owind.com
-||owltail.com
-||oxfordscholarship.com
-|http://www.oxid.it
-oyax.com
-oyghan.com/wps
-.ozchinese.com/bbs
-||ow.ly
-bbs.ozchinese.com
-.ozvoice.org
-||ozvoice.org
-.ozxw.com
-.ozyoyo.com
-
-!--------------------PP-------------------------
-||pachosting.com
-.pacificpoker.com
-.packetix.net
-||pacopacomama.com
-.padmanet.com
-||page.link
-page2rss.com
-||pagodabox.com
-.palacemoon.com
-forum.palmislife.com
-||eriversoft.com
-.paldengyal.com
-paljorpublications.com
-.paltalk.com
-!--||pangci.net
-||pandapow.co
-.pandapow.net
-.pandavpn-jp.com
-||pandavpn-jp.com
-||pandavpnpro.com
-.panluan.net
-||panluan.net
-||pao-pao.net
-paper.li
-paperb.us
-.paradisehill.cc
-.paradisepoker.com
-||parler.com
-||parsevideo.com
-.partycasino.com
-.partypoker.com
-.passion.com
-||passion.com
-.passiontimes.hk
-pastebin.com
-.pastie.org
-||pastie.org
-||blog.pathtosharepoint.com
-||patreon.com
-||pawoo.net
-pbs.org/wgbh/pages/frontline/tankman
-pbs.org/wgbh/pages/frontline/tibet
-video.pbs.org
-
-!--Pbwiki
-pbwiki.com
-||pbworks.com
-||developers.box.net
-||wiki.oauth.net
-||wiki.phonegap.com
-||wiki.jqueryui.com
-
-||pbxes.com
-||pbxes.org
-pcdvd.com.tw
-.pchome.com.tw
-|http://pcij.org
-.pcstore.com.tw
-||pct.org.tw
-pdetails.com
-||pdproxy.com
-||peace.ca
-peacefire.org
-peacehall.com
-||peacehall.com
-|http://pearlher.org
-.peeasian.com
-||peing.net
-.pekingduck.org
-||pekingduck.org
-.pemulihan.or.id
-|http://pemulihan.or.id
-||pen.io
-penchinese.com
-||penchinese.net
-.penchinese.net
-||blog.pentalogic.net
-.penthouse.com
-||pentoy.hk
-.peoplebookcafe.com
-.peoplenews.tw
-||peoplenews.tw
-.peopo.org
-||peopo.org
-.percy.in
-.perfectgirls.net
-||perfect-privacy.com
-||perplexity.ai
-.persecutionblog.com
-.persiankitty.com
-phapluan.org
-.phayul.com
-||phayul.com
-philborges.com
-||phncdn.com
-||photodharma.net
-||photofocus.com
-||phuquocservices.com
-||picacomiccn.com
-.picidae.net
-||img*.picturedip.com
-picturesocial.com
-||pin-cong.com
-.pin6.com
-||pin6.com
-.ping.fm
-||ping.fm
-||pinimg.com
-.pinkrod.com
-||pinoy-n.com
-||pinterest.at
-||pinterest.ca
-||pinterest.co.kr
-||pinterest.co.uk
-.pinterest.com
-||pinterest.com
-||pinterest.com.mx
-||pinterest.de
-||pinterest.dk
-||pinterest.fr
-||pinterest.jp
-||pinterest.nl
-||pinterest.se
-.pipii.tv
-.piposay.com
-piraattilahti.org
-.piring.com
-||pixeldrain.com
-||pixelqi.com
-||css.pixnet.in
-||pixnet.net
-.pixnet.net
-.pk.com
-||placemix.com
-!--.planetsuzy.org
-|http://pictures.playboy.com
-||playboy.com
-.playboyplus.com
-||playboyplus.com
-||player.fm
-.playno1.com
-||playno1.com
-||playpcesor.com
-plays.com.tw
-||plexvpn.pro
-||m.plixi.com
-plm.org.hk
-plunder.com
-.plurk.com
-||plurk.com
-.plus28.com
-.plusbb.com
-.pmatehunter.com
-||pmatehunter.com
-.pmates.com
-||po2b.com
-pobieramy.top
-!--||pocoo.org
-||podbean.com
-||podictionary.com
-||poe.com
-.pokerstars.com
-||pokerstars.com
-||pokerstars.net
-||zh.pokerstrategy.com
-||politicalchina.org
-||politicalconsultation.org
-.politiscales.net
-||poloniex.com
-||polymerhk.com
-.popo.tw
-!--||popularpages.net
-||popvote.hk
-||popxi.click
-.popyard.com
-||popyard.org
-.porn.com
-.porn2.com
-.porn5.com
-.pornbase.org
-.pornerbros.com
-||pornhd.com
-.pornhost.com
-.pornhub.com
-||pornhub.com
-.pornhubdeutsch.net
-|http://pornhubdeutsch.net
-||pornmm.net
-.pornoxo.com
-.pornrapidshare.com
-||pornrapidshare.com
-.pornsharing.com
-|http://pornsharing.com
-.pornsocket.com
-.pornstarclub.com
-||pornstarclub.com
-.porntube.com
-.porntubenews.com
-.porntvblog.com
-||porntvblog.com
-.pornvisit.com
-.portablevpn.nl
-||poskotanews.com
-.post01.com
-.post76.com
-||post76.com
-.post852.com
-||post852.com
-postadult.com
-.postimg.org
-||potvpn.com
-||pourquoi.tw
-||powercx.com
-.powerphoto.org
-||www.powerpointninja.com
-||presidentlee.tw
-||cdn.printfriendly.com
-.pritunl.com
-provpnaccounts.com
-||provpnaccounts.com
-.proxfree.com
-||proxfree.com
-proxyanonimo.es
-.proxynetwork.org.uk
-||proxynetwork.org.uk
-||pts.org.tw
-.pttvan.org
-pubu.com.tw
-puffinbrowser.com
-pureinsight.org
-.pushchinawall.com
-.putty.org
-||putty.org
-
-!-------------Posterous-----
-||calebelston.com
-||blog.fizzik.com
-||nf.id.au
-||sogrady.me
-||vatn.org
-||ventureswell.com
-||whereiswerner.com
-
-.power.com
-||power.com
-powerapple.com
-||powerapple.com
-||abc.pp.ru
-heix.pp.ru
-||prayforchina.net
-||premeforwindows7.com
-||presentationzen.com
-||prestige-av.com
-.prisoneralert.com
-||pritunl.com
-||privacybox.de
-.private.com/home
-||privateinternetaccess.com
-privatepaste.com
-||privatepaste.com
-privatetunnel.com
-||privatetunnel.com
-||privatevpn.com
-||privoxy.org
-||procopytips.com
-||project-syndicate.org
-||proton.me
-provideocoalition.com
-||prosiben.de
-proxifier.com
-||proxomitron.info
-.proxpn.com
-||proxpn.com
-.proxylist.org.uk
-||proxylist.org.uk
-.proxypy.net
-||proxypy.net
-proxyroad.com
-.proxytunnel.net
-!--403 maybe
-||proyectoclubes.com
-prozz.net
-psblog.name
-||psblog.name
-||pshvpn.com
-||psiphon.ca
-.psiphon3.com
-||psiphon3.com
-.psiphontoday.com
-||pstatic.net
-||pt.im
-.ptt.cc
-||ptt.cc
-||pttgame.com
-.puffstore.com
-.puuko.com
-||pullfolio.com
-.punyu.com/puny
-||pureconcepts.net
-||pureinsight.org
-||purepdf.com
-||purevpn.com
-.purplelotus.org
-.pursuestar.com
-||pursuestar.com
-||nitter.pussthecat.org
-.pussyspace.com
-.putihome.org
-.putlocker.com/file
-pwned.com
-||pximg.net
-python.com
-.python.com.tw
-||python.com.tw
-pythonhackers.com/p
-ss.pythonic.life
-
-!--------------------QQ-------------------------
-.qanote.com
-||qanote.com
-||qbittorrent.org
-||qgirl.com.tw
-||qianbai.tw
-||qiandao.today
-||qiangwaikan.com
-.qi-gong.me
-||qi-gong.me
-!--#921
-||qiangyou.org
-.qidian.ca
-.qienkuen.org
-||qienkuen.org
-||qiwen.lu
-qixianglu.cn
-bbs.qmzdd.com
-.qkshare.com
-qoos.com
-||qoos.com
-||efksoft.com
-||qstatus.com
-||qtweeter.com
-||qtrac.eu
-.quannengshen.org
-||quannengshen.org
-quantumbooter.net
-||quitccp.net
-.quitccp.net
-||quitccp.org
-.quitccp.org
-.quora.com/Chinas-Future
-.quran.com
-|http://quran.com
-.quranexplorer.com
-qusi8.net
-.qvodzy.org
-nemesis2.qx.net/pages/MyEnTunnel
-qxbbs.org
-
-!--------------------RR-------------------------
-||r0.ru
-||radio-canada.ca
-||rael.org
-radicalparty.org
-||radio.garden
-||radioaustralia.net.au
-.radiohilight.net
-||radiohilight.net
-||radioline.co
-opml.radiotime.com
-||radiovaticana.org
-||radiovncr.com
-||raggedbanner.com
-||raidcall.com.tw
-.raidtalk.com.tw
-.rainbowplan.org/bbs
-|https://raindrop.io/
-.raizoji.or.jp
-|http://raizoji.or.jp
-rangwang.biz
-rangzen.net
-rangzen.org
-|http://blog.ranxiang.com/
-ranyunfei.com
-||ranyunfei.com
-.rapbull.net
-!--|http://rapidgator.net/
-||rapidmoviez.com
-rapidvpn.com
-||rapidvpn.com
-||rarbgprx.org
-.raremovie.cc
-|http://raremovie.cc
-.raremovie.net
-|http://raremovie.net
-||rationalwiki.org
-||rawgit.com
-||rawgithub.com
-!--.rayfme.com/bbs
-||razyboard.com
-rcinet.ca
-.read100.com
-.readingtimes.com.tw
-||readingtimes.com.tw
-||readmoo.com
-.readydown.com
-|http://readydown.com
-.realcourage.org
-.realitykings.com
-||realitykings.com
-.realraptalk.com
-.realsexpass.com
-||reason.com
-.recordhistory.org
-.recovery.org.tw
-|http://online.recoveryversion.org
-||recoveryversion.com.tw
-||red-lang.org
-redballoonsolidarity.org
-||redbubble.com
-.redchinacn.net
-|http://redchinacn.net
-redchinacn.org
-redtube.com
-referer.us
-||referer.us
-||reflectivecode.com
-relaxbbs.com
-.relay.com.tw
-.releaseinternational.org
-||religionnews.com
-religioustolerance.org
-renminbao.com
-||renminbao.com
-.renyurenquan.org
-||renyurenquan.org
-|http://certificate.revocationcheck.com
-subacme.rerouted.org
-||resilio.com
-.reuters.com
-||reuters.com
-||reutersmedia.net
-.revleft.com
-||resistchina.org
-retweetist.com
-||retweetrank.com
-!--connectedchina.reuters.com
-!--|http://www.reuters.com/news/video
-revver.com
-.rfa.org
-||rfa.org
-.rfachina.com
-.rfamobile.org
-rfaweb.org
-||rferl.org
-.rfi.fr
-||rfi.fr
-||rfi.my
-!--.rhcloud.com
-!--Edgecast
-|http://vds.rightster.com/
-.rigpa.org
-.rileyguide.com
-||riku.me
-.ritouki.jp
-||ritter.vg
-.rlwlw.com
-||rlwlw.com
-||rmbl.ws
-.rmjdw.com
-.rmjdw132.info
-.roadshow.hk
-.roboforex.com
-||robustnessiskey.com
-!--||roc-taiwan.org
-||rocket-inc.net
-|http://www2.rocketbbs.com/11/bbs.cgi?id=5mus
-|http://www2.rocketbbs.com/11/bbs.cgi?id=freemgl
-!--||rocmp.org
-||rojo.com
-||ronjoneswriter.com
-||rolfoundation.org
-||rolia.net
-||rolsociety.org
-.roodo.com
-.rosechina.net
-.rotten.com
-||rou.video
-.rsf.org
-||rsf.org
-.rsf-chinese.org
-||rsf-chinese.org
-.rsgamen.org
-||rsshub.app
-||phosphation13.rssing.com
-.rssmeme.com
-||rssmeme.com
-||rtalabel.org
-.rthk.hk
-||rthk.hk
-.rthk.org.hk
-||rthk.org.hk
-.rti.org.tw
-||rti.org.tw
-||rti.tw
-.rtycminnesota.org
-.ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
-rukor.org
-||rule34.xxx
-||rumble.com
-.runbtx.com
-.rushbee.com
-||rusvpn.com
-.ruten.com.tw
-||ruten.com.tw
-||rutracker.net
-rutube.ru
-.ruyiseek.com
-.rxhj.net
-|http://rxhj.net
-
-!--------------------SS-------------------------
-.s1s1s1.com
-||s-cute.com
-.s-dragon.org
-||s1heng.com
-|http://www.s4miniarchive.com
-||s8forum.com
-cdn1.lp.saboom.com
-||sacks.com
-sacom.hk
-||sacom.hk
-||sadpanda.us
-||safechat.com
-||safeguarddefenders.com
-.safervpn.com
-||safervpn.com
-.saintyculture.com
-|http://saintyculture.com
-.saiq.me
-||saiq.me
-||sakuralive.com
-.sakya.org
-.salvation.org.hk
-||salvation.org.hk
-.samair.ru/proxy/type-01
-.sambhota.org
-||cn.sandscotaicentral.com
-||sankakucomplex.com
-||sankei.com
-.sanmin.com.tw
-sapikachu.net
-savemedia.com
-||savethesounds.info
-.savetibet.de
-||savetibet.de
-savetibet.fr
-savetibet.nl
-.savetibet.org
-||savetibet.org
-savetibet.ru
-.savetibetstore.org
-||savetibetstore.org
-||saveuighur.org
-savevid.com
-||say2.info
-.sbme.me
-|http://sbme.me
-.sbs.com.au/yourlanguage
-.scasino.com
-|http://www.sciencemag.org/content/344/6187/953
-.sciencenets.com
-.scmp.com
-||scmp.com
-.scmpchinese.com
-||scramble.io
-.scribd.com
-||scribd.com
-||scriptspot.com
-||search.com
-.searchtruth.com
-||searx.me
-||seattlefdc.com
-.secretchina.com
-||secretchina.com
-||secretgarden.no
-.secretsline.biz
-||secretsline.biz
-||secureservercdn.net
-||securetunnel.com
-securityinabox.org
-|https://securityinabox.org
-.securitykiss.com
-||securitykiss.com
-||seed4.me
-news.seehua.com
-seesmic.com
-||seevpn.com
-||seezone.net
-sejie.com
-.sendspace.com
-||sensortower.com
-|http://tweets.seraph.me/
-sesawe.net
-||sesawe.net
-.sesawe.org
-||sethwklein.net
-.setn.com
-.settv.com.tw
-forum.setty.com.tw
-.sevenload.com
-||sevenload.com
-.sex.com
-||sex.com
-.sex-11.com
-||sex3.com
-||sex8.cc
-.sexandsubmission.com
-.sexbot.com
-.sexhu.com
-.sexhuang.com
-sexinsex.net
-||sexinsex.net
-.sextvx.com
-
-!--IP of SexInSex
-67.220.91.15
-67.220.91.18
-67.220.91.23
-
-|http://*.sf.net
-.sfileydy.com
-||sfshibao.com
-.sftindia.org
-.sftuk.org
-||sftuk.org
-||shadeyouvpn.com
-shadow.ma
-.shadowsky.xyz
-.shadowsocks.asia
-||www.shadowsocks.com
-.shadowsocks.com
-||shadowsocks.com.hk
-.shadowsocks.org
-||shadowsocks.org
-||shadowsocks-r.com
-|http://cn.shafaqna.com
-||shahit.biz
-.shambalapost.com
-.shambhalasun.com
-.shangfang.org
-||shangfang.org
-shapeservices.com
-.sharebee.com
-||sharecool.org
-!--||sharkdolphin.com
-sharpdaily.com.hk
-||sharpdaily.com.hk
-.sharpdaily.hk
-.sharpdaily.tw
-.shat-tibet.com
-sheikyermami.com
-.shellfire.de
-||shellfire.de
-.shenshou.org
-shenyun.com
-shenyunperformingarts.org
-||shenyunperformingarts.org
-||shenyunshop.com
-shenzhoufilm.com
-||shenzhoufilm.com
-||shenzhouzhengdao.org
-||sherabgyaltsen.com
-.shiatv.net
-.shicheng.org
-shinychan.com
-shipcamouflage.com
-.shireyishunjian.com
-.shitaotv.org
-||shixiao.org
-||shizhao.org
-shizhao.org
-shkspr.mobi/dabr
-||shodanhq.com
-||shooshtime.com
-.shop2000.com.tw
-||shopee.tw
-.shopping.com
-.showhaotu.com
-.showtime.jp
-||showwe.tw
-.shutterstock.com
-||shutterstock.com
-ch.shvoong.com
-.shwchurch.org
-||shwchurch.org
-.shwchurch3.com
-|http://shwchurch3.com
-.siddharthasintent.org
-||sidelinesnews.com
-.sidelinessportseatery.com
-||signal.org
-.sijihuisuo.club
-.sijihuisuo.com
-.silkbook.com
-||simbolostwitter.com
-simplecd.org
-||simplecd.org
-@@||simplecd.me
-simpleproductivityblog.com
-bbs.sina.com/
-bbs.sina.com%2F
-blog.sina.com.tw
-dailynews.sina.com/
-dailynews.sina.com%2F
-forum.sina.com.hk
-home.sina.com
-||magazines.sina.com.tw
-news.sina.com.hk
-news.sina.com.tw
-news.sinchew.com.my
-.sinchew.com.my/node/
-.sinchew.com.my/taxonomy/term
-.singaporepools.com.sg
-||singaporepools.com.sg
-.singfortibet.com
-.singpao.com.hk
-singtao.com
-||singtao.com
-news.singtao.ca
-.singtaousa.com
-||singtaousa.com
-!--||cdp.sinica.edu.tw
-sino-monthly.com
-||sinoca.com
-||sinocast.com
-sinocism.com
-sinomontreal.ca
-.sinonet.ca
-.sinopitt.info
-.sinoants.com
-||sinoants.com
-||sinoinsider.com
-.sinoquebec.com
-.sierrafriendsoftibet.org
-sis.xxx
-||sis001.com
-sis001.us
-.site2unblock.com
-||site90.net
-.sitebro.tw
-||sitekreator.com
-||siteks.uk.to
-||sitemaps.org
-.sjrt.org
-|http://sjrt.org
-||sjum.cn
-||sketchappsources.com
-||skimtube.com
-||lab.skk.moe
-||skybet.com
-|http://users.skynet.be/reves/tibethome.html
-.skyking.com.tw
-bbs.skykiwi.com
-|http://www.skype.com/intl/
-|http://www.skype.com/zh-Hant
-||skyvegas.com
-.xskywalker.com
-||xskywalker.com
-||skyxvpn.com
-m.slandr.net
-.slaytizle.com
-.sleazydream.com
-||slheng.com
-||slideshare.net
-forum.slime.com.tw
-.slinkset.com
-||slickvpn.com
-.slutload.com
-||smartdnsproxy.com
-.smarthide.com
-||app.smartmailcloud.com
-smchbooks.com
-.smh.com.au/world/death-of-chinese-playboy-leaves-fresh-scratches-in-party-paintwork-20120903-25a8v
-smhric.org
-.smith.edu/dalailama
-.smyxy.org
-!--TODO-no-homepage
-||snapchat.com
-.snaptu.com
-||snaptu.com
-||sndcdn.com
-sneakme.net
-snowlionpub.com
-home.so-net.net.tw/yisa_tsai
-||soc.mil
-||socialblade.com
-.socks-proxy.net
-||socks-proxy.net
-.sockscap64.com
-||sockslist.net
-.socrec.org
-|http://socrec.org
-.sod.co.jp
-.softether.org
-||softether.org
-.softether-download.com
-||softether-download.com
-||cdn.softlayer.net
-||sogclub.com
-sohcradio.com
-||sohcradio.com
-.sokmil.com
-||sorting-algorithms.com
-.sostibet.org
-.soumo.info
-||soup.io
-@@||static.soup.io
-.sobees.com
-||sobees.com
-socialwhale.com
-.softether.co.jp
-||softwarebychuck.com
-blog.sogoo.org
-soh.tw
-||soh.tw
-sohfrance.org
-||sohfrance.org
-chinese.soifind.com
-sokamonline.com
-||solana.com
-.solidaritetibet.org
-.solidfiles.com
-||somee.com
-.songjianjun.com
-||songjianjun.com
-.sonicbbs.cc
-.sonidodelaesperanza.org
-.sopcast.com
-.sopcast.org
-||nakedsecurity.sophos.com
-.sorazone.net
-||sos.org
-bbs.sou-tong.org
-.soubory.com
-|http://soubory.com
-.soul-plus.net
-.soulcaliburhentai.net
-||soulcaliburhentai.net
-||soundcloud.com
-!--|https://soundcloud.com/punkgod
-.soundofhope.kr
-soundofhope.org
-||soundofhope.org
-||soupofmedia.com
-!--.sourceforge.net
-!-|http://sourceforge.net
-|http://sourceforge.net/p*/shadowsocksgui/
-.sourcewadio.com
-||south-plus.org
-southnews.com.tw
-sowers.org.hk
-||wlx.sowiki.net
-||spankbang.com
-.spankingtube.com
-.spankwire.com
-||spb.com
-||speakerdeck.com
-||speedify.com
-spem.at
-||spencertipping.com
-||spendee.com
-||spicevpn.com
-.spideroak.com
-||spideroak.com
-.spike.com
-.spotflux.com
-||spotflux.com
-.spring4u.info
-||spring4u.info
-||springwood.me
-||sproutcore.com
-||sproxy.info
-||squirrelvpn.com
-||srocket.us
-.ss-link.com
-||ss-link.com
-.ssglobal.co/wp
-|http://ssglobal.co
-.ssglobal.me
-||ssh91.com
-.sspro.ml
-|http://sspro.ml
-.ssrshare.com
-||ssrshare.com
-||sss.camp
-!--|http://cdn.sstatic.net/
-||sstm.moe
-||sstmlt.moe
-sstmlt.net
-||sstmlt.net
-|http://stackoverflow.com/users/895245
-.stage64.hk
-||stage64.hk
-||standupfortibet.org
-||standwithhk.org
-stanford.edu/group/falun
-usinfo.state.gov
-||statueofdemocracy.org
-.starfishfx.com
-.starp2p.com
-||starp2p.com
-.startpage.com
-||startpage.com
-.startuplivingchina.com
-|http://startuplivingchina.com
-||static-economist.com
-||stboy.net
-||stc.com.sa
-||steel-storm.com
-.steganos.com
-||steganos.com
-.steganos.net
-.stepchina.com
-!--||stepmania.com
-ny.stgloballink.com
-hd.stheadline.com/news/realtime
-sthoo.com
-||sthoo.com
-.stickam.com
-stickeraction.com/sesawe
-.stileproject.com
-.sto.cc
-.stoporganharvesting.org
-||storagenewsletter.com
-.storm.mg
-||storm.mg
-.stoptibetcrisis.net
-||stoptibetcrisis.net
-||storify.com
-||storj.io
-.stormmediagroup.com
-||stoweboyd.com
-||straitstimes.com
-stranabg.com
-||straplessdildo.com
-||streamable.com
-||streamate.com
-||streamingthe.net
-streema.com/tv/NTDTV_Chinese
-cn.streetvoice.com/article
-cn.streetvoice.com/diary
-cn2.streetvoice.com
-tw.streetvoice.com
-.strikingly.com
-||strongvpn.com
-.strongwindpress.com
-.student.tw/db
-||studentsforafreetibet.org
-||stumbleupon.com
-stupidvideos.com
-||substack.com
-.successfn.com
-panamapapers.sueddeutsche.de
-.sugarsync.com
-||sugarsync.com
-.sugobbs.com
-||sugumiru18.com
-||suissl.com
-summify.com
-.sumrando.com
-||sumrando.com
-sun1911.com
-||sundayguardianlive.com
-.sunporno.com
-||sunmedia.ca
-||sunporno.com
-.sunskyforum.com
-.sunta.com.tw
-.sunvpn.net
-.suoluo.org
-.superfreevpn.com
-.supervpn.net
-||supervpn.net
-.superzooi.com
-|http://superzooi.com
-.suppig.net
-.suprememastertv.com
-|http://suprememastertv.com
-.surfeasy.com
-||surfeasy.com
-.surfeasy.com.au
-|http://surfeasy.com.au
-||surfshark.com
-||surrenderat20.net
-.svsfx.com
-.swissinfo.ch
-||swissinfo.ch
-.swissvpn.net
-||swissvpn.net
-switchvpn.net
-||switchvpn.net
-.sydneytoday.com
-||sydneytoday.com
-.sylfoundation.org
-||sylfoundation.org
-||syncback.com
-sysresccd.org
-.sytes.net
-blog.syx86.com/2009/09/puff
-blog.syx86.cn/2009/09/puff
-.szbbs.net
-.szetowah.org.hk
-
-!--------------------TT-------------------------
-||t-g.com
-.t35.com
-.t66y.com
-||t66y.com
-||esg.t91y.com
-.taa-usa.org
-|http://taa-usa.org
-.taaze.tw
-||taaze.tw
-|http://www.tablesgenerator.com/
-tabtter.jp
-.tacem.org
-.taconet.com.tw
-||taedp.org.tw
-.tafm.org
-.tagwa.org.au
-tagwalk.com
-||tagwalk.com
-tahr.org.tw
-.taipeisociety.org
-||taipeisociety.org
-||taipeitimes.com
-||taisounds.com
-.taiwanbible.com
-.taiwancon.com
-.taiwandaily.net
-||taiwandaily.net
-.taiwandc.org
-!--||taiwanembassy.org
-||taiwanhot.net
-.taiwanjustice.com
-taiwankiss.com
-taiwannation.com
-taiwannation.com.tw
-||taiwanncf.org.tw
-||taiwannews.com.tw
-|http://www.taiwanonline.cc/
-!--||taiwantoday.tw
-taiwantp.net
-||taiwantt.org.tw
-taiwanus.net
-taiwanyes.com
-taiwan-sex.com
-.talk853.com
-.talkboxapp.com
-||talkboxapp.com
-.talkcc.com
-||talkcc.com
-.talkonly.net
-||talkonly.net
-||tamiaode.tk
-||tanc.org
-tangben.com
-.tangren.us
-.taoism.net
-|http://taoism.net
-.taolun.info
-||taolun.info
-.tapatalk.com
-||tapatalk.com
-blog.taragana.com
-.tascn.com.au
-||taup.net
-|http://www.taup.org.tw
-.taweet.com
-||taweet.com
-.tbcollege.org
-||tbcollege.org
-.tbi.org.hk
-.tbicn.org
-.tbjyt.org
-||tbpic.info
-.tbrc.org
-tbs-rainbow.org
-.tbsec.org
-||tbsec.org
-tbskkinabalu.page.tl
-.tbsmalaysia.org
-.tbsn.org
-||tbsn.org
-.tbsseattle.org
-.tbssqh.org
-|http://tbssqh.org
-tbswd.org
-.tbtemple.org.uk
-.tbthouston.org
-.tccwonline.org
-.tcewf.org
-tchrd.org
-tcnynj.org
-||tcpspeed.co
-.tcpspeed.com
-||tcpspeed.com
-.tcsofbc.org
-.tcsovi.org
-.tdm.com.mo
-teamamericany.com
-||techspot.com
-!--OVH
-||techviz.net
-||teck.in
-.teeniefuck.net
-teensinasia.com
-||tehrantimes.com
-.telecomspace.com
-||telegraph.co.uk
-.tenacy.com
-||tenor.com
-||tenzinpalmo.com
-.tew.org
-||tew.org
-||tfiflve.com
-.thaicn.com
-||theatlantic.com
-||theatrum-belli.com
-||cn.theaustralian.com.au
-theblemish.com
-||thebcomplex.com
-||theblaze.com
-.thebobs.com
-||thebobs.com
-.thechinabeat.org
-||thechinacollection.org
-|http://www.thechinastory.org/yearbooks/yearbook-2012/
-||theconversation.com
-.thedalailamamovie.com
-|http://thedalailamamovie.com
-||thediplomat.com
-||thedw.us
-||theepochtimes.com
-!--||thefreeland.club
-thefrontier.hk/tf
-||theguardian.com
-||thegay.com
-|http://thegioitinhoc.vn/
-.thegly.com
-.thehots.info
-thehousenews.com
-||thehun.net
-.theinitium.com
-||theinitium.com
-||themoviedb.org
-.thenewslens.com
-||thenewslens.com
-.thepiratebay.org
-||thepiratebay.org
-!--||thepiratebay.se
-.theporndude.com
-||theporndude.com
-||theportalwiki.com
-||theprint.in
-||threadreaderapp.com
-thereallove.kr
-therock.net.nz
-||thesaturdaypaper.com.au
-||thestandnews.com
-thetibetcenter.org
-thetibetconnection.org
-.thetibetmuseum.org
-.thetibetpost.com
-||thetibetpost.com
-!--Tor
-||thetinhat.com
-thetrotskymovie.com
-||thetvdb.com
-thevivekspot.com
-||thewgo.org
-.theync.com
-|http://theync.com
-.thinkingtaiwan.com
-||thinkingtaiwan.com
-.thisav.com
-|http://thisav.com
-.thlib.org
-||thomasbernhard.org
-.thongdreams.com
-threatchaos.com
-||throughnightsfire.com
-.thumbzilla.com
-||thywords.com
-.thywords.com.tw
-tiananmenmother.org
-.tiananmenduizhi.com
-||tiananmenduizhi.com
-||tiananmenuniv.com
-||tiananmenuniv.net
-||tiandixing.org
-.tianhuayuan.com
-.tianlawoffice.com
-||tianti.io
-tiantibooks.org
-||tiantibooks.org
-tianyantong.org.cn
-.tianzhu.org
-.tibet.at
-tibet.ca
-.tibet.com
-||tibet.com
-tibet.fr
-.tibet.net
-||tibet.net
-||tibet.nu
-.tibet.org
-||tibet.org
-.tibet.sk
-||tibet.org.tw
-||tibet.to
-.tibet-envoy.eu
-||tibet-envoy.eu
-.tibet-foundation.org
-.tibet-house-trust.co.uk
-||tibet-initiative.de
-.tibet-munich.de
-.tibet3rdpole.org
-|http://tibet3rdpole.org
-tibetaction.net
-||tibetaction.net
-.tibetaid.org
-tibetalk.com
-.tibetan.fr
-tibetan-alliance.org
-.tibetanarts.org
-.tibetanbuddhistinstitute.org
-||tibetanbuddhistinstitute.org
-||tibetancommunity.org
-||tibetanentrepreneurs.org
-||tibetanhealth.org
-.tibetanjournal.com
-.tibetanlanguage.org
-.tibetanliberation.org
-||tibetanliberation.org
-.tibetcollection.com
-.tibetanaidproject.org
-.tibetancommunityuk.net
-|http://tibetancommunityuk.net
-tibetanculture.org
-tibetanfeministcollective.org
-.tibetanpaintings.com
-.tibetanphotoproject.com
-.tibetanpoliticalreview.org
-.tibetanreview.net
-|http://tibetansports.org
-.tibetanwomen.org
-|http://tibetanwomen.org
-.tibetanyouth.org
-.tibetanyouthcongress.org
-||tibetanyouthcongress.org
-.tibetcharity.dk
-tibetcharity.in
-.tibetchild.org
-.tibetcity.com
-||tibetcorps.org
-||tibetexpress.net
-||tibetfocus.com
-||tibetfund.org
-.tibetgermany.com
-||tibetgermany.de
-.tibethaus.com
-.tibetheritagefund.org
-||tibethouse.jp
-||tibethouse.org
-||tibethouse.us
-.tibetinfonet.net
-.tibetjustice.org
-.tibetkomite.dk
-||tibetmuseum.org
-||tibetnetwork.org
-||tibetoffice.ch
-tibetoffice.eu
-||tibetoffice.org
-||tibetonline.com
-||tibetoffice.com.au
-||tibetonline.tv
-||tibetoralhistory.org
-||tibetpolicy.eu
-||tibetrelieffund.co.uk
-||tibetsites.com
-||tibetsociety.com
-||tibetsun.com
-||tibetsupportgroup.org
-||tibetswiss.ch
-||tibettelegraph.com
-||tibettimes.net
-||tibettruth.com
-||tibetwrites.org
-.ticket.com.tw
-.tigervpn.com
-||tigervpn.com
-||tiktokv.com
-.timdir.com
-|http://timdir.com
-.time.com
-|http://time.com
-!--.time.com/time/time100/leaders/profile/rebel
-!--.time.com/time/specials/packages/article/0,28804
-!--.time.com/time/magazine
-||timesnownews.com
-.timsah.com
-||timtales.com
-||blog.tiney.com
-tintuc101.com
-.tiny.cc
-|http://tiny.cc
-tinychat.com
-||tinypaste.com
-||tipas.net
-.tistory.com
-||tkcs-collins.com
-.tmagazine.com
-||tmagazine.com
-.tmdfish.com
-|http://tmi.me
-.tmpp.org
-|http://tmpp.org
-.tnaflix.com
-||tnaflix.com
-.tngrnow.com
-.tngrnow.net
-.tnp.org
-|http://tnp.org
-.to-porno.com
-||to-porno.com
-togetter.com
-.tokyo-247.com
-.tokyo-hot.com
-||tokyo-porn-tube.com
-||tokyocn.com
-tw.tomonews.net
-.tongil.or.kr
-.tono-oka.jp
-tonyyan.net
-.toodoc.com
-toonel.net
-top81.ws
-.topnews.in
-.toppornsites.com
-|http://toppornsites.com
-.torguard.net
-||torguard.net
-||top.tv
-.topshareware.com
-.topsy.com
-||topsy.com
-||toptip.ca
-tora.to
-.torcn.com
-||torlock.com
-.torproject.org
-||torproject.org
-||torrentkitty.tv
-torrentprivacy.com
-||torrentprivacy.com
-|http://torrentproject.se
-||torrenty.org
-||torrentz.eu
-||tortoisesvn.net
-||torvpn.com
-||totalvpn.com
-.toutiaoabc.com
-towngain.com
-toypark.in
-toytractorshow.com
-.tparents.org
-.tpi.org.tw
-||tpi.org.tw
-||tradingview.com
-||transparency.org
-||treemall.com.tw
-trendsmap.com
-||trendsmap.com
-.trialofccp.org
-||trialofccp.org
-.trimondi.de/SDLE
-.trouw.nl
-||trouw.nl
-.trt.net.tr
-||trt.net.tr
-trtc.com.tw
-.truebuddha-md.org
-||truebuddha-md.org
-trulyergonomic.com
-.truth101.co.tv
-||truth101.co.tv
-.truthontour.org
-||truthontour.org
-||truthsocial.com
-.truveo.com
-.tsctv.net
-.tsemtulku.com
-tsquare.tv
-.tsu.org.tw
-tsunagarumon.com
-!--|http://www.tsuru-bird.net/
-.tsctv.net
-||tt1069.com
-.tttan.com
-||tttan.com
-||ttv.com.tw
-tu8964.com
-.tubaholic.com
-.tube.com
-tube8.com
-||tube8.com
-.tube911.com
-||tube911.com
-.tubecup.com
-.tubegals.com
-.tubeislam.com
-|http://tubeislam.com
-.tubestack.com
-||tubewolf.com
-.tuibeitu.net
-tuidang.net
-.tuidang.org
-||tuidang.org
-.tuidang.se
-bbs.tuitui.info
-.tumutanzi.com
-|http://tumutanzi.com
-||tumview.com
-.tunein.com
-|http://tunein.com
-||tunnelbear.com
-||tunnelblick.net
-.tunnelr.com
-||tunnelr.com
-||tunsafe.com
-tuitwit.com
-.turansam.org
-.turbobit.net
-||turbobit.net
-.turbohide.com
-||turbohide.com
-||turkistantimes.com
-.tushycash.com
-|http://tushycash.com
-||app.tutanota.com
-.tuvpn.com
-||tuvpn.com
-|http://tuzaijidi.com
-|http://*.tuzaijidi.com
-.tw01.org
-|http://tw01.org
-
-!---Tumblr---
-.tumblr.com
-||tumblr.com
-!--@@||assets.tumblr.com
-!--@@||data.tumblr.com
-!--@@||media.tumblr.com
-!--@@||static.tumblr.com
-!--@@||www.tumblr.com
-||lecloud.net
-|http://cosmic.monar.ch
-||slutmoonbeam.com
-|http://blog.soylent.com
-
-.tv.com
-|http://tv.com
-tvants.com
-forum.tvb.com
-news.tvb.com/list/world
-news.tvb.com/local
-news.tvbs.com.tw
-.tvboxnow.com
-|http://tvboxnow.com/
-tvider.com
-.tvmost.com.hk
-.tvplayvideos.com
-||tvunetworks.com
-.tw-blog.com
-|https://tw-blog.com
-.tw-npo.org
-.twaitter.com
-twapperkeeper.com
-||twapperkeeper.com
-||twaud.io
-.twaud.io
-.twavi.com
-.twbbs.net.tw
-twbbs.org
-twbbs.tw
-||twblogger.com
-tweepmag.com
-.tweepml.org
-||tweepml.org
-.tweetbackup.com
-||tweetbackup.com
-tweetboard.com
-||tweetboard.com
-.tweetboner.biz
-||tweetboner.biz
-.tweetcs.com
-|http://tweetcs.com
-|http://deck.ly
-!-- Operation discontinued
-!--||tweete.net
-!--m.tweete.net
-||mtw.tl
-||tweetedtimes.com
-!-- Operation discontinued
-!--tweetmeme.com
-||tweetmylast.fm
-tweetphoto.com
-||tweetphoto.com
-||tweetrans.com
-tweetree.com
-||tweetree.com
-.tweettunnel.com
-||tweettunnel.com
-||tweetwally.com
-tweetymail.com
-||twelve.today
-.tweez.net
-|http://tweez.net
-||twftp.org
-||twgreatdaily.com
-twibase.com
-.twibble.de
-||twibble.de
-twibbon.com
-||twibs.com
-.twicountry.org
-|http://twicountry.org
-twicsy.com
-.twiends.com
-|http://twiends.com
-.twifan.com
-|http://twifan.com
-twiffo.com
-||twiffo.com
-.twilightsex.com
-twilog.org
-twimbow.com
-||twindexx.com
-twipple.jp
-||twipple.jp
-||twip.me
-twishort.com
-||twishort.com
-twistar.cc
-||twister.net.co
-||twisterio.com
-twisternow.com
-twistory.net
-twitbrowser.net
-||twitcause.com
-||twitgether.com
-||twiggit.org
-twitgoo.com
-twitiq.com
-||twitiq.com
-.twitlonger.com
-||twitlonger.com
-|http://tl.gd/
-twitmania.com
-twitoaster.com
-||twitoaster.com
-||twitonmsn.com
-!--Same IP
-.twit2d.com
-||twit2d.com
-.twitstat.com
-||twitstat.com
-||firstfivefollowers.com
-||retweeteffect.com
-||tweeplike.me
-||tweepguide.com
-||turbotwitter.com
-.twitvid.com
-||twitvid.com
-|http://twt.tl
-twittbot.net
-||ads-twitter.com
-||twttr.com
-||twitter4j.org
-.twittercounter.com
-||twittercounter.com
-twitterfeed.com
-.twittergadget.com
-||twittergadget.com
-.twitterkr.com
-||twitterkr.com
-||twittermail.com
-||twitterrific.com
-twittertim.es
-||twittertim.es
-twitthat.com
-||twitturk.com
-.twitturly.com
-||twitturly.com
-.twitzap.com
-twiyia.com
-||twstar.net
-.twtkr.com
-|http://twtkr.com
-.twnorth.org.tw
-||twreporter.org
-twskype.com
-twtrland.com
-twurl.nl
-.twyac.org
-||twyac.org
-.txxx.com
-.tycool.com
-||tycool.com
-
-!--typepad
-||typepad.com
-@@||www.typepad.com
-@@||static.typepad.com
-||blog.expofutures.com
-||legaltech.law.com
-||blogs.tampabay.com
-||contests.twilio.com
-!-lawprofessors.typepad.com/china_law_prof
-||typora.io
-
-!--------------------UU-------------------------
-.u9un.com
-||u9un.com
-.ubddns.org
-|http://ubddns.org
-||uberproxy.net
-.uc-japan.org
-||uc-japan.org
-.srcf.ucam.org/salon/
-|http://china.ucanews.com/
-||ucdc1998.org
-|http://hum*.uchicago.edu/faculty/ywang/history
-||uderzo.it
-.udn.com
-||udn.com
-||udn.com.tw
-udnbkk.com/bbs
-||uforadio.com.tw
-ufreevpn.com
-.ugo.com
-!--ghs
-||uhdwallpapers.org
-||uhrp.org
-.uighur.nl
-||uighur.nl
-uighurbiz.net
-.ulike.net
-ukcdp.co.uk
-ukliferadio.co.uk
-||ukliferadio.co.uk
-ultravpn.fr
-||ultravpn.fr
-ultraxs.com
-umich.edu/~falun
-||unblock.cn.com
-.unblocker.yt
-unblock-us.com
-||unblock-us.com
-.unblockdmm.com
-|http://unblockdmm.com
-||unblocksit.es
-uncyclomedia.org
-.uncyclopedia.hk/wiki
-|http://uncyclopedia.hk
-!--uncyclopedia.info
-|http://uncyclopedia.tw
-underwoodammo.com
-||underwoodammo.com
-||unholyknight.com
-.uni.cc
-||cldr.unicode.org
-.unification.net
-.unification.org.tw
-||unirule.cloud
-.unitedsocialpress.com
-.unix100.com
-||unknownspace.org
-.unodedos.com
-unpo.org
-||unstable.icu
-.untraceable.us
-|http://untraceable.us
-||uocn.org
-tor.updatestar.com
-||upghsbc.com
-.upholdjustice.org
-.upload4u.info
-uploaded.net/file
-|http://uploaded.net/file
-|http://uploaded.to/file
-.uploadstation.com/file
-.upmedia.mg
-||upmedia.mg
-.upornia.com
-|http://upornia.com
-||uproxy.org
-||uptodown.com
-.upwill.org
-ur7s.com
-||urbandictionary.com
-||urbansurvival.com
-myshare.url.com.tw/
-||urlborg.com
-||urlparser.com
-us.to
-||usacn.com
-.usaip.eu
-||usaip.eu
-||uscnpm.org
-||uscardforum.com
-||usma.edu
-.usocctn.com
-||ustibetcommittee.org
-.ustream.tv
-||ustream.tv
-usus.cc
-.utopianpal.com
-||utopianpal.com
-.uu-gg.com
-.uvwxyz.xyz
-||uvwxyz.xyz
-.uwants.com
-||uwants.com
-.uwants.net
-uyghur.co.uk
-|http://uyghur-j.org
-||uyghuraa.org
-||uyghuramerican.org
-||uyghurbiz.org
-||uyghurcanadian.ca
-||uyghurcongress.org
-||uyghurpen.org
-||uyghurpress.com
-||uyghurstudies.org
-||uyghurtribunal.com
-uygur.org
-|http://uymaarip.com/
-
-!--------------------VV-------------------------
-||v2fly.org
-.v2ray.com
-||v2ray.com
-||v2raycn.com
-||v2raytech.com
-||valeursactuelles.com
-.van001.com
-.van698.com
-.vanemu.cn
-.vanilla-jp.com
-.vanpeople.com
-vansky.com
-||vaticannews.va
-||vcf-online.org
-||vcfbuilder.org
-.vegasred.com
-.velkaepocha.sk
-.venbbs.com
-.venchina.com
-.venetianmacao.com
-||venetianmacao.com
-veoh.com
-||vercel.app
-mysite.verizon.net
-vermonttibet.org
-.versavpn.com
-||versavpn.com
-||verybs.com
-.vft.com.tw
-.viber.com
-||viber.com
-.vica.info
-.victimsofcommunism.org
-||victimsofcommunism.org
-||vid.me
-||vidble.com
-videobam.com
-||videobam.com
-.videodetective.com
-.videomega.tv
-||videomega.tv
-.videomo.com
-videopediaworld.com
-.videopress.com
-.vidinfo.org/video
-vietdaikynguyen.com
-.vijayatemple.org
-||vilavpn.com
-vimeo.com
-||vimeo.com
-||vimperator.org
-||vincnd.com
-||vinniev.com
-|http://www.lib.virginia.edu/area-studies/Tibet/tibet.html
-.virtualrealporn.com
-||virtualrealporn.com
-visibletweets.com
-|http://ny.visiontimes.com
-.vital247.org
-||viu.com
-.vivahentai4u.net
-||vivaldi.com
-.vivatube.com
-.vivthomas.com
-||vivthomas.com
-.vjav.com
-||vjav.com
-.vjmedia.com.hk
-.vllcs.org
-|http://vllcs.org
-||vmixcore.com
-||vnet.link
-.vocativ.com
-vocn.tv
-||vocus.cc
-||voicettank.org
-.vot.org
-||vot.org
-.vovo2000.com
-|http://vovo2000.com
-.voxer.com
-||voxer.com
-.voy.com
-||vpn.ac
-.vpn4all.com
-||vpn4all.com
-.vpnaccount.org
-|http://vpnaccount.org
-.vpnaccounts.com
-||vpnaccounts.com
-.vpncomparison.org
-.vpncup.com
-||vpncup.com
-vpnbook.com
-.vpncoupons.com
-|http://vpncoupons.com
-.vpndada.com
-||vpndada.com
-.vpnfan.com
-vpnfire.com
-.vpnfires.biz
-.vpnforgame.net
-||vpnforgame.net
-||vpngate.jp
-.vpngate.net
-||vpngate.net
-.vpngratis.net
-vpnhq.com
-||vpnhub.com
-.vpnmaster.com
-||vpnmaster.com
-.vpnmentor.com
-||vpnmentor.com
-.vpninja.net
-||vpninja.net
-.vpnintouch.com
-||vpnintouch.net
-vpnjack.com
-||vpnjack.com
-.vpnpick.com
-||vpnpick.com
-||vpnpop.com
-||vpnpronet.com
-.vpnreactor.com
-||vpnreactor.com
-||vpnreviewz.com
-.vpnsecure.me
-||vpnsecure.me
-.vpnshazam.com
-||vpnshazam.com
-.vpnshieldapp.com
-||vpnshieldapp.com
-.vpnsp.com
-.vpntraffic.com
-.vpntunnel.com
-||vpntunnel.com
-.vpnuk.info
-||vpnuk.info
-||vpnunlimitedapp.com
-.vpnvip.com
-||vpnvip.com
-.vpnworldwide.com
-.vporn.com
-||vporn.com
-.vpser.net
-@@||vpser.net
-vraiesagesse.net
-.vrmtr.com
-||vtunnel.com
-||vuku.cc
-
-!--------------------WW-------------------------
-lists.w3.org/archives/public
-||w3schools.com
-||waffle1999.com
-.wahas.com
-.waigaobu.com
-waikeung.org/php_wind
-.wailaike.net
-||wainao.me
-.waiwaier.com
-|http://waiwaier.com
-||wallmama.com
-wallornot.org
-||wallpapercasa.com
-.wallproxy.com
-@@||wallproxy.com.cn
-||wallsttv.com
-||waltermartin.com
-||waltermartin.org
-||www.wan-press.org
-||wanderinghorse.net
-||wangafu.net
-||wangjinbo.org
-.wangjinbo.org
-wanglixiong.com
-.wango.org
-||wango.org
-wangruoshui.net
-www.wangruowang.org
-||want-daily.com
-wapedia.mobi/zhsimp
-||warroom.org
-||waselpro.com
-.watchinese.com
-||watchout.tw
-.wattpad.com
-||wattpad.com
-.makzhou.warehouse333.com
-washeng.net
-.watch8x.com
-||watchmygf.net
-||wav.tv
-||wd.bible
-.wdf5.com
-||wealth.com.tw
-.wearehairy.com
-.wearn.com
-||wearn.com
-|http://hkcoc.weather.com.hk
-||hudatoriq.web.id
-||web2project.net
-webbang.net
-.webevader.org
-.webfreer.com
-weblagu.com
-.webjb.org
-.webrush.net
-webs-tv.net
-.websitepulse.com/help/testtools.china-test
-|http://www.websnapr.com
-.webwarper.net
-|http://webwarper.net
-webworkerdaily.com
-||wechatlawsuit.com
-.weekmag.info
-||wefightcensorship.org
-.wefong.com
-weiboleak.com
-.weihuo.org
-||weijingsheng.org
-.weiming.info
-||weiming.info
-weiquanwang.org
-|http://weisuo.ws
-.welovecock.com
-||welt.de
-.wemigrate.org
-|http://wemigrate.org
-wengewang.com
-||wengewang.org
-.wenhui.ch
-|http://trans.wenweipo.com/gb/
-.wenxuecity.com
-||wenxuecity.com
-.wenyunchao.com
-||wenyunchao.com
-.westca.com
-||westca.com
-||westernwolves.com
-.westkit.net
-||westpoint.edu
-.westernshugdensociety.org
-wetpussygames.com
-.wetplace.com
-wexiaobo.org
-||wexiaobo.org
-wezhiyong.org
-||wezone.net
-.wforum.com
-||wforum.com/
-.whatblocked.com
-||whatblocked.com
-.wheatseeds.org
-||wheelockslatin.com
-.whippedass.com
-!--|http://who.is/
-.whoer.net
-||whoer.net
-whotalking.com
-whylover.com
-||whyx.org
-||wikileaks.ch
-||wikileaks.com
-||wikileaks.de
-||wikileaks.eu
-||wikileaks.lu
-.wikileaks.org
-||wikileaks.org
-||wikileaks.pl
-.wikileaks-forum.com
-wildammo.com
-.williamhill.com
-||collateralmurder.com
-||collateralmurder.org
-wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
-||wikimapia.org
-.wikiwand.com
-||wikiwand.com
-||wikiwiki.jp
-||casino.williamhill.com
-||sports.williamhill.com
-||vegas.williamhill.com
-||willw.net
-||windowsphoneme.com
-.windscribe.com
-||windscribe.com
-||community.windy.com
-||wingy.site
-.winning11.com
-winwhispers.info
-||wionews.com
-||wiredbytes.com
-||wiredpen.com
-||wireguard.com
-!--||wireshark.org
-.wisdompubs.org
-.wisevid.com
-||wisevid.com
-||whispersystems.org
-.witnessleeteaching.com
-.witopia.net
-.wjbk.org
-||wjbk.org
-||wmflabs.org
-||wn.com
-.wnacg.com
-.wnacg.org
-.wo.tc
-||woeser.com
-.wokar.org
-||wokar.org
-wolfax.com
-||wolfax.com
-||wombo.ai
-||woolyss.com
-woopie.jp
-||woopie.jp
-woopie.tv
-||woopie.tv
-||workatruna.com
-.workerdemo.org.hk
-.workerempowerment.org
-||workers.dev
-||workersthebig.net
-.worldcat.org
-worldjournal.com
-.worldvpn.net
-||worldvpn.net
-
-||videopress.com
-.wordpress.com
-|http://*.wordpress.com
-||chenshan20042005.wordpress.com
-||chinaview.wordpress.com
-||cnbbnews.wordpress.com
-||freedominfonetweb.wordpress.com
-||hka8964.wordpress.com
-||hkanews.wordpress.com
-||hqsbnet.wordpress.com
-||hqsbonline.wordpress.com
-||investigating.wordpress.com
-||jobnewera.wordpress.com
-||matthewdgreen.wordpress.com
-||minghuiyw.wordpress.com
-||wo3ttt.wordpress.com
-||sujiatun.wordpress.com
-||xijie.wordpress.com
-||wp.com
-
-!-||wormsculptor.com
-.wow.com
-.wow-life.net
-||wowlegacy.ml
-||wowporn.com
-||wowgirls.com
-.wowrk.com
-woxinghuiguo.com
-.woyaolian.org
-|http://woyaolian.org
-.wpoforum.com
-||wpoforum.com
-.wqyd.org
-||wqyd.org
-wrchina.org
-wretch.cc
-||writesonic.com
-.wsj.com
-||wsj.com
-.wsj.net
-||wsj.net
-.wsjhk.com
-.wtbn.org
-.wtfpeople.com
-wuerkaixi.com
-||wufafangwen.com
-||wufi.org.tw
-||wuguoguang.com
-wujie.net
-wujieliulan.com
-||wujieliulan.com
-wukangrui.net
-||wuw.red
-||wuyanblog.com
-.wwitv.com
-||wwitv.com
-wzyboy.im/post/160
-
-!--------------------XX-------------------------
-||x.co
-.x-berry.com
-||x-berry.com
-||x-art.com
-||x-wall.org
-x1949x.com
-x365x.com
-xanga.com
-||xbabe.com
-.xbookcn.com
-||xbookcn.com
-||xcafe.in
-||xcity.jp
-.xcritic.com
-|http://cdn*.xda-developers.com
-.xerotica.com
-destiny.xfiles.to/ubbthreads
-.xfm.pp.ru
-.xgmyd.com
-||xgmyd.com
-xhamster.com
-||xhamster.com
-.xianba.net
-.xianchawang.net
-.xianjian.tw
-|http://xianjian.tw
-.xianqiao.net
-.xiaobaiwu.com
-.xiaochuncnjp.com
-.xiaod.in
-.xiaohexie.com
-||xiaolan.me
-||xiaoma.org
-||xiaohexie.com
-||xiaxiaoqiang.net
-xiezhua.com
-.xihua.es
-forum.xinbao.de/forum
-.xing.com
-|http://xing.com
-||xinjiangpolicefiles.org
-.xinmiao.com.hk
-||xinmiao.com.hk
-xinsheng.net
-xinshijue.com
-xinhuanet.org
-|http://xinyubbs.net
-.xiongpian.com
-.xiuren.org
-||xixicui.icu
-xizang-zhiye.org
-xjp.cc
-||xjp.cc
-||xjtravelguide.com
-xlfmtalk.com
-||xlfmwz.info
-||xml-training-guide.com
-xmovies.com
-||xnxx.com
-!--||xnxx-cdn.com
-xpdo.net
-||xpud.org
-.xrentdvd.com
-.xskywalker.net
-||xtube.com
-blog.xuite.net
-vlog.xuite.net
-xuzhiyong.net
-||xuchao.org
-xuchao.net
-||xuchao.net
-xvideo.cc
-.xvideos.com
-||xvideos.com
-||xvideos-cdn.com
-||xvideos.es
-||xvbelink.com
-||xvinlink.com
-.xkiwi.tk/
-||xsden.info
-.xxbbx.com
-.xxlmovies.com
-||xxx.com
-.xxx.xxx
-|http://xxx.xxx
-.xxxfuckmom.com
-||xxxx.com.au
-.xxxymovies.com
-|http://xxxymovies.com
-xys.org
-xysblogs.org
-xyy69.com
-xyy69.info
-
-!--------------------YY-------------------------
-||y2mate.com
-||yadi.sk
-||yakbutterblues.com
-||yam.com
-||yam.org.tw
-||yande.re
-||disk.yandex.com
-||disk.yandex.ru
-.yanghengjun.com
-yangjianli.com
-.yasni.co.uk
-||yasni.co.uk
-!--||yasukuni.or.jp
-.yayabay.com/forum
-||news.ycombinator.com
-.ydy.com
-.yeahteentube.com
-||yeahteentube.com
-||yecl.net
-||yeelou.com
-||yeeyi.com
-yegle.net
-||yegle.net
-.yes.xxx
-||yes123.com.tw
-||yesasia.com
-||yesasia.com.hk
-.yes-news.com
-|http://yes-news.com
-.yespornplease.com
-||yespornplease.com
-|http://yeyeclub.com
-!--yfrog.com
-||yhcw.net
-.yibada.com
-.yibaochina.com
-.yidio.com
-||yidio.com
-||yigeni.com
-yilubbs.com
-||s.yimg.com
-||xa.yimg.com
-.yingsuoss.com
-.yipub.com
-||yipub.com
-yinlei.org/mt
-.yizhihongxing.com
-||yizhihongxing.com
-.yobt.com
-.yobt.tv
-||yobt.tv
-.yogichen.org
-||yogichen.org
-.yolasite.com
-.yomiuri.co.jp
-yong.hu
-.yorkbbs.ca
-||you.com
-||youxu.info
-.youjizz.com
-||youjizz.com
-.youmaker.com
-||youmaker.com
-.youngpornvideos.com
-youngspiration.hk
-.youpai.org
-||youpai.org
-.your-freedom.net
-||yourepeat.com
-.yourprivatevpn.com
-||yourprivatevpn.com
-.yousendit.com
-||yousendit.com
-||youthforfreechina.org
-.youthnetradio.org/tmit/forum
-blog.youthwant.com.tw
-me.youthwant.com.tw
-share.youthwant.com.tw
-topic.youthwant.com.tw
-.youporn.com
-||youporn.com
-.youporngay.com
-||youporngay.com
-.yourlisten.com
-||yourlisten.com
-.yourlust.com
-||yourlust.com
-youshun12.com
-.youtubecn.com
-youversion.com
-||youversion.com
-ytht.net
-yuanming.net
-.yuanzhengtang.org
-.yulghun.com
-||yulghun.com
-||yunchao.net
-.yuvutu.com
-||yvesgeleyn.com
-.ywpw.com/forums/history/post/A0/p0/html/227
-yx51.net
-.yyii.org
-||yyii.org
-||yyjlymb.xyz
-||yysub.net
-.yzzk.com
-||yzzk.com
-
-!--------------------ZZ-------------------------
-||z-lib.org
-zacebook.com
-.zalmos.com
-||zalmos.com
-||zannel.com
-.zaobao.com
-||zaobao.com
-|http://zaobao.com.sg
-||zaobao.com.sg
-.zaozon.com
-||zdnet.com.tw
-.zello.com
-||zello.com
-.zengjinyan.org
-.zenmate.com
-||zenmate.com
-||zenmate.com.ru
-||zerohedge.com
-||zeronet.io
-||zeutch.com
-!--www.zfreet.com/post/usejump-browns.html
-.zfreet.com
-.zgsddh.com
-zgzcjj.net
-.zhanbin.net
-||zhanbin.net
-.zhangboli.net
-||zhangtianliang.com
-||zhanlve.org
-zhenghui.org
-.zhengjian.org
-||zhengjian.org
-zhengwunet.org
-zhenlibu.info
-||zhenlibu.info
-.zhenlibu1984.com
-||zhenlibu1984.com
-|http://zhenxiang.biz
-.zhinengluyou.com
-zhongguo.ca
-|http://zhongguorenquan.org
-zhongguotese.net
-||zhongguotese.net
-||zhongmeng.org
-.zhoushuguang.com
-||zhreader.com
-.zhuangbi.me
-||zhuangbi.me
-.zhuanxing.cn
-||zhuatieba.com
-zhuichaguoji.org
-||zhuichaguoji.org
-||zi.media
-|http://book.zi5.me
-.ziddu.com/download
-||zillionk.com
-.zinio.com
-||zinio.com
-.ziporn.com
-.zippyshare.com
-.zkaip.com
-||zkaip.com
-realforum.zkiz.com
-!--||zlib.net
-||zmw.cn
-.zodgame.us
-zomobo.net
-.zonaeuropa.com
-||zonaeuropa.com
-||zonghexinwen.com
-.zonghexinwen.net
-||zoogvpn.com
-||zootool.com
-.zoozle.net
-||zophar.net
-writer.zoho.com
-||zorrovpn.com
-||zpn.im
-||zspeeder.me
-.zsrhao.com
-.zuo.la
-||zuo.la
-||zuobiao.me
-.zuola.com
-||zuola.com
-||zvereff.com
-||zyxel.com
-.zynaima.com
-zyzc9.com
-.zzcartoon.com
-!##############General List End#################
-
-!###########Supplemental List Start#############
-!-----------------URL Keywords------------------
-64memo
-aHR0cHM6Ly95ZWNsLm5ldA
-freenet
-.google.*/falun
-phobos.apple.com*/video
-q=freedom
-q%3Dfreedom
-remembering_tiananmen_20_years
-search*safeweb
-q=triangle
-q%3DTriangle
-ultrareach
-ultrasurf
-!#############Supplemental List End#############
-
-!################Whitelist Start################
-@@||aliyun.com
-@@||baidu.com
-!--@@||bing.com
-@@||chinaso.com
-@@||chinaz.com
-@@|http://nrch.culture.tw/
-
-!---Some are powered by GuXiang (BGP), please comment off if
-!---you encounter connectivity issues.
-@@||adservice.google.com
-!--ISP cache works sometimes, verified at drpeng + gehua.
-@@||dl.google.com
-!--@@||kh.google.com
-!--@@||khm.google.com
-!--@@||khm0.google.com
-!--@@||khm1.google.com
-!--@@||khm2.google.com
-!--@@||khm3.google.com
-!--@@||khmdb.google.com
-@@||tools.google.com
-@@||clientservices.googleapis.com
-@@||fonts.googleapis.com
-!--@@||khm.googleapis.com
-!--@@||khm0.googleapis.com
-!--@@||khm1.googleapis.com
-!--@@||khm2.googleapis.com
-!--@@||khm3.googleapis.com
-!--@@||khmdb.googleapis.com
-@@||storage.googleapis.com
-!--@@||translate.googleapis.com
-@@||update.googleapis.com
-@@||safebrowsing.googleapis.com
-@@||cn.gravatar.com
-!--@@||connectivitycheck.gstatic.com
-!--@@||csi.gstatic.com
-!--@@||fonts.gstatic.com
-!--@@||ssl.gstatic.com
-@@||haosou.com
-@@||ip.cn
-@@||jike.com
-@@|http://translate.google.cn
-@@|http://www.google.cn/maps
-@@||http2.golang.org
-@@||gov.cn
-@@||ocsp.pki.goog
-@@||qq.com
-@@||sina.cn
-@@||sina.com.cn
-@@||sogou.com
-@@||so.com
-@@||soso.com
-@@||uluai.com.cn
-@@||weibo.com
-@@||yahoo.cn
-@@||youdao.com
-@@||zhongsou.com
-@@|http://ime.baidu.jp
-!################Whitelist End##################
-!---------------------EOF-----------------------
+/ip dns static add regexp="^.000webhost.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.030buy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.0rz.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.1-apple.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.10.tt$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.1000giri.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.100ke.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.10beasts.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.10conditionsoflove.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.10musume.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.123rf.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.12bet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.12vpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.12vpn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.1337x.to$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.138.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.141hongkong.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.141jj.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.141tube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.1688.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.173ng.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.177pic.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.17t17p.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.18board.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.18board.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.18onlygirls.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.18p2p.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.18virginsex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.1949er.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.1984bbs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.1984bbs.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.1989report.hkja.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.1991way.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.1998cdp.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.1bao.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.1dumb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.1e100.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.1eew.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.1mobile.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.1mobile.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.1pondo.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.2-hand.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.2000fun.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.2008xianzhang.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.2017.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.2021hkcharter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.2047.name$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.21andy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.21join.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.21pron.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.21sextury.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.228.net.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.233abc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.24hrs.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.24smile.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.25u.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.2lipstube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.2shared.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.2waky.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.3-a.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.30boxes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.315lz.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.32red.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.36rain.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.3a5a.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.3arabtv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.3boys2girls.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.3d-game.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.3proxy.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.3ren.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.3tui.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.404museum.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.43110.cf$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.466453.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.4bluestones.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.4chan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.4dq.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.4everproxy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.4irc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.4mydomain.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.4pu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.4rbtv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.4shared.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.4sqi.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.51.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.51jav.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.51luoben.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.5278.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.5299.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.56cun04.jigsy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.5aimiku.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.5i01.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.5isotoi5.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.5maodang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.63i.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.64museum.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.64tianwang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.64wiki.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.66.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.666kb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.6do.news$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.6park.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.6parkbbs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.6parker.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.6parknews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.7capture.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.7cow.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.8-d.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.85cc.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.85cc.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.85st.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.881903.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.888.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.888poker.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.89-64.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.89.64.charter.constitutionalism.solutions$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.8964museum.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.8news.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.8z1.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.9001700.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.908taiwan.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.91porn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.91vps.club$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.92ccav.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.991.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.99btgc01.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.99cn.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.9bis.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.9bis.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.9cache.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.9gag.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.9news.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.a-normal-day.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.a248.e.akamai.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.a5.com.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aamacau.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.abc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.abc.net.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.abc.pp.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.abc.xyz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.abchinese.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.abclite.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.abebooks.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.abematv.akamaized.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.abitno.linpie.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ablwang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aboluowang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.about.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.about.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aboutgfw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.abs.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ac.jiruan.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.acast.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.accim.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.accountkit.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aceros-de-hispania.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.acevpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.acg18.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.acgbox.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.acgkj.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.acgnx.se$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.acmedia365.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.acmetoy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.acnw.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.actfortibet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.actimes.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.activpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aculo.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.adcex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.addictedtocoffee.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.addyoutube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.adelaidebbs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.admin.recaptcha.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.admob.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.adpl.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ads-twitter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.adsense.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.adult-sex-games.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.adult.friendfinder.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.adultfriendfinder.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.adultkeep.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.advanscene.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.advertfan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.advertisercommunity.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ae.hao123.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ae.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aei.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aenhancers.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.af.mil$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.afantibbs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.afr.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.afreecatv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.agnesb.fr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.agoogleaday.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.agro.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ai-kan.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ai-wen.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ai.binwang.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ai.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aiph.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.airasia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.airconsole.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.airvpn.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aisex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aiss.anws.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ait.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aiweiwei.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aiweiweiblog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.akademiye.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.akamaihd.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.akiba-online.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.akiba-web.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.akow.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.al-islam.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.al-qimmah.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alabout.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alanhou.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alarab.qa$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alasbarricadas.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alexlur.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alforattv.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alhayat.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alicejapan.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aliengu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alive.bar$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alkasir.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.all4mom.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.allcoin.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.allconnected.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alldrawnsex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.allervpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.allfinegirls.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.allgirlmassage.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.allgirlsallowed.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.allgravure.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alliance.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.allinfa.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alljackpotscasino.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.allmovie.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.allowed.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.almasdarnews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.almostmy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alphaporno.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alternate-tools.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alternativeto.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.altrec.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alvinalexander.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alwaysdata.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alwaysdata.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.alwaysvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.am730.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.amazon.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.amazon.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ameblo.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.americangreencard.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.americanunfinished.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.amiblockedornot.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.amigobbs.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.amitabhafoundation.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.amnesty.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.amnesty.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.amnesty.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.amnestyusa.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.amnyemachen.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.amoiist.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ampproject.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.amtb-taipei.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.anchor.fm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.anchorfree.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ancsconf.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.andfaraway.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.android-x86.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.android.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.androidify.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.androidplus.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.androidtv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.andygod.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.angela-merkel.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.angelfire.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.angola.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.angularjs.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.animecrazy.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aniscartujo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.annatam.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.anobii.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.anonfiles.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.anontext.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.anonymitynetwork.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.anonymizer.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.anonymouse.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.anpopo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.answering-islam.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.anthonycalzadilla.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.anthropic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.anti1984.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.antichristendom.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.antiwave.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.anyporn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.anysex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ao3.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aobo.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aofriend.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aofriend.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aojiao.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aolchannels.aol.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aomiwang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.apartmentratings.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.apartments.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.apat1989.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.apetube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.api-secure.recaptcha.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.api-verify.recaptcha.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.api.ai$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.api.dropboxapi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.api.linksalpha.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.api.pureapk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.api.recaptcha.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.apiary.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.apidocs.linksalpha.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.apigee.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.apk-dl.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.apk.support$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.apkcombo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.apkmirror.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.apkmonk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.apkplz.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.apkpure.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.apkpure.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aplusvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.app.box.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.app.cloudcone.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.app.evozi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.app.heywire.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.app.smartmailcloud.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.app.tutanota.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.appbrain.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.appdownloader.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.appledaily.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.appledaily.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.appledaily.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.apps.evozi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.appshopper.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.appsocks.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.appspot.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.appsto.re$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aptoide.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ar.hao123.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.archive.fo$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.archive.is$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.archive.li$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.archive.md$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.archive.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.archive.ph$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.archive.today$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.archiveofourown.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.archiveofourown.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.archives.gov$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.archives.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.arctosia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.areca-backup.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.arena.taipei$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.arethusa.su$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.arlingtoncemetery.mil$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.army.mil$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.art4tibet1998.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.arte.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.artofpeacefoundation.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.artstation.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.artsy.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.asacp.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.asdfg.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.asg.to$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.asia-gaming.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.asiaharvest.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.asianage.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.asianews.it$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.asiansexdiary.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.asianspiss.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.asianwomensfilm.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.asiaone.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.asiatgp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.asiatoday.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.askstudent.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.askynz.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aspi.org.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.aspistrategist.org.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.assembla.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.assets.bwbx.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.assimp.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.astrill.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.atc.org.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.atchinese.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.atdmt.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.atgfw.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.athenaeizou.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.atlanta168.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.atlaspost.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.atnext.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.auctions.yahoo.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.auntology.fandom.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.authorizeddns.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.authorizeddns.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.authorizeddns.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.autodraw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.av-e-body.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.av.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.av.movie$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.av.nightlife141.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.avaaz.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.avbody.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.avcity.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.avcool.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.avdb.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.avdb.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.avfantasy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.avg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.avgle.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.avidemux.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.avmo.pw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.avmoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.avmoo.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.avmoo.pw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.avoision.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.avyahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.axios.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.axureformac.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.azerbaycan.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.azerimix.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.azirevpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.azubu.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.azurewebsites.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.b-ok.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.b0ne.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.babylonbee.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.babynet.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.backchina.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.backpackers.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.backtotiananmen.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bad.news$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.badiucao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.badjojo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.badoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bahamut.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.baidu.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.baijie.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bailandaily.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.baixing.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.baizhi.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bakgeekhome.tk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.banana-vpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.band.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bandcamp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bandwagonhost.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bangbrosnetwork.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bangchen.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bangdream.space$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bangkokpost.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bangyoulater.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bankmobilevibe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bannedbook.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bannednews.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.banorte.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.baramangaonline.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.barenakedislam.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.barnabu.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bartender.dowjones.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.barton.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bastillepost.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bayvoice.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bb-chat.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbc.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbc.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbcchinese.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbchat.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbci.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbg.gov$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbkz.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbnradio.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbs-tw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbs.brockbbs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbs.cantonese.asia$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbs.ecstart.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbs.hanminzu.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbs.hasi.wang$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbs.huasing.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbs.junglobal.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbs.kimy.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbs.mikocon.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbs.morbell.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbs.mychat.to$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbs.netbig.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbs.ozchinese.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbs.qmzdd.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbs.sina.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbs.skykiwi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbs.sou-tong.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbs.tuitui.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbsdigest.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbsfeed.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbsland.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbsmo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbsone.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bbtoystore.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bcast.co.nz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bcc.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bcchinese.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bcex.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bcmorning.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bdsmvideos.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.beaconevents.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bebo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.beeg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.beevpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.behance.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.behindkink.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.beijing1989.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.beijing2022.art$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.beijingspring.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.beijingzx.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.belamionline.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bell.wiki$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bemywife.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.beric.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.berlinerbericht.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.berlintwitterwall.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.berm.co.nz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bestforchina.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bestgore.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bestpornstardb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bestvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bestvpnanalysis.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bestvpnserver.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bestvpnservice.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bestvpnusa.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bet365.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.betfair.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.betternet.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bettervpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bettween.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.betvictor.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bewww.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.beyondfirewall.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bfnn.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bfsh.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bgvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bianlei.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.biantailajiao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.biantailajiao.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.biblesforamerica.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bibox.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bic2011.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.biedian.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.big.one$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bigfools.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bigjapanesesex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bigmoney.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bignews.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bigone.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bigsound.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bild.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.biliworld.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.billypan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.binance.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.binux.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bird.so$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bit-z.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bit.do$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bit.ly$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bitbay.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bitc.bme.emory.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bitchute.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bitcointalk.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bitcoinworld.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bitfinex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bithumb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bitinka.com.ar$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bitmex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bitshare.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bitsnoop.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bitterwinter.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bitvise.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bitz.ai$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bizhat.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bjnewlife.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bjs.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bjzc.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bl-doujinsouko.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blacklogic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blackvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blewpass.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blinkx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blinw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blip.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blockcast.it$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blockcn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blockedbyhk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blockless.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.calibre-ebook.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.cnyes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.cryptographyengineering.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.exblog.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.excite.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.expofutures.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.fizzik.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.foolsmountain.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.fuckgfw233.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.goo.ne.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.istef.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.jackjia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.kangye.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.lester850.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.martinoei.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.pathtosharepoint.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.pentalogic.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.ranxiang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.sina.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.sogoo.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.soylent.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.syx86.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.syx86.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.taragana.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.tiney.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.workflow.is$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.xuite.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blog.youthwant.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogblog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogcatalog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogcity.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogdns.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogger.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogimg.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bloglines.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bloglovin.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogs.libraryinformationtechnology.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogs.tampabay.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogs.yahoo.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.ae$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.al$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.am$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.ba$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.be$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.bg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.cat$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.ch$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.cl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.com.ar$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.com.br$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.com.by$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.com.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.com.cy$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.com.ee$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.com.eg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.com.es$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.com.mt$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.com.ng$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.com.tr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.com.uy$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.cz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.dk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.fi$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.fr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.gr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.hr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.hu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.ie$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.is$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.it$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.kr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.li$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.lt$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.lu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.md$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.mk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.mx$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.my$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.nl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.no$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.pe$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.pt$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.qa$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.ro$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.se$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.sg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.si$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.sk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.sn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogspot.ug$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogtd.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blogtd.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bloodshed.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bloomberg.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bloomberg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bloomberg.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bloombergview.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bloomfortune.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blubrry.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.blueangellive.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bmfinn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bnbstatic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bnews.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bnext.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bnn.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bnrmetal.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.boardreader.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bod.asia$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bodog88.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bolehvpn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bolin.netfirms.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bonbonme.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bonbonsex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bonfoundation.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bongacams.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.boobstagram.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.book.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.book.zi5.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bookdepository.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bookepub.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.books.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.booktopia.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.boomssr.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.borgenmagazine.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bot.nu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.botanwang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bowenpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.boxpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.boxun.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.boxun.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.boxunblog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.boxunclub.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.boyangu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.boyfriendtv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.boysfood.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.boysmaster.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.br.hao123.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.br.st$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.brainyquote.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.brandonhutchinson.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.braumeister.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.brave.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bravotube.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.brazzers.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.breached.to$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.break.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.breakgfw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.breaking911.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.breakingtweets.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.breakwall.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.briefdream.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.briian.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.brill.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.brizzly.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.brkmd.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.broadbook.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.broadpressinc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.brookings.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.brucewang.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.brutaltgp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bt2mag.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bt95.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.btaia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.btbtav.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.btc98.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.btcbank.bank$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.btctrade.im$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.btdig.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.btdigg.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.btku.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.btku.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.btspread.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.btsynckeys.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.budaedu.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.buddhanet.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.buffered.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bullguard.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bullog.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bullogger.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bumingbai.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bunbunhk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.busayari.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.business-humanrights.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.business.page$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.businessinsider.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.businesstoday.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.businessweek.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.busu.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.busytrade.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.buugaa.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.buy.yahoo.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.buzzhand.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.buzzhand.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.buzzorange.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.buzzsprout.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bwgyhw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bwh1.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bwsj.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bx.in.th$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bx.tl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bybit.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bynet.co.il$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.bypasscensorship.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.byrut.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.c-est-simple.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.c-span.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.c-spanvideo.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.c100tibet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.c2cx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cableav.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cablegatesearch.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cachinese.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cacnw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cactusvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cafepress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cahr.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.caijinglengyan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.calameo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.calebelston.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.calendarz.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.calgarychinese.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.calgarychinese.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.calgarychinese.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cam4.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cam4.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cam4.sg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.camfrog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.campaignforuyghurs.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cams.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cams.org.sg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.canadameet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.canalporno.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.canyu.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cao.im$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.caobian.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.caochangqing.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cap.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.carabinasypistolas.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cardinalkungfoundation.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.carfax.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cari.com.my$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.caribbeancom.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.carmotorshow.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.carrd.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cartoonmovement.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.casadeltibetbcn.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.casatibet.org.mx$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.casino.williamhill.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.casinobellini.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.casinoking.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.casinoriva.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.castbox.fm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.catch22.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.catchgod.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.catfightpayperview.xxx$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.catholic.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.catholic.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cathvoice.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cato.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cattt.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cbc.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cbs.ntu.edu.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cbsnews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cbtc.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cccat.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cccat.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ccdtr.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cchere.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ccim.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cclife.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cclife.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cclifefl.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ccthere.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ccthere.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cctmweb.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cctongbao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ccue.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ccue.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ccvoice.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ccw.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdbook.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdcparty.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdef.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdig.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdjp.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdn-images.mailchimp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdn-telegram.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdn.assets.lfpcontent.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdn.helixstudios.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdn.jwplayer.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdn.printfriendly.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdn.seatguru.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdn.softlayer.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdn1.lp.saboom.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdnews.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdninstagram.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdp1989.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdp1998.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdp2006.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdpa.url.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdpeu.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdpusa.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdpweb.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdpwu.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cdw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cecc.gov$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cellulo.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cenews.eu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.centauro.com.br$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.centerforhumanreprod.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.centralnation.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.centurys.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.certificate-transparency.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.certificate.revocationcheck.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cfhks.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cfos.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cfr.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cftfc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cgdepot.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cgst.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ch.shvoong.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.change.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.changeip.name$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.changeip.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.changeip.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.changp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.changsa.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.channelnewsasia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chaoex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chapm25.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chat.lmsys.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chatgpt.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chatnook.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chaturbate.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.checkgfw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chengmingmag.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chenguangcheng.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chenpokong.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chenpokong.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chenpokongvip.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chenshan20042005.wordpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cherrysave.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chhongbi.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chicagoncmtv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.china-mmm.jp.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.china-mmm.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.china-mmm.sa.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.china-review.com.ua$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.china-week.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.china.ucanews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.china101.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.china18.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.china21.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.china21.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.china5000.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinaaffairs.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinaaid.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinaaid.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinaaid.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinaaid.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinachange.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinachannel.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinacitynews.be$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinacomments.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinadialogue.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinadigitaltimes.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinaelections.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinaeweekly.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinafile.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinafreepress.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinagate.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinageeks.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinagfw.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinagonet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinagreenparty.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinahorizon.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinahush.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinainperspective.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinainterimgov.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinalaborwatch.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinalawandpolicy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinalawtranslate.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinamule.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinamz.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinanewscenter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinapost.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinapress.com.my$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinarightsia.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinasmile.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinasocialdemocraticparty.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinasoul.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinasucks.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinatimes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinatopsex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinatown.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinatweeps.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinaview.wordpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinaway.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinaworker.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinaxchina.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinayouth.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinayuanmin.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinese-hermit.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinese-leaders.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinese-memorial.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinese.donga.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinese.engadget.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinese.irib.ir$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinese.soifind.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinesedaily.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinesedailynews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinesedemocracy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinesegay.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinesen.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinesenews.net.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinesepen.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chineseradioseattle.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinesetalks.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chineseupress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chingcheong.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chinman.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chithu.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chobit.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chrdnet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.christianfreedom.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.christianstudy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.christiantimes.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.christusrex.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chrlawyers.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chrome.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chromecast.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chromeenterprise.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chromeexperiments.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chromercise.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chromestatus.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chromium.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chuang-yen.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chubold.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chubun.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.churchinhongkong.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.chushigangdrug.ch$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ciciai.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cienen.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cineastentreff.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cipfg.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.circlethebayfortibet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cirosantilli.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.citizencn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.citizenlab.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.citizenlab.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.citizenscommission.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.citizensradio.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.city365.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.city9x.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.citypopulation.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.citytalk.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.civicparty.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.civildisobediencemovement.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.civilhrfront.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.civiliangunner.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.civilmedia.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.civitai.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ck101.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cl.d0z.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.clarionproject.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.classicalguitarblog.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.claude.ai$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.clb.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cldr.unicode.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cleansite.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cleansite.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cleansite.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.clearharmony.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.clearsurance.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.clearwisdom.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.clementine-player.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cling.omy.sg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.clinica-tibet.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.clipfish.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cloakpoint.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cloud.mail.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cloudflare-ipfs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cloudfunctions.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.club1069.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.clubhouseapi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.clyp.it$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cmcn.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cmegroup.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cmi.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cmp.hku.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cms.gov$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cmule.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cmule.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cmx.im$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cn-proxy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cn.dayabook.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cn.fmnnow.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cn.freeones.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cn.giganews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cn.ibtimes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cn.nytstyle.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cn.sandscotaicentral.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cn.shafaqna.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cn.streetvoice.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cn.theaustralian.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cn.uncyclopedia.wikia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cn.uptodown.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cn.voa.mobi$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cn2.streetvoice.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cn6.eu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cna.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cnabc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cnbbnews.wordpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cnd.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cnex.org.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cnineu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cnn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cnnews.chosun.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cnpolitics.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cnproxy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.co.ng.mil$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.coat.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cobinhood.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cochina.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cochina.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.code1984.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.codeshare.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.codeskulptor.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.coin2co.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.coinbene.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.coinegg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.coinex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.coingecko.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.coingi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.coinmarketcap.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.coinrail.co.kr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cointiger.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cointobe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.coinut.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.collateralmurder.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.collateralmurder.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.com.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.comefromchina.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.comic-mega.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.commandarms.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.comments.app$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.commentshk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.communistcrimes.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.community.windy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.communitychoicecu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.comparitech.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.compileheart.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.compress.to$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.connect.facebook.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.conoha.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.contactmagazine.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.contests.twilio.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.convio.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.coobay.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cool18.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.coolaler.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.coolder.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.coolloud.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.coolncute.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.coolstuffinc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.corumcollege.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cos-moe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cosmic.monar.ch$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cosplayjav.pl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.costco.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cotweet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.counter.social$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.coursehero.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.coze.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cpj.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cq99.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.crackle.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.crazys.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.crazyshit.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.crbug.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.crchina.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.crd-net.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.creaders.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.creadersnet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.creativelab5.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.crisisresponse.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cristyli.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.crocotube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.crossfire.co.kr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.crossthewall.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.crossvpn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.croxyproxy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.crrev.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.crucial.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.crunchyroll.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.csdparty.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.csis.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.csmonitor.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.css.pixnet.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.csuchen.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.csw.org.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ct.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ctao.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ctfriend.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ctitv.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ctowc.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cts.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ctwant.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cuhkacs.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cuihua.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cuiweiping.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.culture.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cumlouder.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.curvefish.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cusp.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cusu.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cutscenes.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cw.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cyberghost.natado.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cyberghostvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cynscribe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.cytode.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.d-fukyu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.d100.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.d1b183sg0nvnuh.cloudfront.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.d1c37gjwa26taa.cloudfront.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.d2bay.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.d2pass.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.d3c33hcgiwev3.cloudfront.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.d3rhr7kgmtrq1v.cloudfront.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dabr.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dabr.eu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dabr.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dabr.mobi$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dadazim.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dadi360.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dafabet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dafagood.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dafahao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dafoh.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.daftporn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dagelijksestandaard.nl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.daidostup.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dailidaili.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dailymail.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dailymotion.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dailynews.sina.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dailysabah.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dailyview.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.daiphapinfo.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dajiyuan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dajiyuan.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dajiyuan.eu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dajusha.baywords.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dalailama-archives.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dalailama.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dalailama.mn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dalailama.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dalailama80.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dalailamacenter.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dalailamafellows.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dalailamafilm.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dalailamafoundation.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dalailamahindi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dalailamainaustralia.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dalailamajapanese.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dalailamaprotesters.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dalailamaquotes.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dalailamatrust.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dalailamavisit.org.nz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dalailamaworld.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dalianmeng.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.daliulian.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.danbooru.donmai.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.danke4china.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.daodu14.jigsy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.daolan.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.darktech.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.darktoy.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.darpa.mil$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.darrenliuwei.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dastrassi.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.data-vocabulary.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.data.flurry.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.data.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.daum.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.david-kilgour.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dawangidc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.daxa.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.daylife.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.db.tt$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dbc.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dbgjd.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dcard.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dcmilitary.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ddc.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ddhw.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ddns.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ddns.me.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ddns.mobi$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ddns.ms$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ddns.name$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ddns.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ddns.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.de-sci.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.deadline.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.deaftone.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.debug.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.deck.ly$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.decodet.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.deepmind.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.deezer.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.definebabe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.deja.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.delcamp.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.delicious.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.demo.opera-mini.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.democrats.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.demosisto.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.depositphotos.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.derekhsu.homeip.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.desc.se$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.design.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.desipro.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dessci.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.destiny.xfiles.to$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.destroy-china.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.deutsche-welle.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.developers.box.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.deviantart.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.deviantart.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.devio.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.devpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.devv.ai$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dfas.mil$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dfn.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dharamsalanet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dharmakara.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dhcp.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.diaoyuislands.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.difangwenge.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.digiland.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.digisfera.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.digitalnomadsproject.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.diigo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dilber.se$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dingchin.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dipity.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.directcreative.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.discoins.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.disconnect.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.discord.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.discord.gg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.discordapp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.discordapp.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.discuss.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.discuss4u.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dish.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.disk.yandex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.disk.yandex.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.disp.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.disqus.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dit-inc.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dizhidizhi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dizhuzhishang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.djangosnippets.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.djorz.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dl-laby.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dl.box.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dlive.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dlsite.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dlyoutube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dm530.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dmc.nico$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dmcdn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dmhy.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dmm.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dns-dns.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dns-stuff.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dns.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dns04.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dns05.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dns1.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dns2.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dns2go.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dnscrypt.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dnset.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dnsrd.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dnssec.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dnvod.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.doctorvoice.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.documentingreality.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dogfartnetwork.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dojin.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dok-forum.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dolc.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dolf.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dollf.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.domain.club.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.domains.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.domaintoday.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dongtaiwang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dongtaiwang.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dongyangjing.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dontfilter.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dontmovetochina.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dorjeshugden.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dotplane.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dotsub.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dotvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.doub.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.doubibackup.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.doublethinklab.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.doubmirror.cf$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dougscripts.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.douhokanko.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.doujincafe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dowei.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.download.aircrack-ng.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.download.cnet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dphk.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dpp.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dpr.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dragonex.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dragonsprings.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dreamamateurs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.drepung.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.drgan.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.drmingxia.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dropbooks.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dropbox.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dropboxusercontent.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.drsunacademy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.drtuber.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dscn.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dsmtp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dstk.dk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dtdns.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dtiblog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dtic.mil$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dtwang.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.duanzhihu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dubox.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.duck.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.duckdns.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.duckduckgo-owned-server.yahoo.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.duckduckgo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.duckload.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.duckmylife.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.duga.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.duihua.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.duihuahrjournal.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dumb1.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dunyabulteni.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.duoweitimes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.duping.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.duplicati.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dupola.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dupola.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dushi.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.duyaoss.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dvdpac.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dvorak.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dw-world.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dw-world.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dw.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dwnews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dwnews.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dynamic-dns.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dynamicdns.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dynamicdns.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dynamicdns.me.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dynamicdns.org.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dynawebinc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dyndns-ip.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dyndns-pics.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dyndns.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dyndns.pro$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dynssl.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dynu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dynu.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dynupdate.no-ip.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dysfz.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.dzze.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.e-classical.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.e-gold.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.e-hentai.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.e-hentaidb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.e-info.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.e-traderland.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.e-zone.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.e123.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.earlytibet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.earthcam.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.earthvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eastern-ark.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.easternlightning.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eastturkestan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eastturkistan-gov.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eastturkistancc.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eastturkistangovernmentinexile.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.easyca.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.easypic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ebony-beauty.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ebook.hyread.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ebookbrowse.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ebookee.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ebtcbank.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ecfa.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.echofon.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ecimg.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ecministry.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.economist.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ecsm.vs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.edgecastcdn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.edicypages.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.edmontonchina.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.edmontonservice.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.edns.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.edoors.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.edubridge.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.edupro.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eeas.europa.eu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eesti.ee$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eevpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.efcc.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.effers.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.efksoft.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.efukt.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eic-av.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eireinikotaerukai.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eisbb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eksisozluk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.electionsmeter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.elgoog.im$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ellawine.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.elpais.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eltondisney.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.emaga.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.emanna.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.emilylau.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.empfil.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.emule-ed2k.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.emulefans.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.emuparadise.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.en.favotter.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.en.hao123.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.enanyang.my$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.encrypt.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.encyclopedia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.enewstree.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.enfal.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.engagedaily.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.englishforeveryone.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.englishfromengland.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.englishpen.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.enlighten.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.entermap.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.environment.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.epa.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.epac.to$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.episcopalchurch.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.epochhk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.epochtimes-bg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.epochtimes-romania.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.epochtimes.co.il$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.epochtimes.co.kr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.epochtimes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.epochtimes.cz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.epochtimes.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.epochtimes.fr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.epochtimes.ie$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.epochtimes.it$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.epochtimes.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.epochtimes.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.epochtimes.se$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.epochtimestr.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.epochweek.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.epochweekly.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eporner.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.equinenow.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.erabaru.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eracom.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eraysoft.com.tr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.erepublik.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.erights.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eriversoft.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.erktv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ernestmandel.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.erodaizensyu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.erodoujinlog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.erodoujinworld.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eromanga-kingdom.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eromangadouzin.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eromon.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eroprofile.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eroticsaloon.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.esg.t91y.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eslite.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.esmtp.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.esu.dog$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.esurance.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.etaa.org.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.etadult.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.etaiwannews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.etherdelta.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ethermine.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.etherscan.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.etizer.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.etokki.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.etools.ncol.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.etowns.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.etowns.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.etsy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ettoday.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.etvonline.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eu.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eucasino.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eulam.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eurekavpt.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.euronews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.evchk.wikia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.evschool.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.exblog.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.exchristian.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.exhentai.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.exmo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.exmormon.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.expatshield.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.expecthim.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.expekt.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.experts-univers.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.exploader.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.expressvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.exrates.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.extmatrix.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.extremetube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.exx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eyevio.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.eyny.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ezpc.tk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ezpeer.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ezua.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.f2pool.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.f8.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fa.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.facebook.br$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.facebook.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.facebook.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.facebook.design$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.facebook.hu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.facebook.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.facebook.nl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.facebook.se$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.facebookmail.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.facebookquotes4u.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.faceless.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.facesofnyfw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.facesoftibetanselfimmolators.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.factpedia.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fail.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.faith100.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.faithfuleye.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.faiththedog.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fakku.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fallenark.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falsefire.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falun-co.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falun-ny.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falun.caltech.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falunart.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falunasia.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falunau.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falunaz.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falundafa-dc.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falundafa-florida.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falundafa-nc.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falundafa-pa.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falundafa-sacramento.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falundafa.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falundafaindia.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falundafamuseum.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falungong.club$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falungong.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falungong.org.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falunhr.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.faluninfo.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.faluninfo.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falunpilipinas.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.falunworld.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.familyfed.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.famunion.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fan-qiang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fangbinxing.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fangeming.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fangeqiang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fanglizhi.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fangmincn.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fangong.forums-free.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fangong.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fangongheike.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fanhaodang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fanhaolou.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fanqiang.network$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fanqiang.tk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fanqiangdang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fanqianghou.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fanqiangyakexi.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fanqiangzhe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fanswong.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fantv.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fanyue.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fapdu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.faproxy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.faqserv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fartit.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.farwestchina.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fast.wistia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fastestvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fastpic.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fastssh.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.faststone.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fatbtc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.favstar.fm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fawanghuihui.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.faydao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.faz.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fb.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fb.watch$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fbaddins.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fbcdn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fbsbx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fbworkmail.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fc2.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fc2blog.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fc2china.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fc2cn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fda.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fdc64.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fdc64.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fdc89.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.feedburner.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.feeder.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.feedly.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.feeds.fileforum.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.feedx.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.feelssh.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.feer.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.feifeiss.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.feitian-california.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.feitianacademy.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.feixiaohao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.feministteacher.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fengzhenghu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fengzhenghu.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fevernet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ff.im$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fffff.at$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fflick.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ffvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fgmtv.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fgmtv.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fhreports.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fiddle.jshell.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.figprayer.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fileflyer.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.files2me.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fileserve.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.filesor.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fillthesquare.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.filmingfortibet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.filmy.olabloga.pl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.filthdump.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.financetwitter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.finchvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.findmespot.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.findyoutube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.findyoutube.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fingerdaily.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.finler.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.firearmsworld.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.firebaseio.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fireofliberty.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.firetweet.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.firstfivefollowers.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.firstpost.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.firstrade.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.flagsonline.it$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.flecheinthepeche.fr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fleshbot.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fleursdeslettres.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.flgg.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.flgjustice.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.flickr.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.flickrhivemind.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.flickriver.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fling.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.flipboard.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.flipkart.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.flitto.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.flnet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.flog.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.flyvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.flyzy2005.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fnac.be$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fnac.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fnc.ebc.net.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fochk.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.focustaiwan.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.focusvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fofg-europe.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fofg.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fofldfradio.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fooooo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.foreignaffairs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.foreignpolicy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.forum.baby-kingdom.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.forum.cyberctm.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.forum.idsam.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.forum.my903.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.forum.mymaji.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.forum.omy.sg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.forum.palmislife.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.forum.setty.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.forum.sina.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.forum.slime.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.forum.tvb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.forum.xinbao.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.forum4hk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fotile.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fourface.nodesnoop.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fourthinternational.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.foxdie.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.foxgay.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.foxsub.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.foxtang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fpmt-osel.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fpmt.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fpmt.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fpmtmexico.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fq.wikia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fqok.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fqrouter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.franklc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freakshare.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.free-gate.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.free-hada-now.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.free-proxy.cz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.free-ss.site$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.free-ssh.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.free.fr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.free4u.com.ar$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freealim.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freebeacon.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freebrowser.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freechal.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freechina.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freechina.news$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freechinaforum.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freechinaweibo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freeddns.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freeddns.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freedomchina.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freedomcollection.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freedomhouse.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freedominfonetweb.wordpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freedomsherald.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freeforums.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freefq.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freefuckvids.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freegao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freehongkong.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freeilhamtohti.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freekazakhs.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freekwonpyong.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freelotto.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freeman2.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freemoren.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freemorenews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freemuse.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freenet-china.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freenetproject.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freenewscn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freeopenvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freeoz.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freessh.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freetcp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freetibet.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freetibet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freetibetanheroes.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freetribe.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freeviewmovies.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freevpn.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freevpn.nl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freewallpaper4.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freewebs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freewechat.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freeweibo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freewww.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freewww.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freexinwen.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freeyellow.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.freeyoutubeproxy.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.friendfeed-media.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.friendfeed.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.friends-of-tibet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.friendsoftibet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fring.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fringenetwork.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.from-pr.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.from-sd.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fromchinatousa.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.frommel.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.frontlinedefenders.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.frootvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fscked.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fsurf.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ftchinese.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ftp1.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ftpserver.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ftv.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ftvnews.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ftx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fucd.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fuckcnnic.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fuckgfw.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fulione.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fullerconsideration.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fulue.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.funf.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.funkyimg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.funp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fuq.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.furbo.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.furhhdl.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.furinkan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.furl.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.futurechinaforum.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.futuremessage.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fux.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fuyin.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fuyindiantai.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fuyu.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fw.cm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fxcm-chinese.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fxnetworks.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fzh999.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fzh999.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.fzlm.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.g-area.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.g-queen.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.g.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.g0v.social$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.g6hentai.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gab.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gabocorp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gaeproxy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gaforum.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gagaoolala.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.galaxymacau.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.galenwu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.galstars.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.game735.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gamebase.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gamejolt.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gamer-cds.cdn.hinet.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gamer.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gamer2-cds.cdn.hinet.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gamez.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gamousa.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ganges.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ganjing.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ganjingworld.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gaoming.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gaopi.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gaozhisheng.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gaozhisheng.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gardennetworks.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gardennetworks.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gartlive.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gate-project.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gate.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gatecoin.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gather.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gatherproxy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gati.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gaybubble.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gaycn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gayhub.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gaymap.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gaymenring.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gaytube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gaywatch.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gazotube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gcc.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gclooney.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gclubs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gcmasia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gcpnews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gcr.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gdbt.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gdzf.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.geek-art.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.geekerhome.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.geekheart.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gekikame.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gelbooru.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.generated.photos$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.genius.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.geocities.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.geocities.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.geocities.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.geph.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gerefoundation.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.get.app$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.get.dev$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.get.how$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.get.page$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.getastrill.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.getchu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.getcloak.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.getfoxyproxy.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.getfreedur.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.getgom.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.geti2p.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.getiton.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.getjetso.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.getlantern.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.getmalus.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.getmdl.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.getoutline.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.getsocialscope.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.getsync.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gettr.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gettrials.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gettyimages.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.getuploader.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gfbv.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gfgold.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gfsale.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gfw.org.ua$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gfw.press$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gfw.report$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ggpht.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ggssl.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ghidra-sre.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ghostpath.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ghut.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.giantessnight.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gifree.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.giga-web.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gigporno.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.girlbanker.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.git.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.github.blog$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.github.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.github.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.githubassets.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.githubusercontent.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gizlen.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gjczz.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.glass8.eu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.global.bing.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.globaljihad.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.globalmediaoutreach.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.globalmuseumoncommunism.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.globalrescue.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.globaltm.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.globalvoices.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.globalvoicesonline.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.globalvpn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.glock.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gloryhole.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.glorystar.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gluckman.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.glype.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gmail.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gmgard.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gmhz.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gmll.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gmodules.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gmozomg.izihost.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gnci.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gnews.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.go-pki.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.go.nesnode.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.go141.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goagent.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goagent.codeplex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goagentplus.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gobet.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.godaddy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.godfootsteps.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.godns.work$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.godoc.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.godsdirectcontact.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.godsdirectcontact.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.godsdirectcontact.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.godsimmediatecontact.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gofundme.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gogotunnel.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gohappy.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gojet.krtco.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gokbayrak.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.golang.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goldbet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goldbetsports.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.golden-ages.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goldeneyevault.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goldenfrog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goldjizz.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goldstep.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goldwave.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gongm.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gongmeng.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gongminliliang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gongwt.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goo.gl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goo.gle$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goo.ne.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gooday.xyz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gooddns.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goodhope.school$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goodreaders.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goodreads.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goodtv.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goodtv.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goofind.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.ad$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.ae$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.al$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.am$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.as$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.at$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.az$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.ba$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.be$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.bf$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.bg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.bi$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.bj$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.bs$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.bt$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.by$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.cat$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.cd$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.cf$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.cg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.ch$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.ci$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.cl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.cm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.ao$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.bw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.ck$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.cr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.id$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.il$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.ke$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.kr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.ls$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.ma$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.mz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.nz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.th$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.tz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.ug$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.uz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.ve$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.vi$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.za$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.zm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.co.zw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.af$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.ag$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.ai$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.ar$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.bd$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.bh$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.bn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.bo$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.br$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.bz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.cu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.cy$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.do$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.ec$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.eg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.et$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.fj$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.gh$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.gi$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.gt$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.jm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.kh$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.kw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.lb$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.ly$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.mm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.mt$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.mx$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.my$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.na$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.nf$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.ng$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.ni$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.np$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.om$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.pa$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.pe$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.pg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.ph$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.pk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.pr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.py$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.qa$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.sa$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.sb$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.sg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.sl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.sv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.tj$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.tr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.ua$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.uy$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.vc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.com.vn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.cv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.cz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.dev$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.dj$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.dk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.dm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.dz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.ee$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.es$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.fi$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.fm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.fr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.ga$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.ge$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.gg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.gl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.gm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.gp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.gr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.gy$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.hn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.hr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.ht$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.hu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.ie$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.im$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.iq$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.is$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.it$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.je$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.jo$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.kg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.ki$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.kz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.la$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.li$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.lk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.lt$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.lu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.lv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.md$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.mg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.mk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.ml$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.mn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.ms$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.mu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.mv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.mw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.ne$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.nl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.no$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.nr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.nu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.pl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.pn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.ps$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.pt$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.ro$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.rs$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.rw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.sc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.se$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.sh$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.si$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.sk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.sm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.sn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.so$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.sr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.st$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.td$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.tg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.tk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.tl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.tm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.tn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.to$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.tt$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.vg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.vu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.google.ws$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googleapis.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googleapis.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googleapps.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googlearth.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googleartproject.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googleblog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googlebot.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googlechinawebmaster.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googlecode.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googlecommerce.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googledomains.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googledrive.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googleearth.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googlefiber.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googlegroups.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googlehosted.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googleideas.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googleinsidesearch.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googlelabs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googlemail.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googlemashups.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googlepagecreator.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googleplay.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googleplus.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googlescholar.comUSA$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googlesile.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googlesource.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googleusercontent.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googlevideo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googleweblight.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.googlezip.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gopetition.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goproxing.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goreforum.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.goregrish.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gospelherald.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.got-game.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gotdns.ch$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gotgeeks.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gotrusted.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gotw.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gov.taipei$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gr8domain.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gr8name.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.grammaly.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.grandtrial.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.grangorz.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.graph.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.graphis.ne.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.graphql.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gravatar.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.great-firewall.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.great-roc.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.greatfire.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.greatfire.us7.list-manage.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.greatfirewall.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.greatfirewallofchina.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.greatfirewallofchina.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.greatroc.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.greatroc.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.greatzhonghua.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.greenfieldbookstore.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.greenparty.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.greenpeace.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.greenpeace.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.greenreadings.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.greenvpn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.greenvpn.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.grindr.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.grotty-monday.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.groups.google.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.grow.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gs-discuss.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gsearch.media$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gsp.target.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gstatic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gtricks.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gts-vpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gtv.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gtv1.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gu-chu-sum.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.guaguass.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.guaguass.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.guancha.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.guaneryu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.guangming.com.my$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.guangnianvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.guardster.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.guishan.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gumroad.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gun-world.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gunsamerica.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gunsandammo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.guo.media$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.guruonline.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gutteruncensored.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gvlib.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gvm.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gvt0.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gvt1.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gvt3.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gwins.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gwtproject.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gyalwarinpoche.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gyatsostudio.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gzm.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.gzone-anime.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.h-china.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.h-moe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.h1n1china.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.h528.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.h5dm.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.h5galgame.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hacg.club$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hacg.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hacg.li$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hacg.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hacg.red$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hacken.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hacker.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hackmd.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hackthatphone.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hahlo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hakkatv.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.handcraftedsoftware.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hanime.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hanunyi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hao.news$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.happy-vpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.haproxy.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hardsextube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.harunyahya.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hautelook.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hautelookcdn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.have8.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hbg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hbo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hclips.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hd.stheadline.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hdlt.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hdtvb.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hdzog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.heartyit.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.heavy-r.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hec.su$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hecaitou.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hechaji.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.heeact.edu.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hegre-art.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.heix.pp.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.helloandroid.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.helloqueer.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.helloss.pw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hellotxt.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hellouk.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.help.linksalpha.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.helpeachpeople.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.helplinfen.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.helpster.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.helpuyghursnow.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.helpzhuling.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hentai.to$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hentaitube.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hentaivideoworld.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.heqinglian.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.heritage.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.heungkongdiscuss.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hexieshe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hexieshe.xyz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hexxeh.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.heyuedi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.heyzo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hgseav.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hhdcb3office.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hhthesakyatrizin.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hi-on.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hiccears.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hidden-advent.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hide.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hidecloud.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hidein.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hideipvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hideman.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hideme.nl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hidemy.name$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hidemyass.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hidemycomp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.higfw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.highpeakspureearth.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.highrockmedia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hihiforum.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hihistory.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hiitch.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hikinggfw.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hilive.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.himalayan-foundation.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.himalayanglacier.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.himemix.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.himemix.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hitbtc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hitomi.la$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hiwifi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hizb-ut-tahrir.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hizb-ut-tahrir.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hizbuttahrir.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hjclub.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hk-pub.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hk.frienddy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hk.geocities.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hk.gradconnection.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hk.hao123img.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hk.jiepang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hk.knowledge.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hk.myblog.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hk.news.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hk.rd.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hk.search.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hk.video.news.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hk.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hk01.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hk32168.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hka8964.wordpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkacg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkacg.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkanews.wordpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkatvnews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkbc.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkbf.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkbookcity.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkchronicles.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkchurch.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkci.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkcmi.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkcnews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkcoc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkcoc.weather.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkctu.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkdailynews.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkday.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkdc.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkdf.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkej.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkepc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hket.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkfaa.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkfreezone.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkfront.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkgalden.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkgolden.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkgpao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkgreenradio.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkheadline.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkhkhk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkhrc.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkhrm.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkip.org.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkjc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkjp.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hklft.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hklts.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkmap.live$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkopentv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkpeanut.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkptu.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkreporter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkreporter.loved.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkupop.hku.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkusu.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkvwet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkwcc.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hkzone.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hmoegirl.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hmonghot.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hmv.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hmvdigital.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hmvdigital.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hnjhj.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hnntube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hojemacau.com.mo$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hola.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hola.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.holymountaincn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.holyspiritspeaks.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.home.sina.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.home.so-net.net.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.homedepot.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.homeperversion.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.homeservershow.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hongkong.fandom.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hongkongfp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hongmeimei.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hongzhi.li$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.honven.xyz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hootsuite.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hoover.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hoovers.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hopedialogue.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hopto.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hornygamer.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hornytrip.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.horrorporn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hostloc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hotair.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hotav.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hotcoin.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hotels.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hotfrog.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hotgoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hotpornshow.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hotpot.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hotshame.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hotspotshield.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hottg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hotvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hougaige.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.howtoforge.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hoxx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hpa.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hqcdp.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hqjapanesesex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hqmovies.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hqsbnet.wordpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hqsbonline.wordpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hrcchina.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hrcir.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hrea.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hrichina.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hrntt.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hrtsea.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hrw.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hrweb.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hsjp.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hsselite.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hst.net.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hstern.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hstt.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ht.ly$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.htkou.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.htl.li$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.html5rocks.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.https443.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.https443.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hua-yue.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huaglad.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huanghuagang.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huangyiyu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huaren.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huaren4us.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huashangnews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huaxia-news.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huaxiabao.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huaxin.ph$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huayuworld.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hub.docker.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hudatoriq.web.id$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hudson.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huffingtonpost.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huffpost.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huggingface.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hugoroy.eu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huhaitai.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huhamhire.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huhangfei.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huiyi.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hulkshare.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hulu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huluim.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.humanparty.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.humanrightspressawards.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hung-ya.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hungerstrikeforaids.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huobi.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huobi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huobi.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huobi.pro$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huobi.sc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huobipro.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huping.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hurgokbayrak.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hurriyet.com.tr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hustlercash.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hut2.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hutianyi.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hutong9.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.huyandex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hwadzan.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hwayue.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hwinfo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hxwk.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hxwq.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hybrid-analysis.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.hyperrate.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.i-cable.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.i-part.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.i-scmp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.i.lithium.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.i1.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.i2p2.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.i2runner.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.i818hk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iam.soy$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iamtopone.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iask.bz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iask.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iav19.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ibiblio.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ibit.am$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iblist.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iblogserv-f.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ibros.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ibvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.icams.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ice.audionow.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.icedrive.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.icij.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.icl-fi.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.icoco.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iconpaper.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.icu-project.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.id.hao123.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.id.heroku.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.idemocracy.asia$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.identi.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.idiomconnection.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.idouga.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.idreamx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.idv.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ieasy5.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ied2k.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ienergy1.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iepl.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ifan.cz.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ifanqiang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ifcss.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ifjc.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ifreewares.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ift.tt$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.igcd.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.igfw.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.igfw.tech$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.igmg.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ignitedetroit.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.igoogle.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.igotmail.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.igvita.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ihakka.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ihao.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iicns.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iipdigital.usembassy.gov$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ikstar.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ikwb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ilbe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ilhamtohtiinstitute.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.illusionfactory.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ilove80.be$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ilovelongtoes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.im.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.im88.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.imageab.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.imagefap.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.imageflea.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.imageglass.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.images-gaytube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.images.comico.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.imageshack.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.imagevenue.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.imagezilla.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.imb.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.imdb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.img.dlsite.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.img.ly$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.imgasd.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.imgchili.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.imgmega.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.imgur.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.imkev.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.imlive.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.immigration.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.immoral.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.impact.org.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.impp.mn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.in-disguise.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.in99.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.incapdns.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.incloak.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.incredibox.fr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.independent.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.indiablooms.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.indianarrative.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.indiandefensenews.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.indiemerch.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.info-graf.fr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.initiativesforchina.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.inkbunny.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.inkui.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.inmediahk.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.innermongolia.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.inoreader.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.inote.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.insecam.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.inside.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.insidevoa.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.instagram.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.instanthq.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.institut-tibetain.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.interactivebrokers.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.international-news.newsmagazine.asia$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.internet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.internetdefenseleague.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.internetfreedom.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.internetpopculture.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.inthenameofconfuciusmovie.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.investigating.wordpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.inxian.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iownyour.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iownyour.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ipalter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ipfire.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ipfs.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iphone4hongkong.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iphonehacks.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iphonetaiwan.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iphonix.fr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ipicture.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ipjetable.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ipobar.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ipoock.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iportal.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ippotv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ipredator.se$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iptv.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iptvbin.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ipvanish.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iredmail.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ironbigfools.compython.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ironpython.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ironsocket.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.is-a-hunter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.is.gd$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.isaacmao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.isasecret.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.isc.sans.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.isgreat.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.islahhaber.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.islam.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.islamawareness.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.islamhouse.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.islamicity.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.islamicpluralism.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.islamtoday.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ismaelan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ismalltits.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ismprofessional.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.isohunt.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.israbox.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.issuu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.istars.co.nz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.istiqlalhewer.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.istockphoto.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.isunaffairs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.isuntv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.isupportuyghurs.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.itaboo.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.itaiwan.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.italiatibet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.itasoftware.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.itemdb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.itemfix.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ithelp.ithome.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.its.caltech.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.itsaol.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.itshidden.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.itsky.it$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.itweet.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iu45.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iuhrdf.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iuksky.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ivacy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iverycd.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ivonblog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ivpn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iwara.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ixquick.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ixxx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iyouport.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.iyouport.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.izaobao.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.izles.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.izlesem.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.j.mp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ja.wikipedia.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jable.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jamaat.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jamestown.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jamyangnorbu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jan.ai$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jandyx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.janwongphoto.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.japan-whores.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.japanfirst.asianfreeforum.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.japantimes.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jav.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jav101.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jav2be.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jav68.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.javakiba.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.javbus.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.javfor.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.javhd.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.javhip.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.javhub.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.javhuge.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.javlibrary.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.javmobile.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.javmoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.javmoo.xyz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.javseen.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.javtag.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.javzoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jbtalks.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jbtalks.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jbtalks.my$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jcpenney.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jdwsy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jeanyim.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jetos.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jfqu36.club$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jfqu37.xyz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jgoodies.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jiangweiping.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jiaoyou8.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jichangtj.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jiehua.cz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jieshibaobao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jigglegifs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jigong1024.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jihadintel.meforum.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jihadology.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jiji.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jims.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jinbushe.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jingpin.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jingsim.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jinpianwang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jinroukong.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jintian.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jinx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jitouch.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jizzthis.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jjgirls.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jkb.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jkforum.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jkub.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jma.go.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jmscult.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.joachims.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jobnewera.wordpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jobso.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.joinclubhouse.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.joinmastodon.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jornaldacidadeonline.com.br$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.journalchretien.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.journalofdemocracy.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.joymiihub.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.joyourself.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jp.hao123.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jpl.nasa.gov$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jpopforum.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jsdelivr.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jtvnw.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jubushoushen.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.juhuaren.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jukujo-club.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.juliepost.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.juliereyc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.junauza.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.june4commemoration.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.junefourth-20.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jungleheart.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.juoaa.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.justdied.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.justfreevpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.justhost.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.justicefortenzin.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.justmysocks1.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.justpaste.it$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.justtristan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.juyuange.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.juziyue.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jwmusic.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.jyxf.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.k-doujin.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ka-wai.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kadokawa.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kagyu.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kagyu.org.za$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kagyumonlam.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kagyunews.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kagyuoffice.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kagyuoffice.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kaiyuan.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kakao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kalachakralugano.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kankan.today$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kannewyork.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kanshifang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kantie.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kanzhongguo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kanzhongguo.eu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kaotic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.karayou.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.karkhung.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.karmapa-teachings.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.karmapa.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kawaiikawaii.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kawase.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kb.monitorware.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kba-tx.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kcoolonline.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kebrum.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kechara.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.keepandshare.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.keezmovies.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kendatire.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kendincos.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kenengba.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.keontech.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kepard.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.keycdn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.khabdha.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.khatrimaza.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.khmusic.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kichiku-doujinko.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kik.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.killwall.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kindleren.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kineox.free.fr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kingdomsalvation.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kinghost.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kingstone.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kink.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kinmen.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kinmen.travel$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kinokuniya.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kir.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kissbbao.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kiwi.kz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kk-whys.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kkbox.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kknews.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kmuh.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.knowledgerush.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.knowyourmeme.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kobo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kobobooks.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kodingen.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kompozer.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.konachan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kone.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.koolsolutions.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.koornk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.koranmandarin.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.korenan2.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kqes.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kraken.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ksdl.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ksnews.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kspcoin.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ktzhk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kucoin.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kui.name$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kukuku.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kun.im$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kurashsultan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kurtmunger.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kusocity.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kwcg.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kwok7.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kwongwah.com.my$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kxsw.life$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kyofun.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kyohk.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kyoyue.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kyzyhello.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.kzeng.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.la-forum.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lab.skk.moe$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.labiennale.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ladbrokes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lagranepoca.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lala.im$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lalulalu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lama.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lamayeshe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lamnia.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lamrim.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.landofhope.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lanterncn.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lantosfoundation.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.laod.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.laogai.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.laogairesearch.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.laomiu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.laoyang.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.laptoplockdown.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.laqingdan.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.larsgeorge.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lastcombat.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lastfm.es$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.latelinenews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lausan.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lbank.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ld.hao123img.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.le-vpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.leafyvpn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lecloud.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ledger.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.leeao.com.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lefora.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.left21.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.legalporno.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.legaltech.law.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.legsjapan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.leirentv.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.leisurecafe.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.leisurepro.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lematin.ch$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lemonde.fr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lenwhite.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.leorockwell.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lerosua.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lers.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lesoir.be$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.letou.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.letscorp.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lflink.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lflinkup.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lflinkup.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lflinkup.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lhakar.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lhasocialwork.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.li.taipei$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.liangyou.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.liangzhichuanmei.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lianyue.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.liaowangxizang.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.liberal.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.libertysculpturepark.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.libertytimes.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.library.usc.cuhk.edu.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.libredd.it$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lifemiles.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lighten.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lighti.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lightnovel.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lightyearvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lihkg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.like.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.limiao.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.line-apps.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.line-scdn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.line.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.line.naver.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.linear-abematv.akamaized.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.linglingfa.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lingvodics.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.link-o-rama.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.linkedin.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.linkideo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.linkuswell.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.linux.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.linuxtoy.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lionsroar.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lipuman.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.liquiditytp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.liquidvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.listennotes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.listentoyoutube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.listorious.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lists.w3.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.liu-xiaobo.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.liudejun.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.liuhanyu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.liujianshu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.liuxiaobo.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.liuxiaotong.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.livecoin.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.livedoor.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.liveleak.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.livemint.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.livestream.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.livevideo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.livingonline.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.livingstream.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.liwangyang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lizhizhuangbi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lkcn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lncn.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.load.to$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lobsangwangyal.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.localbitcoins.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.localdomain.ws$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.localpresshk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lockestek.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.logbot.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.login.target.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.logiqx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.logos.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.londonchinese.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.longhair.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.longmusic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.longtermly.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.longtoes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lookpic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.looktoronto.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lotsawahouse.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lotuslight.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lotuslight.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lovetvshow.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lpsg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lrfz.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lrip.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lsd.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lsforum.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lsm.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lsmchinese.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lsmkorean.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lsmradio.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lsmwebcast.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lsxszzg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ltn.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.luckydesigner.space$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.luke54.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.luke54.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lupm.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lushstories.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.luxebc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lvhai.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lvv2.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lyfhk.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lzjscript.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.lzmtnews.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.m-team.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.m.hkgalden.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.m.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.m.plixi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.m.slandr.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ma.hao123.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.macgamestore.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.macrovpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.macts.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mad-ar.ch$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.madewithcode.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.madonna-av.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.madrau.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.madthumbs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.magazines.sina.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.magic-net.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mahabodhi.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.maiio.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mail-archive.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.maildns.xyz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.maiplus.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.maizhong.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.makemymood.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.makkahnewspaper.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.makzhou.warehouse333.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.malaysiakini.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mamingzhe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.manchukuo.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mandiant.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mangafox.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mangafox.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.maniash.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.manicur4ik.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mansion.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mansionpoker.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.manta.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.manyvoices.news$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.maplew.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.marc.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.marguerite.su$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.martau.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.martincartoons.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.martsangkagyuofficial.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.maruta.be$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.marxist.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.marxist.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.marxists.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mash.to$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.maskedip.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mastodon.cloud$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mastodon.host$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mastodon.social$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mastodon.xyz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.matainja.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.material.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mathable.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mathiew-badimon.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.matome-plus.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.matome-plus.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.matrix.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.matsushimakaede.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.matters.news$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.matters.town$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.matthewdgreen.wordpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mattwilcox.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.maturejp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.maxing.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mayimayi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mcadforums.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mcaf.ee$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mcfog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mcreasite.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.md-t.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.me.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.me.youthwant.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.meansys.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.media.nu.nl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.media.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mediachinese.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mediafire.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mediafreakcity.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.medium.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.meetav.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.meetup.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mefeedia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mefound.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mega.co.nz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mega.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mega.nz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.megaproxy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.megarotic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.megavideo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.megurineluka.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.meizhong.blog$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.meizhong.report$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.meltoday.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.meme.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.memehk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.memorybbs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.memri.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.memrijttm.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mercatox.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mercdn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mercyprophet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mergersandinquisitions.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.meridian-trust.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.meripet.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.meripet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.merit-times.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.meshrep.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mesotw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.messenger.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.meta.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.metacafe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.metafilter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.metart.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.metarthunter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.meteorshowersonline.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.metro.taipei$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.metrohk.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.metrolife.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.metroradio.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mewe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.meyou.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.meyul.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mfxmedia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mgoon.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mgstage.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mh4u.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mhradio.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.michaelanti.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.michaelmarketl.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.microvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.middle-way.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mihk.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mihr.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mihua.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mike.cz.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mikesoltys.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.milph.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.milsurps.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mimiai.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mimivip.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mimivv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mindrolling.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mingdemedia.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.minghui-a.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.minghui-b.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.minghui-school.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.minghui.or.kr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.minghui.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.minghuiyw.wordpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mingjinglishi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mingjingnews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mingjingtimes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mingpao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mingpaocanada.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mingpaomonthly.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mingpaonews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mingpaony.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mingpaosf.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mingpaotor.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mingpaovan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mingshengbao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.minhhue.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.miniforum.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ministrybooks.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.minzhuhua.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.minzhuzhanxian.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.minzhuzhongguo.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.miroguide.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mirrorbooks.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mirrormedia.mg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mist.vip$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mitao.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mitbbs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mitbbsau.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mixero.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mixi.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mixpod.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mixx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mizzmona.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mjib.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mjlsh.usc.cuhk.edu.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mk5000.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mlcool.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mlzs.work$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mm-cg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mmaaxx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mmmca.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mnewstv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mo.nightlife141.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mobatek.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mobile01.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mobileways.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.moby.to$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mobypicture.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mod.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.modernchinastudies.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.moeaic.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.moeerolibrary.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mofa.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mofaxiehui.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mofos.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mohu.club$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mohu.ml$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mohu.rocks$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mojim.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mol.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.molihua.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mondex.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.money-link.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.moneyhome.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.monica.im$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.monitorchina.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.monocloud.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.monster.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.moodyz.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.moon.fm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.moonbbs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.moonbingo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.moptt.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.morningsun.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.moroneta.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mos.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.motherless.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.motiyun.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.motor4ik.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mousebreaker.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.movements.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.moviefap.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mp3buscador.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mpettis.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mpfinance.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mpinews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mponline.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mqxd.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mrbasic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mrbonus.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mrface.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mrslove.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mrtweet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.msa-it.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.msguancha.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.msha.gov$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mswe1.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mthruf.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mtw.tl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mubi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.muchosucko.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mullvad.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.multiply.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.multiproxy.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.multiupload.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mummysgold.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.murmur.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.musicade.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.muslimvideo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.muzi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.muzi.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.muzu.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mvdis.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mvg.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mx.hao123.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mx981.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.my-formosa.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.my-private-network.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.my-proxy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.my.mail.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.my.opera.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.my.pcloud.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.my03.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myactimes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myanniu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myaudiocast.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myav.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mybbs.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mybet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myca168.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mycanadanow.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mychinamyhome.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mychinanet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mychinanews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mychinese.news$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mycnnews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mycould.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mydad.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myddns.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myeasytv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myeclipseide.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myforum.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myforum.com.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myfreecams.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myfreepaysite.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myfreshnet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myftp.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myftp.name$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myiphide.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mykomica.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mylftv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mymediarom.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mymoe.moe$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mymom.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mymusic.net.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mynetav.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mynetav.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mynumber.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myparagliding.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mypicture.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mypikpak.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mypop3.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mypop3.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mypopescu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myradio.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myreadingmanga.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mysecondarydns.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myshare.url.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mysinablog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mysite.verizon.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myspace.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myspacecdn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mytalkbox.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mytizi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.mywww.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.myz.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.naacoalition.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.naitik.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nakedsecurity.sophos.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nakido.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nakuz.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nalandabodhi.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nalandawest.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.namgyal.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.namgyalmonastery.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.namsisi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nanyang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nanyangpost.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nanzao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.naol.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.naol.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nat.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nat.moe$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.national-lottery.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nationalawakening.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nationalinterest.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nationalreview.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nationsonline.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nationwide.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.naughtyamerica.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.navyfamily.navy.mil$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.navyreserve.navy.mil$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.naweeklytimes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nbcnews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nbtvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nccwatch.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nch.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nchrd.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ncn.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nde.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ndi.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ndr.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ned.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nekoslovakia.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nemesis2.qx.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.neo-miracle.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.neowin.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nepusoku.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.net-fits.pro$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.netalert.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.netbirds.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.netcolony.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.netflav.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.netflix.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.netflix.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.netme.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.netsarang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.netsneak.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.network54.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.networkedblogs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.networktunnel.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.neverforget8964.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.new-3lunch.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.new-akiba.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.new96.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newcenturymc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newcenturynews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newchen.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newgrounds.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newhighlandvision.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newipnow.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newlandmagazine.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newmitbbs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newnews.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.news.cnyes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.news.ebc.net.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.news.hk.msn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.news.msn.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.news.nationalgeographic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.news.now.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.news.omy.sg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.news.seehua.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.news.sina.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.news.sina.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.news.sinchew.com.my$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.news.singtao.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.news.tvb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.news.tvbs.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.news.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.news.ycombinator.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.news100.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newsancai.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newschinacomment.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newscn.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newsdetox.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newsdh.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newsmax.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newspeak.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newstamago.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newstapa.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newstarnet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newstatesman.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newsweek.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newtaiwan.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newtalk.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newyorker.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.newyorktimes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nexon.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.next11.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nextdigital.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nextmag.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nextmedia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nexton-net.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nexttv.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nf.id.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nfjtyd.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nflxext.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nflximg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nflximg.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nflxso.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nflxvideo.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nga.mil$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ngensis.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ngodupdongchung.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nhentai.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nhi.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nhk-ondemand.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nic.cz.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nic.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nic.gov$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nicovideo.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nighost.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nikkei.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ninecommentaries.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ninjacloak.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ninjaproxy.ninja$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nintendium.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ninth.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nitter.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nitter.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nitter.pussthecat.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.niu.moe$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.niusnews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.njactb.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.njuice.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nko.navy.mil$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nlfreevpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nmsl.website$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nnews.eu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.no-ip.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nobel.se$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nobelprize.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nobodycanstop.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nofile.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nokogiri.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nokola.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.noodlevpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.norbulingka.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nordstrom.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nordstromimage.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nordstromrack.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nordvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.notepad-plus-plus.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.notify.dropboxapi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nottinghampost.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.novelasia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.now.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.now.im$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nownews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nowtorrents.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.noxinfluencer.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.noypf.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.npa.go.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.npa.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.npm.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.npnt.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nps.gov$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.npsboost.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nradio.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nrk.no$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ns01.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ns01.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ns01.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ns02.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ns02.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ns02.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ns1.name$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ns2.name$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ns3.name$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nsc.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ntbk.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ntbna.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ntbt.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ntd.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ntdtv.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ntdtv.co.kr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ntdtv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ntdtv.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ntdtv.cz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ntdtv.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ntdtv.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ntdtvla.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ntrfun.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ntsna.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nubiles.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nuexpo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nukistream.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nurgo-software.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nusatrip.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nutaku.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nutsvpn.work$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nuuvem.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nuvid.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nuzcom.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nvdst.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nvquan.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nvtongzhisheng.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nwtca.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ny.stgloballink.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ny.visiontimes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nyaa.eu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nyaa.si$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nybooks.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nydus.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nylon-angel.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nylonstockingsonline.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nypost.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nyt.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nytchina.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nytcn.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nytco.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nyti.ms$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nytimes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nytimes.map.fastly.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nytimg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nytstyle.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nzchinese.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.nzchinese.net.nz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.oanda.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.oann.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.observechina.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.obutu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.obyte.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ocaspro.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.occupytiananmen.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.oclp.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ocreampies.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ocry.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ocsp.int-x3.letsencrypt.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.october-review.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.oculus.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.oculuscdn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.odysee.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.oex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.offbeatchina.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.officeoftibet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ofile.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ogaoga.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ogate.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ohmyrss.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.oikos.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.oiktv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.oizoblog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ok.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.okayfreedom.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.okex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.okk.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.okx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.old-cat.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.old.honeynet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.old.nabble.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.olehdtv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.olevod.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.olumpo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.olympicwatch.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.omct.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.omgili.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.omni7.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.omnitalk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.omnitalk.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.omny.fm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.on.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.on2.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.onapp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.onedrive.live.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.onedumb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.onejav.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.onion.city$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.onion.ly$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.online.recoveryversion.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.onlinecha.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.onlineyoutube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.onlygayvideo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.onlytweets.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.onmoon.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.onmoon.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.onmypc.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.onmypc.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.onmypc.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.onmypc.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.onmypc.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.onthehunt.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ontrac.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.oopsforum.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.open.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.openai.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.openallweb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.opendemocracy.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.opendn.xyz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.openervpn.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.openid.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.openleaks.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.opensea.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.opensource.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.openstreetmap.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.opentech.fund$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.openvpn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.openvpn.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.openwebster.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.openwrt.org.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.opml.radiotime.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.opus-gaming.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ordns.he.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.organcare.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.organharvestinvestigation.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.organiccrap.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.orgasm.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.orgfree.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.oricon.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.orient-doll.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.orientaldaily.com.my$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.orn.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.orzistic.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.osfoora.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.otcbtc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.otnd.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.otto.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.otzo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ourdearamy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ourhobby.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.oursogo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.oursteps.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.oursweb.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ourtv.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.overcast.fm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.overdaily.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.overplay.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.oversea.istarshine.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ovpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ow.ly$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.owl.li$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.owltail.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.oxfordscholarship.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.oyax.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.oyghan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ozchinese.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ozvoice.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ozxw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ozyoyo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pachosting.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pacificpoker.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.packetix.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pacopacomama.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.padmanet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.page.bid.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.page.link$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.page2rss.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pagodabox.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.palacemoon.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.paldengyal.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.paljorpublications.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.paltalk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.panamapapers.sueddeutsche.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pandapow.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pandapow.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pandavpn-jp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pandavpnpro.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pandora.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pandora.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.panluan.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.panoramio.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pao-pao.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.paper.li$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.paperb.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.paradisehill.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.paradisepoker.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.parkansky.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.parler.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.parse.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.parsevideo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.partycasino.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.partypoker.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.passion.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.passiontimes.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.passwords.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.paste.ee$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pastebin.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pastie.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.patreon.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pawoo.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.paxful.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pbs.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pbwiki.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pbworks.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pbxes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pbxes.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pcanywhere.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pcc.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pcdvd.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pchome.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pcij.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pcstore.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pct.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pdetails.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pdproxy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pds.nasa.gov$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.peace.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.peacefire.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.peacehall.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pearlher.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.peeasian.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.peing.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pekingduck.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pemulihan.or.id$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pen.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.penchinese.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.penchinese.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.penthouse.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pentoy.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.peoplebookcafe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.peoplenews.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.peopo.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.percy.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.perfect-privacy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.perfectgirls.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.periscope.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.perplexity.ai$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.persecutionblog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.persiankitty.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.phapluan.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.phayul.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.philborges.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.phmsociety.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.phncdn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.phobos.apple.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.phosphation13.rssing.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.photodharma.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.photofocus.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.phuquocservices.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.picacomic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.picacomiccn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.picasaweb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.picidae.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.picturedip.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pictures.playboy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.picturesocial.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pimg.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pin-cong.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pin6.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pincong.rocks$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ping.fm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pinimg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pinkrod.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pinoy-n.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pinterest.at$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pinterest.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pinterest.co.kr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pinterest.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pinterest.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pinterest.com.mx$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pinterest.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pinterest.dk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pinterest.fr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pinterest.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pinterest.nl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pinterest.se$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pioneer-worker.forums-free.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pipii.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.piposay.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.piraattilahti.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.piring.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pixeldrain.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pixelqi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pixiv.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pixnet.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pki.goog$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.placemix.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.playboy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.playboyplus.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.player.fm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.playno1.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.playpcesor.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.plays.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.plexvpn.pro$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.plm.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.plunder.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.plurk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.plus.codes$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.plus28.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.plusbb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pmatehunter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pmates.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.po2b.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pobieramy.top$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.podbean.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.podcast.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.podictionary.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.poe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pokerstars.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pokerstars.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.politicalchina.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.politicalconsultation.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.politiscales.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.poloniex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.polymer-project.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.polymerhk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.poolin.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.popo.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.popvote.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.popxi.click$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.popyard.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.popyard.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.porn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.porn2.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.porn5.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pornbase.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pornerbros.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pornhd.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pornhost.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pornhub.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pornhubdeutsch.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pornmm.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pornoxo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pornrapidshare.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pornsharing.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pornsocket.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pornstarclub.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.porntube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.porntubenews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.porntvblog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pornvisit.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.port25.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.portablevpn.nl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.poskotanews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.post01.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.post76.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.post852.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.postadult.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.postimg.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.posts.careerengine.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.potato.im$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.potvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pourquoi.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.power.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.powerapple.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.powercx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.powerphoto.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.prayforchina.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.premeforwindows7.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.premproxy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.presentationzen.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.presidentlee.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.prestige-av.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pride.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.prism-break.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.prisoneralert.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pritunl.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.privacybox.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.private.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.privateinternetaccess.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.privatepaste.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.privatetunnel.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.privatevpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.privoxy.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.procopytips.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.project-syndicate.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.prosiben.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.proton.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.protonvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.provideocoalition.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.provpnaccounts.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.proxfree.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.proxifier.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.proxomitron.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.proxpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.proxyanonimo.es$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.proxydns.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.proxylist.org.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.proxynetwork.org.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.proxypy.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.proxyroad.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.proxytunnel.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.proyectoclubes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.prozz.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.psblog.name$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pscp.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pshvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.psiphon.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.psiphon.civisec.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.psiphon3.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.psiphontoday.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pstatic.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pt.im$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pts.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ptt.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pttgame.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pttvan.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pubu.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.puffinbrowser.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.puffstore.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pullfolio.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pulse.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.punyu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pure18.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pureconcepts.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pureinsight.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.purepdf.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.purevpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.purplelotus.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.purpose.nike.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pursuestar.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pushchinawall.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pussyspace.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.putihome.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.putlocker.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.putty.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.puuko.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pwned.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pximg.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.python.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.python.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pythonhackers.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.pytorch.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qanote.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qbittorrent.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qgirl.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qhigh.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qi-gong.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qianbai.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qiandao.today$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qiangwaikan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qiangyou.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qidian.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qienkuen.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qiwen.lu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qixianglu.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qkshare.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qoos.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qpoe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qq.co.za$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qstatus.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qtrac.eu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qtweeter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.quannengshen.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.quantumbooter.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.questvisual.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.quitccp.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.quitccp.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.quiz.directory$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.quora.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.quoracdn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.quran.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.quranexplorer.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qusi8.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qvodzy.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qxbbs.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.qz.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.r0.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.r18.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.radicalparty.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.radiko.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.radio-canada.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.radio.garden$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.radioaustralia.net.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.radiohilight.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.radioline.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.radiovaticana.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.radiovncr.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rael.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.raggedbanner.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.raidcall.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.raidtalk.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rainbowplan.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.raindrop.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.raizoji.or.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ramcity.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rangwang.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rangzen.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rangzen.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ranyunfei.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rapbull.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rapidmoviez.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rapidvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rarbgprx.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.raremovie.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.raremovie.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rateyourmusic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rationalwiki.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.raw.githack.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rawgit.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rawgithub.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.razyboard.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rcam.target.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rcinet.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rconversation.blogs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rd.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rdio.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.read01.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.read100.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.readingtimes.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.readmoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.readydown.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.realcourage.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.realforum.zkiz.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.realitykings.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.realraptalk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.realsexpass.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.reason.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rebatesrule.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.recordhistory.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.recovery.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.recoveryversion.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.red-lang.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.redballoonsolidarity.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.redbubble.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.redchinacn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.redchinacn.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.redd.it$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.reddit.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.redditlist.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.redditmedia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.redditstatic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.redhotlabs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.redtube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.referer.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.reflectivecode.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.registry.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.relaxbbs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.relay.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.relay.firefox.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.releaseinternational.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.religionnews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.religioustolerance.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.renminbao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.renyurenquan.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.research.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.research.jmsc.hku.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.resilio.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.resistchina.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.retweeteffect.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.retweetist.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.retweetrank.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.reuters.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.reutersmedia.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.revleft.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.revver.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rfa.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rfachina.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rfalive1.akacast.akamaistream.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rfamobile.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rfaweb.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rferl.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rfi.fr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rfi.my$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rightbtc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rigpa.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.riku.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rileyguide.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.riseup.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ritouki.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ritter.vg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rixcloud.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rixcloud.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rlwlw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rmbl.ws$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rmjdw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rmjdw132.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.roadshow.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.roboforex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.robustnessiskey.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rocket-inc.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rocksdb.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rojo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rolfoundation.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rolia.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rolsociety.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ronjoneswriter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.roodo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rosechina.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rotten.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rou.video$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rsdlmonitor.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rsf-chinese.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rsf.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rsgamen.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rsshub.app$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rssmeme.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rtalabel.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rthk.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rthk.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rthklive2-lh.akamaihd.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rti.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rti.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rtycminnesota.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ruanyifeng.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rukor.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rule34.xxx$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rumble.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.runbtx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rushbee.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rusvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ruten.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rutracker.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rutube.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ruyiseek.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.rxhj.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.s-cute.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.s-dragon.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.s.yimg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.s1.nudezz.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.s1heng.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.s1s1s1.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.s3-ap-northeast-1.amazonaws.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.s3-ap-southeast-2.amazonaws.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.s3.amazonaws.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.s8forum.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sa.hao123.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sacks.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sacom.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sadistic-v.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sadpanda.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.safechat.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.safeguarddefenders.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.safervpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.safety.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.saintyculture.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.saiq.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sakuralive.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sakya.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.salvation.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.samair.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sambhota.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sankakucomplex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sankei.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sanmin.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sapikachu.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.saveliuxiaobo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.savemedia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.savethedate.foo$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.savethesounds.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.savetibet.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.savetibet.fr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.savetibet.nl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.savetibet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.savetibet.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.savetibetstore.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.saveuighur.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.savevid.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.say2.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sbme.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sbs.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.scache.vzw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.scache1.vzw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.scache2.vzw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.scasino.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.schema.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sciencenets.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.scieron.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.scmp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.scmpchinese.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.scramble.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.scratch.mit.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.scribd.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.scriptspot.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.search.aol.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.search.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.search.xxx$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.search.yahoo.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.search.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.searchtruth.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.searx.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.seattlefdc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.secretchina.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.secretgarden.no$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.secretsline.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.secure.hustler.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.secure.logmein.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.secure.raxcdn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.secureservercdn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.securetunnel.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.securityinabox.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.securitykiss.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.seed4.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.seesmic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.seevpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.seezone.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sejie.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sellclassics.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sendsmtp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sendspace.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sensortower.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.servehttp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.serveuser.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.serveusers.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sesawe.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sesawe.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sethwklein.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.setn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.settv.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sevenload.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sex-11.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sex3.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sex8.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sexandsubmission.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sexbot.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sexhu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sexhuang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sexidude.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sexinsex.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sextvx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sexxxy.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sf.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sfileydy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sfshibao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sftindia.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sftuk.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shadeyouvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shadow.ma$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shadowsky.xyz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shadowsocks-r.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shadowsocks.asia$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shadowsocks.be$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shadowsocks.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shadowsocks.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shadowsocks.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shadowsocks9.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shahit.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shambalapost.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shambhalasun.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shangfang.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shapeservices.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.share.america.gov$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.share.dmhy.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.share.ovi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.share.youthwant.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sharebee.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sharecool.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sharpdaily.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sharpdaily.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sharpdaily.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shat-tibet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shattered.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sheikyermami.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shellfire.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shenshou.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shenyun.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shenyunperformingarts.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shenyunshop.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shenzhoufilm.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shenzhouzhengdao.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sherabgyaltsen.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shiatv.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shicheng.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shiksha.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shinychan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shipcamouflage.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shireyishunjian.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shitaotv.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shixiao.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shizhao.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shkspr.mobi$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shodanhq.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shooshtime.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shop2000.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shopee.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shopping.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.showbiz.omy.sg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.showhaotu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.showtime.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.showwe.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shutterstock.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shwchurch.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.shwchurch3.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.siddharthasintent.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sidelinesnews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sidelinessportseatery.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sierrafriendsoftibet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.signal.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sijihuisuo.club$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sijihuisuo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.silkbook.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.simbolostwitter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.simplecd.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.simpleproductivityblog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sinchew.com.my$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.singaporepools.com.sg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.singfortibet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.singpao.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.singtao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.singtaousa.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sino-monthly.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sinoants.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sinoca.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sinocast.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sinocism.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sinoinsider.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sinomontreal.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sinonet.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sinopitt.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sinoquebec.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sipml5.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sis.xxx$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sis001.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sis001.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.site2unblock.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.site90.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sitebro.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sitekreator.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.siteks.uk.to$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sitemaps.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.six-degrees.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sixth.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sjrt.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sjum.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sketchappsources.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.skimtube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.skybet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.skyking.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.skyvegas.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.skyxvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.slacker.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.slaytizle.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sleazydream.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.slheng.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.slickvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.slideshare.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.slinkset.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.slutload.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.slutmoonbeam.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.slyip.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.slyip.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sm-miracle.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.smartdnsproxy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.smarthide.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.smchbooks.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.smh.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.smhric.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.smith.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.smyxy.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.snapchat.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.snaptu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sndcdn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sneakme.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.snowlionpub.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sobees.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.soc.mil$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.socialblade.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.socialwhale.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.socks-proxy.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sockscap64.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sockslist.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.socrec.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sod.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.softether-download.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.softether.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.softether.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.softfamous.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.softnology.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.softsmirror.cf$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.softwarebychuck.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.softwaredownload.gitbooks.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sogclub.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sogrady.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.soh.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sohcradio.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sohfrance.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sokamonline.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sokmil.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.solana.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.solarsystem.nasa.gov$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.solidaritetibet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.solidfiles.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.solv.finance$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.somee.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.songjianjun.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sonicbbs.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sonidodelaesperanza.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sopcast.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sopcast.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sorazone.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sorting-algorithms.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sos.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sosreader.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sostibet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.soubory.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.soul-plus.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.soulcaliburhentai.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.soumo.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.soundcloud.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.soundofhope.kr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.soundofhope.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.soup.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.soupofmedia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sourceforge.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sourcewadio.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.south-plus.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.southnews.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.southpark.cc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sowers.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.soylentnews.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.spaces.hightail.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.spankbang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.spankingtube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.spankwire.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.spb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.speakerdeck.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.specxinzl.jigsy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.speedify.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.spem.at$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.spencertipping.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.spendee.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.spicevpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.spideroak.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.spike.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sports.williamhill.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.spotflux.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.spotify.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.spreadshirt.es$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.spring4u.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.springboardplatform.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.springwood.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sprite.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sproutcore.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sproxy.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.squirly.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.squirrelvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.srcf.ucam.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.srocket.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ss-link.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ss.carryzhou.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ss.levyhsu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ss.pythonic.life$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ss7.vzw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ssglobal.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ssglobal.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ssh91.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ssl.webpack.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ssl443.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sspanel.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sspro.ml$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ssr.tools$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ssrshare.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sss.camp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sstm.moe$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sstmlt.moe$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sstmlt.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.stackoverflow.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.stage64.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.standupfortibet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.standwithhk.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.stanford.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.starfishfx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.starp2p.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.startpage.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.startuplivingchina.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.stat.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.static-economist.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.static.comico.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.static.shemalez.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.static01.nyt.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.staticflickr.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.statueofdemocracy.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.stboy.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.stc.com.sa$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.steamcommunity.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.steel-storm.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.steemit.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.steganos.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.steganos.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.stepchina.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.stephaniered.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sthoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.stickam.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.stickeraction.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.stileproject.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sto.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.stoporganharvesting.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.stoptibetcrisis.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.storagenewsletter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.store.steampowered.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.stories.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.storify.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.storj.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.storm.mg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.stormmediagroup.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.stoweboyd.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.straitstimes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.stranabg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.straplessdildo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.streamable.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.streamate.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.streamingthe.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.streema.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.strikingly.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.strongvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.strongwindpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.student.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.studentsforafreetibet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.stumbleupon.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.stupidvideos.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.subacme.rerouted.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.substack.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.successfn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.suche.gmx.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sugarsync.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sugobbs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sugumiru18.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.suissl.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sujiatun.wordpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sulian.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.summify.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sumrando.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sun1911.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sundayguardianlive.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sunmedia.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sunporno.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sunskyforum.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sunta.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sunvpn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sunwinism.joinbbs.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.suoluo.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.supchina.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.superfreevpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.superokayama.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.superpages.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.supervpn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.superzooi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.suppig.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.suprememastertv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.surfeasy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.surfeasy.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.surfshark.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.suroot.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.surrenderat20.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sustainability.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.svsfx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.swagbucks.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.swissinfo.ch$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.swissvpn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.switch1.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.switchvpn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sydneytoday.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sylfoundation.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.syncback.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.synergyse.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sysresccd.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.sytes.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.szbbs.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.szetowah.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.t-g.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.t.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.t.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.t.orzdream.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.t35.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.t66y.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taa-usa.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taaze.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tabtter.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tacc.cwb.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tacem.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taconet.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taedp.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tafm.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tagwa.org.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tagwalk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tahr.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taipei.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taipeisociety.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taipeitimes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taisounds.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwan-sex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwanbible.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwancon.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwandaily.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwandc.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwanhot.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwanjobs.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwanjustice.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwanjustice.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwankiss.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwannation.50webs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwannation.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwannation.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwanncf.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwannews.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwantp.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwantt.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwanus.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwanyes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taiwanyes.ning.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.talk853.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.talkboxapp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.talkcc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.talkonly.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tamiaode.tk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tanc.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tangben.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tangren.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taoism.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taolun.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tapanwap.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tapatalk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tarr.uspto.gov$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tascn.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taup.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.taweet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tbcollege.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tbi.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tbicn.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tbjyt.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tbpic.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tbrc.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tbs-rainbow.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tbsec.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tbskkinabalu.page.tl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tbsmalaysia.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tbsn.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tbsseattle.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tbssqh.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tbswd.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tbtemple.org.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tbthouston.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tccwonline.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tcewf.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tchrd.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tcnynj.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tcpspeed.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tcpspeed.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tcsofbc.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tcsovi.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tdm.com.mo$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.teachparentstech.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.teamamericany.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tech2.in.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.technews.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.techspot.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.techviz.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.teck.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.teco-hk.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.teco-mo.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.teddysun.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.teeniefuck.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.teensinasia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tehrantimes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.telecomspace.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.telegra.ph$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.telegram-cdn.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.telegram.dog$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.telegram.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.telegram.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.telegram.space$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.telegramdownload.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.telegraph.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.telesco.pe$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tellme.pw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tenacy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tenor.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tensorflow.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tenzinpalmo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.terabox.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tew.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.textnow.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tfhub.dev$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tfiflve.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.th.hao123.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thaicn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thb.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.theatlantic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.theatrum-belli.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thebcomplex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.theblaze.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.theblemish.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thebobs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thebodyshop-usa.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thecenter.mit.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thechinabeat.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thechinacollection.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.theconversation.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thedalailamamovie.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thediplomat.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thedw.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.theepochtimes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thefacebook.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thefrontier.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thegay.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thegioitinhoc.vn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thegly.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.theguardian.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thehots.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thehousenews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thehun.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.theinitium.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.themoviedb.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thenewslens.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thepiratebay.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.theporndude.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.theportalwiki.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.theprint.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thereallove.kr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.therock.net.nz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thesaturdaypaper.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thestandnews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thetibetcenter.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thetibetconnection.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thetibetmuseum.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thetibetpost.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thetinhat.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thetrotskymovie.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thetvdb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thevivekspot.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thewgo.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.theync.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thinkgeek.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thinkingtaiwan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thinkwithgoogle.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thisav.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thlib.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thomasbernhard.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thongdreams.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.threadreaderapp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.threads.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.threatchaos.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.throughnightsfire.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thumbzilla.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thywords.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.thywords.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tiananmenduizhi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tiananmenmother.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tiananmenuniv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tiananmenuniv.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tiandixing.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tianhuayuan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tianlawoffice.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tianti.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tiantibooks.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tianyantong.org.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tianzhu.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibet-envoy.eu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibet-foundation.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibet-house-trust.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibet-initiative.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibet-munich.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibet.a.se$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibet.at$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibet.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibet.fr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibet.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibet.nu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibet.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibet.sk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibet.to$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibet3rdpole.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetaction.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetaid.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetalk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetan-alliance.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetan.fr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetanaidproject.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetanarts.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetanbuddhistinstitute.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetancommunity.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetancommunityuk.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetanculture.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetanentrepreneurs.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetanfeministcollective.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetanhealth.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetanjournal.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetanlanguage.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetanliberation.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetanpaintings.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetanphotoproject.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetanpoliticalreview.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetanreview.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetansports.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetanwomen.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetanyouth.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetanyouthcongress.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetcharity.dk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetcharity.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetchild.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetcity.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetcollection.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetcorps.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetexpress.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetfocus.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetfund.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetgermany.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetgermany.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibethaus.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetheritagefund.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibethouse.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibethouse.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibethouse.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetinfonet.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetjustice.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetkomite.dk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetlibre.free.fr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetmuseum.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetnetwork.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetoffice.ch$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetoffice.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetoffice.eu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetoffice.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetonline.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetonline.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetoralhistory.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetpolicy.eu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetrelieffund.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetsites.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetsociety.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetsun.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetsupportgroup.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetswiss.ch$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibettelegraph.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibettimes.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibettruth.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tibetwrites.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ticket.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tigervpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tiktok.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tiktokv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tiltbrush.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.timdir.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.time.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.times.hinet.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.timesnownews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.timesofindia.indiatimes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.timsah.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.timtales.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tinc-vpn.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tineye.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tintuc101.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tiny.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tinychat.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tinypaste.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tipas.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tipo.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tistory.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tkcs-collins.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tl.gd$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tma.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tmagazine.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tmdfish.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tmi.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tmpp.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tn1.shemalez.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tn2.shemalez.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tn3.shemalez.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tnaflix.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tngrnow.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tngrnow.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tnp.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.to-porno.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.togetter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.toh.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tokyo-247.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tokyo-hot.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tokyo-porn-tube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tokyocn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tongil.or.kr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tono-oka.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tonyyan.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.toodoc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.toonel.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.top.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.top10vpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.top81.ws$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.topbtc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.topic.youthwant.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.topnews.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.toppornsites.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.topshareware.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.topsy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.toptip.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tor.blingblingsquad.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tor.updatestar.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tora.to$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.torcn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.torguard.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.torlock.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.torproject.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.torrentkitty.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.torrentprivacy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.torrentproject.se$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.torrenty.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.torrentz.eu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tortoisesvn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.torvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tosh.comedycentral.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.totalvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.toutiaoabc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.towngain.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.toypark.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.toythieves.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.toytractorshow.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tparents.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tpi.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tracfone.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tradingview.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.trans.wenweipo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.translate.goog$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.transparency.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.treemall.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.trendsmap.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.trialofccp.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.trickip.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.trickip.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.trimondi.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tronscan.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.trouw.nl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.trt.net.tr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.trtc.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.truebuddha-md.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.trulyergonomic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.truth101.co.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.truthontour.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.truthsocial.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.truveo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tryheart.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tsctv.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tsdr.uspto.gov$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tsemtulku.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tsquare.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tsu.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tsunagarumon.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tt1069.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tttan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ttv.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ttvnw.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tu8964.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tubaholic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tube8.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tube911.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tubecup.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tubegals.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tubeislam.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tubepornclassic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tubestack.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tubewolf.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tui.orzdream.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tuibeitu.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tuidang.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tuidang.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tuidang.se$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tuitwit.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tumblr.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tumutanzi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tumview.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tunein.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tunnelbear.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tunnelblick.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tunnelr.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tunsafe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.turansam.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.turbobit.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.turbohide.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.turbotwitter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.turkistantimes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.turntable.fm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tushycash.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tuvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tuzaijidi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tv.google$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tv.jtbc.joins.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tvants.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tvboxnow.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tvider.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tvmost.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tvplayvideos.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tvunetworks.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tw-blog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tw-npo.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tw.answers.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tw.bid.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tw.gigacircle.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tw.hao123.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tw.iqiyi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tw.jiepang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tw.knowledge.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tw.mall.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tw.mobi.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tw.money.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tw.myblog.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tw.news.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tw.streetvoice.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tw.tomonews.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tw.voa.mobi$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tw.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tw01.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twaitter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twapperkeeper.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twaud.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twavi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twbbs.net.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twbbs.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twbbs.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twblogger.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tweepguide.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tweeplike.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tweepmag.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tweepml.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tweetbackup.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tweetboard.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tweetboner.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tweetcs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tweetdeck.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tweetedtimes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tweetmylast.fm$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tweetphoto.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tweetrans.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tweetree.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tweets.seraph.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tweettunnel.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tweetwally.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tweetymail.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tweez.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twelve.today$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twerkingbutt.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twftp.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twgreatdaily.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twibase.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twibble.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twibbon.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twibs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twicountry.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twicsy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twiends.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twifan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twiffo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twiggit.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twilightsex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twilog.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twimbow.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twimg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twimg.edgesuite.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twindexx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twip.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twipple.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twishort.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twistar.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twister.net.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twisterio.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twisternow.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twistory.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twit2d.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitbrowser.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitcause.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitch.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitchcdn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitgether.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitgoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitiq.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitlonger.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitmania.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitoaster.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitonmsn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitpic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitstat.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twittbot.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitter.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitter4j.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twittercounter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitterfeed.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twittergadget.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitterkr.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twittermail.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitterrific.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twittertim.es$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitthat.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitturk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitturly.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitvid.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twitzap.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twiyia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twnorth.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twreporter.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twskype.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twstar.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twt.tl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twtkr.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twtr2src.ogaoga.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twtrland.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twttr.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twurl.nl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.twyac.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.txxx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.tycool.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.typepad.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.typora.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.u15.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.u9un.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ub0.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ubddns.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uberproxy.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uc-japan.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ucdc1998.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uchicago.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uderzo.it$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.udn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.udn.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.udnbkk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uforadio.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ufreevpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ugo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uhdwallpapers.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uhrp.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uighur.narod.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uighur.nl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uighurbiz.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ukcdp.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ukliferadio.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uku.im$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ulike.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ulop.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ultravpn.fr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ultraxs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.umich.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.unblock-us.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.unblock.cn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.unblockdmm.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.unblocker.yt$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.unblocksit.es$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uncyclomedia.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uncyclopedia.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uncyclopedia.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.underwoodammo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.unholyknight.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uni.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.unification.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.unification.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.unirule.cloud$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.unitedsocialpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.unix100.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.unknownspace.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.unodedos.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.unpo.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.unseen.is$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.unstable.icu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.untraceable.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uocn.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.upcoming.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.updates.tdesktop.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.upghsbc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.upholdjustice.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.upload4u.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uploaded.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uploaded.to$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uploadstation.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.upmedia.mg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.upornia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uproxy.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uptodown.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.upwill.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ur7s.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uraban.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.urbandictionary.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.urbansurvival.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.urchin.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.urlborg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.urlparser.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.us.to$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.usacn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.usaip.eu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uscardforum.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uscnpm.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.userapi.nytlog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.users.skynet.be$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.usfk.mil$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ushuarencity.echainhost.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.usinfo.state.gov$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.usma.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.usmc.mil$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.usmgtcg.ning.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.usno.navy.mil$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.usocctn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ustibetcommittee.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ustream.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.usus.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.utopianpal.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uu-gg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uukanshu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uvwxyz.xyz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uwants.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uwants.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uyghur-j.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uyghur.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uyghuraa.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uyghuramerican.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uyghurbiz.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uyghurcanadian.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uyghurcongress.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uyghurpen.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uyghurpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uyghurstudies.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uyghurtribunal.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uygur.fc2web.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uygur.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.uymaarip.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.v2ex.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.v2fly.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.v2ray.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.v2raycn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.v2raytech.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.valeursactuelles.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.van001.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.van698.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vanemu.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vanilla-jp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vanpeople.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vansky.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vaticannews.va$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vatn.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vcf-online.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vcfbuilder.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vds.rightster.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vegas.williamhill.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vegasred.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.velkaepocha.sk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.venbbs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.venchina.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.venetianmacao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ventureswell.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.veoh.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vercel.app$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vermonttibet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.versavpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.verybs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vevo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vft.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.viber.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vica.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.victimsofcommunism.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vid.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vidble.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.video.aol.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.video.aol.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.video.aol.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.video.ap.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.video.fdbox.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.video.foxbusiness.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.video.pbs.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.video.yahoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.videobam.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.videodetective.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.videomega.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.videomo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.videopediaworld.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.videopress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vidinfo.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vietdaikynguyen.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vijayatemple.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vilavpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vimeo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vimperator.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vincnd.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vine.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vinniev.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vip-enterprise.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.virtualrealporn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.visibletweets.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vital247.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.viu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.viu.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vivahentai4u.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vivaldi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vivatube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vivthomas.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vizvaz.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vjav.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vjmedia.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vllcs.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vlog.xuite.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vmixcore.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vmpsoft.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vn.hao123.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vnet.link$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.voa-11.akacast.akamaistream.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.voacambodia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.voacantonese.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.voachinese.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.voachineseblog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.voagd.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.voaindonesia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.voanews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.voatibetan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.voatibetanenglish.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vocativ.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vocn.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vocus.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vod-abematv.akamaized.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vod.wwe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.voicettank.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vot.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vovo2000.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.voxer.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.voy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpn.ac$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpn.cmu.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpn.sv.cmu.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpn4all.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnaccount.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnaccounts.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnbook.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpncomparison.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpncoupons.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpncup.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpndada.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnfan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnfire.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnfires.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnforgame.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpngate.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpngate.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpngratis.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnhq.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnhub.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpninja.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnintouch.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnintouch.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnjack.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnmaster.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnmentor.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnpick.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnpop.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnpronet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnreactor.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnreviewz.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnsecure.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnshazam.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnshieldapp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnsp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpntraffic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpntunnel.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnuk.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnunlimitedapp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnvip.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpnworldwide.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vporn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vpser.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vraiesagesse.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vrmtr.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vrsmash.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vtunnel.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vuku.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.vultryhw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.w.idaiwan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.w3schools.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.waffle1999.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wahas.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.waigaobu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.waikeung.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wailaike.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wainao.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.waiwaier.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wallmama.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wallornot.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wallpapercasa.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wallproxy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wallsttv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.waltermartin.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.waltermartin.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wanderinghorse.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wangafu.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wangjinbo.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wanglixiong.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wango.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wangruoshui.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.want-daily.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wanz-factory.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wapedia.mobi$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.warbler.iconfactory.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.warroom.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.waselpro.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.washeng.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.washingtonpost.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.watch8x.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.watchinese.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.watchmygf.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.watchout.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wattpad.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wav.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.waveprotocol.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.waymo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wd.bible$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wda.gov.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wdf5.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wealth.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wearehairy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wearn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.web.dev$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.web2project.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.webbang.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.webevader.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.webfreer.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.webjb.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.weblagu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.webmproject.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.webpkgcache.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.webrtc.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.webrush.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.webs-tv.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.website.informer.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.websitepulse.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.webwarper.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.webworkerdaily.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wechatlawsuit.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.weekmag.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wefightcensorship.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wefong.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wego.here.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.weiboleak.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.weiboscope.jmsc.hku.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.weihuo.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.weijingsheng.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.weiming.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.weiquanwang.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.weisuo.ws$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.welovecock.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.welt.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wemigrate.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wengewang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wengewang.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wenhui.ch$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wenxuecity.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wenyunchao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wenzhao.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.westca.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.westernshugdensociety.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.westernwolves.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.westkit.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.westpoint.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wetplace.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wetpussygames.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wexiaobo.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wezhiyong.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wezone.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wforum.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wha.la$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.whatblocked.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.whatbrowser.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.whatsapp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.whatsapp.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.whatsonweibo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wheatseeds.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wheelockslatin.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.whereiswerner.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wheretowatch.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.whippedass.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.whispersystems.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.whitebear.freebearblog.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.whodns.xyz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.whoer.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.whotalking.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.whylover.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.whyx.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.widevine.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wikaba.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wiki.cnitter.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wiki.esu.im$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wiki.gamerp.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wiki.jqueryui.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wiki.keso.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wiki.moegirl.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wiki.oauth.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wiki.phonegap.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wikileaks-forum.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wikileaks.ch$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wikileaks.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wikileaks.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wikileaks.eu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wikileaks.lu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wikileaks.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wikileaks.pl$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wikilivres.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wikimapia.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wikimedia.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wikipedia.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wikiwand.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wikiwiki.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wildammo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.williamhill.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.willw.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.windowsphoneme.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.windscribe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wingamestore.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wingy.site$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.winning11.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.winwhispers.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wionews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wire.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wiredbytes.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wiredpen.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wireguard.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wisdompubs.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wisevid.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.withgoogle.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.withyoutube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.witnessleeteaching.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.witopia.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wizcrafts.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wjbk.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wlcnew.jigsy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wlx.sowiki.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wmflabs.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wnacg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wnacg.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wo.tc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wo3ttt.wordpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.woeser.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wokar.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wolfax.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wombo.ai$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.woolyss.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.woopie.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.woopie.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wordpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.workatruna.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.workerdemo.org.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.workerempowerment.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.workers.dev$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.workersthebig.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.worldcat.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.worldjournal.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.worldvpn.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wow-life.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wow.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wowgirls.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wowhead.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wowlegacy.ml$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wowporn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wowrk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.woxinghuiguo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.woyaolian.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wozy.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wpoforum.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wqyd.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wrchina.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wretch.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.writer.zoho.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.writesonic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wsj.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wsj.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wsjhk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wtbn.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wtfpeople.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wuerkaixi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wufafangwen.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wufi.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wuguoguang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wujie.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wujieliulan.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wukangrui.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wuw.red$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wuyanblog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wwitv.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.abclite.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.ajsands.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.americorps.gov$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.antd.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.aolnews.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.businessinsider.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.cmoinc.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.dmm.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.dwheeler.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.eastturkistan.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.gmiddle.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.gmiddle.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.hustlercash.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.idlcoyote.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.imdb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.kindleren.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.klip.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.lamenhu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.lib.virginia.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.linksalpha.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.m-sport.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.monlamit.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.moztw.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.nbc.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.orchidbbs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.owind.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.oxid.it$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.powerpointninja.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.s4miniarchive.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.sciencemag.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.shadowsocks.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.skype.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.tablesgenerator.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.taiwanonline.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.taup.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.thechinastory.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.wan-press.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.wangruowang.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.websnapr.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www.zensur.freerk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www1.american.edu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www1.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www2.ohchr.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.www2.rocketbbs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wwwhost.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.wzyboy.im$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.x-art.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.x-berry.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.x-wall.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.x.co$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.x.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.x.company$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.x1949x.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.x24hr.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.x365x.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xa.yimg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xanga.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xbabe.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xbookcn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xbtce.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xcafe.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xcity.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xcritic.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xda-developers.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xerotica.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xfinity.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xfm.pp.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xgmyd.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xhamster.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xianba.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xianchawang.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xianjian.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xianqiao.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xiaobaiwu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xiaochuncnjp.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xiaod.in$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xiaohexie.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xiaolan.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xiaoma.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xiaomi.eu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xiaxiaoqiang.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xiezhua.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xihua.es$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xijie.wordpress.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xing.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xinhuanet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xinjiangpolicefiles.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xinmiao.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xinqimeng.over-blog.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xinsheng.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xinshijue.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xinyubbs.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xiongpian.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xiuren.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xixicui.icu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xizang-zhiye.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xjp.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xjtravelguide.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xkiwi.tk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xlfmtalk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xlfmwz.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xm.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xml-training-guide.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xmovies.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xn--4gq171p.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xn--9pr62r24a.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xn--czq75pvv1aj5c.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xn--i2ru8q2qg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xn--ngstr-lra8j.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xn--oiq.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xn--p8j9a0d9c9a.xn--q9jyb4c$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xnxx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xpdo.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xpud.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xrentdvd.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xsden.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xskywalker.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xskywalker.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xtube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xuchao.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xuchao.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xuehua.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xuzhiyong.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xvbelink.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xvideo.cc$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xvideos-cdn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xvideos.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xvideos.es$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xvinlink.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xxbbx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xxlmovies.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xxuz.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xxx.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xxx.xxx$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xxxfuckmom.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xxxx.com.au$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xxxy.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xxxy.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xxxymovies.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xys.dxiong.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xys.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xysblogs.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xyy69.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.xyy69.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.y2mate.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yadi.sk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yahoo.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yakbutterblues.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yam.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yam.org.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yande.re$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yanghengjun.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yangjianli.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yasni.co.uk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yayabay.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ydy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yeahteentube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yecl.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yeelou.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yeeyi.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yegle.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yes-news.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yes.xxx$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yes123.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yesasia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yesasia.com.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yespornplease.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yeyeclub.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ygto.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yhcw.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yibada.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yibaochina.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yidio.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yigeni.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yilubbs.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yingsuoss.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yinlei.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yipub.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yizhihongxing.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yobit.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yobt.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yobt.tv$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yogichen.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yolasite.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yomiuri.co.jp$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yong.hu$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yorkbbs.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.you-get.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.you.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youdontcare.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youjizz.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youmaker.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youngpornvideos.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youngspiration.hk$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youpai.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youporn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youporngay.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.your-freedom.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yourepeat.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yourlisten.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yourlust.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yourprivatevpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yourtrap.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yousendit.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youshun12.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youthforfreechina.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youthnetradio.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youtu.be$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youtube-nocookie.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youtube.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youtubecn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youtubeeducation.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youtubegaming.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youtubekids.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youversion.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youwin.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.youxu.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yt.be$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ytht.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ytimg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ytn.co.kr$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yuanming.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yuanzhengtang.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yulghun.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yunchao.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yuvutu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yvesgeleyn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ywpw.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yx51.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yyii.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yyjlymb.xyz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yysub.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.yzzk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.z-lib.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zacebook.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zalmos.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zamimg.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zannel.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zaobao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zaobao.com.sg$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zaozon.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zapto.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zattoo.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zb.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zdnet.com.tw$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zello.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zengjinyan.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zenmate.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zenmate.com.ru$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zerohedge.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zeronet.io$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zeutch.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zfreet.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zgsddh.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zgzcjj.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zh.ecdm.wikia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zh.pokerstrategy.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zh.pttpedia.wikia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zh.uncyclopedia.wikia.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zh.wikinews.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zh.wikiquote.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zh.wikisource.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhanbin.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhangboli.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhangtianliang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhanlve.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhao.1984.city$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhao.jinhai.de$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhenghui.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhengjian.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhengwunet.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhenlibu.info$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhenlibu1984.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhenxiang.biz$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhinengluyou.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhongguo.ca$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhongguorenquan.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhongguotese.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhongmeng.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhoushuguang.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhreader.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhuangbi.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhuanxing.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhuatieba.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zhuichaguoji.org$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zi.media$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ziddu.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zillionk.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zim.vn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zinio.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.ziporn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zippyshare.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zkaip.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zmw.cn$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zodgame.us$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zomobo.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zonaeuropa.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zonghexinwen.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zonghexinwen.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zoogvpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zootool.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zoozle.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zophar.net$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zorrovpn.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zozotown.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zpn.im$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zspeeder.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zsrhao.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zuo.la$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zuobiao.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zuola.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zvereff.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zynaima.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zynamics.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zyns.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zyxel.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zyzc9.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zzcartoon.com$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zzcloud.me$" type=FWD address=198.18.0.1
+/ip dns static add regexp="^.zzux.com$" type=FWD address=198.18.0.1
