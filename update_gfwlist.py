@@ -33,7 +33,10 @@ def convert_to_routeros_format(data, forward_to):
 
         # 替换 . 为 \\. 并添加正则表达式格式
         line = line.replace('.', '\\.')
-        output.append(f'add regexp=".*\\.{line}\$" forward-to={forward_to} type=FWD')
+
+        # 确保生成的正则表达式有效
+        if line:
+            output.append(f'add regexp=".*\\.{line}\$" forward-to={forward_to} type=FWD')
     return '\n'.join(output)
 
 def main():
