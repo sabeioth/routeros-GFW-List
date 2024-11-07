@@ -88,6 +88,7 @@ def fetch_gfwlist(url):
 def process_gfwlist(gfwlist):
     processed_rules = ["/ip dns static"]
     company_domains = {company: [] for company in COMPANY_REGEX_MAP.keys()}
+    unmatched_domains = []
 
     for line in gfwlist.splitlines():
         if line.startswith('!') or not line.strip():
@@ -107,13 +108,17 @@ def process_gfwlist(gfwlist):
         if matched_company:
             company_domains[matched_company].append(domain)
         else:
-            rule = f'add comment=GFW forward-to={DNS_FORWARD_IP} regexp="^{domain}$" type=FWD'
-            processed_rules.append(rule)
+            unmatched_domains.append(domain)
     
     for company, domains in company_domains.items():
         if domains:
-            company_rule = f'add comment={company} forward-to={DNS_FORWARD_IP} regexp="^({"|".join(domains)})$" type=FWD'
+            combined_regex = "|".join(re.escape(domain) for domain in domains)
+            company_rule = f'add comment={company} forward-to={DNS_FORWARD_IP} regexp="^({combined_regex})$" type=FWD'
             processed_rules.append(company_rule)
+    
+    for domain in unmatched_domains:
+        rule = f'add comment=GFW forward-to={DNS_FORWARD_IP} regexp="^{domain}$" type=FWD'
+        processed_rules.append(rule)
     
     return "\n".join(processed_rules)
 
