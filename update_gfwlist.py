@@ -34,14 +34,14 @@ def convert_to_routeros_format(data, forward_to):
         # 替换 . 为 \\. 并添加正则表达式格式
         line = line.replace('.', '\\.')
 
+        # 忽略 IP 地址
+        if re.match(r'^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$', line):
+            continue
+
         # 确保生成的正则表达式有效
         if line:
-            # 对于 IP 地址，直接匹配整个 IP 地址
-            if re.match(r'^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$', line):
-                output.append(f'add regexp="^{line}$" forward-to={forward_to} type=FWD')
-            else:
-                # 对于域名，使用 ^.*\.domain\.tld$ 格式
-                output.append(f'add regexp="^.*\\.{line}$" forward-to={forward_to} type=FWD')
+            # 对于域名，使用 ^.*\.domain\.tld$ 格式
+            output.append(f'add regexp="^.*\\.{line}$" forward-to={forward_to} type=FWD')
     return '\n'.join(output)
 
 def main():
