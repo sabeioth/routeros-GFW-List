@@ -30,11 +30,16 @@ def process_gfwlist(decoded_content):
             continue  # 跳过注释行
         if line.startswith('@@'):
             continue  # 跳过直连条目
-        # 移除 [] 和 | 符号
-        line = line.replace('[', '').replace(']', '').replace('|', '')
         if line:
             lines.append(line)
     return lines
+
+# 转义特殊字符以符合 RouterOS 的正则表达式要求
+def escape_special_chars(pattern):
+    special_chars = '.*+?(){}[]|/'
+    for char in special_chars:
+        pattern = pattern.replace(char, '\\' + char)
+    return pattern
 
 # 生成 .rsc 文件内容
 def generate_rsc_content(processed_lines):
@@ -51,7 +56,7 @@ def generate_rsc_content(processed_lines):
     
     for line in processed_lines:
         # 假设每行都是一个需要添加到 DNS 静态记录中的域名模式
-        domain_pattern = line.replace('.', '\\.')
+        domain_pattern = escape_special_chars(line)
         # 去除多余的转义和空格
         domain_pattern = domain_pattern.strip().replace(' ', '\\ ')
         add_rule("GFW", domain_pattern)
