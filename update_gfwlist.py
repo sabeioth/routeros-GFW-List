@@ -129,7 +129,7 @@ def main():
         tld_rules, remaining_lines = merge_tld_rules(processed_lines, tlds)
         
         # 定义特定域名模
-        special_domains = ['youtube','netflix'，'telegram'，'instagram'，'spotify'，'facebook'，'twitter'，'twitch'，'steam'，'tumblr'，'google'，'pornHub'，'xvideo'，'gmail'，'google maps'，'android'，'deepmind'，'openai'，'midjourney'，'amazon'，'whatsapp'，'wikipedia'，'yahoo'，'chatgt'，'tikTok'，'quora']
+        special_domains = ['youtube','netflix','telegram','instagram','spotify','facebook','twitter','twitch','steam','tumblr','google','pornHub','xvideo','gmail','google maps','android','deepmind','openai','midjourney','amazon','whatsapp','ipedia','yahoo','chatgt','tikTok','quora']
         
         # 合并特定域名模式的条目
         special_rules, other_lines = merge_special_domain_rules(remaining_lines, special_domains)
