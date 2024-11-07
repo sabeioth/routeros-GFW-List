@@ -22,7 +22,9 @@ COMPANY_REGEX_MAP = {
         r"(polymer-project|tensorflow)\.org$",
         r"(waveprotocol|webmproject|webrtc|whatbrowser)\.org$",
         r"(material|shattered|recaptcha)\.(net|io)$",
-        r"(abc|admin|getmdl)\.(xyz|net|io)$"
+        r"(abc|admin|getmdl)\.(xyz|net|io)$",
+        r"google\.[a-z]+\.[a-z]+$",  # 匹配所有 google 子域名
+        r"google\.[a-z]+$"           # 匹配所有 google 顶级域名
     ],
     "Microsoft": [
         r"(azure|bing|live|outlook|msn|surface|1drv|microsoft)\.(net|com|org)$",
@@ -85,6 +87,8 @@ def fetch_gfwlist(url):
 
 def process_gfwlist(gfwlist):
     processed_rules = ["/ip dns static"]
+    company_domains = {company: [] for company in COMPANY_REGEX_MAP.keys()}
+
     for line in gfwlist.splitlines():
         if line.startswith('!') or not line.strip():
             continue
@@ -100,9 +104,16 @@ def process_gfwlist(gfwlist):
             if matched_company:
                 break
         
-        comment = matched_company if matched_company else "GFW"
-        rule = f'add comment={comment} forward-to={DNS_FORWARD_IP} regexp="^{domain}$" type=FWD'
-        processed_rules.append(rule)
+        if matched_company:
+            company_domains[matched_company].append(domain)
+        else:
+            rule = f'add comment=GFW forward-to={DNS_FORWARD_IP} regexp="^{domain}$" type=FWD'
+            processed_rules.append(rule)
+    
+    for company, domains in company_domains.items():
+        if domains:
+            company_rule = f'add comment={company} forward-to={DNS_FORWARD_IP} regexp="^({"|".join(domains)})$" type=FWD'
+            processed_rules.append(company_rule)
     
     return "\n".join(processed_rules)
 
