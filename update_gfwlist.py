@@ -8,6 +8,7 @@ from collections import defaultdict
 DNS_FORWARD_IP = "198.18.0.1"
 GFWLIST_URL = "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
 OUTPUT_FILE = "dns.rsc"
+GFWLIST_RSC_FILE = "gfwlist.rsc"
 
 # 定义公司及其对应的正则表达式
 COMPANY_REGEX_MAP = {
@@ -45,12 +46,37 @@ COMPANY_REGEX_MAP = {
     ]
 }
 
+# 定义已知国内可访问的域名列表
+DOMESTIC_DOMAINS = [
+    "aliyun.com",
+    "baidu.com",
+    "chinaso.com",
+    "chinaz.com",
+    "haosou.com",
+    "ip.cn",
+    "jike.com",
+    "gov.cn",
+    "qq.com",
+    "sina.cn",
+    "sogou.com",
+    "so.com",
+    "soso.com",
+    "weibo.com",
+    "yahoo.cn",
+    "youdao.com",
+    "zhongsou.com"
+]
+
 def fetch_gfwlist(url):
     response = requests.get(url)
     if response.status_code == 200:
         return base64.b64decode(response.content).decode('utf-8')
     else:
         raise Exception(f"Failed to fetch GFW list: {response.status_code}")
+
+def save_base64_gfwlist(gfwlist, filename):
+    with open(filename, "wb") as f:
+        f.write(base64.b64encode(gfwlist.encode('utf-8')))
 
 def process_gfwlist(gfwlist):
     processed_rules = ["/ip dns static"]
@@ -65,14 +91,14 @@ def process_gfwlist(gfwlist):
             continue
         
         domain = line[2:].strip('^') if line.startswith('||') else line
-        if domain in seen_domains:
+        if domain in seen_domains or any(domain.endswith(f".{domestic_domain}") for domestic_domain in DOMESTIC_DOMAINS):
             continue
 
         # 处理子域名合并
         parts = domain.split('.')
         if len(parts) > 2:
             parent_domain = '.'.join(parts[-2:])
-            if parent_domain in seen_domains:
+            if parent_domain in seen_domains or any(parent_domain.endswith(f".{domestic_domain}") for domestic_domain in DOMESTIC_DOMAINS):
                 continue
             domain = parent_domain
 
@@ -111,6 +137,11 @@ def save_rules(rules, filename):
 def main():
     try:
         gfwlist = fetch_gfwlist(GFWLIST_URL)
+        
+        # 保存原始 GFW 列表为 Base64 编码的文件
+        save_base64_gfwlist(gfwlist, GFWLIST_RSC_FILE)
+        print(f"GFW list saved as Base64 encoded file: {GFWLIST_RSC_FILE}")
+
         processed_rules = process_gfwlist(gfwlist)
         save_rules(processed_rules, OUTPUT_FILE)
         print(f"Rules saved to {OUTPUT_FILE}")
