@@ -1,6 +1,7 @@
 import base64
 import requests
 import logging
+import re
 
 # 设置日志
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -35,24 +36,54 @@ def process_gfwlist(decoded_content):
             lines.append(line)
     return lines
 
-# 生成特定国家顶级域名的正则表达式条目
-def generate_tld_rules(tlds):
-    rules = []
-    for tld in tlds:
-        rule = f'\\.{tld}$'
-        rules.append((rule, f"Country {tld}"))
-    return rules
+# 合并特定国家顶级域名的条目
+def merge_tld_rules(lines, tlds):
+    tld_patterns = {}
+    other_lines = []
+    
+    for line in lines:
+        for tld in tlds:
+            if line.endswith(f'.{tld}'):
+                if tld not in tld_patterns:
+                    tld_patterns[tld] = []
+                tld_patterns[tld].append(line)
+                break
+        else:
+            other_lines.append(line)
+    
+    tld_rules = []
+    for tld, patterns in tld_patterns.items():
+        if patterns:
+            tld_rule = f'(?:{"|".join(map(re.escape, patterns))})$'
+            tld_rules.append((tld_rule, f"Country {tld}"))
+    
+    return tld_rules, other_lines
 
-# 生成特定域名模式的正则表达式条目
-def generate_domain_rules(domains):
-    rules = []
-    for domain in domains:
-        rule = domain.replace('.', '\\.')
-        rules.append((rule, f"Domain {domain}"))
-    return rules
+# 合并特定域名模式的条目（例如 youtube）
+def merge_special_domain_rules(lines, special_domains):
+    special_patterns = {}
+    other_lines = []
+    
+    for line in lines:
+        for domain in special_domains:
+            if domain in line:
+                if domain not in special_patterns:
+                    special_patterns[domain] = []
+                special_patterns[domain].append(line)
+                break
+        else:
+            other_lines.append(line)
+    
+    special_rules = []
+    for domain, patterns in special_patterns.items():
+        if patterns:
+            domain_rule = f'(?:{"|".join(map(re.escape, patterns))})'
+            special_rules.append((domain_rule, f"Domain {domain}"))
+    
+    return special_rules, other_lines
 
 # 生成 .rsc 文件内容
-def generate_rsc_content(processed_lines, tld_rules, domain_rules):
+def generate_rsc_content(tld_rules, special_rules, other_lines):
     rsc_content = "/ip dns static\n"
     
     def add_rule(comment, domain_pattern):
@@ -64,11 +95,11 @@ def generate_rsc_content(processed_lines, tld_rules, domain_rules):
         add_rule(comment, domain_pattern)
     
     # 添加特定域名模式的规则
-    for domain_pattern, comment in domain_rules:
+    for domain_pattern, comment in special_rules:
         add_rule(comment, domain_pattern)
     
     # 添加其他规则
-    for line in processed_lines:
+    for line in other_lines:
         domain_pattern = line.replace('.', '\\.').replace('*', '.*')
         add_rule("GFW", domain_pattern)
     
@@ -91,21 +122,20 @@ def main():
         # 处理 gfwlist 内容
         processed_lines = process_gfwlist(decoded_content)
         
-        # 生成特定国家顶级域名的规则
+        # 定义特定国家顶级域名
         tlds = ['cu', 'at', 'ca', 'nz', 'br', 'jp', 'in', 'tw', 'hk', 'mo', 'ph', 'vn', 'tr', 'my', 'sg', 'it', 'uk', 'us', 'kr', 'ru', 'fr', 'de', 'ms', 'be', 'fi']
-        tld_rules = generate_tld_rules(tlds)
         
-        # 生成特定域名模式的规则
-        domains = [
-            '.google.ae', '.google.com.hk', '.google.co.jp', '.google.co.kr', '.google.com.tw', 
-            '.google.com.sg', '.google.de', '.google.fr', '.google.it', '.google.nl', '.google.pl', 
-            '.google.pt', '.google.se', '.google.es', '.google.ch', '.google.com.tr', '.google.co.uk', 
-            '.google.com.vn', '.google.co.th', '.google.com.au'
-        ]
-        domain_rules = generate_domain_rules(domains)
+        # 合并特定国家顶级域名的条目
+        tld_rules, remaining_lines = merge_tld_rules(processed_lines, tlds)
+        
+        # 定义特定域名模
+        special_domains = ['youtube','netflix'，'telegram'，'instagram'，'spotify'，'facebook'，'twitter'，'twitch'，'steam'，'tumblr'，'google'，'pornHub'，'xvideo'，'gmail'，'google maps'，'android'，'deepmind'，'openai'，'midjourney'，'amazon'，'whatsapp'，'wikipedia'，'yahoo'，'chatgt'，'tikTok'，'quora']
+        
+        # 合并特定域名模式的条目
+        special_rules, other_lines = merge_special_domain_rules(remaining_lines, special_domains)
         
         # 生成并保存转换后的 dns.rsc 文件
-        rsc_content = generate_rsc_content(processed_lines, tld_rules, domain_rules)
+        rsc_content = generate_rsc_content(tld_rules, special_rules, other_lines)
         write_rsc_file(rsc_content, 'dns.rsc')
         
         logging.info("Conversion complete, generated gfwlist.rsc and dns.rsc files.")
