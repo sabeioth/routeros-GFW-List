@@ -40,8 +40,8 @@ def convert_to_routeros_format(data, forward_to):
             if re.match(r'^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$', line):
                 output.append(f'add regexp="^{line}$" forward-to={forward_to} type=FWD')
             else:
-                # 对于域名，使用 .*\.domain\.tld$ 格式
-                output.append(f'add regexp=".*\\.{line}$" forward-to={forward_to} type=FWD')
+                # 对于域名，使用 ^.*\.domain\.tld$ 格式
+                output.append(f'add regexp="^.*\\.{line}$" forward-to={forward_to} type=FWD')
     return '\n'.join(output)
 
 def main():
