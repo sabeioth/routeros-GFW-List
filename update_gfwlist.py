@@ -36,15 +36,42 @@ def optimize_rules(decoded_content):
     
     return filtered_lines
 
+# 提取特定的正则表达式模式
+def extract_specific_patterns(filtered_lines):
+    specific_patterns = [
+        r".*(\\.)\?(.*|\\.)\?\\.(cu|at|ca|nz|br|jp|in|tw|hk|mo|ph|vn|tr|my|sg|it|uk|us|kr|ru)\$",
+        r".*(\\.)\?(.*|\\.)\?\\.(fr|de)\$",
+        r".*(.*|\\.).*\\.(ms|be|fi)\$",
+        r".*(\\.)\?(google|facebook|blogspot|jav|pinterest|pron|github|bbcfmt|uk-live|hbo).*",
+        r".*(\\.)\?(dropbox|hbo).*",
+        r".*(\\.)\?(aa|akamai*|cloudfront|tiqcdn|akstat|go-mpulse|2o7).*",
+        r".*(\\.)\?(cloudflareinsights).*",
+        r".*\\.(icloud|me)\\.com\$",
+        r".*(\\.)\?(appsto|appstore|aaplimg|crashlytics|mzstatic).*(\\.com|\\.co|.re)",
+        r".*(\\.)\?(amazon|amazonaws|kindle|primevideo).*\\.com",
+        r".*(\\.)\?(quora|quoracdn)\\.(com|net)\$",
+        r".*(\\.)\?(yahoo|ytimg|scorecardresearch)\\.com\$",
+        r".*(\\.)\?dazn.*\\.com\$",
+        r".*(\\.)\?(docker|mysql|mongodb|apache|mariadb|nginx|caddy)\\.(io|com|org|net)\$",
+        r".*(\\.)\?(youtube|ytimg)\\.(com)"
+    ]
+    
+    extracted_lines = set()
+    for line in filtered_lines:
+        if any(re.match(pattern, line) for pattern in specific_patterns):
+            extracted_lines.add(line)
+    
+    return list(extracted_lines)
+
 # 生成 .rsc 文件内容
-def generate_rsc_content(filtered_lines):
+def generate_rsc_content(extracted_lines):
     rsc_content = "/ip dns static\n"
     
     def add_rule(comment, domain_pattern):
         nonlocal rsc_content
         rsc_content += f'add comment="{comment}" forward-to=198.18.0.1 regexp="{domain_pattern}" type=FWD\n'
     
-    for line in filtered_lines:
+    for line in extracted_lines:
         if line and not line.startswith('!') and not line.startswith('@@'):
             # 假设每行都是一个需要添加到 DNS 静态记录中的域名模式
             domain_pattern = line.replace('.', '\\.').replace('*', '.*')
@@ -68,8 +95,11 @@ def main():
         # 过滤和优化规则
         filtered_lines = optimize_rules(decoded_content)
         
+        # 提取特定的正则表达式模式
+        extracted_lines = extract_specific_patterns(filtered_lines)
+        
         # 生成并保存转换后的 dns.rsc 文件
-        rsc_content = generate_rsc_content(filtered_lines)
+        rsc_content = generate_rsc_content(extracted_lines)
         write_rsc_file(rsc_content, 'dns.rsc')
         
         print("转换完成，已生成 gfwlist.rsc 和 dns.rsc 文件。")
