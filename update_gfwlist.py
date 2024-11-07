@@ -29,8 +29,8 @@ def process_gfwlist(decoded_content):
             continue  # 跳过注释行
         if line.startswith('@@'):
             continue  # 跳过直连条目
-        if '||' in line:
-            line = line.replace('||', '|')  # 替换 || 为 |
+        # 移除 [] 和 | 符号
+        line = line.replace('[', '').replace(']', '').replace('|', '')
         if line:
             lines.append(line)
     return lines
@@ -61,9 +61,6 @@ def main():
         encoded_content = fetch_gfwlist()
         decoded_content = decode_gfwlist(encoded_content)
         
-        # 保存解码后的 gfwlist.rsc 文件
-        write_rsc_file(decoded_content, 'gfwlist.rsc')
-        
         # 处理 gfwlist 内容
         processed_lines = process_gfwlist(decoded_content)
         
@@ -71,7 +68,7 @@ def main():
         rsc_content = generate_rsc_content(processed_lines)
         write_rsc_file(rsc_content, 'dns.rsc')
         
-        logging.info("Conversion complete, generated gfwlist.rsc and dns.rsc files.")
+        logging.info("Conversion complete, generated dns.rsc file.")
     except Exception as e:
         logging.error(f"Error: {e}")
 
