@@ -70,13 +70,13 @@ DOMESTIC_DOMAINS = [
 def fetch_gfwlist(url):
     response = requests.get(url)
     if response.status_code == 200:
-        return response.content.decode('utf-8')
+        return response.text
     else:
         raise Exception(f"Failed to fetch GFW list: {response.status_code}")
 
 def save_base64_gfwlist(gfwlist, filename):
     with open(filename, "wb") as f:
-        f.write(base64.b64encode(gfwlist.encode('utf-8')))
+        f.write(base64.b64decode(gfwlist))
 
 def process_gfwlist(gfwlist):
     processed_rules = ["/ip dns static"]
@@ -138,9 +138,9 @@ def main():
     try:
         gfwlist = fetch_gfwlist(GFWLIST_URL)
         
-        # 保存原始 GFW 列表为 Base64 编码的文件
+        # 保存解码后的 GFW 列表为 gfwlist.rsc 文件
         save_base64_gfwlist(gfwlist, GFWLIST_RSC_FILE)
-        print(f"GFW list saved as Base64 encoded file: {GFWLIST_RSC_FILE}")
+        print(f"GFW list saved as decoded file: {GFWLIST_RSC_FILE}")
 
         processed_rules = process_gfwlist(gfwlist)
         save_rules(processed_rules, OUTPUT_FILE)
