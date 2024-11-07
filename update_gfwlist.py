@@ -43,8 +43,16 @@ def generate_tld_rules(tlds):
         rules.append((rule, f"Country {tld}"))
     return rules
 
+# 生成特定域名模式的正则表达式条目
+def generate_domain_rules(domains):
+    rules = []
+    for domain in domains:
+        rule = domain.replace('.', '\\.')
+        rules.append((rule, f"Domain {domain}"))
+    return rules
+
 # 生成 .rsc 文件内容
-def generate_rsc_content(processed_lines, tld_rules):
+def generate_rsc_content(processed_lines, tld_rules, domain_rules):
     rsc_content = "/ip dns static\n"
     
     def add_rule(comment, domain_pattern):
@@ -53,6 +61,10 @@ def generate_rsc_content(processed_lines, tld_rules):
     
     # 添加特定国家顶级域名的规则
     for domain_pattern, comment in tld_rules:
+        add_rule(comment, domain_pattern)
+    
+    # 添加特定域名模式的规则
+    for domain_pattern, comment in domain_rules:
         add_rule(comment, domain_pattern)
     
     # 添加其他规则
@@ -83,8 +95,17 @@ def main():
         tlds = ['cu', 'at', 'ca', 'nz', 'br', 'jp', 'in', 'tw', 'hk', 'mo', 'ph', 'vn', 'tr', 'my', 'sg', 'it', 'uk', 'us', 'kr', 'ru', 'fr', 'de', 'ms', 'be', 'fi']
         tld_rules = generate_tld_rules(tlds)
         
+        # 生成特定域名模式的规则
+        domains = [
+            '.google.ae', '.google.com.hk', '.google.co.jp', '.google.co.kr', '.google.com.tw', 
+            '.google.com.sg', '.google.de', '.google.fr', '.google.it', '.google.nl', '.google.pl', 
+            '.google.pt', '.google.se', '.google.es', '.google.ch', '.google.com.tr', '.google.co.uk', 
+            '.google.com.vn', '.google.co.th', '.google.com.au'
+        ]
+        domain_rules = generate_domain_rules(domains)
+        
         # 生成并保存转换后的 dns.rsc 文件
-        rsc_content = generate_rsc_content(processed_lines, tld_rules)
+        rsc_content = generate_rsc_content(processed_lines, tld_rules, domain_rules)
         write_rsc_file(rsc_content, 'dns.rsc')
         
         logging.info("Conversion complete, generated gfwlist.rsc and dns.rsc files.")
