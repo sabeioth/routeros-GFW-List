@@ -1,89 +1,47 @@
 import base64
 import requests
-import logging
-import re
 
-# 设置日志
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-
-# 获取 gfwlist.txt 文件
 def fetch_gfwlist():
+    # GitHub 上 GFWList 的 raw 链接
     url = 'https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt'
-    logging.info(f"Fetching gfwlist from {url}")
     response = requests.get(url)
     if response.status_code == 200:
         return response.text
     else:
-        logging.error(f"Failed to fetch gfwlist.txt: {response.status_code}")
-        raise Exception(f"Failed to fetch gfwlist.txt: {response.status_code}")
+        raise Exception('Failed to download gfwlist')
 
-# 解码 base64 编码的内容
-def decode_gfwlist(encoded_content):
-    logging.info("Decoding gfwlist")
-    return base64.b64decode(encoded_content).decode('utf-8')
+def decode_base64(data):
+    # 解码 Base64 数据
+    return base64.b64decode(data).decode('utf-8')
 
-# 处理 gfwlist 内容
-def process_gfwlist(decoded_content):
-    lines = []
-    for line in decoded_content.splitlines():
-        if line.startswith('!'):
-            continue  # 跳过注释行
-        if line.startswith('@@'):
-            continue  # 跳过直连条目
-        if line:
-            lines.append(line)
-    return lines
-
-# 转义特殊字符以符合 RouterOS 的正则表达式要求
-def escape_special_chars(pattern):
-    special_chars = '.*+?(){}[]|/'
-    for char in special_chars:
-        pattern = pattern.replace(char, '\\' + char)
-    return pattern
-
-# 生成 .rsc 文件内容
-def generate_rsc_content(processed_lines):
-    rsc_content = "/ip dns static\n"
-    
-    def add_rule(comment, domain_pattern):
-        nonlocal rsc_content
-        # 确保正则表达式合法
-        try:
-            re.compile(domain_pattern)
-            rsc_content += f'add comment="{comment}" forward-to=198.18.0.1 regexp="{domain_pattern}" type=FWD\n'
-        except re.error as e:
-            logging.warning(f"Invalid regexp '{domain_pattern}': {e}")
-    
-    for line in processed_lines:
-        # 假设每行都是一个需要添加到 DNS 静态记录中的域名模式
-        domain_pattern = escape_special_chars(line)
-        # 去除多余的转义和空格
-        domain_pattern = domain_pattern.strip().replace(' ', '\\ ')
-        add_rule("GFW", domain_pattern)
-    
-    return rsc_content
-
-# 写入 .rsc 文件
-def write_rsc_file(content, filename):
-    logging.info(f"Writing {filename}")
-    with open(filename, 'w') as file:
-        file.write(content)
+def convert_to_routeros_format(data, forward_to):
+    lines = data.splitlines()
+    output = ['ip dns static']
+    for line in lines:
+        if not line or line.startswith('!'):
+            continue
+        # 替换 . 为 \\. 并添加正则表达式格式
+        line = line.replace('.', '\\.')
+        output.append(f'add regexp=".*\\.{line}\$" forward-to={forward_to} type=FWD')
+    return '\n'.join(output)
 
 def main():
-    try:
-        encoded_content = fetch_gfwlist()
-        decoded_content = decode_gfwlist(encoded_content)
-        
-        # 处理 gfwlist 内容
-        processed_lines = process_gfwlist(decoded_content)
-        
-        # 生成并保存转换后的 dns.rsc 文件
-        rsc_content = generate_rsc_content(processed_lines)
-        write_rsc_file(rsc_content, 'dns.rsc')
-        
-        logging.info("Conversion complete, generated dns.rsc file.")
-    except Exception as e:
-        logging.error(f"Error: {e}")
+    # 前向 DNS 地址，根据实际情况修改
+    gfwdns = '8.8.8.8'  # 这里填写您希望使用的DNS服务器地址
+    
+    # 获取并解码 GFWList
+    gfwlist_data = fetch_gfwlist()
+    decoded_data = decode_base64(gfwlist_data)
+    
+    # 将数据转换为 RouterOS 格式
+    routeros_data = convert_to_routeros_format(decoded_data, gfwdns)
+    
+    # 写入 gfwlist.rsc 和 dns.rsc 文件
+    with open('gfwlist.rsc', 'w') as f:
+        f.write(decoded_data)
+    
+    with open('dns.rsc', 'w') as f:
+        f.write(routeros_data)
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
