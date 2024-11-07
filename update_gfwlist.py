@@ -1,6 +1,7 @@
 import base64
 import requests
 import logging
+import re
 
 # 设置日志
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -41,11 +42,18 @@ def generate_rsc_content(processed_lines):
     
     def add_rule(comment, domain_pattern):
         nonlocal rsc_content
-        rsc_content += f'add comment="{comment}" forward-to=198.18.0.1 regexp="{domain_pattern}" type=FWD\n'
+        # 确保正则表达式合法
+        try:
+            re.compile(domain_pattern)
+            rsc_content += f'add comment="{comment}" forward-to=198.18.0.1 regexp="{domain_pattern}" type=FWD\n'
+        except re.error as e:
+            logging.warning(f"Invalid regexp '{domain_pattern}': {e}")
     
     for line in processed_lines:
         # 假设每行都是一个需要添加到 DNS 静态记录中的域名模式
-        domain_pattern = line.replace('.', '\\.').replace('*', '.*')
+        domain_pattern = line.replace('.', '\\.')
+        # 去除多余的转义和空格
+        domain_pattern = domain_pattern.strip().replace(' ', '\\ ')
         add_rule("GFW", domain_pattern)
     
     return rsc_content
