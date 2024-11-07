@@ -1,7309 +1,8508 @@
-/ip firewall address-list
-add address=|http://85.17.73.31/ list=gfwlist
-add address=||afreecatv.com list=gfwlist
-add address=||agnesb.fr list=gfwlist
-add address=||akiba-web.com list=gfwlist
-add address=||altrec.com list=gfwlist
-add address=||angela-merkel.de list=gfwlist
-add address=||angola.org list=gfwlist
-add address=||anthropic.com list=gfwlist
-add address=||apartmentratings.com list=gfwlist
-add address=||apartments.com list=gfwlist
-add address=||arena.taipei list=gfwlist
-add address=||asianspiss.com list=gfwlist
-add address=||assimp.org list=gfwlist
-add address=||athenaeizou.com list=gfwlist
-add address=||azubu.tv list=gfwlist
-add address=||bankmobilevibe.com list=gfwlist
-add address=||banorte.com list=gfwlist
-add address=||beeg.com list=gfwlist
-add address=||global.bing.com list=gfwlist
-add address=||booktopia.com.au list=gfwlist
-add address=||boysmaster.com list=gfwlist
-add address=||bynet.co.il list=gfwlist
-add address=||byrut.org list=gfwlist
-add address=||carfax.com list=gfwlist
-add address=.casinobellini.com list=gfwlist
-add address=||casinobellini.com list=gfwlist
-add address=||centauro.com.br list=gfwlist
-add address=||chobit.cc list=gfwlist
-add address=||ciciai.com list=gfwlist
-add address=||claude.ai list=gfwlist
-add address=||clearsurance.com list=gfwlist
-add address=||images.comico.tw list=gfwlist
-add address=||static.comico.tw list=gfwlist
-add address=||counter.social list=gfwlist
-add address=||costco.com list=gfwlist
-add address=||coze.com list=gfwlist
-add address=||crossfire.co.kr list=gfwlist
-add address=||crunchyroll.com list=gfwlist
-add address=||d2pass.com list=gfwlist
-add address=||darpa.mil list=gfwlist
-add address=||dawangidc.com list=gfwlist
-add address=||deezer.com list=gfwlist
-add address=||desipro.de list=gfwlist
-add address=||dingchin.com.tw list=gfwlist
-add address=||discord.com list=gfwlist
-add address=||discord.gg list=gfwlist
-add address=||discordapp.com list=gfwlist
-add address=||discordapp.net list=gfwlist
-add address=||dish.com list=gfwlist
-add address=|http://img.dlsite.jp/ list=gfwlist
-add address=||dm530.net list=gfwlist
-add address=share.dmhy.org list=gfwlist
-add address=||dmhy.org list=gfwlist
-add address=||dmm.co.jp list=gfwlist
-add address=|http://www.dmm.com/netgame list=gfwlist
-add address=||dnvod.tv list=gfwlist
-add address=||dubox.com list=gfwlist
-add address=||dvdpac.com list=gfwlist
-add address=||eesti.ee list=gfwlist
-add address=||esurance.com list=gfwlist
-add address=.expekt.com list=gfwlist
-add address=||expekt.com list=gfwlist
-add address=.extmatrix.com list=gfwlist
-add address=||extmatrix.com list=gfwlist
-add address=||fakku.net list=gfwlist
-add address=||fastpic.ru list=gfwlist
-add address=||filesor.com list=gfwlist
-add address=||financetwitter.com list=gfwlist
-add address=||flipboard.com list=gfwlist
-add address=||flitto.com list=gfwlist
-add address=||fnac.be list=gfwlist
-add address=||fnac.com list=gfwlist
-add address=||funkyimg.com list=gfwlist
-add address=||fxnetworks.com list=gfwlist
-add address=||g-area.org list=gfwlist
-add address=||gettyimages.com list=gfwlist
-add address=||getuploader.com list=gfwlist
-add address=||ghidra-sre.org list=gfwlist
-add address=||glass8.eu list=gfwlist
-add address=||glype.com list=gfwlist
-add address=||go141.com list=gfwlist
-add address=||guo.media list=gfwlist
-add address=||hautelook.com list=gfwlist
-add address=||hautelookcdn.com list=gfwlist
-add address=||wego.here.com list=gfwlist
-add address=||gamer-cds.cdn.hinet.net list=gfwlist
-add address=||gamer2-cds.cdn.hinet.net list=gfwlist
-add address=||hmoegirl.com list=gfwlist
-add address=||hmvdigital.ca list=gfwlist
-add address=||hmvdigital.com list=gfwlist
-add address=||homedepot.com list=gfwlist
-add address=||hoovers.com list=gfwlist
-add address=||hulu.com list=gfwlist
-add address=||huluim.com list=gfwlist
-add address=|http://secure.hustler.com list=gfwlist
-add address=|http://hustlercash.com list=gfwlist
-add address=|http://www.hustlercash.com list=gfwlist
-add address=||hybrid-analysis.com list=gfwlist
-add address=||cdn*.i-scmp.com list=gfwlist
-add address=||ilbe.com list=gfwlist
-add address=||ilovelongtoes.com list=gfwlist
-add address=|http://imgmega.com/*.gif.html list=gfwlist
-add address=|http://imgmega.com/*.jpg.html list=gfwlist
-add address=|http://imgmega.com/*.jpeg.html list=gfwlist
-add address=|http://imgmega.com/*.png.html list=gfwlist
-add address=||imlive.com list=gfwlist
-add address=||tw.iqiyi.com list=gfwlist
-add address=||javhub.net list=gfwlist
-add address=||javhuge.com list=gfwlist
-add address=.javlibrary.com list=gfwlist
-add address=||javlibrary.com list=gfwlist
-add address=||jcpenney.com list=gfwlist
-add address=||jims.net list=gfwlist
-add address=||tv.jtbc.joins.com list=gfwlist
-add address=||jukujo-club.com list=gfwlist
-add address=||juliepost.com list=gfwlist
-add address=||kawaiikawaii.jp list=gfwlist
-add address=||kendatire.com list=gfwlist
-add address=||khatrimaza.org list=gfwlist
-add address=||kkbox.com list=gfwlist
-add address=||leisurepro.com list=gfwlist
-add address=||lifemiles.com list=gfwlist
-add address=||longtoes.com list=gfwlist
-add address=||lovetvshow.com list=gfwlist
-add address=|http://www.m-sport.co.uk list=gfwlist
-add address=||macgamestore.com list=gfwlist
-add address=||madonna-av.com list=gfwlist
-add address=||mandiant.com list=gfwlist
-add address=||mangafox.com list=gfwlist
-add address=||mangafox.me list=gfwlist
-add address=||manta.com list=gfwlist
-add address=||matome-plus.com list=gfwlist
-add address=||matome-plus.net list=gfwlist
-add address=||mattwilcox.net list=gfwlist
-add address=||metarthunter.com list=gfwlist
-add address=||mfxmedia.com list=gfwlist
-add address=||mojim.com list=gfwlist
-add address=||kb.monitorware.com list=gfwlist
-add address=||monster.com list=gfwlist
-add address=||moodyz.com list=gfwlist
-add address=||moonbingo.com list=gfwlist
-add address=||mos.ru list=gfwlist
-add address=||msha.gov list=gfwlist
-add address=||muzu.tv list=gfwlist
-add address=||mvg.jp list=gfwlist
-add address=.mybet.com list=gfwlist
-add address=||mybet.com list=gfwlist
-add address=||mypikpak.com list=gfwlist
-add address=||nationwide.com list=gfwlist
-add address=|http://www.nbc.com/live list=gfwlist
-add address=||neo-miracle.com list=gfwlist
-add address=||netflix.com list=gfwlist
-add address=||netflix.net list=gfwlist
-add address=||nflximg.com list=gfwlist
-add address=||nflximg.net list=gfwlist
-add address=||nflxext.com list=gfwlist
-add address=||nflxso.net list=gfwlist
-add address=||nflxvideo.net list=gfwlist
-add address=||nic.gov list=gfwlist
-add address=|http://mo.nightlife141.com list=gfwlist
-add address=||purpose.nike.com list=gfwlist
-add address=||noxinfluencer.com list=gfwlist
-add address=@@||cn.noxinfluencer.com list=gfwlist
-add address=||nordstrom.com list=gfwlist
-add address=||nordstromimage.com list=gfwlist
-add address=||nordstromrack.com list=gfwlist
-add address=||nottinghampost.com list=gfwlist
-add address=||npsboost.com list=gfwlist
-add address=||ntdtv.cz list=gfwlist
-add address=||s1.nudezz.com list=gfwlist
-add address=||nusatrip.com list=gfwlist
-add address=||nuuvem.com list=gfwlist
-add address=||olehdtv.com list=gfwlist
-add address=||omni7.jp list=gfwlist
-add address=||onapp.com list=gfwlist
-add address=||ontrac.com list=gfwlist
-add address=@@|http://blog.ontrac.com list=gfwlist
-add address=||openai.com list=gfwlist
-add address=||pandora.com list=gfwlist
-add address=.pandora.tv list=gfwlist
-add address=||parkansky.com list=gfwlist
-add address=||phmsociety.org list=gfwlist
-add address=|http://*.pimg.tw/ list=gfwlist
-add address=||podcast.co list=gfwlist
-add address=||pure18.com list=gfwlist
-add address=||pytorch.org list=gfwlist
-add address=||qq.co.za list=gfwlist
-add address=||r18.com list=gfwlist
-add address=|http://radiko.jp list=gfwlist
-add address=||ramcity.com.au list=gfwlist
-add address=||rateyourmusic.com list=gfwlist
-add address=||rd.com list=gfwlist
-add address=||rdio.com list=gfwlist
-add address=|https://riseup.net list=gfwlist
-add address=||sadistic-v.com list=gfwlist
-add address=||isc.sans.edu list=gfwlist
-add address=|http://cdn*.search.xxx/ list=gfwlist
-add address=||shiksha.com list=gfwlist
-add address=||slacker.com list=gfwlist
-add address=||sm-miracle.com list=gfwlist
-add address=||softnology.biz list=gfwlist
-add address=||soylentnews.org list=gfwlist
-add address=||spotify.com list=gfwlist
-add address=||spreadshirt.es list=gfwlist
-add address=||springboardplatform.com list=gfwlist
-add address=||sprite.org list=gfwlist
-add address=@@|http://store.sprite.org list=gfwlist
-add address=||superokayama.com list=gfwlist
-add address=||superpages.com list=gfwlist
-add address=||swagbucks.com list=gfwlist
-add address=||switch1.jp list=gfwlist
-add address=||tapanwap.com list=gfwlist
-add address=||gsp.target.com list=gfwlist
-add address=||login.target.com list=gfwlist
-add address=||rcam.target.com list=gfwlist
-add address=||technews.tw list=gfwlist
-add address=||terabox.com list=gfwlist
-add address=||thinkgeek.com list=gfwlist
-add address=||thebodyshop-usa.com list=gfwlist
-add address=||tiktok.com list=gfwlist
-add address=||tma.co.jp list=gfwlist
-add address=||tracfone.com list=gfwlist
-add address=||tryheart.jp list=gfwlist
-add address=||turntable.fm list=gfwlist
-add address=||twerkingbutt.com list=gfwlist
-add address=||ulop.net list=gfwlist
-add address=||uukanshu.com list=gfwlist
-add address=||vegasred.com list=gfwlist
-add address=||vevo.com list=gfwlist
-add address=||vip-enterprise.com list=gfwlist
-add address=|http://viu.tv/ch/ list=gfwlist
-add address=|http://viu.tv/encore/ list=gfwlist
-add address=||vmpsoft.com list=gfwlist
-add address=|http://ecsm.vs.com/ list=gfwlist
-add address=||wanz-factory.com list=gfwlist
-add address=||ssl.webpack.de list=gfwlist
-add address=||wheretowatch.com list=gfwlist
-add address=||wingamestore.com list=gfwlist
-add address=||wizcrafts.net list=gfwlist
-add address=||wowhead.com list=gfwlist
-add address=||vod.wwe.com list=gfwlist
-add address=||xfinity.com list=gfwlist
-add address=||xiaomi.eu list=gfwlist
-add address=||youwin.com list=gfwlist
-add address=||ytn.co.kr list=gfwlist
-add address=||zamimg.com list=gfwlist
-add address=||zattoo.com list=gfwlist
-add address=||zim.vn list=gfwlist
-add address=||zozotown.com list=gfwlist
-add address=14.102.250.18 list=gfwlist
-add address=14.102.250.19 list=gfwlist
-add address=50.7.31.230:8898 list=gfwlist
-add address=174.142.105.153 list=gfwlist
-add address=69.65.19.160 list=gfwlist
-add address=||xn--4gq171p.com list=gfwlist
-add address=||xn--czq75pvv1aj5c.org list=gfwlist
-add address=||xn--i2ru8q2qg.com list=gfwlist
-add address=||xn--oiq.cc list=gfwlist
-add address=||xn--p8j9a0d9c9a.xn--q9jyb4c list=gfwlist
-add address=||xn--9pr62r24a.com list=gfwlist
-add address=||abebooks.com list=gfwlist
-add address=|https://*.s3.amazonaws.com list=gfwlist
-add address=||s3-ap-southeast-2.amazonaws.com list=gfwlist
-add address=||43110.cf list=gfwlist
-add address=||9cache.com list=gfwlist
-add address=||9gag.com list=gfwlist
-add address=||agro.hk list=gfwlist
-add address=||share.america.gov list=gfwlist
-add address=||apkmirror.com list=gfwlist
-add address=||arte.tv list=gfwlist
-add address=||artstation.com list=gfwlist
-add address=||bangdream.space list=gfwlist
-add address=||behance.net list=gfwlist
-add address=||bird.so list=gfwlist
-add address=||bitterwinter.org list=gfwlist
-add address=||bnn.co list=gfwlist
-add address=||businessinsider.com list=gfwlist
-add address=||boomssr.com list=gfwlist
-add address=||bwgyhw.com list=gfwlist
-add address=||castbox.fm list=gfwlist
-add address=||chinatimes.com list=gfwlist
-add address=||clyp.it list=gfwlist
-add address=||cmcn.org list=gfwlist
-add address=||cmx.im list=gfwlist
-add address=||dailyview.tw list=gfwlist
-add address=||daum.net list=gfwlist
-add address=||depositphotos.com list=gfwlist
-add address=||disconnect.me list=gfwlist
-add address=||documentingreality.com list=gfwlist
-add address=||doubibackup.com list=gfwlist
-add address=||doubmirror.cf list=gfwlist
-add address=||encyclopedia.com list=gfwlist
-add address=||fangeqiang.com list=gfwlist
-add address=||fanqiangdang.com list=gfwlist
-add address=||feedly.com list=gfwlist
-add address=||feedx.net list=gfwlist
-add address=||flyzy2005.com list=gfwlist
-add address=||foreignpolicy.com list=gfwlist
-add address=||free-ss.site list=gfwlist
-add address=||freehongkong.org list=gfwlist
-add address=||blog.fuckgfw233.org list=gfwlist
-add address=||g0v.social list=gfwlist
-add address=||globalvoices.org list=gfwlist
-add address=||glorystar.me list=gfwlist
-add address=||goregrish.com list=gfwlist
-add address=||guangnianvpn.com list=gfwlist
-add address=||hanime.tv list=gfwlist
-add address=||hbo.com list=gfwlist
-add address=||spaces.hightail.com list=gfwlist
-add address=||hkgalden.com list=gfwlist
-add address=||hkgolden.com list=gfwlist
-add address=||hudson.org list=gfwlist
-add address=||ipfs.io list=gfwlist
-add address=||japantimes.co.jp list=gfwlist
-add address=||jiji.com list=gfwlist
-add address=||jintian.net list=gfwlist
-add address=||jinx.com list=gfwlist
-add address=||joinmastodon.org list=gfwlist
-add address=||liangzhichuanmei.com list=gfwlist
-add address=||lighti.me list=gfwlist
-add address=||lightyearvpn.com list=gfwlist
-add address=||lihkg.com list=gfwlist
-add address=||line-scdn.net list=gfwlist
-add address=||i.lithium.com list=gfwlist
-add address=||cloud.mail.ru list=gfwlist
-add address=||cdn-images.mailchimp.com list=gfwlist
-add address=||mastodon.cloud list=gfwlist
-add address=||mastodon.host list=gfwlist
-add address=||mastodon.social list=gfwlist
-add address=||mastodon.xyz list=gfwlist
-add address=||matters.news list=gfwlist
-add address=||me.me list=gfwlist
-add address=||metart.com list=gfwlist
-add address=||mohu.club list=gfwlist
-add address=||mohu.ml list=gfwlist
-add address=||motiyun.com list=gfwlist
-add address=||msa-it.org list=gfwlist
-add address=||goo.ne.jp list=gfwlist
-add address=||go.nesnode.com list=gfwlist
-add address=||international-news.newsmagazine.asia list=gfwlist
-add address=||nikkei.com list=gfwlist
-add address=||nitter.cc list=gfwlist
-add address=||nitter.net list=gfwlist
-add address=||niu.moe list=gfwlist
-add address=||nofile.io list=gfwlist
-add address=||now.com list=gfwlist
-add address=||openvpn.org list=gfwlist
-add address=||onejav.com list=gfwlist
-add address=||paste.ee list=gfwlist
-add address=||my.pcloud.com list=gfwlist
-add address=||picacomic.com list=gfwlist
-add address=||pincong.rocks list=gfwlist
-add address=||pixiv.net list=gfwlist
-add address=||potato.im list=gfwlist
-add address=||premproxy.com list=gfwlist
-add address=||prism-break.org list=gfwlist
-add address=||proton.me list=gfwlist
-add address=||protonvpn.com list=gfwlist
-add address=||api.pureapk.com list=gfwlist
-add address=||quora.com list=gfwlist
-add address=||quoracdn.net list=gfwlist
-add address=||qz.com list=gfwlist
-add address=||cdn.seatguru.com list=gfwlist
-add address=||secure.raxcdn.com list=gfwlist
-add address=||redd.it list=gfwlist
-add address=||reddit.com list=gfwlist
-add address=.redditlist.com list=gfwlist
-add address=|http://redditlist.com list=gfwlist
-add address=||redditmedia.com list=gfwlist
-add address=||redditstatic.com list=gfwlist
-add address=||rixcloud.com list=gfwlist
-add address=||rixcloud.us list=gfwlist
-add address=||rsdlmonitor.com list=gfwlist
-add address=||shadowsocks.be list=gfwlist
-add address=||shadowsocks9.com list=gfwlist
-add address=||tn1.shemalez.com list=gfwlist
-add address=||tn2.shemalez.com list=gfwlist
-add address=||tn3.shemalez.com list=gfwlist
-add address=||static.shemalez.com list=gfwlist
-add address=||six-degrees.io list=gfwlist
-add address=||softfamous.com list=gfwlist
-add address=||softsmirror.cf list=gfwlist
-add address=||sosreader.com list=gfwlist
-add address=||sspanel.net list=gfwlist
-add address=||sulian.me list=gfwlist
-add address=||supchina.com list=gfwlist
-add address=||teddysun.com list=gfwlist
-add address=||textnow.me list=gfwlist
-add address=||tineye.com list=gfwlist
-add address=||top10vpn.com list=gfwlist
-add address=||tubepornclassic.com list=gfwlist
-add address=||uku.im list=gfwlist
-add address=||unseen.is list=gfwlist
-add address=||cn.uptodown.com list=gfwlist
-add address=||uraban.me list=gfwlist
-add address=||vrsmash.com list=gfwlist
-add address=||vultryhw.com list=gfwlist
-add address=||scache.vzw.com list=gfwlist
-add address=||scache1.vzw.com list=gfwlist
-add address=||scache2.vzw.com list=gfwlist
-add address=||ss7.vzw.com list=gfwlist
-add address=||ssr.tools list=gfwlist
-add address=||steemit.com list=gfwlist
-add address=||taiwanjustice.net list=gfwlist
-add address=||tinc-vpn.org list=gfwlist
-add address=||u15.info list=gfwlist
-add address=||washingtonpost.com list=gfwlist
-add address=||wenzhao.ca list=gfwlist
-add address=||whatsonweibo.com list=gfwlist
-add address=||wire.com list=gfwlist
-add address=||blog.workflow.is list=gfwlist
-add address=||xm.com list=gfwlist
-add address=||xuehua.us list=gfwlist
-add address=||yes-news.com list=gfwlist
-add address=||yigeni.com list=gfwlist
-add address=||you-get.org list=gfwlist
-add address=||zzcloud.me list=gfwlist
-add address=||aex.com list=gfwlist
-add address=||allcoin.com list=gfwlist
-add address=||adcex.com list=gfwlist
-add address=||bcex.ca list=gfwlist
-add address=||bibox.com list=gfwlist
-add address=||big.one list=gfwlist
-add address=||bigone.com list=gfwlist
-add address=||binance.com list=gfwlist
-add address=||bit-z.com list=gfwlist
-add address=||bitz.ai list=gfwlist
-add address=||bitbay.net list=gfwlist
-add address=||bitcoinworld.com list=gfwlist
-add address=||bitfinex.com list=gfwlist
-add address=||bithumb.com list=gfwlist
-add address=||bitinka.com.ar list=gfwlist
-add address=||bitmex.com list=gfwlist
-add address=||bnbstatic.com list=gfwlist
-add address=||btc98.com list=gfwlist
-add address=||btcbank.bank list=gfwlist
-add address=||btctrade.im list=gfwlist
-add address=||bybit.com list=gfwlist
-add address=||c2cx.com list=gfwlist
-add address=||chaoex.com list=gfwlist
-add address=||cobinhood.com list=gfwlist
-add address=||coin2co.in list=gfwlist
-add address=||coinbene.com list=gfwlist
-add address=.coinegg.com list=gfwlist
-add address=||coinegg.com list=gfwlist
-add address=||coinex.com list=gfwlist
-add address=||coingecko.com list=gfwlist
-add address=||coingi.com list=gfwlist
-add address=||coinmarketcap.com list=gfwlist
-add address=||coinrail.co.kr list=gfwlist
-add address=||cointiger.com list=gfwlist
-add address=||cointobe.com list=gfwlist
-add address=||coinut.com list=gfwlist
-add address=||discoins.com list=gfwlist
-add address=||dragonex.io list=gfwlist
-add address=||ebtcbank.com list=gfwlist
-add address=||etherdelta.com list=gfwlist
-add address=||ethermine.org list=gfwlist
-add address=||etherscan.io list=gfwlist
-add address=||exmo.com list=gfwlist
-add address=||exrates.me list=gfwlist
-add address=||exx.com list=gfwlist
-add address=||f2pool.com list=gfwlist
-add address=||fatbtc.com list=gfwlist
-add address=||ftx.com list=gfwlist
-add address=||gate.io list=gfwlist
-add address=||gatecoin.com list=gfwlist
-add address=||hbg.com list=gfwlist
-add address=||hitbtc.com list=gfwlist
-add address=||hotcoin.com list=gfwlist
-add address=||huobi.co list=gfwlist
-add address=||huobi.com list=gfwlist
-add address=||huobi.me list=gfwlist
-add address=||huobi.pro list=gfwlist
-add address=||huobi.sc list=gfwlist
-add address=||huobipro.com list=gfwlist
-add address=||bx.in.th list=gfwlist
-add address=||jex.com list=gfwlist
-add address=||kex.com list=gfwlist
-add address=||kraken.com list=gfwlist
-add address=||kspcoin.com list=gfwlist
-add address=||kucoin.com list=gfwlist
-add address=||lbank.info list=gfwlist
-add address=||liquiditytp.com list=gfwlist
-add address=||livecoin.net list=gfwlist
-add address=||localbitcoins.com list=gfwlist
-add address=||mercatox.com list=gfwlist
-add address=||oanda.com list=gfwlist
-add address=||obyte.org list=gfwlist
-add address=||oex.com list=gfwlist
-add address=||okex.com list=gfwlist
-add address=||okx.com list=gfwlist
-add address=||opensea.io list=gfwlist
-add address=||otcbtc.com list=gfwlist
-add address=||paxful.com list=gfwlist
-add address=||poolin.com list=gfwlist
-add address=||rightbtc.com list=gfwlist
-add address=||solv.finance list=gfwlist
-add address=||topbtc.com list=gfwlist
-add address=||tronscan.org list=gfwlist
-add address=||xbtce.com list=gfwlist
-add address=||yobit.net list=gfwlist
-add address=||zb.com list=gfwlist
-add address=||read01.com list=gfwlist
-add address=||kknews.cc list=gfwlist
-add address=china-mmm.jp.net list=gfwlist
-add address=.lsxszzg.com list=gfwlist
-add address=.china-mmm.net list=gfwlist
-add address=||china-mmm.net list=gfwlist
-add address=china-mmm.sa.com list=gfwlist
-add address=.allowed.org list=gfwlist
-add address=.now.im list=gfwlist
-add address=||amazon.co.jp list=gfwlist
-add address=.amazon.com/Dalai-Lama list=gfwlist
-add address=amazon.com/Prisoner-State-Secret-Journal-Premier list=gfwlist
-add address=s3-ap-northeast-1.amazonaws.com list=gfwlist
-add address=||aolchannels.aol.com list=gfwlist
-add address=video.aol.ca/video-detail list=gfwlist
-add address=video.aol.co.uk/video-detail list=gfwlist
-add address=video.aol.com list=gfwlist
-add address=||video.aol.com list=gfwlist
-add address=||search.aol.com list=gfwlist
-add address=www.aolnews.com list=gfwlist
-add address=.avmo.pw list=gfwlist
-add address=.avmoo.com list=gfwlist
-add address=|http://avmoo.com list=gfwlist
-add address=.avmoo.net list=gfwlist
-add address=|http://avmoo.net list=gfwlist
-add address=||avmoo.pw list=gfwlist
-add address=.javmoo.xyz list=gfwlist
-add address=|http://javmoo.xyz list=gfwlist
-add address=.javtag.com list=gfwlist
-add address=|http://javtag.com list=gfwlist
-add address=.javzoo.com list=gfwlist
-add address=|http://javzoo.com list=gfwlist
-add address=.tellme.pw list=gfwlist
-add address=.bbc.com list=gfwlist
-add address=||bbc.com list=gfwlist
-add address=.bbc.co.uk list=gfwlist
-add address=||bbc.co.uk list=gfwlist
-add address=||bbci.co.uk list=gfwlist
-add address=.bbcchinese.com list=gfwlist
-add address=||bbcchinese.com list=gfwlist
-add address=|http://bbc.in list=gfwlist
-add address=.bloomberg.cn list=gfwlist
-add address=||bloomberg.cn list=gfwlist
-add address=.bloomberg.com list=gfwlist
-add address=||bloomberg.com list=gfwlist
-add address=bloomberg.de list=gfwlist
-add address=||bloomberg.de list=gfwlist
-add address=||bloombergview.com list=gfwlist
-add address=.businessweek.com list=gfwlist
-add address=.1dumb.com list=gfwlist
-add address=.25u.com list=gfwlist
-add address=.2waky.com list=gfwlist
-add address=.3-a.net list=gfwlist
-add address=.4dq.com list=gfwlist
-add address=.4mydomain.com list=gfwlist
-add address=.4pu.com list=gfwlist
-add address=.acmetoy.com list=gfwlist
-add address=.almostmy.com list=gfwlist
-add address=.americanunfinished.com list=gfwlist
-add address=.authorizeddns.net list=gfwlist
-add address=.authorizeddns.org list=gfwlist
-add address=.authorizeddns.us list=gfwlist
-add address=.bigmoney.biz list=gfwlist
-add address=.changeip.name list=gfwlist
-add address=.changeip.net list=gfwlist
-add address=.changeip.org list=gfwlist
-add address=.cleansite.biz list=gfwlist
-add address=.cleansite.info list=gfwlist
-add address=.cleansite.us list=gfwlist
-add address=.compress.to list=gfwlist
-add address=.ddns.info list=gfwlist
-add address=.ddns.me.uk list=gfwlist
-add address=.ddns.mobi list=gfwlist
-add address=.ddns.ms list=gfwlist
-add address=.ddns.name list=gfwlist
-add address=.ddns.us list=gfwlist
-add address=.dhcp.biz list=gfwlist
-add address=.dns-dns.com list=gfwlist
-add address=.dns-stuff.com list=gfwlist
-add address=.dns04.com list=gfwlist
-add address=.dns05.com list=gfwlist
-add address=.dns1.us list=gfwlist
-add address=.dns2.us list=gfwlist
-add address=.dnset.com list=gfwlist
-add address=.dnsrd.com list=gfwlist
-add address=.dsmtp.com list=gfwlist
-add address=.dumb1.com list=gfwlist
-add address=.dynamic-dns.net list=gfwlist
-add address=.dynamicdns.biz list=gfwlist
-add address=.dynamicdns.co.uk list=gfwlist
-add address=.dynamicdns.me.uk list=gfwlist
-add address=.dynamicdns.org.uk list=gfwlist
-add address=.dyndns.pro list=gfwlist
-add address=.dynssl.com list=gfwlist
-add address=.edns.biz list=gfwlist
-add address=.epac.to list=gfwlist
-add address=.esmtp.biz list=gfwlist
-add address=.ezua.com list=gfwlist
-add address=.faqserv.com list=gfwlist
-add address=.fartit.com list=gfwlist
-add address=.freeddns.com list=gfwlist
-add address=.freetcp.com list=gfwlist
-add address=.freewww.biz list=gfwlist
-add address=.freewww.info list=gfwlist
-add address=.ftp1.biz list=gfwlist
-add address=.ftpserver.biz list=gfwlist
-add address=.gettrials.com list=gfwlist
-add address=.got-game.org list=gfwlist
-add address=.gr8domain.biz list=gfwlist
-add address=.gr8name.biz list=gfwlist
-add address=.https443.net list=gfwlist
-add address=.https443.org list=gfwlist
-add address=.ikwb.com list=gfwlist
-add address=.instanthq.com list=gfwlist
-add address=.iownyour.biz list=gfwlist
-add address=.iownyour.org list=gfwlist
-add address=.isasecret.com list=gfwlist
-add address=.itemdb.com list=gfwlist
-add address=.itsaol.com list=gfwlist
-add address=.jetos.com list=gfwlist
-add address=.jkub.com list=gfwlist
-add address=.jungleheart.com list=gfwlist
-add address=.justdied.com list=gfwlist
-add address=.lflink.com list=gfwlist
-add address=.lflinkup.com list=gfwlist
-add address=.lflinkup.net list=gfwlist
-add address=.lflinkup.org list=gfwlist
-add address=.longmusic.com list=gfwlist
-add address=.mefound.com list=gfwlist
-add address=.moneyhome.biz list=gfwlist
-add address=.mrbasic.com list=gfwlist
-add address=.mrbonus.com list=gfwlist
-add address=.mrface.com list=gfwlist
-add address=.mrslove.com list=gfwlist
-add address=.my03.com list=gfwlist
-add address=.mydad.info list=gfwlist
-add address=.myddns.com list=gfwlist
-add address=.myftp.info list=gfwlist
-add address=.myftp.name list=gfwlist
-add address=.mylftv.com list=gfwlist
-add address=.mymom.info list=gfwlist
-add address=.mynetav.net list=gfwlist
-add address=.mynetav.org list=gfwlist
-add address=.mynumber.org list=gfwlist
-add address=.mypicture.info list=gfwlist
-add address=.mypop3.net list=gfwlist
-add address=.mypop3.org list=gfwlist
-add address=.mysecondarydns.com list=gfwlist
-add address=.mywww.biz list=gfwlist
-add address=.myz.info list=gfwlist
-add address=.ninth.biz list=gfwlist
-add address=.ns01.biz list=gfwlist
-add address=.ns01.info list=gfwlist
-add address=.ns01.us list=gfwlist
-add address=.ns02.biz list=gfwlist
-add address=.ns02.info list=gfwlist
-add address=.ns02.us list=gfwlist
-add address=.ns1.name list=gfwlist
-add address=.ns2.name list=gfwlist
-add address=.ns3.name list=gfwlist
-add address=.ocry.com list=gfwlist
-add address=.onedumb.com list=gfwlist
-add address=.onmypc.biz list=gfwlist
-add address=.onmypc.info list=gfwlist
-add address=.onmypc.net list=gfwlist
-add address=.onmypc.org list=gfwlist
-add address=.onmypc.us list=gfwlist
-add address=.organiccrap.com list=gfwlist
-add address=.otzo.com list=gfwlist
-add address=.ourhobby.com list=gfwlist
-add address=.pcanywhere.net list=gfwlist
-add address=.port25.biz list=gfwlist
-add address=.proxydns.com list=gfwlist
-add address=.qhigh.com list=gfwlist
-add address=.qpoe.com list=gfwlist
-add address=.rebatesrule.net list=gfwlist
-add address=.sellclassics.com list=gfwlist
-add address=.sendsmtp.com list=gfwlist
-add address=.serveuser.com list=gfwlist
-add address=.serveusers.com list=gfwlist
-add address=.sexidude.com list=gfwlist
-add address=.sexxxy.biz list=gfwlist
-add address=.sixth.biz list=gfwlist
-add address=.squirly.info list=gfwlist
-add address=.ssl443.org list=gfwlist
-add address=.toh.info list=gfwlist
-add address=.toythieves.com list=gfwlist
-add address=.trickip.net list=gfwlist
-add address=.trickip.org list=gfwlist
-add address=.vizvaz.com list=gfwlist
-add address=.wha.la list=gfwlist
-add address=.wikaba.com list=gfwlist
-add address=.www1.biz list=gfwlist
-add address=.wwwhost.biz list=gfwlist
-add address=@@|http://xx.wwwhost.biz list=gfwlist
-add address=.x24hr.com list=gfwlist
-add address=.xxuz.com list=gfwlist
-add address=.xxxy.biz list=gfwlist
-add address=.xxxy.info list=gfwlist
-add address=.ygto.com list=gfwlist
-add address=.youdontcare.com list=gfwlist
-add address=.yourtrap.com list=gfwlist
-add address=.zyns.com list=gfwlist
-add address=.zzux.com list=gfwlist
-add address=d1b183sg0nvnuh.cloudfront.net list=gfwlist
-add address=|https://d1b183sg0nvnuh.cloudfront.net list=gfwlist
-add address=d1c37gjwa26taa.cloudfront.net list=gfwlist
-add address=|https://d1c37gjwa26taa.cloudfront.net list=gfwlist
-add address=d3c33hcgiwev3.cloudfront.net list=gfwlist
-add address=|https://d3c33hcgiwev3.cloudfront.net list=gfwlist
-add address=||d3rhr7kgmtrq1v.cloudfront.net list=gfwlist
-add address=.3d-game.com list=gfwlist
-add address=.4irc.com list=gfwlist
-add address=.b0ne.com list=gfwlist
-add address=.chatnook.com list=gfwlist
-add address=.darktech.org list=gfwlist
-add address=.deaftone.com list=gfwlist
-add address=.dtdns.net list=gfwlist
-add address=.effers.com list=gfwlist
-add address=.etowns.net list=gfwlist
-add address=.etowns.org list=gfwlist
-add address=.flnet.org list=gfwlist
-add address=.gotgeeks.com list=gfwlist
-add address=.scieron.com list=gfwlist
-add address=.slyip.com list=gfwlist
-add address=.slyip.net list=gfwlist
-add address=.suroot.com list=gfwlist
-add address=.blogdns.org list=gfwlist
-add address=.dyndns.org list=gfwlist
-add address=.dyndns-ip.com list=gfwlist
-add address=.dyndns-pics.com list=gfwlist
-add address=.from-sd.com list=gfwlist
-add address=.from-pr.com list=gfwlist
-add address=.is-a-hunter.com list=gfwlist
-add address=.dynu.com list=gfwlist
-add address=||dynu.com list=gfwlist
-add address=.dynu.net list=gfwlist
-add address=.freeddns.org list=gfwlist
-add address=||accountkit.com list=gfwlist
-add address=cdninstagram.com list=gfwlist
-add address=||cdninstagram.com list=gfwlist
-add address=||f8.com list=gfwlist
-add address=||facebook.br list=gfwlist
-add address=.facebook.com list=gfwlist
-add address=||facebook.com list=gfwlist
-add address=@@||v6.facebook.com list=gfwlist
-add address=||facebook.de list=gfwlist
-add address=||facebook.design list=gfwlist
-add address=||connect.facebook.net list=gfwlist
-add address=||facebook.hu list=gfwlist
-add address=||facebook.in list=gfwlist
-add address=||facebook.nl list=gfwlist
-add address=||facebook.se list=gfwlist
-add address=||facebookmail.com list=gfwlist
-add address=||fb.com list=gfwlist
-add address=||fb.me list=gfwlist
-add address=||fb.watch list=gfwlist
-add address=||fbcdn.net list=gfwlist
-add address=||fbsbx.com list=gfwlist
-add address=||fbaddins.com list=gfwlist
-add address=||fbworkmail.com list=gfwlist
-add address=.instagram.com list=gfwlist
-add address=||instagram.com list=gfwlist
-add address=||m.me list=gfwlist
-add address=||messenger.com list=gfwlist
-add address=||meta.com list=gfwlist
-add address=||oculus.com list=gfwlist
-add address=||oculuscdn.com list=gfwlist
-add address=||rocksdb.org list=gfwlist
-add address=@@||ip6.static.sl-reverse.com list=gfwlist
-add address=||parse.com list=gfwlist
-add address=||thefacebook.com list=gfwlist
-add address=||threads.net list=gfwlist
-add address=||whatsapp.com list=gfwlist
-add address=||whatsapp.net list=gfwlist
-add address=||auntology.fandom.com list=gfwlist
-add address=||hongkong.fandom.com list=gfwlist
-add address=.ftchinese.com list=gfwlist
-add address=||ftchinese.com list=gfwlist
-add address=||1e100.net list=gfwlist
-add address=||466453.com list=gfwlist
-add address=||abc.xyz list=gfwlist
-add address=||about.google list=gfwlist
-add address=||admob.com list=gfwlist
-add address=||adsense.com list=gfwlist
-add address=||advertisercommunity.com list=gfwlist
-add address=||agoogleaday.com list=gfwlist
-add address=||ai.google list=gfwlist
-add address=||ampproject.org list=gfwlist
-add address=@@|https://www.ampproject.org list=gfwlist
-add address=@@|https://cdn.ampproject.org list=gfwlist
-add address=||android.com list=gfwlist
-add address=||androidify.com list=gfwlist
-add address=||androidtv.com list=gfwlist
-add address=||api.ai list=gfwlist
-add address=.appspot.com list=gfwlist
-add address=||appspot.com list=gfwlist
-add address=||autodraw.com list=gfwlist
-add address=||blog.google list=gfwlist
-add address=||blogblog.com list=gfwlist
-add address=blogspot.com list=gfwlist
-add address=/^https?:\/\/[^\/]+blogspot\.(.*)/ list=gfwlist
-add address=.blogspot.hk list=gfwlist
-add address=.blogspot.jp list=gfwlist
-add address=.blogspot.tw list=gfwlist
-add address=||business.page list=gfwlist
-add address=||certificate-transparency.org list=gfwlist
-add address=||chrome.com list=gfwlist
-add address=||chromecast.com list=gfwlist
-add address=||chromeenterprise.google list=gfwlist
-add address=||chromeexperiments.com list=gfwlist
-add address=||chromercise.com list=gfwlist
-add address=||chromestatus.com list=gfwlist
-add address=||chromium.org list=gfwlist
-add address=||cloudfunctions.net list=gfwlist
-add address=||com.google list=gfwlist
-add address=||crbug.com list=gfwlist
-add address=||creativelab5.com list=gfwlist
-add address=||crisisresponse.google list=gfwlist
-add address=||crrev.com list=gfwlist
-add address=||data-vocabulary.org list=gfwlist
-add address=||debug.com list=gfwlist
-add address=||deepmind.com list=gfwlist
-add address=||deja.com list=gfwlist
-add address=||design.google list=gfwlist
-add address=||digisfera.com list=gfwlist
-add address=||dns.google list=gfwlist
-add address=||hub.docker.com list=gfwlist
-add address=||domains.google list=gfwlist
-add address=||duck.com list=gfwlist
-add address=||environment.google list=gfwlist
-add address=||feedburner.com list=gfwlist
-add address=||firebaseio.com list=gfwlist
-add address=||g.co list=gfwlist
-add address=||gcr.io list=gfwlist
-add address=||get.app list=gfwlist
-add address=||get.dev list=gfwlist
-add address=||get.how list=gfwlist
-add address=||get.page list=gfwlist
-add address=||getmdl.io list=gfwlist
-add address=||getoutline.org list=gfwlist
-add address=||ggpht.com list=gfwlist
-add address=||gmail.com list=gfwlist
-add address=||gmodules.com list=gfwlist
-add address=||godoc.org list=gfwlist
-add address=||golang.org list=gfwlist
-add address=||goo.gl list=gfwlist
-add address=||goo.gle list=gfwlist
-add address=.google.ae list=gfwlist
-add address=.google.as list=gfwlist
-add address=.google.am list=gfwlist
-add address=.google.at list=gfwlist
-add address=.google.az list=gfwlist
-add address=.google.ba list=gfwlist
-add address=.google.be list=gfwlist
-add address=.google.bg list=gfwlist
-add address=.google.ca list=gfwlist
-add address=.google.cd list=gfwlist
-add address=.google.ci list=gfwlist
-add address=.google.co.id list=gfwlist
-add address=.google.co.jp list=gfwlist
-add address=.google.co.kr list=gfwlist
-add address=.google.co.ma list=gfwlist
-add address=.google.co.uk list=gfwlist
-add address=.google.com list=gfwlist
-add address=.google.de list=gfwlist
-add address=||google.dev list=gfwlist
-add address=.google.dj list=gfwlist
-add address=.google.dk list=gfwlist
-add address=.google.es list=gfwlist
-add address=.google.fi list=gfwlist
-add address=.google.fm list=gfwlist
-add address=.google.fr list=gfwlist
-add address=.google.gg list=gfwlist
-add address=.google.gl list=gfwlist
-add address=.google.gr list=gfwlist
-add address=.google.ie list=gfwlist
-add address=.google.is list=gfwlist
-add address=.google.it list=gfwlist
-add address=.google.jo list=gfwlist
-add address=.google.kz list=gfwlist
-add address=.google.lv list=gfwlist
-add address=.google.mn list=gfwlist
-add address=.google.ms list=gfwlist
-add address=.google.nl list=gfwlist
-add address=.google.nu list=gfwlist
-add address=.google.no list=gfwlist
-add address=.google.ro list=gfwlist
-add address=.google.ru list=gfwlist
-add address=.google.rw list=gfwlist
-add address=.google.sc list=gfwlist
-add address=.google.sh list=gfwlist
-add address=.google.sk list=gfwlist
-add address=.google.sm list=gfwlist
-add address=.google.sn list=gfwlist
-add address=.google.tk list=gfwlist
-add address=.google.tm list=gfwlist
-add address=.google.to list=gfwlist
-add address=.google.tt list=gfwlist
-add address=.google.vu list=gfwlist
-add address=.google.ws list=gfwlist
-add address=/^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|af|ai|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/ list=gfwlist
-add address=||googleapis.cn list=gfwlist
-add address=||googleapis.com list=gfwlist
-add address=||googleapps.com list=gfwlist
-add address=||googleartproject.com list=gfwlist
-add address=||googleblog.com list=gfwlist
-add address=||googlebot.com list=gfwlist
-add address=||googlechinawebmaster.com list=gfwlist
-add address=||googlecode.com list=gfwlist
-add address=||googlecommerce.com list=gfwlist
-add address=||googledomains.com list=gfwlist
-add address=||googlearth.com list=gfwlist
-add address=||googleearth.com list=gfwlist
-add address=||googledrive.com list=gfwlist
-add address=||googlefiber.net list=gfwlist
-add address=||googlegroups.com list=gfwlist
-add address=||googlehosted.com list=gfwlist
-add address=||googleideas.com list=gfwlist
-add address=||googleinsidesearch.com list=gfwlist
-add address=||googlelabs.com list=gfwlist
-add address=||googlemail.com list=gfwlist
-add address=||googlemashups.com list=gfwlist
-add address=||googlepagecreator.com list=gfwlist
-add address=||googleplay.com list=gfwlist
-add address=||googleplus.com list=gfwlist
-add address=||googlescholar.comUSA list=gfwlist
-add address=||googlesource.com list=gfwlist
-add address=||googleusercontent.com list=gfwlist
-add address=.googlevideo.com list=gfwlist
-add address=||googlevideo.com list=gfwlist
-add address=||googleweblight.com list=gfwlist
-add address=||googlezip.net list=gfwlist
-add address=||groups.google.cn list=gfwlist
-add address=||grow.google list=gfwlist
-add address=||gstatic.com list=gfwlist
-add address=||gvt0.com list=gfwlist
-add address=||gvt1.com list=gfwlist
-add address=@@||redirector.gvt1.com list=gfwlist
-add address=||gvt3.com list=gfwlist
-add address=||gwtproject.org list=gfwlist
-add address=||html5rocks.com list=gfwlist
-add address=||iam.soy list=gfwlist
-add address=||igoogle.com list=gfwlist
-add address=||itasoftware.com list=gfwlist
-add address=||lers.google list=gfwlist
-add address=||like.com list=gfwlist
-add address=||madewithcode.com list=gfwlist
-add address=||material.io list=gfwlist
-add address=||nic.google list=gfwlist
-add address=||on2.com list=gfwlist
-add address=||opensource.google list=gfwlist
-add address=||panoramio.com list=gfwlist
-add address=||passwords.google list=gfwlist
-add address=||picasaweb.com list=gfwlist
-add address=||pki.goog list=gfwlist
-add address=||plus.codes list=gfwlist
-add address=||polymer-project.org list=gfwlist
-add address=||pride.google list=gfwlist
-add address=||questvisual.com list=gfwlist
-add address=||admin.recaptcha.net list=gfwlist
-add address=||api.recaptcha.net list=gfwlist
-add address=||api-secure.recaptcha.net list=gfwlist
-add address=||api-verify.recaptcha.net list=gfwlist
-add address=||redhotlabs.com list=gfwlist
-add address=||registry.google list=gfwlist
-add address=||research.google list=gfwlist
-add address=||safety.google list=gfwlist
-add address=||savethedate.foo list=gfwlist
-add address=||schema.org list=gfwlist
-add address=||shattered.io list=gfwlist
-add address=|http://sipml5.org/ list=gfwlist
-add address=||stories.google list=gfwlist
-add address=||sustainability.google list=gfwlist
-add address=||synergyse.com list=gfwlist
-add address=||teachparentstech.org list=gfwlist
-add address=||tensorflow.org list=gfwlist
-add address=||tfhub.dev list=gfwlist
-add address=||thinkwithgoogle.com list=gfwlist
-add address=||tiltbrush.com list=gfwlist
-add address=||translate.goog list=gfwlist
-add address=||tv.google list=gfwlist
-add address=||urchin.com list=gfwlist
-add address=||waveprotocol.org list=gfwlist
-add address=||waymo.com list=gfwlist
-add address=||web.dev list=gfwlist
-add address=||webmproject.org list=gfwlist
-add address=||webpkgcache.com list=gfwlist
-add address=||webrtc.org list=gfwlist
-add address=||whatbrowser.org list=gfwlist
-add address=||widevine.com list=gfwlist
-add address=||withgoogle.com list=gfwlist
-add address=||withyoutube.com list=gfwlist
-add address=||x.company list=gfwlist
-add address=||xn--ngstr-lra8j.com list=gfwlist
-add address=||youtu.be list=gfwlist
-add address=.youtube.com list=gfwlist
-add address=||youtube.com list=gfwlist
-add address=||youtube-nocookie.com list=gfwlist
-add address=||youtubeeducation.com list=gfwlist
-add address=||youtubegaming.com list=gfwlist
-add address=||youtubekids.com list=gfwlist
-add address=||yt.be list=gfwlist
-add address=||ytimg.com list=gfwlist
-add address=||zynamics.com list=gfwlist
-add address=||naughtyamerica.com list=gfwlist
-add address=static01.nyt.com list=gfwlist
-add address=||nyt.com list=gfwlist
-add address=nytchina.com list=gfwlist
-add address=nytcn.me list=gfwlist
-add address=||nytcn.me list=gfwlist
-add address=||nytco.com list=gfwlist
-add address=|http://nyti.ms/ list=gfwlist
-add address=.nytimes.com list=gfwlist
-add address=||nytimes.com list=gfwlist
-add address=||nytimg.com list=gfwlist
-add address=userapi.nytlog.com list=gfwlist
-add address=cn.nytstyle.com list=gfwlist
-add address=||nytstyle.com list=gfwlist
-add address=.steamcommunity.com list=gfwlist
-add address=||steamcommunity.com list=gfwlist
-add address=||store.steampowered.com list=gfwlist
-add address=||cdn-telegram.org list=gfwlist
-add address=||comments.app list=gfwlist
-add address=||graph.org list=gfwlist
-add address=||quiz.directory list=gfwlist
-add address=||t.me list=gfwlist
-add address=||updates.tdesktop.com list=gfwlist
-add address=||telegram.dog list=gfwlist
-add address=||telegram.me list=gfwlist
-add address=||telegram.org list=gfwlist
-add address=||telegram.space list=gfwlist
-add address=||telegram-cdn.org list=gfwlist
-add address=||telegramdownload.com list=gfwlist
-add address=||telegra.ph list=gfwlist
-add address=||telesco.pe list=gfwlist
-add address=||jtvnw.net list=gfwlist
-add address=||ttvnw.net list=gfwlist
-add address=||twitch.tv list=gfwlist
-add address=||twitchcdn.net list=gfwlist
-add address=||periscope.tv list=gfwlist
-add address=.pscp.tv list=gfwlist
-add address=||pscp.tv list=gfwlist
-add address=.t.co list=gfwlist
-add address=||t.co list=gfwlist
-add address=.tweetdeck.com list=gfwlist
-add address=||tweetdeck.com list=gfwlist
-add address=||twimg.com list=gfwlist
-add address=.twitpic.com list=gfwlist
-add address=||twitpic.com list=gfwlist
-add address=.twitter.com list=gfwlist
-add address=||twitter.com list=gfwlist
-add address=||twitter.jp list=gfwlist
-add address=||vine.co list=gfwlist
-add address=||x.com list=gfwlist
-add address=||gov.taipei list=gfwlist
-add address=.gov.tw list=gfwlist
-add address=|https://aiss.anws.gov.tw list=gfwlist
-add address=||archives.gov.tw list=gfwlist
-add address=||tacc.cwb.gov.tw list=gfwlist
-add address=||data.gov.tw list=gfwlist
-add address=||epa.gov.tw list=gfwlist
-add address=||fa.gov.tw list=gfwlist
-add address=||fda.gov.tw list=gfwlist
-add address=||hpa.gov.tw list=gfwlist
-add address=||immigration.gov.tw list=gfwlist
-add address=||itaiwan.gov.tw list=gfwlist
-add address=||li.taipei list=gfwlist
-add address=||mjib.gov.tw list=gfwlist
-add address=||moeaic.gov.tw list=gfwlist
-add address=||mofa.gov.tw list=gfwlist
-add address=||mol.gov.tw list=gfwlist
-add address=||mvdis.gov.tw list=gfwlist
-add address=||nat.gov.tw list=gfwlist
-add address=||nhi.gov.tw list=gfwlist
-add address=||npa.gov.tw list=gfwlist
-add address=||nsc.gov.tw list=gfwlist
-add address=||ntbk.gov.tw list=gfwlist
-add address=||ntbna.gov.tw list=gfwlist
-add address=||ntbt.gov.tw list=gfwlist
-add address=||ntsna.gov.tw list=gfwlist
-add address=||pcc.gov.tw list=gfwlist
-add address=||stat.gov.tw list=gfwlist
-add address=||taipei.gov.tw list=gfwlist
-add address=||taiwanjobs.gov.tw list=gfwlist
-add address=||thb.gov.tw list=gfwlist
-add address=||tipo.gov.tw list=gfwlist
-add address=||wda.gov.tw list=gfwlist
-add address=||teco-hk.org list=gfwlist
-add address=||teco-mo.org list=gfwlist
-add address=@@||aftygh.gov.tw list=gfwlist
-add address=@@||aide.gov.tw list=gfwlist
-add address=@@||tpde.aide.gov.tw list=gfwlist
-add address=@@||arte.gov.tw list=gfwlist
-add address=@@||chukuang.gov.tw list=gfwlist
-add address=@@||cwb.gov.tw list=gfwlist
-add address=@@||cycab.gov.tw list=gfwlist
-add address=@@||dbnsa.gov.tw list=gfwlist
-add address=@@||df.gov.tw list=gfwlist
-add address=@@||eastcoast-nsa.gov.tw list=gfwlist
-add address=@@||erv-nsa.gov.tw list=gfwlist
-add address=@@||grb.gov.tw list=gfwlist
-add address=@@||gysd.nyc.gov.tw list=gfwlist
-add address=@@||hchcc.gov.tw list=gfwlist
-add address=@@||hsinchu-cc.gov.tw list=gfwlist
-add address=@@||iner.gov.tw list=gfwlist
-add address=@@||klsio.gov.tw list=gfwlist
-add address=@@||kmseh.gov.tw list=gfwlist
-add address=@@||lungtanhr.gov.tw list=gfwlist
-add address=@@||maolin-nsa.gov.tw list=gfwlist
-add address=@@||matsu-news.gov.tw list=gfwlist
-add address=@@||matsu-nsa.gov.tw list=gfwlist
-add address=@@||matsucc.gov.tw list=gfwlist
-add address=@@||moe.gov.tw list=gfwlist
-add address=@@||nankan.gov.tw list=gfwlist
-add address=@@||ncree.gov.tw list=gfwlist
-add address=@@||necoast-nsa.gov.tw list=gfwlist
-add address=@@||siraya-nsa.gov.tw list=gfwlist
-add address=@@||cromotc.nat.gov.tw list=gfwlist
-add address=@@||tax.nat.gov.tw list=gfwlist
-add address=@@||necoast-nsa.gov.tw list=gfwlist
-add address=@@||ner.gov.tw list=gfwlist
-add address=@@||nmmba.gov.tw list=gfwlist
-add address=@@||nmp.gov.tw list=gfwlist
-add address=@@||nmvttc.gov.tw list=gfwlist
-add address=@@||northguan-nsa.gov.tw list=gfwlist
-add address=||npm.gov.tw list=gfwlist
-add address=@@||nstm.gov.tw list=gfwlist
-add address=@@||ntdmh.gov.tw list=gfwlist
-add address=@@||ntl.gov.tw list=gfwlist
-add address=@@||ntsec.gov.tw list=gfwlist
-add address=@@||ntuh.gov.tw list=gfwlist
-add address=@@||nvri.gov.tw list=gfwlist
-add address=@@||penghu-nsa.gov.tw list=gfwlist
-add address=@@||post.gov.tw list=gfwlist
-add address=@@||siraya-nsa.gov.tw list=gfwlist
-add address=@@||stdtime.gov.tw list=gfwlist
-add address=@@||sunmoonlake.gov.tw list=gfwlist
-add address=@@||taitung-house.gov.tw list=gfwlist
-add address=@@||taoyuan.gov.tw list=gfwlist
-add address=@@||tphcc.gov.tw list=gfwlist
-add address=@@||trimt-nsa.gov.tw list=gfwlist
-add address=@@||vghtpe.gov.tw list=gfwlist
-add address=@@||vghks.gov.tw list=gfwlist
-add address=@@||vghtc.gov.tw list=gfwlist
-add address=@@||wanfang.gov.tw list=gfwlist
-add address=@@||yatsen.gov.tw list=gfwlist
-add address=@@||yda.gov.tw list=gfwlist
-add address=||kinmen.org.tw list=gfwlist
-add address=|http://www.americorps.gov list=gfwlist
-add address=||jpl.nasa.gov list=gfwlist
-add address=||pds.nasa.gov list=gfwlist
-add address=||solarsystem.nasa.gov list=gfwlist
-add address=iipdigital.usembassy.gov list=gfwlist
-add address=||usfk.mil list=gfwlist
-add address=||usmc.mil list=gfwlist
-add address=|http://tarr.uspto.gov/ list=gfwlist
-add address=||tsdr.uspto.gov list=gfwlist
-add address=||v2ex.com list=gfwlist
-add address=cn.voa.mobi list=gfwlist
-add address=tw.voa.mobi list=gfwlist
-add address=||voacambodia.com list=gfwlist
-add address=.voachineseblog.com list=gfwlist
-add address=||voachineseblog.com list=gfwlist
-add address=.voacantonese.com list=gfwlist
-add address=||voacantonese.com list=gfwlist
-add address=voachinese.com list=gfwlist
-add address=||voachinese.com list=gfwlist
-add address=voagd.com list=gfwlist
-add address=||voaindonesia.com list=gfwlist
-add address=.voanews.com list=gfwlist
-add address=||voanews.com list=gfwlist
-add address=voatibetan.com list=gfwlist
-add address=||voatibetan.com list=gfwlist
-add address=.voatibetanenglish.com list=gfwlist
-add address=||voatibetanenglish.com list=gfwlist
-add address=||zh.ecdm.wikia.com list=gfwlist
-add address=||evchk.wikia.com list=gfwlist
-add address=fq.wikia.com list=gfwlist
-add address=zh.pttpedia.wikia.com/wiki/%E7%BF%92%E5%8C%85%E5%AD%90%E4%B9%8B%E4%BA%82 list=gfwlist
-add address=cn.uncyclopedia.wikia.com list=gfwlist
-add address=zh.uncyclopedia.wikia.com list=gfwlist
-add address=||wikimedia.org list=gfwlist
-add address=|http://zh.wikisource.org list=gfwlist
-add address=||zh.wikiquote.org list=gfwlist
-add address=||zh.wikinews.org list=gfwlist
-add address=||ja.wikipedia.org list=gfwlist
-add address=||wikipedia.org list=gfwlist
-add address=||data.flurry.com list=gfwlist
-add address=||page.bid.yahoo.com list=gfwlist
-add address=||tw.bid.yahoo.com list=gfwlist
-add address=||auctions.yahoo.co.jp list=gfwlist
-add address=||blogs.yahoo.co.jp list=gfwlist
-add address=||search.yahoo.co.jp list=gfwlist
-add address=||buy.yahoo.com.tw list=gfwlist
-add address=||hk.yahoo.com list=gfwlist
-add address=||hk.knowledge.yahoo.com list=gfwlist
-add address=||tw.money.yahoo.com list=gfwlist
-add address=||hk.myblog.yahoo.com list=gfwlist
-add address=news.yahoo.com/china-blocks-bbc list=gfwlist
-add address=||hk.news.yahoo.com list=gfwlist
-add address=hk.rd.yahoo.com list=gfwlist
-add address=hk.search.yahoo.com/search list=gfwlist
-add address=hk.video.news.yahoo.com/video list=gfwlist
-add address=meme.yahoo.com list=gfwlist
-add address=tw.answers.yahoo.com list=gfwlist
-add address=|https://tw.answers.yahoo.com list=gfwlist
-add address=||tw.knowledge.yahoo.com list=gfwlist
-add address=||tw.mall.yahoo.com list=gfwlist
-add address=tw.yahoo.com list=gfwlist
-add address=||tw.mobi.yahoo.com list=gfwlist
-add address=tw.myblog.yahoo.com list=gfwlist
-add address=||tw.news.yahoo.com list=gfwlist
-add address=pulse.yahoo.com list=gfwlist
-add address=||search.yahoo.com list=gfwlist
-add address=upcoming.yahoo.com list=gfwlist
-add address=video.yahoo.com list=gfwlist
-add address=||yahoo.com.hk list=gfwlist
-add address=||duckduckgo-owned-server.yahoo.net list=gfwlist
-add address=||000webhost.com list=gfwlist
-add address=.030buy.com list=gfwlist
-add address=.0rz.tw list=gfwlist
-add address=|http://0rz.tw list=gfwlist
-add address=1-apple.com.tw list=gfwlist
-add address=||1-apple.com.tw list=gfwlist
-add address=.10.tt list=gfwlist
-add address=.100ke.org list=gfwlist
-add address=.1000giri.net list=gfwlist
-add address=||1000giri.net list=gfwlist
-add address=||10beasts.net list=gfwlist
-add address=.10conditionsoflove.com list=gfwlist
-add address=||10musume.com list=gfwlist
-add address=123rf.com list=gfwlist
-add address=.12bet.com list=gfwlist
-add address=||12bet.com list=gfwlist
-add address=.12vpn.com list=gfwlist
-add address=.12vpn.net list=gfwlist
-add address=||12vpn.com list=gfwlist
-add address=||12vpn.net list=gfwlist
-add address=||1337x.to list=gfwlist
-add address=.138.com list=gfwlist
-add address=141hongkong.com/forum list=gfwlist
-add address=||141jj.com list=gfwlist
-add address=.141tube.com list=gfwlist
-add address=||1688.com.au list=gfwlist
-add address=.173ng.com list=gfwlist
-add address=||173ng.com list=gfwlist
-add address=.177pic.info list=gfwlist
-add address=.17t17p.com list=gfwlist
-add address=||18board.com list=gfwlist
-add address=||18board.info list=gfwlist
-add address=18onlygirls.com list=gfwlist
-add address=.18p2p.com list=gfwlist
-add address=.18virginsex.com list=gfwlist
-add address=.1949er.org list=gfwlist
-add address=zhao.1984.city list=gfwlist
-add address=||zhao.1984.city list=gfwlist
-add address=1984bbs.com list=gfwlist
-add address=||1984bbs.com list=gfwlist
-add address=.1984bbs.org list=gfwlist
-add address=||1984bbs.org list=gfwlist
-add address=.1991way.com list=gfwlist
-add address=||1991way.com list=gfwlist
-add address=.1998cdp.org list=gfwlist
-add address=.1bao.org list=gfwlist
-add address=|http://1bao.org list=gfwlist
-add address=.1eew.com list=gfwlist
-add address=.1mobile.com list=gfwlist
-add address=|http://*.1mobile.tw list=gfwlist
-add address=||1pondo.tv list=gfwlist
-add address=.2-hand.info list=gfwlist
-add address=.2000fun.com/bbs list=gfwlist
-add address=.2008xianzhang.info list=gfwlist
-add address=||2008xianzhang.info list=gfwlist
-add address=||2017.hk list=gfwlist
-add address=||2021hkcharter.com list=gfwlist
-add address=||2047.name list=gfwlist
-add address=21andy.com/blog list=gfwlist
-add address=.21join.com list=gfwlist
-add address=.21pron.com list=gfwlist
-add address=21sextury.com list=gfwlist
-add address=.228.net.tw list=gfwlist
-add address=||233abc.com list=gfwlist
-add address=||24hrs.ca list=gfwlist
-add address=24smile.org list=gfwlist
-add address=2lipstube.com list=gfwlist
-add address=.2shared.com list=gfwlist
-add address=30boxes.com list=gfwlist
-add address=.315lz.com list=gfwlist
-add address=||32red.com list=gfwlist
-add address=||36rain.com list=gfwlist
-add address=.3a5a.com list=gfwlist
-add address=3arabtv.com list=gfwlist
-add address=.3boys2girls.com list=gfwlist
-add address=.3proxy.ru list=gfwlist
-add address=.3ren.ca list=gfwlist
-add address=.3tui.net list=gfwlist
-add address=||404museum.com list=gfwlist
-add address=||4bluestones.biz list=gfwlist
-add address=.4chan.com list=gfwlist
-add address=.4everproxy.com list=gfwlist
-add address=||4everproxy.com list=gfwlist
-add address=||4rbtv.com list=gfwlist
-add address=||4shared.com list=gfwlist
-add address=taiwannation.50webs.com list=gfwlist
-add address=||51.ca list=gfwlist
-add address=||51jav.org list=gfwlist
-add address=.51luoben.com list=gfwlist
-add address=||51luoben.com list=gfwlist
-add address=||5278.cc list=gfwlist
-add address=.5299.tv list=gfwlist
-add address=5aimiku.com list=gfwlist
-add address=5i01.com list=gfwlist
-add address=.5isotoi5.org list=gfwlist
-add address=.5maodang.com list=gfwlist
-add address=||63i.com list=gfwlist
-add address=.64museum.org list=gfwlist
-add address=64tianwang.com list=gfwlist
-add address=64wiki.com list=gfwlist
-add address=.66.ca list=gfwlist
-add address=666kb.com list=gfwlist
-add address=||6do.news list=gfwlist
-add address=.6park.com list=gfwlist
-add address=||6park.com list=gfwlist
-add address=||6parkbbs.com list=gfwlist
-add address=||6parker.com list=gfwlist
-add address=||6parknews.com list=gfwlist
-add address=||7capture.com list=gfwlist
-add address=.7cow.com list=gfwlist
-add address=.8-d.com list=gfwlist
-add address=|http://8-d.com list=gfwlist
-add address=85cc.net list=gfwlist
-add address=.85cc.us list=gfwlist
-add address=|http://85cc.us list=gfwlist
-add address=|http://85st.com list=gfwlist
-add address=.881903.com/page/zh-tw/ list=gfwlist
-add address=||881903.com list=gfwlist
-add address=.888.com list=gfwlist
-add address=.888poker.com list=gfwlist
-add address=89.64.charter.constitutionalism.solutions list=gfwlist
-add address=89-64.org list=gfwlist
-add address=||89-64.org list=gfwlist
-add address=||8964museum.com list=gfwlist
-add address=.8news.com.tw list=gfwlist
-add address=.8z1.net list=gfwlist
-add address=||8z1.net list=gfwlist
-add address=.9001700.com list=gfwlist
-add address=|http://908taiwan.org/ list=gfwlist
-add address=||91porn.com list=gfwlist
-add address=||91vps.club list=gfwlist
-add address=.92ccav.com list=gfwlist
-add address=.991.com list=gfwlist
-add address=|http://991.com list=gfwlist
-add address=.99btgc01.com list=gfwlist
-add address=||99btgc01.com list=gfwlist
-add address=.99cn.info list=gfwlist
-add address=|http://99cn.info list=gfwlist
-add address=||9bis.com list=gfwlist
-add address=||9bis.net list=gfwlist
-add address=||9news.com.au list=gfwlist
-add address=.tibet.a.se list=gfwlist
-add address=|http://tibet.a.se list=gfwlist
-add address=||a-normal-day.com list=gfwlist
-add address=a5.com.ru list=gfwlist
-add address=|http://aamacau.com list=gfwlist
-add address=.abc.com list=gfwlist
-add address=.abc.net.au list=gfwlist
-add address=||abc.net.au list=gfwlist
-add address=.abchinese.com list=gfwlist
-add address=abclite.net list=gfwlist
-add address=|https://www.abclite.net list=gfwlist
-add address=.ablwang.com list=gfwlist
-add address=.aboluowang.com list=gfwlist
-add address=||aboluowang.com list=gfwlist
-add address=||about.me list=gfwlist
-add address=.aboutgfw.com list=gfwlist
-add address=.abs.edu list=gfwlist
-add address=||acast.com list=gfwlist
-add address=.accim.org list=gfwlist
-add address=.aceros-de-hispania.com list=gfwlist
-add address=.acevpn.com list=gfwlist
-add address=||acevpn.com list=gfwlist
-add address=.acg18.me list=gfwlist
-add address=|http://acg18.me list=gfwlist
-add address=||acgbox.org list=gfwlist
-add address=||acgkj.com list=gfwlist
-add address=||acgnx.se list=gfwlist
-add address=.acmedia365.com list=gfwlist
-add address=.acnw.com.au list=gfwlist
-add address=actfortibet.org list=gfwlist
-add address=actimes.com.au list=gfwlist
-add address=activpn.com list=gfwlist
-add address=||activpn.com list=gfwlist
-add address=||aculo.us list=gfwlist
-add address=||addictedtocoffee.de list=gfwlist
-add address=||addyoutube.com list=gfwlist
-add address=.adelaidebbs.com/bbs list=gfwlist
-add address=.adpl.org.hk list=gfwlist
-add address=|http://adpl.org.hk list=gfwlist
-add address=.adult-sex-games.com list=gfwlist
-add address=||adult-sex-games.com list=gfwlist
-add address=adultfriendfinder.com list=gfwlist
-add address=adultkeep.net/peepshow/members/main.htm list=gfwlist
-add address=||advanscene.com list=gfwlist
-add address=||advertfan.com list=gfwlist
-add address=.ae.org list=gfwlist
-add address=||aei.org list=gfwlist
-add address=||aenhancers.com list=gfwlist
-add address=||af.mil list=gfwlist
-add address=.afantibbs.com list=gfwlist
-add address=|http://afantibbs.com list=gfwlist
-add address=||afr.com list=gfwlist
-add address=.ai-kan.net list=gfwlist
-add address=||ai-kan.net list=gfwlist
-add address=ai-wen.net list=gfwlist
-add address=.aiph.net list=gfwlist
-add address=||aiph.net list=gfwlist
-add address=.airasia.com list=gfwlist
-add address=||airconsole.com list=gfwlist
-add address=|http://download.aircrack-ng.org list=gfwlist
-add address=.airvpn.org list=gfwlist
-add address=||airvpn.org list=gfwlist
-add address=.aisex.com list=gfwlist
-add address=||ait.org.tw list=gfwlist
-add address=aiweiwei.com list=gfwlist
-add address=.aiweiweiblog.com list=gfwlist
-add address=||aiweiweiblog.com list=gfwlist
-add address=||www.ajsands.com list=gfwlist
-add address=a248.e.akamai.net list=gfwlist
-add address=||a248.e.akamai.net list=gfwlist
-add address=rfalive1.akacast.akamaistream.net list=gfwlist
-add address=voa-11.akacast.akamaistream.net list=gfwlist
-add address=||abematv.akamaized.net list=gfwlist
-add address=||linear-abematv.akamaized.net list=gfwlist
-add address=||vod-abematv.akamaized.net list=gfwlist
-add address=|https://fbcdn*.akamaihd.net/ list=gfwlist
-add address=rthklive2-lh.akamaihd.net list=gfwlist
-add address=.akademiye.org/ug list=gfwlist
-add address=|http://akademiye.org/ug list=gfwlist
-add address=||akiba-online.com list=gfwlist
-add address=||akow.org list=gfwlist
-add address=.al-islam.com list=gfwlist
-add address=||al-qimmah.net list=gfwlist
-add address=||alabout.com list=gfwlist
-add address=.alanhou.com list=gfwlist
-add address=|http://alanhou.com list=gfwlist
-add address=.alarab.qa list=gfwlist
-add address=||alasbarricadas.org list=gfwlist
-add address=alexlur.org list=gfwlist
-add address=||alforattv.net list=gfwlist
-add address=.alhayat.com list=gfwlist
-add address=.alicejapan.co.jp list=gfwlist
-add address=aliengu.com list=gfwlist
-add address=||alive.bar list=gfwlist
-add address=||alkasir.com list=gfwlist
-add address=||all4mom.org list=gfwlist
-add address=||allconnected.co list=gfwlist
-add address=.alldrawnsex.com list=gfwlist
-add address=||alldrawnsex.com list=gfwlist
-add address=.allervpn.com list=gfwlist
-add address=||allfinegirls.com list=gfwlist
-add address=.allgirlmassage.com list=gfwlist
-add address=allgirlsallowed.org list=gfwlist
-add address=.allgravure.com list=gfwlist
-add address=alliance.org.hk list=gfwlist
-add address=.allinfa.com list=gfwlist
-add address=||allinfa.com list=gfwlist
-add address=.alljackpotscasino.com list=gfwlist
-add address=||allmovie.com list=gfwlist
-add address=||almasdarnews.com list=gfwlist
-add address=.alphaporno.com list=gfwlist
-add address=||alternate-tools.com list=gfwlist
-add address=alternativeto.net/software list=gfwlist
-add address=alvinalexander.com list=gfwlist
-add address=alwaysdata.com list=gfwlist
-add address=||alwaysdata.com list=gfwlist
-add address=||alwaysdata.net list=gfwlist
-add address=.alwaysvpn.com list=gfwlist
-add address=||alwaysvpn.com list=gfwlist
-add address=||am730.com.hk list=gfwlist
-add address=ameblo.jp list=gfwlist
-add address=||ameblo.jp list=gfwlist
-add address=www1.american.edu/ted/ice/tibet list=gfwlist
-add address=||americangreencard.com list=gfwlist
-add address=||amiblockedornot.com list=gfwlist
-add address=.amigobbs.net list=gfwlist
-add address=.amitabhafoundation.us list=gfwlist
-add address=|http://amitabhafoundation.us list=gfwlist
-add address=.amnesty.org list=gfwlist
-add address=||amnesty.org list=gfwlist
-add address=||amnesty.org.hk list=gfwlist
-add address=.amnesty.tw list=gfwlist
-add address=.amnestyusa.org list=gfwlist
-add address=||amnestyusa.org list=gfwlist
-add address=.amnyemachen.org list=gfwlist
-add address=.amoiist.com list=gfwlist
-add address=.amtb-taipei.org list=gfwlist
-add address=androidplus.co/apk list=gfwlist
-add address=.andygod.com list=gfwlist
-add address=|http://andygod.com list=gfwlist
-add address=annatam.com/chinese list=gfwlist
-add address=||anchor.fm list=gfwlist
-add address=||anchorfree.com list=gfwlist
-add address=||ancsconf.org list=gfwlist
-add address=||andfaraway.net list=gfwlist
-add address=||android-x86.org list=gfwlist
-add address=angelfire.com/hi/hayashi list=gfwlist
-add address=||angularjs.org list=gfwlist
-add address=animecrazy.net list=gfwlist
-add address=aniscartujo.com list=gfwlist
-add address=||aniscartujo.com list=gfwlist
-add address=||anobii.com list=gfwlist
-add address=||anonfiles.com list=gfwlist
-add address=.anonymitynetwork.com list=gfwlist
-add address=.anonymizer.com list=gfwlist
-add address=.anonymouse.org list=gfwlist
-add address=||anonymouse.org list=gfwlist
-add address=anontext.com list=gfwlist
-add address=.anpopo.com list=gfwlist
-add address=.answering-islam.org list=gfwlist
-add address=|http://www.antd.org list=gfwlist
-add address=||anthonycalzadilla.com list=gfwlist
-add address=.anti1984.com list=gfwlist
-add address=antichristendom.com list=gfwlist
-add address=.antiwave.net list=gfwlist
-add address=|http://antiwave.net list=gfwlist
-add address=.anyporn.com list=gfwlist
-add address=.anysex.com list=gfwlist
-add address=|http://anysex.com list=gfwlist
-add address=.ao3.org list=gfwlist
-add address=||ao3.org list=gfwlist
-add address=||aobo.com.au list=gfwlist
-add address=.aofriend.com list=gfwlist
-add address=|http://aofriend.com list=gfwlist
-add address=.aofriend.com.au list=gfwlist
-add address=.aojiao.org list=gfwlist
-add address=||aomiwang.com list=gfwlist
-add address=video.ap.org list=gfwlist
-add address=||apat1989.org list=gfwlist
-add address=.apetube.com list=gfwlist
-add address=||apiary.io list=gfwlist
-add address=.apigee.com list=gfwlist
-add address=||apigee.com list=gfwlist
-add address=||apk.support list=gfwlist
-add address=||apk-dl.com list=gfwlist
-add address=||apkcombo.com list=gfwlist
-add address=.apkmonk.com/app list=gfwlist
-add address=||apkmonk.com list=gfwlist
-add address=||apkplz.com list=gfwlist
-add address=||apkpure.com list=gfwlist
-add address=||apkpure.net list=gfwlist
-add address=.aplusvpn.com list=gfwlist
-add address=||appbrain.com list=gfwlist
-add address=.appdownloader.net/Android list=gfwlist
-add address=.appledaily.com list=gfwlist
-add address=||appledaily.com list=gfwlist
-add address=appledaily.com.hk list=gfwlist
-add address=||appledaily.com.hk list=gfwlist
-add address=appledaily.com.tw list=gfwlist
-add address=||appledaily.com.tw list=gfwlist
-add address=.appshopper.com list=gfwlist
-add address=|http://appshopper.com list=gfwlist
-add address=||appsocks.net list=gfwlist
-add address=||appsto.re list=gfwlist
-add address=.aptoide.com list=gfwlist
-add address=||aptoide.com list=gfwlist
-add address=||archives.gov list=gfwlist
-add address=.archive.fo list=gfwlist
-add address=||archive.fo list=gfwlist
-add address=.archive.is list=gfwlist
-add address=||archive.is list=gfwlist
-add address=.archive.li list=gfwlist
-add address=||archive.li list=gfwlist
-add address=||archive.md list=gfwlist
-add address=||archive.org list=gfwlist
-add address=||archive.ph list=gfwlist
-add address=archive.today list=gfwlist
-add address=|https://archive.today list=gfwlist
-add address=||archiveofourown.com list=gfwlist
-add address=||archiveofourown.org list=gfwlist
-add address=.arctosia.com list=gfwlist
-add address=|http://arctosia.com list=gfwlist
-add address=||areca-backup.org list=gfwlist
-add address=.arethusa.su list=gfwlist
-add address=||arethusa.su list=gfwlist
-add address=||arlingtoncemetery.mil list=gfwlist
-add address=||army.mil list=gfwlist
-add address=.art4tibet1998.org list=gfwlist
-add address=artofpeacefoundation.org list=gfwlist
-add address=artsy.net list=gfwlist
-add address=||asacp.org list=gfwlist
-add address=asdfg.jp/dabr list=gfwlist
-add address=asg.to list=gfwlist
-add address=.asia-gaming.com list=gfwlist
-add address=.asiaharvest.org list=gfwlist
-add address=||asiaharvest.org list=gfwlist
-add address=||asianage.com list=gfwlist
-add address=||asianews.it list=gfwlist
-add address=|http://japanfirst.asianfreeforum.com/ list=gfwlist
-add address=||asiansexdiary.com list=gfwlist
-add address=||asianwomensfilm.de list=gfwlist
-add address=||asiaone.com list=gfwlist
-add address=.asiatgp.com list=gfwlist
-add address=.asiatoday.us list=gfwlist
-add address=||askstudent.com list=gfwlist
-add address=.askynz.net list=gfwlist
-add address=||askynz.net list=gfwlist
-add address=||aspi.org.au list=gfwlist
-add address=||aspistrategist.org.au list=gfwlist
-add address=||assembla.com list=gfwlist
-add address=||astrill.com list=gfwlist
-add address=||atc.org.au list=gfwlist
-add address=.atchinese.com list=gfwlist
-add address=|http://atchinese.com list=gfwlist
-add address=atgfw.org list=gfwlist
-add address=.atlaspost.com list=gfwlist
-add address=||atlaspost.com list=gfwlist
-add address=||atdmt.com list=gfwlist
-add address=.atlanta168.com list=gfwlist
-add address=||atlanta168.com list=gfwlist
-add address=.atnext.com list=gfwlist
-add address=||atnext.com list=gfwlist
-add address=ice.audionow.com list=gfwlist
-add address=.av.com list=gfwlist
-add address=||av.movie list=gfwlist
-add address=.av-e-body.com list=gfwlist
-add address=avaaz.org list=gfwlist
-add address=||avaaz.org list=gfwlist
-add address=.avbody.tv list=gfwlist
-add address=.avcity.tv list=gfwlist
-add address=.avcool.com list=gfwlist
-add address=.avdb.in list=gfwlist
-add address=||avdb.in list=gfwlist
-add address=.avdb.tv list=gfwlist
-add address=||avdb.tv list=gfwlist
-add address=.avfantasy.com list=gfwlist
-add address=||avg.com list=gfwlist
-add address=.avgle.com list=gfwlist
-add address=||avgle.com list=gfwlist
-add address=||avidemux.org list=gfwlist
-add address=||avoision.com list=gfwlist
-add address=.avyahoo.com list=gfwlist
-add address=||axios.com list=gfwlist
-add address=||axureformac.com list=gfwlist
-add address=.azerbaycan.tv list=gfwlist
-add address=azerimix.com list=gfwlist
-add address=||azirevpn.com list=gfwlist
-add address=boxun*.azurewebsites.net list=gfwlist
-add address=||boxun*.azurewebsites.net list=gfwlist
-add address=||b-ok.cc list=gfwlist
-add address=forum.baby-kingdom.com list=gfwlist
-add address=||babylonbee.com list=gfwlist
-add address=babynet.com.hk list=gfwlist
-add address=backchina.com list=gfwlist
-add address=||backchina.com list=gfwlist
-add address=.backpackers.com.tw/forum list=gfwlist
-add address=backtotiananmen.com list=gfwlist
-add address=||bad.news list=gfwlist
-add address=.badiucao.com list=gfwlist
-add address=||badiucao.com list=gfwlist
-add address=.badjojo.com list=gfwlist
-add address=badoo.com list=gfwlist
-add address=|http://*2.bahamut.com.tw list=gfwlist
-add address=||baidu.jp list=gfwlist
-add address=.baijie.org list=gfwlist
-add address=||baijie.org list=gfwlist
-add address=||bailandaily.com list=gfwlist
-add address=||baixing.me list=gfwlist
-add address=||baizhi.org list=gfwlist
-add address=||bakgeekhome.tk list=gfwlist
-add address=.banana-vpn.com list=gfwlist
-add address=||banana-vpn.com list=gfwlist
-add address=.band.us list=gfwlist
-add address=||bandcamp.com list=gfwlist
-add address=.bandwagonhost.com list=gfwlist
-add address=||bandwagonhost.com list=gfwlist
-add address=.bangbrosnetwork.com list=gfwlist
-add address=.bangchen.net list=gfwlist
-add address=|http://bangchen.net list=gfwlist
-add address=||bangkokpost.com list=gfwlist
-add address=||bangyoulater.com list=gfwlist
-add address=bannedbook.org list=gfwlist
-add address=||bannedbook.org list=gfwlist
-add address=.bannednews.org list=gfwlist
-add address=.baramangaonline.com list=gfwlist
-add address=|http://baramangaonline.com list=gfwlist
-add address=.barenakedislam.com list=gfwlist
-add address=||barnabu.co.uk list=gfwlist
-add address=||barton.de list=gfwlist
-add address=.bastillepost.com list=gfwlist
-add address=||bastillepost.com list=gfwlist
-add address=bayvoice.net list=gfwlist
-add address=||bayvoice.net list=gfwlist
-add address=dajusha.baywords.com list=gfwlist
-add address=||bbchat.tv list=gfwlist
-add address=||bb-chat.tv list=gfwlist
-add address=.bbg.gov list=gfwlist
-add address=.bbkz.com/forum list=gfwlist
-add address=.bbnradio.org list=gfwlist
-add address=bbs-tw.com list=gfwlist
-add address=.bbsdigest.com/thread list=gfwlist
-add address=||bbsfeed.com list=gfwlist
-add address=bbsland.com list=gfwlist
-add address=.bbsmo.com list=gfwlist
-add address=.bbsone.com list=gfwlist
-add address=bbtoystore.com list=gfwlist
-add address=.bcast.co.nz list=gfwlist
-add address=.bcc.com.tw/board list=gfwlist
-add address=.bcchinese.net list=gfwlist
-add address=.bcmorning.com list=gfwlist
-add address=bdsmvideos.net list=gfwlist
-add address=.beaconevents.com list=gfwlist
-add address=.bebo.com list=gfwlist
-add address=||bebo.com list=gfwlist
-add address=.beevpn.com list=gfwlist
-add address=||beevpn.com list=gfwlist
-add address=.behindkink.com list=gfwlist
-add address=||beijing1989.com list=gfwlist
-add address=||beijing2022.art list=gfwlist
-add address=beijingspring.com list=gfwlist
-add address=||beijingspring.com list=gfwlist
-add address=.beijingzx.org list=gfwlist
-add address=|http://beijingzx.org list=gfwlist
-add address=.belamionline.com list=gfwlist
-add address=.bell.wiki list=gfwlist
-add address=|http://bell.wiki list=gfwlist
-add address=bemywife.cc list=gfwlist
-add address=beric.me list=gfwlist
-add address=||berlinerbericht.de list=gfwlist
-add address=.berlintwitterwall.com list=gfwlist
-add address=||berlintwitterwall.com list=gfwlist
-add address=.berm.co.nz list=gfwlist
-add address=.bestforchina.org list=gfwlist
-add address=||bestforchina.org list=gfwlist
-add address=.bestgore.com list=gfwlist
-add address=.bestpornstardb.com list=gfwlist
-add address=||bestvpn.com list=gfwlist
-add address=.bestvpnanalysis.com list=gfwlist
-add address=.bestvpnserver.com list=gfwlist
-add address=.bestvpnservice.com list=gfwlist
-add address=.bestvpnusa.com list=gfwlist
-add address=||bet365.com list=gfwlist
-add address=.betfair.com list=gfwlist
-add address=||betternet.co list=gfwlist
-add address=.bettervpn.com list=gfwlist
-add address=||bettervpn.com list=gfwlist
-add address=.bettween.com list=gfwlist
-add address=||bettween.com list=gfwlist
-add address=||betvictor.com list=gfwlist
-add address=.bewww.net list=gfwlist
-add address=.beyondfirewall.com list=gfwlist
-add address=||bfnn.org list=gfwlist
-add address=||bfsh.hk list=gfwlist
-add address=.bgvpn.com list=gfwlist
-add address=||bgvpn.com list=gfwlist
-add address=.bianlei.com list=gfwlist
-add address=@@||bianlei.com list=gfwlist
-add address=biantailajiao.com list=gfwlist
-add address=biantailajiao.in list=gfwlist
-add address=.biblesforamerica.org list=gfwlist
-add address=|http://biblesforamerica.org list=gfwlist
-add address=.bic2011.org list=gfwlist
-add address=||biedian.me list=gfwlist
-add address=bigfools.com list=gfwlist
-add address=||bigjapanesesex.com list=gfwlist
-add address=.bignews.org list=gfwlist
-add address=||bignews.org list=gfwlist
-add address=.bigsound.org list=gfwlist
-add address=||bild.de list=gfwlist
-add address=.biliworld.com list=gfwlist
-add address=|http://biliworld.com list=gfwlist
-add address=|http://billypan.com/wiki list=gfwlist
-add address=.binux.me list=gfwlist
-add address=ai.binwang.me/couplet list=gfwlist
-add address=.bit.do list=gfwlist
-add address=|http://bit.do list=gfwlist
-add address=.bit.ly list=gfwlist
-add address=|http://bit.ly list=gfwlist
-add address=||bitchute.com list=gfwlist
-add address=||bitcointalk.org list=gfwlist
-add address=.bitshare.com list=gfwlist
-add address=||bitshare.com list=gfwlist
-add address=bitsnoop.com list=gfwlist
-add address=.bitvise.com list=gfwlist
-add address=||bitvise.com list=gfwlist
-add address=bizhat.com list=gfwlist
-add address=||bl-doujinsouko.com list=gfwlist
-add address=.bjnewlife.org list=gfwlist
-add address=.bjs.org list=gfwlist
-add address=bjzc.org list=gfwlist
-add address=||bjzc.org list=gfwlist
-add address=.blacklogic.com list=gfwlist
-add address=.blackvpn.com list=gfwlist
-add address=||blackvpn.com list=gfwlist
-add address=blewpass.com list=gfwlist
-add address=tor.blingblingsquad.net list=gfwlist
-add address=.blinkx.com list=gfwlist
-add address=||blinkx.com list=gfwlist
-add address=blinw.com list=gfwlist
-add address=.blip.tv list=gfwlist
-add address=||blip.tv/ list=gfwlist
-add address=||blockcast.it list=gfwlist
-add address=.blockcn.com list=gfwlist
-add address=||blockcn.com list=gfwlist
-add address=||blockedbyhk.com list=gfwlist
-add address=||blockless.com list=gfwlist
-add address=||blog.de list=gfwlist
-add address=.blog.jp list=gfwlist
-add address=|http://blog.jp list=gfwlist
-add address=@@||jpush.cn list=gfwlist
-add address=.blogcatalog.com list=gfwlist
-add address=||blogcatalog.com list=gfwlist
-add address=||blogcity.me list=gfwlist
-add address=.blogger.com list=gfwlist
-add address=||blogger.com list=gfwlist
-add address=blogimg.jp list=gfwlist
-add address=||blog.kangye.org list=gfwlist
-add address=.bloglines.com list=gfwlist
-add address=||bloglines.com list=gfwlist
-add address=||bloglovin.com list=gfwlist
-add address=rconversation.blogs.com list=gfwlist
-add address=blogtd.net list=gfwlist
-add address=.blogtd.org list=gfwlist
-add address=|http://blogtd.org list=gfwlist
-add address=||bloodshed.net list=gfwlist
-add address=||assets.bwbx.io list=gfwlist
-add address=||bloomfortune.com list=gfwlist
-add address=blueangellive.com list=gfwlist
-add address=||blubrry.com list=gfwlist
-add address=.bmfinn.com list=gfwlist
-add address=.bnews.co list=gfwlist
-add address=||bnews.co list=gfwlist
-add address=||bnext.com.tw list=gfwlist
-add address=||bnrmetal.com list=gfwlist
-add address=boardreader.com/thread list=gfwlist
-add address=||boardreader.com list=gfwlist
-add address=.bod.asia list=gfwlist
-add address=||bod.asia list=gfwlist
-add address=.bodog88.com list=gfwlist
-add address=.bolehvpn.net list=gfwlist
-add address=||bolehvpn.net list=gfwlist
-add address=bonbonme.com list=gfwlist
-add address=.bonbonsex.com list=gfwlist
-add address=.bonfoundation.org list=gfwlist
-add address=.bongacams.com list=gfwlist
-add address=||boobstagram.com list=gfwlist
-add address=||book.com.tw list=gfwlist
-add address=||bookdepository.com list=gfwlist
-add address=bookepub.com list=gfwlist
-add address=||books.com.tw list=gfwlist
-add address=||borgenmagazine.com list=gfwlist
-add address=||botanwang.com list=gfwlist
-add address=.bot.nu list=gfwlist
-add address=.bowenpress.com list=gfwlist
-add address=||bowenpress.com list=gfwlist
-add address=||app.box.com list=gfwlist
-add address=dl.box.net list=gfwlist
-add address=||dl.box.net list=gfwlist
-add address=.boxpn.com list=gfwlist
-add address=||boxpn.com list=gfwlist
-add address=boxun.com list=gfwlist
-add address=||boxun.com list=gfwlist
-add address=.boxun.tv list=gfwlist
-add address=||boxun.tv list=gfwlist
-add address=boxunblog.com list=gfwlist
-add address=||boxunblog.com list=gfwlist
-add address=.boxunclub.com list=gfwlist
-add address=boyangu.com list=gfwlist
-add address=.boyfriendtv.com list=gfwlist
-add address=.boysfood.com list=gfwlist
-add address=||br.st list=gfwlist
-add address=.brainyquote.com/quotes/authors/d/dalai_lama list=gfwlist
-add address=||brandonhutchinson.com list=gfwlist
-add address=||braumeister.org list=gfwlist
-add address=||brave.com list=gfwlist
-add address=.bravotube.net list=gfwlist
-add address=||bravotube.net list=gfwlist
-add address=.brazzers.com list=gfwlist
-add address=||brazzers.com list=gfwlist
-add address=||breached.to list=gfwlist
-add address=.break.com list=gfwlist
-add address=||break.com list=gfwlist
-add address=breakgfw.com list=gfwlist
-add address=||breakgfw.com list=gfwlist
-add address=breaking911.com list=gfwlist
-add address=.breakingtweets.com list=gfwlist
-add address=||breakingtweets.com list=gfwlist
-add address=||breakwall.net list=gfwlist
-add address=briian.com/6511/freegate list=gfwlist
-add address=.briefdream.com/%E7%B4%A0%E6%A3%BA list=gfwlist
-add address=||brill.com list=gfwlist
-add address=brizzly.com list=gfwlist
-add address=||brizzly.com list=gfwlist
-add address=||brkmd.com list=gfwlist
-add address=broadbook.com list=gfwlist
-add address=.broadpressinc.com list=gfwlist
-add address=||broadpressinc.com list=gfwlist
-add address=bbs.brockbbs.com list=gfwlist
-add address=||brookings.edu list=gfwlist
-add address=brucewang.net list=gfwlist
-add address=.brutaltgp.com list=gfwlist
-add address=||brutaltgp.com list=gfwlist
-add address=.bt2mag.com list=gfwlist
-add address=||bt95.com list=gfwlist
-add address=.btaia.com list=gfwlist
-add address=.btbtav.com list=gfwlist
-add address=||btdig.com list=gfwlist
-add address=||btdigg.org list=gfwlist
-add address=.btku.me list=gfwlist
-add address=||btku.me list=gfwlist
-add address=||btku.org list=gfwlist
-add address=.btspread.com list=gfwlist
-add address=.btsynckeys.com list=gfwlist
-add address=.budaedu.org list=gfwlist
-add address=||budaedu.org list=gfwlist
-add address=.buddhanet.com.tw/zfrop/tibet list=gfwlist
-add address=||buffered.com list=gfwlist
-add address=||bullguard.com list=gfwlist
-add address=.bullog.org list=gfwlist
-add address=||bullog.org list=gfwlist
-add address=.bullogger.com list=gfwlist
-add address=||bullogger.com list=gfwlist
-add address=||bumingbai.net list=gfwlist
-add address=||bunbunhk.com list=gfwlist
-add address=.busayari.com list=gfwlist
-add address=|http://busayari.com list=gfwlist
-add address=||business-humanrights.org list=gfwlist
-add address=.businessinsider.com/bing-could-be-censoring-search-results-2014 list=gfwlist
-add address=.businessinsider.com/china-banks-preparing-for-debt-implosion-2014 list=gfwlist
-add address=.businessinsider.com/hong-kong-activists-defy-police-tear-gas-as-protests-continue-overnight-2014 list=gfwlist
-add address=.businessinsider.com/internet-outages-reported-in-north-korea-2014 list=gfwlist
-add address=.businessinsider.com/iphone-6-is-approved-for-sale-in-china-2014 list=gfwlist
-add address=.businessinsider.com/nfl-announcers-surface-tablets-2014 list=gfwlist
-add address=.businessinsider.com/panama-papers list=gfwlist
-add address=.businessinsider.com/umbrella-man-hong-kong-2014 list=gfwlist
-add address=|http://www.businessinsider.com.au/* list=gfwlist
-add address=.businesstoday.com.tw list=gfwlist
-add address=||businesstoday.com.tw list=gfwlist
-add address=.busu.org/news list=gfwlist
-add address=|http://busu.org/news list=gfwlist
-add address=busytrade.com list=gfwlist
-add address=.buugaa.com list=gfwlist
-add address=.buzzhand.com list=gfwlist
-add address=.buzzhand.net list=gfwlist
-add address=.buzzorange.com list=gfwlist
-add address=||buzzorange.com list=gfwlist
-add address=||buzzsprout.com list=gfwlist
-add address=||bvpn.com list=gfwlist
-add address=||bwh1.net list=gfwlist
-add address=bwsj.hk list=gfwlist
-add address=||bx.tl list=gfwlist
-add address=||bypasscensorship.org list=gfwlist
-add address=||c-span.org list=gfwlist
-add address=.c-spanvideo.org list=gfwlist
-add address=||c-spanvideo.org list=gfwlist
-add address=||c-est-simple.com list=gfwlist
-add address=.c100tibet.org list=gfwlist
-add address=||cableav.tv list=gfwlist
-add address=||cablegatesearch.net list=gfwlist
-add address=.cachinese.com list=gfwlist
-add address=.cacnw.com list=gfwlist
-add address=|http://cacnw.com list=gfwlist
-add address=.cactusvpn.com list=gfwlist
-add address=||cactusvpn.com list=gfwlist
-add address=.cafepress.com list=gfwlist
-add address=.cahr.org.tw list=gfwlist
-add address=.caijinglengyan.com list=gfwlist
-add address=||caijinglengyan.com list=gfwlist
-add address=.calameo.com/books list=gfwlist
-add address=||calendarz.com list=gfwlist
-add address=.calgarychinese.ca list=gfwlist
-add address=.calgarychinese.com list=gfwlist
-add address=.calgarychinese.net list=gfwlist
-add address=|http://blog.calibre-ebook.com list=gfwlist
-add address=falun.caltech.edu list=gfwlist
-add address=.its.caltech.edu/~falun/ list=gfwlist
-add address=.cam4.com list=gfwlist
-add address=.cam4.jp list=gfwlist
-add address=.cam4.sg list=gfwlist
-add address=.camfrog.com list=gfwlist
-add address=||camfrog.com list=gfwlist
-add address=||campaignforuyghurs.org list=gfwlist
-add address=||cams.com list=gfwlist
-add address=.cams.org.sg list=gfwlist
-add address=canadameet.com list=gfwlist
-add address=.canalporno.com list=gfwlist
-add address=|http://bbs.cantonese.asia/ list=gfwlist
-add address=.canyu.org list=gfwlist
-add address=||canyu.org list=gfwlist
-add address=.cao.im list=gfwlist
-add address=.caobian.info list=gfwlist
-add address=||caobian.info list=gfwlist
-add address=caochangqing.com list=gfwlist
-add address=||caochangqing.com list=gfwlist
-add address=.cap.org.hk list=gfwlist
-add address=||cap.org.hk list=gfwlist
-add address=.carabinasypistolas.com list=gfwlist
-add address=cardinalkungfoundation.org list=gfwlist
-add address=||posts.careerengine.us list=gfwlist
-add address=carmotorshow.com list=gfwlist
-add address=||carrd.co list=gfwlist
-add address=ss.carryzhou.com list=gfwlist
-add address=.cartoonmovement.com list=gfwlist
-add address=||cartoonmovement.com list=gfwlist
-add address=.casadeltibetbcn.org list=gfwlist
-add address=.casatibet.org.mx list=gfwlist
-add address=|http://casatibet.org.mx list=gfwlist
-add address=.cari.com.my list=gfwlist
-add address=||cari.com.my list=gfwlist
-add address=||caribbeancom.com list=gfwlist
-add address=.casinoking.com list=gfwlist
-add address=.casinoriva.com list=gfwlist
-add address=||catch22.net list=gfwlist
-add address=.catchgod.com list=gfwlist
-add address=|http://catchgod.com list=gfwlist
-add address=||catfightpayperview.xxx list=gfwlist
-add address=.catholic.org.hk list=gfwlist
-add address=||catholic.org.hk list=gfwlist
-add address=catholic.org.tw list=gfwlist
-add address=||catholic.org.tw list=gfwlist
-add address=.cathvoice.org.tw list=gfwlist
-add address=||cato.org list=gfwlist
-add address=||cattt.com list=gfwlist
-add address=.cbc.ca list=gfwlist
-add address=||cbc.ca list=gfwlist
-add address=.cbsnews.com/video list=gfwlist
-add address=.cbtc.org.hk list=gfwlist
-add address=||southpark.cc.com list=gfwlist
-add address=||cccat.cc list=gfwlist
-add address=||cccat.co list=gfwlist
-add address=.ccdtr.org list=gfwlist
-add address=||ccdtr.org list=gfwlist
-add address=.cchere.com list=gfwlist
-add address=||cchere.com list=gfwlist
-add address=.ccim.org list=gfwlist
-add address=.cclife.ca list=gfwlist
-add address=cclife.org list=gfwlist
-add address=||cclife.org list=gfwlist
-add address=cclifefl.org list=gfwlist
-add address=||cclifefl.org list=gfwlist
-add address=.ccthere.com list=gfwlist
-add address=||ccthere.com list=gfwlist
-add address=||ccthere.net list=gfwlist
-add address=.cctmweb.net list=gfwlist
-add address=.cctongbao.com/article/2078732 list=gfwlist
-add address=ccue.ca list=gfwlist
-add address=ccue.com list=gfwlist
-add address=.ccvoice.ca list=gfwlist
-add address=.ccw.org.tw list=gfwlist
-add address=.cgdepot.org list=gfwlist
-add address=|http://cgdepot.org list=gfwlist
-add address=||cdbook.org list=gfwlist
-add address=.cdcparty.com list=gfwlist
-add address=.cdef.org list=gfwlist
-add address=||cdef.org list=gfwlist
-add address=||cdig.info list=gfwlist
-add address=cdjp.org list=gfwlist
-add address=||cdjp.org list=gfwlist
-add address=.cdnews.com.tw list=gfwlist
-add address=cdp1989.org list=gfwlist
-add address=cdp1998.org list=gfwlist
-add address=||cdp1998.org list=gfwlist
-add address=cdp2006.org list=gfwlist
-add address=||cdp2006.org list=gfwlist
-add address=.cdpa.url.tw list=gfwlist
-add address=cdpeu.org list=gfwlist
-add address=cdpusa.org list=gfwlist
-add address=cdpweb.org list=gfwlist
-add address=||cdpweb.org list=gfwlist
-add address=cdpwu.org list=gfwlist
-add address=||cdpwu.org list=gfwlist
-add address=||cdw.com list=gfwlist
-add address=.cecc.gov list=gfwlist
-add address=||cecc.gov list=gfwlist
-add address=||cellulo.info list=gfwlist
-add address=||cenews.eu list=gfwlist
-add address=||centerforhumanreprod.com list=gfwlist
-add address=||centralnation.com list=gfwlist
-add address=.centurys.net list=gfwlist
-add address=|http://centurys.net list=gfwlist
-add address=.cfhks.org.hk list=gfwlist
-add address=.cfos.de list=gfwlist
-add address=||cfr.org list=gfwlist
-add address=.cftfc.com list=gfwlist
-add address=.cgst.edu list=gfwlist
-add address=.change.org list=gfwlist
-add address=||change.org list=gfwlist
-add address=.changp.com list=gfwlist
-add address=||changp.com list=gfwlist
-add address=.changsa.net list=gfwlist
-add address=|http://changsa.net list=gfwlist
-add address=||channelnewsasia.com list=gfwlist
-add address=.chapm25.com list=gfwlist
-add address=||chatgpt.com list=gfwlist
-add address=.chaturbate.com list=gfwlist
-add address=||chaturbate.com list=gfwlist
-add address=.chuang-yen.org list=gfwlist
-add address=||checkgfw.com list=gfwlist
-add address=chengmingmag.com list=gfwlist
-add address=.chenguangcheng.com list=gfwlist
-add address=||chenguangcheng.com list=gfwlist
-add address=.chenpokong.com list=gfwlist
-add address=||chenpokong.com list=gfwlist
-add address=.chenpokong.net list=gfwlist
-add address=|http://chenpokong.net list=gfwlist
-add address=||chenpokongvip.com list=gfwlist
-add address=||cherrysave.com list=gfwlist
-add address=.chhongbi.org list=gfwlist
-add address=chicagoncmtv.com list=gfwlist
-add address=|http://chicagoncmtv.com list=gfwlist
-add address=.china-week.com list=gfwlist
-add address=china101.com list=gfwlist
-add address=||china101.com list=gfwlist
-add address=||china18.org list=gfwlist
-add address=||china21.com list=gfwlist
-add address=china21.org list=gfwlist
-add address=||china21.org list=gfwlist
-add address=.china5000.us list=gfwlist
-add address=chinaaffairs.org list=gfwlist
-add address=||chinaaffairs.org list=gfwlist
-add address=||chinaaid.me list=gfwlist
-add address=chinaaid.us list=gfwlist
-add address=chinaaid.org list=gfwlist
-add address=chinaaid.net list=gfwlist
-add address=||chinaaid.net list=gfwlist
-add address=chinacomments.org list=gfwlist
-add address=||chinacomments.org list=gfwlist
-add address=.chinachange.org list=gfwlist
-add address=||chinachange.org list=gfwlist
-add address=chinachannel.hk list=gfwlist
-add address=||chinachannel.hk list=gfwlist
-add address=.chinacitynews.be list=gfwlist
-add address=.chinadialogue.net list=gfwlist
-add address=.chinadigitaltimes.net list=gfwlist
-add address=||chinadigitaltimes.net list=gfwlist
-add address=.chinaelections.org list=gfwlist
-add address=||chinaelections.org list=gfwlist
-add address=.chinaeweekly.com list=gfwlist
-add address=||chinaeweekly.com list=gfwlist
-add address=||chinafile.com list=gfwlist
-add address=||chinafreepress.org list=gfwlist
-add address=.chinagate.com list=gfwlist
-add address=chinageeks.org list=gfwlist
-add address=chinagfw.org list=gfwlist
-add address=||chinagfw.org list=gfwlist
-add address=.chinagonet.com list=gfwlist
-add address=.chinagreenparty.org list=gfwlist
-add address=||chinagreenparty.org list=gfwlist
-add address=.chinahorizon.org list=gfwlist
-add address=||chinahorizon.org list=gfwlist
-add address=.chinahush.com list=gfwlist
-add address=.chinainperspective.com list=gfwlist
-add address=||chinainterimgov.org list=gfwlist
-add address=chinalaborwatch.org list=gfwlist
-add address=chinalawtranslate.com list=gfwlist
-add address=.chinapost.com.tw/taiwan/national/national-news list=gfwlist
-add address=chinaxchina.com/howto list=gfwlist
-add address=chinalawandpolicy.com list=gfwlist
-add address=.chinamule.com list=gfwlist
-add address=||chinamule.com list=gfwlist
-add address=chinamz.org list=gfwlist
-add address=.chinanewscenter.com list=gfwlist
-add address=|https://chinanewscenter.com list=gfwlist
-add address=.chinapress.com.my list=gfwlist
-add address=||chinapress.com.my list=gfwlist
-add address=.china-review.com.ua list=gfwlist
-add address=|http://china-review.com.ua list=gfwlist
-add address=.chinarightsia.org list=gfwlist
-add address=chinasmile.net/forums list=gfwlist
-add address=chinasocialdemocraticparty.com list=gfwlist
-add address=||chinasocialdemocraticparty.com list=gfwlist
-add address=chinasoul.org list=gfwlist
-add address=||chinasoul.org list=gfwlist
-add address=.chinasucks.net list=gfwlist
-add address=||chinatopsex.com list=gfwlist
-add address=.chinatown.com.au list=gfwlist
-add address=chinatweeps.com list=gfwlist
-add address=chinaway.org list=gfwlist
-add address=.chinaworker.info list=gfwlist
-add address=||chinaworker.info list=gfwlist
-add address=chinayouth.org.hk list=gfwlist
-add address=chinayuanmin.org list=gfwlist
-add address=||chinayuanmin.org list=gfwlist
-add address=.chinese-hermit.net list=gfwlist
-add address=chinese-leaders.org list=gfwlist
-add address=chinese-memorial.org list=gfwlist
-add address=.chinesedaily.com list=gfwlist
-add address=||chinesedailynews.com list=gfwlist
-add address=.chinesedemocracy.com list=gfwlist
-add address=||chinesedemocracy.com list=gfwlist
-add address=||chinesegay.org list=gfwlist
-add address=.chinesen.de list=gfwlist
-add address=||chinesen.de list=gfwlist
-add address=.chinesenews.net.au/ list=gfwlist
-add address=.chinesepen.org list=gfwlist
-add address=||chineseradioseattle.com list=gfwlist
-add address=.chinesetalks.net/ch list=gfwlist
-add address=||chineseupress.com list=gfwlist
-add address=.chingcheong.com list=gfwlist
-add address=||chingcheong.com list=gfwlist
-add address=.chinman.net list=gfwlist
-add address=|http://chinman.net list=gfwlist
-add address=chithu.org list=gfwlist
-add address=||cnnews.chosun.com list=gfwlist
-add address=.chrdnet.com list=gfwlist
-add address=|http://chrdnet.com list=gfwlist
-add address=.christianfreedom.org list=gfwlist
-add address=||christianfreedom.org list=gfwlist
-add address=christianstudy.com list=gfwlist
-add address=||christianstudy.com list=gfwlist
-add address=christusrex.org/www1/sdc list=gfwlist
-add address=.chubold.com list=gfwlist
-add address=chubun.com list=gfwlist
-add address=||christiantimes.org.hk list=gfwlist
-add address=.chrlawyers.hk list=gfwlist
-add address=||chrlawyers.hk list=gfwlist
-add address=.churchinhongkong.org/b5/index.php list=gfwlist
-add address=|http://churchinhongkong.org/b5/index.php list=gfwlist
-add address=.chushigangdrug.ch list=gfwlist
-add address=.cienen.com list=gfwlist
-add address=.cineastentreff.de list=gfwlist
-add address=.cipfg.org list=gfwlist
-add address=||circlethebayfortibet.org list=gfwlist
-add address=||cirosantilli.com list=gfwlist
-add address=.citizencn.com list=gfwlist
-add address=||citizencn.com list=gfwlist
-add address=||citizenlab.ca list=gfwlist
-add address=||citizenlab.org list=gfwlist
-add address=||citizenscommission.hk list=gfwlist
-add address=.citizenlab.org list=gfwlist
-add address=citizensradio.org list=gfwlist
-add address=.city365.ca list=gfwlist
-add address=|http://city365.ca list=gfwlist
-add address=city9x.com list=gfwlist
-add address=||citypopulation.de list=gfwlist
-add address=.citytalk.tw/event list=gfwlist
-add address=.civicparty.hk list=gfwlist
-add address=||civicparty.hk list=gfwlist
-add address=.civildisobediencemovement.org list=gfwlist
-add address=civilhrfront.org list=gfwlist
-add address=||civilhrfront.org list=gfwlist
-add address=.civiliangunner.com list=gfwlist
-add address=.civilmedia.tw list=gfwlist
-add address=||civilmedia.tw list=gfwlist
-add address=psiphon.civisec.org list=gfwlist
-add address=||civitai.com list=gfwlist
-add address=.ck101.com list=gfwlist
-add address=||ck101.com list=gfwlist
-add address=.clarionproject.org/news/islamic-state-isis-isil-propaganda list=gfwlist
-add address=||classicalguitarblog.net list=gfwlist
-add address=.clb.org.hk list=gfwlist
-add address=clearharmony.net list=gfwlist
-add address=clearwisdom.net list=gfwlist
-add address=||clinica-tibet.ru list=gfwlist
-add address=.clipfish.de list=gfwlist
-add address=cloakpoint.com list=gfwlist
-add address=||app.cloudcone.com list=gfwlist
-add address=||cloudflare-ipfs.com list=gfwlist
-add address=||club1069.com list=gfwlist
-add address=||clubhouseapi.com list=gfwlist
-add address=||cmegroup.com list=gfwlist
-add address=||cmi.org.tw list=gfwlist
-add address=|http://www.cmoinc.org list=gfwlist
-add address=cmp.hku.hk list=gfwlist
-add address=hkupop.hku.hk list=gfwlist
-add address=||cmule.com list=gfwlist
-add address=||cmule.org list=gfwlist
-add address=||cms.gov list=gfwlist
-add address=|http://vpn.cmu.edu list=gfwlist
-add address=|http://vpn.sv.cmu.edu list=gfwlist
-add address=.cn6.eu list=gfwlist
-add address=.cna.com.tw list=gfwlist
-add address=||cna.com.tw list=gfwlist
-add address=.cnabc.com list=gfwlist
-add address=.cnd.org list=gfwlist
-add address=||cnd.org list=gfwlist
-add address=download.cnet.com list=gfwlist
-add address=.cnex.org.cn list=gfwlist
-add address=.cnineu.com list=gfwlist
-add address=wiki.cnitter.com list=gfwlist
-add address=.cnn.com/video list=gfwlist
-add address=.cnpolitics.org list=gfwlist
-add address=||cnpolitics.org list=gfwlist
-add address=.cn-proxy.com list=gfwlist
-add address=|http://cn-proxy.com list=gfwlist
-add address=.cnproxy.com list=gfwlist
-add address=blog.cnyes.com list=gfwlist
-add address=news.cnyes.com list=gfwlist
-add address=||coat.co.jp list=gfwlist
-add address=.cochina.co list=gfwlist
-add address=||cochina.co list=gfwlist
-add address=||cochina.org list=gfwlist
-add address=.code1984.com/64 list=gfwlist
-add address=|http://goagent.codeplex.com list=gfwlist
-add address=||codeshare.io list=gfwlist
-add address=||codeskulptor.org list=gfwlist
-add address=||conoha.jp list=gfwlist
-add address=|http://tosh.comedycentral.com list=gfwlist
-add address=comefromchina.com list=gfwlist
-add address=||comefromchina.com list=gfwlist
-add address=.comic-mega.me list=gfwlist
-add address=commandarms.com list=gfwlist
-add address=||commentshk.com list=gfwlist
-add address=.communistcrimes.org list=gfwlist
-add address=||communistcrimes.org list=gfwlist
-add address=||communitychoicecu.com list=gfwlist
-add address=||comparitech.com list=gfwlist
-add address=||compileheart.com list=gfwlist
-add address=||conoha.jp list=gfwlist
-add address=.contactmagazine.net list=gfwlist
-add address=.convio.net list=gfwlist
-add address=.coobay.com list=gfwlist
-add address=||cool18.com list=gfwlist
-add address=.coolaler.com list=gfwlist
-add address=||coolaler.com list=gfwlist
-add address=coolder.com list=gfwlist
-add address=||coolder.com list=gfwlist
-add address=||coolloud.org.tw list=gfwlist
-add address=.coolncute.com list=gfwlist
-add address=||coolstuffinc.com list=gfwlist
-add address=corumcollege.com list=gfwlist
-add address=.cos-moe.com list=gfwlist
-add address=|http://cos-moe.com list=gfwlist
-add address=.cosplayjav.pl list=gfwlist
-add address=|http://cosplayjav.pl list=gfwlist
-add address=.cotweet.com list=gfwlist
-add address=||cotweet.com list=gfwlist
-add address=.coursehero.com list=gfwlist
-add address=||coursehero.com list=gfwlist
-add address=cpj.org list=gfwlist
-add address=||cpj.org list=gfwlist
-add address=.cq99.us list=gfwlist
-add address=|http://cq99.us list=gfwlist
-add address=crackle.com list=gfwlist
-add address=||crackle.com list=gfwlist
-add address=.crazys.cc list=gfwlist
-add address=.crazyshit.com list=gfwlist
-add address=||crazyshit.com list=gfwlist
-add address=||crchina.org list=gfwlist
-add address=crd-net.org list=gfwlist
-add address=creaders.net list=gfwlist
-add address=||creaders.net list=gfwlist
-add address=.creadersnet.com list=gfwlist
-add address=||cristyli.com list=gfwlist
-add address=||croxyproxy.com list=gfwlist
-add address=.crocotube.com list=gfwlist
-add address=|http://crocotube.com list=gfwlist
-add address=.crossthewall.net list=gfwlist
-add address=||crossthewall.net list=gfwlist
-add address=.crossvpn.net list=gfwlist
-add address=||crossvpn.net list=gfwlist
-add address=||crucial.com list=gfwlist
-add address=||blog.cryptographyengineering.com list=gfwlist
-add address=csdparty.com list=gfwlist
-add address=||csdparty.com list=gfwlist
-add address=||csis.org list=gfwlist
-add address=||csmonitor.com list=gfwlist
-add address=||csuchen.de list=gfwlist
-add address=.csw.org.uk list=gfwlist
-add address=.ct.org.tw list=gfwlist
-add address=||ct.org.tw list=gfwlist
-add address=.ctao.org list=gfwlist
-add address=.ctfriend.net list=gfwlist
-add address=.ctitv.com.tw list=gfwlist
-add address=||ctowc.org list=gfwlist
-add address=.cts.com.tw list=gfwlist
-add address=||cts.com.tw list=gfwlist
-add address=||ctwant.com list=gfwlist
-add address=|http://library.usc.cuhk.edu.hk/ list=gfwlist
-add address=|http://mjlsh.usc.cuhk.edu.hk/ list=gfwlist
-add address=.cuhkacs.org/~benng list=gfwlist
-add address=.cuihua.org list=gfwlist
-add address=||cuihua.org list=gfwlist
-add address=.cuiweiping.net list=gfwlist
-add address=||cuiweiping.net list=gfwlist
-add address=||culture.tw list=gfwlist
-add address=.cumlouder.com list=gfwlist
-add address=||cumlouder.com list=gfwlist
-add address=||curvefish.com list=gfwlist
-add address=||cusp.hk list=gfwlist
-add address=.cusu.hk list=gfwlist
-add address=||cusu.hk list=gfwlist
-add address=.cutscenes.net list=gfwlist
-add address=||cutscenes.net list=gfwlist
-add address=.cw.com.tw list=gfwlist
-add address=||cw.com.tw list=gfwlist
-add address=|http://forum.cyberctm.com list=gfwlist
-add address=cyberghostvpn.com list=gfwlist
-add address=||cyberghostvpn.com list=gfwlist
-add address=||cynscribe.com list=gfwlist
-add address=cytode.us list=gfwlist
-add address=||ifan.cz.cc list=gfwlist
-add address=||mike.cz.cc list=gfwlist
-add address=||nic.cz.cc list=gfwlist
-add address=.d-fukyu.com list=gfwlist
-add address=|http://d-fukyu.com list=gfwlist
-add address=cl.d0z.net list=gfwlist
-add address=.d100.net list=gfwlist
-add address=||d100.net list=gfwlist
-add address=.d2bay.com list=gfwlist
-add address=|http://d2bay.com list=gfwlist
-add address=.dabr.co.uk list=gfwlist
-add address=||dabr.co.uk list=gfwlist
-add address=dabr.eu list=gfwlist
-add address=dabr.mobi list=gfwlist
-add address=||dabr.mobi list=gfwlist
-add address=||dabr.me list=gfwlist
-add address=dadazim.com list=gfwlist
-add address=||dadazim.com list=gfwlist
-add address=.dadi360.com list=gfwlist
-add address=.dafabet.com list=gfwlist
-add address=dafagood.com list=gfwlist
-add address=dafahao.com list=gfwlist
-add address=.dafoh.org list=gfwlist
-add address=.daftporn.com list=gfwlist
-add address=.dagelijksestandaard.nl list=gfwlist
-add address=.daidostup.ru list=gfwlist
-add address=|http://daidostup.ru list=gfwlist
-add address=.dailidaili.com list=gfwlist
-add address=||dailidaili.com list=gfwlist
-add address=||dailymail.co.uk list=gfwlist
-add address=.dailymotion.com list=gfwlist
-add address=||dailymotion.com list=gfwlist
-add address=||dailysabah.com list=gfwlist
-add address=daiphapinfo.net list=gfwlist
-add address=.dajiyuan.com list=gfwlist
-add address=||dajiyuan.de list=gfwlist
-add address=dajiyuan.eu list=gfwlist
-add address=dalailama.com list=gfwlist
-add address=.dalailama.mn list=gfwlist
-add address=|http://dalailama.mn list=gfwlist
-add address=.dalailama.ru list=gfwlist
-add address=||dalailama.ru list=gfwlist
-add address=dalailama80.org list=gfwlist
-add address=.dalailama-archives.org list=gfwlist
-add address=.dalailamacenter.org list=gfwlist
-add address=|http://dalailamacenter.org list=gfwlist
-add address=dalailamafellows.org list=gfwlist
-add address=.dalailamafilm.com list=gfwlist
-add address=.dalailamafoundation.org list=gfwlist
-add address=.dalailamahindi.com list=gfwlist
-add address=.dalailamainaustralia.org list=gfwlist
-add address=.dalailamajapanese.com list=gfwlist
-add address=.dalailamaprotesters.info list=gfwlist
-add address=.dalailamaquotes.org list=gfwlist
-add address=.dalailamatrust.org list=gfwlist
-add address=.dalailamavisit.org.nz list=gfwlist
-add address=.dalailamaworld.com list=gfwlist
-add address=||dalailamaworld.com list=gfwlist
-add address=dalianmeng.org list=gfwlist
-add address=||dalianmeng.org list=gfwlist
-add address=.daliulian.org list=gfwlist
-add address=||daliulian.org list=gfwlist
-add address=.danke4china.net list=gfwlist
-add address=||danke4china.net list=gfwlist
-add address=daolan.net list=gfwlist
-add address=darktoy.net list=gfwlist
-add address=||darrenliuwei.com list=gfwlist
-add address=||dastrassi.org list=gfwlist
-add address=||daum.net list=gfwlist
-add address=.david-kilgour.com list=gfwlist
-add address=|http://david-kilgour.com list=gfwlist
-add address=daxa.cn list=gfwlist
-add address=||daxa.cn list=gfwlist
-add address=cn.dayabook.com list=gfwlist
-add address=.daylife.com/topic/dalai_lama list=gfwlist
-add address=||db.tt list=gfwlist
-add address=.dbc.hk/main list=gfwlist
-add address=||dbgjd.com list=gfwlist
-add address=||dcard.tw list=gfwlist
-add address=dcmilitary.com list=gfwlist
-add address=.ddc.com.tw list=gfwlist
-add address=.ddhw.info list=gfwlist
-add address=||de-sci.org list=gfwlist
-add address=.de-sci.org list=gfwlist
-add address=||deadline.com list=gfwlist
-add address=||decodet.co list=gfwlist
-add address=.definebabe.com list=gfwlist
-add address=||delcamp.net list=gfwlist
-add address=delicious.com/GFWbookmark list=gfwlist
-add address=.democrats.org list=gfwlist
-add address=||democrats.org list=gfwlist
-add address=.demosisto.hk list=gfwlist
-add address=||demosisto.hk list=gfwlist
-add address=||desc.se list=gfwlist
-add address=||dessci.com list=gfwlist
-add address=.destroy-china.jp list=gfwlist
-add address=||deutsche-welle.de list=gfwlist
-add address=||deviantart.com list=gfwlist
-add address=||deviantart.net list=gfwlist
-add address=||devio.us list=gfwlist
-add address=||devpn.com list=gfwlist
-add address=||devv.ai list=gfwlist
-add address=||dfas.mil list=gfwlist
-add address=dfn.org list=gfwlist
-add address=dharmakara.net list=gfwlist
-add address=.dharamsalanet.com list=gfwlist
-add address=.diaoyuislands.org list=gfwlist
-add address=||diaoyuislands.org list=gfwlist
-add address=.difangwenge.org list=gfwlist
-add address=|http://digiland.tw/ list=gfwlist
-add address=||digitalnomadsproject.org list=gfwlist
-add address=.diigo.com list=gfwlist
-add address=||diigo.com list=gfwlist
-add address=||dilber.se list=gfwlist
-add address=||furl.net list=gfwlist
-add address=.dipity.com list=gfwlist
-add address=||directcreative.com list=gfwlist
-add address=.discuss.com.hk list=gfwlist
-add address=||discuss.com.hk list=gfwlist
-add address=.discuss4u.com list=gfwlist
-add address=disp.cc list=gfwlist
-add address=.disqus.com list=gfwlist
-add address=||disqus.com list=gfwlist
-add address=.dit-inc.us list=gfwlist
-add address=||dit-inc.us list=gfwlist
-add address=.dizhidizhi.com list=gfwlist
-add address=||dizhuzhishang.com list=gfwlist
-add address=djangosnippets.org list=gfwlist
-add address=.djorz.com list=gfwlist
-add address=||djorz.com list=gfwlist
-add address=||dl-laby.jp list=gfwlist
-add address=||dlive.tv list=gfwlist
-add address=||dlsite.com list=gfwlist
-add address=||dlyoutube.com list=gfwlist
-add address=||dmc.nico list=gfwlist
-add address=||dmcdn.net list=gfwlist
-add address=.dnscrypt.org list=gfwlist
-add address=||dnscrypt.org list=gfwlist
-add address=||dns2go.com list=gfwlist
-add address=||dnssec.net list=gfwlist
-add address=doctorvoice.org list=gfwlist
-add address=.dogfartnetwork.com/tour list=gfwlist
-add address=gloryhole.com list=gfwlist
-add address=.dojin.com list=gfwlist
-add address=.dok-forum.net list=gfwlist
-add address=||dolc.de list=gfwlist
-add address=||dolf.org.hk list=gfwlist
-add address=||dollf.com list=gfwlist
-add address=.domain.club.tw list=gfwlist
-add address=.domaintoday.com.au list=gfwlist
-add address=chinese.donga.com list=gfwlist
-add address=dongtaiwang.com list=gfwlist
-add address=||dongtaiwang.com list=gfwlist
-add address=.dongtaiwang.net list=gfwlist
-add address=||dongtaiwang.net list=gfwlist
-add address=.dongyangjing.com list=gfwlist
-add address=|http://danbooru.donmai.us list=gfwlist
-add address=.dontfilter.us list=gfwlist
-add address=||dontmovetochina.com list=gfwlist
-add address=.dorjeshugden.com list=gfwlist
-add address=.dotplane.com list=gfwlist
-add address=||dotplane.com list=gfwlist
-add address=||dotsub.com list=gfwlist
-add address=.dotvpn.com list=gfwlist
-add address=||dotvpn.com list=gfwlist
-add address=.doub.io list=gfwlist
-add address=||doub.io list=gfwlist
-add address=||doublethinklab.org list=gfwlist
-add address=||dougscripts.com list=gfwlist
-add address=||douhokanko.net list=gfwlist
-add address=||doujincafe.com list=gfwlist
-add address=dowei.org list=gfwlist
-add address=|https://bartender.dowjones.com list=gfwlist
-add address=dphk.org list=gfwlist
-add address=dpp.org.tw list=gfwlist
-add address=||dpp.org.tw list=gfwlist
-add address=||dpr.info list=gfwlist
-add address=||dragonsprings.org list=gfwlist
-add address=.dreamamateurs.com list=gfwlist
-add address=.drepung.org list=gfwlist
-add address=||drgan.net list=gfwlist
-add address=.drmingxia.org list=gfwlist
-add address=|http://drmingxia.org list=gfwlist
-add address=||dropbooks.tv list=gfwlist
-add address=||dropbox.com list=gfwlist
-add address=||api.dropboxapi.com list=gfwlist
-add address=||notify.dropboxapi.com list=gfwlist
-add address=||dropboxusercontent.com list=gfwlist
-add address=drsunacademy.com list=gfwlist
-add address=.drtuber.com list=gfwlist
-add address=.dscn.info list=gfwlist
-add address=|http://dscn.info list=gfwlist
-add address=.dstk.dk list=gfwlist
-add address=|http://dstk.dk list=gfwlist
-add address=||dtiblog.com list=gfwlist
-add address=||dtic.mil list=gfwlist
-add address=.dtwang.org list=gfwlist
-add address=.duanzhihu.com list=gfwlist
-add address=.duckdns.org list=gfwlist
-add address=|http://duckdns.org list=gfwlist
-add address=.duckduckgo.com list=gfwlist
-add address=||duckduckgo.com list=gfwlist
-add address=.duckload.com/download list=gfwlist
-add address=||duckmylife.com list=gfwlist
-add address=.duga.jp list=gfwlist
-add address=|http://duga.jp list=gfwlist
-add address=.duihua.org list=gfwlist
-add address=||duihua.org list=gfwlist
-add address=||duihuahrjournal.org list=gfwlist
-add address=.dunyabulteni.net list=gfwlist
-add address=.duoweitimes.com list=gfwlist
-add address=||duoweitimes.com list=gfwlist
-add address=duping.net list=gfwlist
-add address=||duplicati.com list=gfwlist
-add address=dupola.com list=gfwlist
-add address=dupola.net list=gfwlist
-add address=.dushi.ca list=gfwlist
-add address=||duyaoss.com list=gfwlist
-add address=||dvorak.org list=gfwlist
-add address=.dw.com list=gfwlist
-add address=||dw.com list=gfwlist
-add address=||dw.de list=gfwlist
-add address=.dw-world.com list=gfwlist
-add address=||dw-world.com list=gfwlist
-add address=.dw-world.de list=gfwlist
-add address=|http://dw-world.de list=gfwlist
-add address=www.dwheeler.com list=gfwlist
-add address=dwnews.com list=gfwlist
-add address=||dwnews.com list=gfwlist
-add address=dwnews.net list=gfwlist
-add address=||dwnews.net list=gfwlist
-add address=xys.dxiong.com list=gfwlist
-add address=||dynawebinc.com list=gfwlist
-add address=||dysfz.cc list=gfwlist
-add address=.dzze.com list=gfwlist
-add address=||e-classical.com.tw list=gfwlist
-add address=||e-gold.com list=gfwlist
-add address=.e-gold.com list=gfwlist
-add address=.e-hentai.org list=gfwlist
-add address=||e-hentai.org list=gfwlist
-add address=.e-hentaidb.com list=gfwlist
-add address=|http://e-hentaidb.com list=gfwlist
-add address=e-info.org.tw list=gfwlist
-add address=.e-traderland.net/board list=gfwlist
-add address=.e-zone.com.hk/discuz list=gfwlist
-add address=|http://e-zone.com.hk/discuz list=gfwlist
-add address=.e123.hk list=gfwlist
-add address=||e123.hk list=gfwlist
-add address=.earlytibet.com list=gfwlist
-add address=|http://earlytibet.com list=gfwlist
-add address=.earthcam.com list=gfwlist
-add address=.earthvpn.com list=gfwlist
-add address=||earthvpn.com list=gfwlist
-add address=eastern-ark.com list=gfwlist
-add address=.easternlightning.org list=gfwlist
-add address=.eastturkestan.com list=gfwlist
-add address=|http://www.eastturkistan.net/ list=gfwlist
-add address=.eastturkistan-gov.org list=gfwlist
-add address=.eastturkistancc.org list=gfwlist
-add address=.eastturkistangovernmentinexile.us list=gfwlist
-add address=||eastturkistangovernmentinexile.us list=gfwlist
-add address=.easyca.ca list=gfwlist
-add address=.easypic.com list=gfwlist
-add address=||fnc.ebc.net.tw list=gfwlist
-add address=||news.ebc.net.tw list=gfwlist
-add address=.ebony-beauty.com list=gfwlist
-add address=ebookbrowse.com list=gfwlist
-add address=ebookee.com list=gfwlist
-add address=||ecfa.org.tw list=gfwlist
-add address=ushuarencity.echainhost.com list=gfwlist
-add address=||ecimg.tw list=gfwlist
-add address=ecministry.net list=gfwlist
-add address=.economist.com list=gfwlist
-add address=bbs.ecstart.com list=gfwlist
-add address=edgecastcdn.net list=gfwlist
-add address=||edgecastcdn.net list=gfwlist
-add address=/twimg\.edgesuite\.net\/\/?appledaily/ list=gfwlist
-add address=edicypages.com list=gfwlist
-add address=.edmontonchina.cn list=gfwlist
-add address=.edmontonservice.com list=gfwlist
-add address=edoors.com list=gfwlist
-add address=.edubridge.com list=gfwlist
-add address=||edubridge.com list=gfwlist
-add address=.edupro.org list=gfwlist
-add address=||eevpn.com list=gfwlist
-add address=efcc.org.hk list=gfwlist
-add address=.efukt.com list=gfwlist
-add address=|http://efukt.com list=gfwlist
-add address=||eic-av.com list=gfwlist
-add address=||eireinikotaerukai.com list=gfwlist
-add address=.eisbb.com list=gfwlist
-add address=.eksisozluk.com list=gfwlist
-add address=||eksisozluk.com list=gfwlist
-add address=electionsmeter.com list=gfwlist
-add address=||elgoog.im list=gfwlist
-add address=.ellawine.org list=gfwlist
-add address=.elpais.com list=gfwlist
-add address=||elpais.com list=gfwlist
-add address=.eltondisney.com list=gfwlist
-add address=.emaga.com/info/3407 list=gfwlist
-add address=emilylau.org.hk list=gfwlist
-add address=.emanna.com/chineseTraditional list=gfwlist
-add address=bitc.bme.emory.edu/~lzhou/blogs list=gfwlist
-add address=.empfil.com list=gfwlist
-add address=.emule-ed2k.com list=gfwlist
-add address=|http://emule-ed2k.com list=gfwlist
-add address=.emulefans.com list=gfwlist
-add address=|http://emulefans.com list=gfwlist
-add address=.emuparadise.me list=gfwlist
-add address=.enanyang.my list=gfwlist
-add address=||encrypt.me list=gfwlist
-add address=||enewstree.com list=gfwlist
-add address=.enfal.de list=gfwlist
-add address=||chinese.engadget.com list=gfwlist
-add address=||engagedaily.org list=gfwlist
-add address=englishforeveryone.org list=gfwlist
-add address=||englishfromengland.co.uk list=gfwlist
-add address=englishpen.org list=gfwlist
-add address=.enlighten.org.tw list=gfwlist
-add address=||entermap.com list=gfwlist
-add address=||app.evozi.com list=gfwlist
-add address=.episcopalchurch.org list=gfwlist
-add address=.epochhk.com list=gfwlist
-add address=||epochhk.com list=gfwlist
-add address=epochtimes-bg.com list=gfwlist
-add address=||epochtimes-bg.com list=gfwlist
-add address=epochtimes-romania.com list=gfwlist
-add address=||epochtimes-romania.com list=gfwlist
-add address=epochtimes.co.il list=gfwlist
-add address=||epochtimes.co.il list=gfwlist
-add address=epochtimes.co.kr list=gfwlist
-add address=||epochtimes.co.kr list=gfwlist
-add address=epochtimes.com list=gfwlist
-add address=||epochtimes.com list=gfwlist
-add address=.epochtimes.cz list=gfwlist
-add address=||epochtimes.de list=gfwlist
-add address=||epochtimes.fr list=gfwlist
-add address=||epochtimes.ie list=gfwlist
-add address=||epochtimes.it list=gfwlist
-add address=||epochtimes.jp list=gfwlist
-add address=||epochtimes.ru list=gfwlist
-add address=||epochtimes.se list=gfwlist
-add address=||epochtimestr.com list=gfwlist
-add address=.epochweek.com list=gfwlist
-add address=||epochweek.com list=gfwlist
-add address=||epochweekly.com list=gfwlist
-add address=.eporner.com list=gfwlist
-add address=.equinenow.com list=gfwlist
-add address=erabaru.net list=gfwlist
-add address=.eracom.com.tw list=gfwlist
-add address=.eraysoft.com.tr list=gfwlist
-add address=.erepublik.com list=gfwlist
-add address=.erights.net list=gfwlist
-add address=||erights.net list=gfwlist
-add address=.erktv.com list=gfwlist
-add address=|http://erktv.com list=gfwlist
-add address=||ernestmandel.org list=gfwlist
-add address=||erodaizensyu.com list=gfwlist
-add address=||erodoujinlog.com list=gfwlist
-add address=||erodoujinworld.com list=gfwlist
-add address=||eromanga-kingdom.com list=gfwlist
-add address=||eromangadouzin.com list=gfwlist
-add address=.eromon.net list=gfwlist
-add address=|http://eromon.net list=gfwlist
-add address=.eroprofile.com list=gfwlist
-add address=.eroticsaloon.net list=gfwlist
-add address=.eslite.com list=gfwlist
-add address=||eslite.com list=gfwlist
-add address=wiki.esu.im/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95 list=gfwlist
-add address=||esu.dog list=gfwlist
-add address=.etaa.org.au list=gfwlist
-add address=.etadult.com list=gfwlist
-add address=etaiwannews.com list=gfwlist
-add address=||etizer.org list=gfwlist
-add address=||etokki.com list=gfwlist
-add address=||etsy.com list=gfwlist
-add address=.ettoday.net/news/20151216/614081 list=gfwlist
-add address=etvonline.hk list=gfwlist
-add address=.eu.org list=gfwlist
-add address=||eu.org list=gfwlist
-add address=.eucasino.com list=gfwlist
-add address=.eulam.com list=gfwlist
-add address=.eurekavpt.com list=gfwlist
-add address=||eurekavpt.com list=gfwlist
-add address=.euronews.com list=gfwlist
-add address=||euronews.com list=gfwlist
-add address=eeas.europa.eu/delegations/china/press_corner/all_news/news/2015/20150716_zh list=gfwlist
-add address=eeas.europa.eu/statements-eeas/2015/151022 list=gfwlist
-add address=||apps.evozi.com list=gfwlist
-add address=||evschool.net list=gfwlist
-add address=||exblog.jp list=gfwlist
-add address=||blog.exblog.co.jp list=gfwlist
-add address=@@||www.exblog.jp list=gfwlist
-add address=.exchristian.hk list=gfwlist
-add address=||exchristian.hk list=gfwlist
-add address=|http://blog.excite.co.jp list=gfwlist
-add address=||exhentai.org list=gfwlist
-add address=||exmormon.org list=gfwlist
-add address=||expatshield.com list=gfwlist
-add address=.expecthim.com list=gfwlist
-add address=||expecthim.com list=gfwlist
-add address=experts-univers.com list=gfwlist
-add address=||exploader.net list=gfwlist
-add address=.expressvpn.com list=gfwlist
-add address=||expressvpn.com list=gfwlist
-add address=.extremetube.com list=gfwlist
-add address=eyevio.jp list=gfwlist
-add address=||eyevio.jp list=gfwlist
-add address=.eyny.com list=gfwlist
-add address=||eyny.com list=gfwlist
-add address=.ezpc.tk/category/soft list=gfwlist
-add address=.ezpeer.com list=gfwlist
-add address=||facebookquotes4u.com list=gfwlist
-add address=.faceless.me list=gfwlist
-add address=||faceless.me list=gfwlist
-add address=|http://facesoftibetanselfimmolators.info list=gfwlist
-add address=||facesofnyfw.com list=gfwlist
-add address=||factpedia.org list=gfwlist
-add address=.faith100.org list=gfwlist
-add address=|http://faith100.org list=gfwlist
-add address=.faithfuleye.com list=gfwlist
-add address=||faiththedog.info list=gfwlist
-add address=.fakku.net list=gfwlist
-add address=||fallenark.com list=gfwlist
-add address=.falsefire.com list=gfwlist
-add address=||falsefire.com list=gfwlist
-add address=falun-co.org list=gfwlist
-add address=falunart.org list=gfwlist
-add address=||falunasia.info list=gfwlist
-add address=|http://falunau.org list=gfwlist
-add address=.falunaz.net list=gfwlist
-add address=falundafa.org list=gfwlist
-add address=falundafa-dc.org list=gfwlist
-add address=||falundafa-florida.org list=gfwlist
-add address=||falundafa-nc.org list=gfwlist
-add address=||falundafa-pa.net list=gfwlist
-add address=||falundafa-sacramento.org list=gfwlist
-add address=falun-ny.net list=gfwlist
-add address=||falundafaindia.org list=gfwlist
-add address=falundafamuseum.org list=gfwlist
-add address=.falungong.club list=gfwlist
-add address=.falungong.de list=gfwlist
-add address=falungong.org.uk list=gfwlist
-add address=||falunhr.org list=gfwlist
-add address=faluninfo.de list=gfwlist
-add address=faluninfo.net list=gfwlist
-add address=.falunpilipinas.net list=gfwlist
-add address=||falunworld.net list=gfwlist
-add address=familyfed.org list=gfwlist
-add address=.fangeming.com list=gfwlist
-add address=||fanglizhi.info list=gfwlist
-add address=||fangong.org list=gfwlist
-add address=fangongheike.com list=gfwlist
-add address=||fanhaolou.com list=gfwlist
-add address=.fanqiang.tk list=gfwlist
-add address=fanqianghou.com list=gfwlist
-add address=||fanqianghou.com list=gfwlist
-add address=.fanqiangzhe.com list=gfwlist
-add address=||fanqiangzhe.com list=gfwlist
-add address=||fantv.hk list=gfwlist
-add address=fapdu.com list=gfwlist
-add address=faproxy.com list=gfwlist
-add address=.fawanghuihui.org list=gfwlist
-add address=fanqiangyakexi.net list=gfwlist
-add address=fail.hk list=gfwlist
-add address=||famunion.com list=gfwlist
-add address=.fan-qiang.com list=gfwlist
-add address=.fangbinxing.com list=gfwlist
-add address=||fangbinxing.com list=gfwlist
-add address=fangeming.com list=gfwlist
-add address=.fangmincn.org list=gfwlist
-add address=||fangmincn.org list=gfwlist
-add address=.fanhaodang.com list=gfwlist
-add address=||fanqiang.network list=gfwlist
-add address=||fanswong.com list=gfwlist
-add address=.fanyue.info list=gfwlist
-add address=.farwestchina.com list=gfwlist
-add address=en.favotter.net list=gfwlist
-add address=nytimes.map.fastly.net list=gfwlist
-add address=||nytimes.map.fastly.net list=gfwlist
-add address=||fast.wistia.com list=gfwlist
-add address=||fastestvpn.com list=gfwlist
-add address=||fastssh.com list=gfwlist
-add address=||faststone.org list=gfwlist
-add address=favstar.fm list=gfwlist
-add address=||favstar.fm list=gfwlist
-add address=faydao.com/weblog list=gfwlist
-add address=||faz.net list=gfwlist
-add address=.fc2.com list=gfwlist
-add address=.fc2china.com list=gfwlist
-add address=.fc2cn.com list=gfwlist
-add address=||fc2cn.com list=gfwlist
-add address=fc2blog.net list=gfwlist
-add address=|http://uygur.fc2web.com/ list=gfwlist
-add address=video.fdbox.com list=gfwlist
-add address=.fdc64.de list=gfwlist
-add address=.fdc64.org list=gfwlist
-add address=.fdc89.jp list=gfwlist
-add address=||fourface.nodesnoop.com list=gfwlist
-add address=||feeder.co list=gfwlist
-add address=||feelssh.com list=gfwlist
-add address=feer.com list=gfwlist
-add address=.feifeiss.com list=gfwlist
-add address=|http://feitianacademy.org list=gfwlist
-add address=.feitian-california.org list=gfwlist
-add address=||feixiaohao.com list=gfwlist
-add address=||feministteacher.com list=gfwlist
-add address=.fengzhenghu.com list=gfwlist
-add address=||fengzhenghu.com list=gfwlist
-add address=.fengzhenghu.net list=gfwlist
-add address=||fengzhenghu.net list=gfwlist
-add address=.fevernet.com list=gfwlist
-add address=|http://ff.im list=gfwlist
-add address=fffff.at list=gfwlist
-add address=fflick.com list=gfwlist
-add address=.ffvpn.com list=gfwlist
-add address=fgmtv.net list=gfwlist
-add address=.fgmtv.org list=gfwlist
-add address=.fhreports.net list=gfwlist
-add address=|http://fhreports.net list=gfwlist
-add address=.figprayer.com list=gfwlist
-add address=||figprayer.com list=gfwlist
-add address=.fileflyer.com list=gfwlist
-add address=||fileflyer.com list=gfwlist
-add address=|http://feeds.fileforum.com list=gfwlist
-add address=.files2me.com list=gfwlist
-add address=.fileserve.com/file list=gfwlist
-add address=fillthesquare.org list=gfwlist
-add address=filmingfortibet.org list=gfwlist
-add address=.filthdump.com list=gfwlist
-add address=.finchvpn.com list=gfwlist
-add address=||finchvpn.com list=gfwlist
-add address=findmespot.com list=gfwlist
-add address=||findyoutube.com list=gfwlist
-add address=||findyoutube.net list=gfwlist
-add address=.fingerdaily.com list=gfwlist
-add address=finler.net list=gfwlist
-add address=.firearmsworld.net list=gfwlist
-add address=|http://firearmsworld.net list=gfwlist
-add address=||relay.firefox.com list=gfwlist
-add address=.fireofliberty.org list=gfwlist
-add address=||fireofliberty.org list=gfwlist
-add address=.firetweet.io list=gfwlist
-add address=||firetweet.io list=gfwlist
-add address=||firstpost.com list=gfwlist
-add address=||firstrade.com list=gfwlist
-add address=.flagsonline.it list=gfwlist
-add address=fleshbot.com list=gfwlist
-add address=.fleursdeslettres.com list=gfwlist
-add address=|http://fleursdeslettres.com list=gfwlist
-add address=||flgg.us list=gfwlist
-add address=||flgjustice.org list=gfwlist
-add address=||flickr.com list=gfwlist
-add address=||staticflickr.com list=gfwlist
-add address=flickrhivemind.net list=gfwlist
-add address=.flickriver.com list=gfwlist
-add address=.fling.com list=gfwlist
-add address=||flipkart.com list=gfwlist
-add address=||flog.tw list=gfwlist
-add address=.flyvpn.com list=gfwlist
-add address=||flyvpn.com list=gfwlist
-add address=|http://cn.fmnnow.com list=gfwlist
-add address=fofldfradio.org list=gfwlist
-add address=blog.foolsmountain.com list=gfwlist
-add address=.forum4hk.com list=gfwlist
-add address=fangong.forums-free.com list=gfwlist
-add address=pioneer-worker.forums-free.com list=gfwlist
-add address=|https://ss*.4sqi.net list=gfwlist
-add address=video.foxbusiness.com list=gfwlist
-add address=|http://foxgay.com list=gfwlist
-add address=||fringenetwork.com list=gfwlist
-add address=||flecheinthepeche.fr list=gfwlist
-add address=.fochk.org list=gfwlist
-add address=||fochk.org list=gfwlist
-add address=||focustaiwan.tw list=gfwlist
-add address=.focusvpn.com list=gfwlist
-add address=||fofg.org list=gfwlist
-add address=.fofg-europe.net list=gfwlist
-add address=.fooooo.com list=gfwlist
-add address=||fooooo.com list=gfwlist
-add address=||foreignaffairs.com list=gfwlist
-add address=.fotile.me list=gfwlist
-add address=||fourthinternational.org list=gfwlist
-add address=||foxdie.us list=gfwlist
-add address=||foxsub.com list=gfwlist
-add address=foxtang.com list=gfwlist
-add address=.fpmt.org list=gfwlist
-add address=|http://fpmt.org list=gfwlist
-add address=.fpmt.tw list=gfwlist
-add address=.fpmt-osel.org list=gfwlist
-add address=||fpmtmexico.org list=gfwlist
-add address=fqok.org list=gfwlist
-add address=||fqrouter.com list=gfwlist
-add address=||franklc.com list=gfwlist
-add address=.freakshare.com list=gfwlist
-add address=|http://freakshare.com list=gfwlist
-add address=||free4u.com.ar list=gfwlist
-add address=free-gate.org list=gfwlist
-add address=.free-hada-now.org list=gfwlist
-add address=free-proxy.cz list=gfwlist
-add address=.free.fr/adsl list=gfwlist
-add address=kineox.free.fr list=gfwlist
-add address=tibetlibre.free.fr list=gfwlist
-add address=||freealim.com list=gfwlist
-add address=whitebear.freebearblog.org list=gfwlist
-add address=||freebrowser.org list=gfwlist
-add address=.freechal.com list=gfwlist
-add address=.freedomchina.info list=gfwlist
-add address=||freedomchina.info list=gfwlist
-add address=.freedomhouse.org list=gfwlist
-add address=||freedomhouse.org list=gfwlist
-add address=.freedomsherald.org list=gfwlist
-add address=||freedomsherald.org list=gfwlist
-add address=.freefq.com list=gfwlist
-add address=.freefuckvids.com list=gfwlist
-add address=.freegao.com list=gfwlist
-add address=||freegao.com list=gfwlist
-add address=freeilhamtohti.org list=gfwlist
-add address=||freekazakhs.org list=gfwlist
-add address=.freekwonpyong.org list=gfwlist
-add address=||saveliuxiaobo.com list=gfwlist
-add address=.freelotto.com list=gfwlist
-add address=||freelotto.com list=gfwlist
-add address=freeman2.com list=gfwlist
-add address=.freeopenvpn.com list=gfwlist
-add address=freemoren.com list=gfwlist
-add address=freemorenews.com list=gfwlist
-add address=freemuse.org/archives/789 list=gfwlist
-add address=freenet-china.org list=gfwlist
-add address=freenewscn.com list=gfwlist
-add address=cn.freeones.com list=gfwlist
-add address=.freeoz.org/bbs list=gfwlist
-add address=||freeoz.org list=gfwlist
-add address=||freessh.us list=gfwlist
-add address=free4u.com.ar list=gfwlist
-add address=.free-ssh.com list=gfwlist
-add address=||free-ssh.com list=gfwlist
-add address=||freebeacon.com list=gfwlist
-add address=.freechina.news list=gfwlist
-add address=||freechinaforum.org list=gfwlist
-add address=||freechinaweibo.com list=gfwlist
-add address=.freedomcollection.org/interviews/rebiya_kadeer list=gfwlist
-add address=.freeforums.org list=gfwlist
-add address=||freenetproject.org list=gfwlist
-add address=.freeoz.org list=gfwlist
-add address=.freetibet.net list=gfwlist
-add address=||freetibet.org list=gfwlist
-add address=.freetibetanheroes.org list=gfwlist
-add address=|http://freetibetanheroes.org list=gfwlist
-add address=||freetribe.me list=gfwlist
-add address=.freeviewmovies.com list=gfwlist
-add address=.freevpn.me list=gfwlist
-add address=|http://freevpn.me list=gfwlist
-add address=||freewallpaper4.me list=gfwlist
-add address=.freewebs.com list=gfwlist
-add address=.freewechat.com list=gfwlist
-add address=||freewechat.com list=gfwlist
-add address=freeweibo.com list=gfwlist
-add address=||freeweibo.com list=gfwlist
-add address=.freexinwen.com list=gfwlist
-add address=.freeyoutubeproxy.net list=gfwlist
-add address=||freeyoutubeproxy.net list=gfwlist
-add address=friendfeed.com list=gfwlist
-add address=friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e list=gfwlist
-add address=friends-of-tibet.org list=gfwlist
-add address=.friendsoftibet.org list=gfwlist
-add address=||friendsoftibet.org list=gfwlist
-add address=freechina.net list=gfwlist
-add address=|http://www.zensur.freerk.com/ list=gfwlist
-add address=freevpn.nl list=gfwlist
-add address=freeyellow.com list=gfwlist
-add address=hk.frienddy.com/hk list=gfwlist
-add address=|http://adult.friendfinder.com/ list=gfwlist
-add address=.fring.com list=gfwlist
-add address=||fring.com list=gfwlist
-add address=.fromchinatousa.net list=gfwlist
-add address=||frommel.net list=gfwlist
-add address=.frontlinedefenders.org list=gfwlist
-add address=||frontlinedefenders.org list=gfwlist
-add address=.frootvpn.com list=gfwlist
-add address=||frootvpn.com list=gfwlist
-add address=||fscked.org list=gfwlist
-add address=.fsurf.com list=gfwlist
-add address=.ftv.com.tw list=gfwlist
-add address=||ftv.com.tw list=gfwlist
-add address=||ftvnews.com.tw list=gfwlist
-add address=fucd.com list=gfwlist
-add address=.fuckcnnic.net list=gfwlist
-add address=||fuckcnnic.net list=gfwlist
-add address=fuckgfw.org list=gfwlist
-add address=.fulione.com list=gfwlist
-add address=|https://fulione.com list=gfwlist
-add address=||fullerconsideration.com list=gfwlist
-add address=fulue.com list=gfwlist
-add address=.funf.tw list=gfwlist
-add address=funp.com list=gfwlist
-add address=.fuq.com list=gfwlist
-add address=.furhhdl.org list=gfwlist
-add address=||furinkan.com list=gfwlist
-add address=.futurechinaforum.org list=gfwlist
-add address=||futuremessage.org list=gfwlist
-add address=.fux.com list=gfwlist
-add address=.fuyin.net list=gfwlist
-add address=.fuyindiantai.org list=gfwlist
-add address=.fuyu.org.tw list=gfwlist
-add address=||fw.cm list=gfwlist
-add address=.fxcm-chinese.com list=gfwlist
-add address=||fxcm-chinese.com list=gfwlist
-add address=fzh999.com list=gfwlist
-add address=fzh999.net list=gfwlist
-add address=fzlm.com list=gfwlist
-add address=.g6hentai.com list=gfwlist
-add address=|http://g6hentai.com list=gfwlist
-add address=||g-queen.com list=gfwlist
-add address=||gab.com list=gfwlist
-add address=||gabocorp.com list=gfwlist
-add address=.gaeproxy.com list=gfwlist
-add address=.gaforum.org list=gfwlist
-add address=.gagaoolala.com list=gfwlist
-add address=||gagaoolala.com list=gfwlist
-add address=.galaxymacau.com list=gfwlist
-add address=||galenwu.com list=gfwlist
-add address=.galstars.net list=gfwlist
-add address=||game735.com list=gfwlist
-add address=gamebase.com.tw list=gfwlist
-add address=gamejolt.com list=gfwlist
-add address=|http://wiki.gamerp.jp list=gfwlist
-add address=||gamer.com.tw list=gfwlist
-add address=.gamer.com.tw list=gfwlist
-add address=.gamez.com.tw list=gfwlist
-add address=||gamez.com.tw list=gfwlist
-add address=.gamousa.com list=gfwlist
-add address=.gaoming.net list=gfwlist
-add address=||gaoming.net list=gfwlist
-add address=ganges.com list=gfwlist
-add address=||ganjing.com list=gfwlist
-add address=||ganjingworld.com list=gfwlist
-add address=.gaopi.net list=gfwlist
-add address=|http://gaopi.net list=gfwlist
-add address=.gaozhisheng.org list=gfwlist
-add address=.gaozhisheng.net list=gfwlist
-add address=gardennetworks.com list=gfwlist
-add address=||gardennetworks.org list=gfwlist
-add address=72.52.81.22 list=gfwlist
-add address=||gartlive.com list=gfwlist
-add address=||gate-project.com list=gfwlist
-add address=||gather.com list=gfwlist
-add address=.gatherproxy.com list=gfwlist
-add address=gati.org.tw list=gfwlist
-add address=.gaybubble.com list=gfwlist
-add address=.gaycn.net list=gfwlist
-add address=.gayhub.com list=gfwlist
-add address=||gaymap.cc list=gfwlist
-add address=.gaymenring.com list=gfwlist
-add address=.gaytube.com list=gfwlist
-add address=||images-gaytube.com list=gfwlist
-add address=.gaywatch.com list=gfwlist
-add address=|http://gaywatch.com list=gfwlist
-add address=.gazotube.com list=gfwlist
-add address=||gazotube.com list=gfwlist
-add address=||gcc.org.hk list=gfwlist
-add address=||gclooney.com list=gfwlist
-add address=||gclubs.com list=gfwlist
-add address=||gcmasia.com list=gfwlist
-add address=.gcpnews.com list=gfwlist
-add address=|http://gcpnews.com list=gfwlist
-add address=.gdbt.net/forum list=gfwlist
-add address=gdzf.org list=gfwlist
-add address=||geek-art.net list=gfwlist
-add address=geekerhome.com/2010/03/xixiang-project-cross-gfw list=gfwlist
-add address=||geekheart.info list=gfwlist
-add address=.gekikame.com list=gfwlist
-add address=|http://gekikame.com list=gfwlist
-add address=.gelbooru.com list=gfwlist
-add address=|http://gelbooru.com list=gfwlist
-add address=||generated.photos list=gfwlist
-add address=||genius.com list=gfwlist
-add address=.geocities.co.jp list=gfwlist
-add address=.geocities.com/SiliconValley/Circuit/5683/download.html list=gfwlist
-add address=hk.geocities.com list=gfwlist
-add address=geocities.jp list=gfwlist
-add address=||geph.io list=gfwlist
-add address=.gerefoundation.org list=gfwlist
-add address=||getastrill.com list=gfwlist
-add address=.getchu.com list=gfwlist
-add address=.getcloak.com list=gfwlist
-add address=||getcloak.com list=gfwlist
-add address=||getfoxyproxy.org list=gfwlist
-add address=.getfreedur.com list=gfwlist
-add address=||getgom.com list=gfwlist
-add address=.geti2p.net list=gfwlist
-add address=||geti2p.net list=gfwlist
-add address=getiton.com list=gfwlist
-add address=.getjetso.com/forum list=gfwlist
-add address=.getlantern.org list=gfwlist
-add address=||getlantern.org list=gfwlist
-add address=||getmalus.com list=gfwlist
-add address=.getsocialscope.com list=gfwlist
-add address=||getsync.com list=gfwlist
-add address=||gettr.com list=gfwlist
-add address=gfbv.de list=gfwlist
-add address=.gfgold.com.hk list=gfwlist
-add address=.gfsale.com list=gfwlist
-add address=||gfsale.com list=gfwlist
-add address=gfw.org.ua list=gfwlist
-add address=.gfw.press list=gfwlist
-add address=||gfw.press list=gfwlist
-add address=||gfw.report list=gfwlist
-add address=.ggssl.com list=gfwlist
-add address=||ggssl.com list=gfwlist
-add address=.ghostpath.com list=gfwlist
-add address=||ghostpath.com list=gfwlist
-add address=||ghut.org list=gfwlist
-add address=.giantessnight.com list=gfwlist
-add address=|http://giantessnight.com list=gfwlist
-add address=.gifree.com list=gfwlist
-add address=||giga-web.jp list=gfwlist
-add address=tw.gigacircle.com list=gfwlist
-add address=|http://cn.giganews.com/ list=gfwlist
-add address=gigporno.ru list=gfwlist
-add address=||girlbanker.com list=gfwlist
-add address=.git.io list=gfwlist
-add address=||git.io list=gfwlist
-add address=|http://softwaredownload.gitbooks.io list=gfwlist
-add address=||raw.githack.com list=gfwlist
-add address=||github.blog list=gfwlist
-add address=||github.com list=gfwlist
-add address=.github.io list=gfwlist
-add address=||github.io list=gfwlist
-add address=||githubusercontent.com list=gfwlist
-add address=||githubassets.com list=gfwlist
-add address=.gizlen.net list=gfwlist
-add address=||gizlen.net list=gfwlist
-add address=.gjczz.com list=gfwlist
-add address=||gjczz.com list=gfwlist
-add address=globaljihad.net list=gfwlist
-add address=globalmediaoutreach.com list=gfwlist
-add address=globalmuseumoncommunism.org list=gfwlist
-add address=||globalrescue.net list=gfwlist
-add address=.globaltm.org list=gfwlist
-add address=.globalvoicesonline.org list=gfwlist
-add address=||globalvoicesonline.org list=gfwlist
-add address=||globalvpn.net list=gfwlist
-add address=.glock.com list=gfwlist
-add address=gluckman.com/DalaiLama list=gfwlist
-add address=||gmgard.com list=gfwlist
-add address=||gmhz.org list=gfwlist
-add address=|http://www.gmiddle.com list=gfwlist
-add address=|http://www.gmiddle.net list=gfwlist
-add address=.gmll.org list=gfwlist
-add address=||suche.gmx.net list=gfwlist
-add address=||gnci.org.hk list=gfwlist
-add address=||gnews.org list=gfwlist
-add address=go-pki.com list=gfwlist
-add address=||goagent.biz list=gfwlist
-add address=||goagentplus.com list=gfwlist
-add address=gobet.cc list=gfwlist
-add address=||godaddy.com list=gfwlist
-add address=godfootsteps.org list=gfwlist
-add address=||godfootsteps.org list=gfwlist
-add address=godns.work list=gfwlist
-add address=godsdirectcontact.co.uk list=gfwlist
-add address=.godsdirectcontact.org list=gfwlist
-add address=godsdirectcontact.org.tw list=gfwlist
-add address=.godsimmediatecontact.com list=gfwlist
-add address=||gofundme.com list=gfwlist
-add address=.gogotunnel.com list=gfwlist
-add address=||gohappy.com.tw list=gfwlist
-add address=.gokbayrak.com list=gfwlist
-add address=.goldbet.com list=gfwlist
-add address=||goldbetsports.com list=gfwlist
-add address=||golden-ages.org list=gfwlist
-add address=||goldeneyevault.com list=gfwlist
-add address=.goldenfrog.com list=gfwlist
-add address=||goldenfrog.com list=gfwlist
-add address=.goldjizz.com list=gfwlist
-add address=|http://goldjizz.com list=gfwlist
-add address=.goldstep.net list=gfwlist
-add address=||goldwave.com list=gfwlist
-add address=gongmeng.info list=gfwlist
-add address=gongm.in list=gfwlist
-add address=gongminliliang.com list=gfwlist
-add address=.gongwt.com list=gfwlist
-add address=|http://gongwt.com list=gfwlist
-add address=blog.goo.ne.jp/duck-tail_2009 list=gfwlist
-add address=.gooday.xyz list=gfwlist
-add address=||gooday.xyz list=gfwlist
-add address=||goodhope.school list=gfwlist
-add address=.goodreads.com list=gfwlist
-add address=||goodreads.com list=gfwlist
-add address=.goodreaders.com list=gfwlist
-add address=||goodreaders.com list=gfwlist
-add address=.goodtv.com.tw list=gfwlist
-add address=.goodtv.tv list=gfwlist
-add address=||goofind.com list=gfwlist
-add address=.googlesile.com list=gfwlist
-add address=.gopetition.com list=gfwlist
-add address=||gopetition.com list=gfwlist
-add address=.goproxing.net list=gfwlist
-add address=||goreforum.com list=gfwlist
-add address=.gotrusted.com list=gfwlist
-add address=||gotrusted.com list=gfwlist
-add address=||gotw.ca list=gfwlist
-add address=||grammaly.com list=gfwlist
-add address=grandtrial.org list=gfwlist
-add address=.graphis.ne.jp list=gfwlist
-add address=||graphis.ne.jp list=gfwlist
-add address=||graphql.org list=gfwlist
-add address=||gravatar.com list=gfwlist
-add address=greatfirewall.biz list=gfwlist
-add address=||greatfirewallofchina.net list=gfwlist
-add address=.greatfirewallofchina.org list=gfwlist
-add address=||greatfirewallofchina.org list=gfwlist
-add address=||greenfieldbookstore.com.hk list=gfwlist
-add address=.greenparty.org.tw list=gfwlist
-add address=||greenpeace.org list=gfwlist
-add address=.greenreadings.com/forum list=gfwlist
-add address=great-firewall.com list=gfwlist
-add address=great-roc.org list=gfwlist
-add address=greatroc.org list=gfwlist
-add address=greatzhonghua.org list=gfwlist
-add address=.greenpeace.com.tw list=gfwlist
-add address=.greenvpn.net list=gfwlist
-add address=||greenvpn.net list=gfwlist
-add address=.greenvpn.org list=gfwlist
-add address=||grindr.com list=gfwlist
-add address=||grotty-monday.com list=gfwlist
-add address=gs-discuss.com list=gfwlist
-add address=||gsearch.media list=gfwlist
-add address=||gtricks.com list=gfwlist
-add address=guancha.org list=gfwlist
-add address=guaneryu.com list=gfwlist
-add address=.guardster.com list=gfwlist
-add address=.gun-world.net list=gfwlist
-add address=gunsandammo.com list=gfwlist
-add address=||gutteruncensored.com list=gfwlist
-add address=||gvm.com.tw list=gfwlist
-add address=||gwins.org list=gfwlist
-add address=.gzm.tv list=gfwlist
-add address=||gzone-anime.info list=gfwlist
-add address=||clementine-player.org list=gfwlist
-add address=echofon.com list=gfwlist
-add address=||www.klip.me list=gfwlist
-add address=@@||site.locql.com list=gfwlist
-add address=||stephaniered.com list=gfwlist
-add address=@@||download.syniumsoftware.com list=gfwlist
-add address=|http://ub0.cc list=gfwlist
-add address=wozy.in list=gfwlist
-add address=gospelherald.com list=gfwlist
-add address=||gospelherald.com list=gfwlist
-add address=|http://hk.gradconnection.com/ list=gfwlist
-add address=||grangorz.org list=gfwlist
-add address=greatfire.org list=gfwlist
-add address=||greatfire.org list=gfwlist
-add address=greatfirewallofchina.org list=gfwlist
-add address=||greatroc.tw list=gfwlist
-add address=.gts-vpn.com list=gfwlist
-add address=|http://gts-vpn.com list=gfwlist
-add address=||gtv.org list=gfwlist
-add address=||gtv1.org list=gfwlist
-add address=.gu-chu-sum.org list=gfwlist
-add address=|http://gu-chu-sum.org list=gfwlist
-add address=.guaguass.com list=gfwlist
-add address=|http://guaguass.com list=gfwlist
-add address=.guaguass.org list=gfwlist
-add address=|http://guaguass.org list=gfwlist
-add address=.guangming.com.my list=gfwlist
-add address=guishan.org list=gfwlist
-add address=||guishan.org list=gfwlist
-add address=.gumroad.com list=gfwlist
-add address=||gumroad.com list=gfwlist
-add address=||gunsamerica.com list=gfwlist
-add address=guruonline.hk list=gfwlist
-add address=|http://gvlib.com list=gfwlist
-add address=.gyalwarinpoche.com list=gfwlist
-add address=.gyatsostudio.com list=gfwlist
-add address=.h528.com list=gfwlist
-add address=.h5dm.com list=gfwlist
-add address=.h5galgame.me list=gfwlist
-add address=||h-china.org list=gfwlist
-add address=.h-moe.com list=gfwlist
-add address=|http://h-moe.com list=gfwlist
-add address=h1n1china.org list=gfwlist
-add address=.hacg.club list=gfwlist
-add address=||hacg.club list=gfwlist
-add address=.hacg.in list=gfwlist
-add address=|http://hacg.in list=gfwlist
-add address=.hacg.li list=gfwlist
-add address=|http://hacg.li list=gfwlist
-add address=.hacg.me list=gfwlist
-add address=|http://hacg.me list=gfwlist
-add address=.hacg.red list=gfwlist
-add address=|http://hacg.red list=gfwlist
-add address=.hacken.cc/bbs list=gfwlist
-add address=.hacker.org list=gfwlist
-add address=||hackmd.io list=gfwlist
-add address=||hackthatphone.net list=gfwlist
-add address=hahlo.com list=gfwlist
-add address=||hakkatv.org.tw list=gfwlist
-add address=.handcraftedsoftware.org list=gfwlist
-add address=|http://bbs.hanminzu.org/ list=gfwlist
-add address=.hanunyi.com list=gfwlist
-add address=.hao.news/news list=gfwlist
-add address=|http://ae.hao123.com list=gfwlist
-add address=|http://ar.hao123.com list=gfwlist
-add address=|http://br.hao123.com list=gfwlist
-add address=|http://en.hao123.com list=gfwlist
-add address=|http://id.hao123.com list=gfwlist
-add address=|http://jp.hao123.com list=gfwlist
-add address=|http://ma.hao123.com list=gfwlist
-add address=|http://mx.hao123.com list=gfwlist
-add address=|http://sa.hao123.com list=gfwlist
-add address=|http://th.hao123.com list=gfwlist
-add address=|http://tw.hao123.com list=gfwlist
-add address=|http://vn.hao123.com list=gfwlist
-add address=|http://hk.hao123img.com list=gfwlist
-add address=|http://ld.hao123img.com list=gfwlist
-add address=||happy-vpn.com list=gfwlist
-add address=.haproxy.org list=gfwlist
-add address=||hardsextube.com list=gfwlist
-add address=.harunyahya.com list=gfwlist
-add address=|http://harunyahya.com list=gfwlist
-add address=bbs.hasi.wang list=gfwlist
-add address=have8.com list=gfwlist
-add address=@@||haygo.com list=gfwlist
-add address=.hclips.com list=gfwlist
-add address=||hdlt.me list=gfwlist
-add address=||hdtvb.net list=gfwlist
-add address=.hdzog.com list=gfwlist
-add address=|http://hdzog.com list=gfwlist
-add address=||ordns.he.net list=gfwlist
-add address=||heartyit.com list=gfwlist
-add address=.heavy-r.com list=gfwlist
-add address=.hec.su list=gfwlist
-add address=|http://hec.su list=gfwlist
-add address=.hecaitou.net list=gfwlist
-add address=||hecaitou.net list=gfwlist
-add address=.hechaji.com list=gfwlist
-add address=||hechaji.com list=gfwlist
-add address=||heeact.edu.tw list=gfwlist
-add address=.hegre-art.com list=gfwlist
-add address=|http://hegre-art.com list=gfwlist
-add address=||cdn.helixstudios.net list=gfwlist
-add address=||helplinfen.com list=gfwlist
-add address=||helpuyghursnow.org list=gfwlist
-add address=||helloandroid.com list=gfwlist
-add address=||helloqueer.com list=gfwlist
-add address=.helloss.pw list=gfwlist
-add address=hellotxt.com list=gfwlist
-add address=||hellotxt.com list=gfwlist
-add address=.hentai.to list=gfwlist
-add address=.hellouk.org/forum/lofiversion list=gfwlist
-add address=.helpeachpeople.com list=gfwlist
-add address=||helpeachpeople.com list=gfwlist
-add address=||helpster.de list=gfwlist
-add address=.helpzhuling.org list=gfwlist
-add address=hentaitube.tv list=gfwlist
-add address=.hentaivideoworld.com list=gfwlist
-add address=||id.heroku.com list=gfwlist
-add address=heqinglian.net list=gfwlist
-add address=||heqinglian.net list=gfwlist
-add address=||heritage.org list=gfwlist
-add address=||heungkongdiscuss.com list=gfwlist
-add address=.hexieshe.com list=gfwlist
-add address=||hexieshe.com list=gfwlist
-add address=||hexieshe.xyz list=gfwlist
-add address=||hexxeh.net list=gfwlist
-add address=||heyuedi.com list=gfwlist
-add address=app.heywire.com list=gfwlist
-add address=.heyzo.com list=gfwlist
-add address=.hgseav.com list=gfwlist
-add address=.hhdcb3office.org list=gfwlist
-add address=.hhthesakyatrizin.org list=gfwlist
-add address=hi-on.org.tw list=gfwlist
-add address=||hiccears.com list=gfwlist
-add address=hidden-advent.org list=gfwlist
-add address=||hidden-advent.org list=gfwlist
-add address=hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html list=gfwlist
-add address=||hide.me list=gfwlist
-add address=.hidein.net list=gfwlist
-add address=.hideipvpn.com list=gfwlist
-add address=||hideipvpn.com list=gfwlist
-add address=.hideman.net list=gfwlist
-add address=||hideman.net list=gfwlist
-add address=hideme.nl list=gfwlist
-add address=||hidemy.name list=gfwlist
-add address=.hidemyass.com list=gfwlist
-add address=||hidemyass.com list=gfwlist
-add address=hidemycomp.com list=gfwlist
-add address=||hidemycomp.com list=gfwlist
-add address=.hihiforum.com list=gfwlist
-add address=.hihistory.net list=gfwlist
-add address=||hihistory.net list=gfwlist
-add address=.higfw.com list=gfwlist
-add address=highpeakspureearth.com list=gfwlist
-add address=||highrockmedia.com list=gfwlist
-add address=||hiitch.com list=gfwlist
-add address=||hikinggfw.org list=gfwlist
-add address=.hilive.tv list=gfwlist
-add address=.himalayan-foundation.org list=gfwlist
-add address=||himalayan-foundation.org list=gfwlist
-add address=himalayanglacier.com list=gfwlist
-add address=.himemix.com list=gfwlist
-add address=||himemix.com list=gfwlist
-add address=.himemix.net list=gfwlist
-add address=times.hinet.net list=gfwlist
-add address=.hitomi.la list=gfwlist
-add address=|http://hitomi.la list=gfwlist
-add address=.hiwifi.com list=gfwlist
-add address=@@||hiwifi.com list=gfwlist
-add address=hizbuttahrir.org list=gfwlist
-add address=hizb-ut-tahrir.info list=gfwlist
-add address=hizb-ut-tahrir.org list=gfwlist
-add address=.hjclub.info list=gfwlist
-add address=.hk-pub.com/forum list=gfwlist
-add address=|http://hk-pub.com list=gfwlist
-add address=.hk01.com list=gfwlist
-add address=||hk01.com list=gfwlist
-add address=.hk32168.com list=gfwlist
-add address=||hk32168.com list=gfwlist
-add address=||hkacg.com list=gfwlist
-add address=||hkacg.net list=gfwlist
-add address=.hkatvnews.com list=gfwlist
-add address=hkbc.net list=gfwlist
-add address=.hkbf.org list=gfwlist
-add address=.hkbookcity.com list=gfwlist
-add address=||hkbookcity.com list=gfwlist
-add address=||hkchronicles.com list=gfwlist
-add address=.hkchurch.org list=gfwlist
-add address=hkci.org.hk list=gfwlist
-add address=.hkcmi.edu list=gfwlist
-add address=||hkcnews.com list=gfwlist
-add address=||hkcoc.com list=gfwlist
-add address=||hkctu.org.hk list=gfwlist
-add address=hkday.net list=gfwlist
-add address=.hkdailynews.com.hk/china.php list=gfwlist
-add address=||hkdc.us list=gfwlist
-add address=hkdf.org list=gfwlist
-add address=.hkej.com list=gfwlist
-add address=.hkepc.com/forum/viewthread.php?tid=1153322 list=gfwlist
-add address=||hket.com list=gfwlist
-add address=||hkfaa.com list=gfwlist
-add address=hkfreezone.com list=gfwlist
-add address=hkfront.org list=gfwlist
-add address=m.hkgalden.com list=gfwlist
-add address=|https://m.hkgalden.com list=gfwlist
-add address=.hkgreenradio.org/home list=gfwlist
-add address=||hkgpao.com list=gfwlist
-add address=.hkheadline.com*blog list=gfwlist
-add address=.hkheadline.com/instantnews list=gfwlist
-add address=hkhkhk.com list=gfwlist
-add address=hkhrc.org.hk list=gfwlist
-add address=hkhrm.org.hk list=gfwlist
-add address=||hkip.org.uk list=gfwlist
-add address=1989report.hkja.org.hk list=gfwlist
-add address=hkjc.com list=gfwlist
-add address=.hkjp.org list=gfwlist
-add address=.hklft.com list=gfwlist
-add address=.hklts.org.hk list=gfwlist
-add address=||hklts.org.hk list=gfwlist
-add address=||hkmap.live list=gfwlist
-add address=||hkopentv.com list=gfwlist
-add address=||hkpeanut.com list=gfwlist
-add address=hkptu.org list=gfwlist
-add address=.hkreporter.com list=gfwlist
-add address=||hkreporter.com list=gfwlist
-add address=|http://hkupop.hku.hk/ list=gfwlist
-add address=.hkusu.net list=gfwlist
-add address=||hkusu.net list=gfwlist
-add address=.hkvwet.com list=gfwlist
-add address=.hkwcc.org.hk list=gfwlist
-add address=||hkzone.org list=gfwlist
-add address=.hmonghot.com list=gfwlist
-add address=|http://hmonghot.com list=gfwlist
-add address=.hmv.co.jp/ list=gfwlist
-add address=hnjhj.com list=gfwlist
-add address=||hnjhj.com list=gfwlist
-add address=.hnntube.com list=gfwlist
-add address=||hojemacau.com.mo list=gfwlist
-add address=||hola.com list=gfwlist
-add address=||hola.org list=gfwlist
-add address=holymountaincn.com list=gfwlist
-add address=holyspiritspeaks.org list=gfwlist
-add address=||holyspiritspeaks.org list=gfwlist
-add address=||derekhsu.homeip.net list=gfwlist
-add address=.homeperversion.com list=gfwlist
-add address=|http://homeservershow.com list=gfwlist
-add address=|http://old.honeynet.org/scans/scan31/sub/doug_eric/spam_translation.html list=gfwlist
-add address=.hongkongfp.com list=gfwlist
-add address=||hongkongfp.com list=gfwlist
-add address=hongmeimei.com list=gfwlist
-add address=||hongzhi.li list=gfwlist
-add address=||honven.xyz list=gfwlist
-add address=.hootsuite.com list=gfwlist
-add address=||hootsuite.com list=gfwlist
-add address=||hoover.org list=gfwlist
-add address=.hopedialogue.org list=gfwlist
-add address=|http://hopedialogue.org list=gfwlist
-add address=.hopto.org list=gfwlist
-add address=.hornygamer.com list=gfwlist
-add address=.hornytrip.com list=gfwlist
-add address=|http://hornytrip.com list=gfwlist
-add address=||horrorporn.com list=gfwlist
-add address=||hostloc.com list=gfwlist
-add address=||hotair.com list=gfwlist
-add address=.hotav.tv list=gfwlist
-add address=.hotels.cn list=gfwlist
-add address=hotfrog.com.tw list=gfwlist
-add address=hotgoo.com list=gfwlist
-add address=.hotpornshow.com list=gfwlist
-add address=hotpot.hk list=gfwlist
-add address=.hotshame.com list=gfwlist
-add address=||hotspotshield.com list=gfwlist
-add address=||hottg.com list=gfwlist
-add address=.hotvpn.com list=gfwlist
-add address=||hotvpn.com list=gfwlist
-add address=||hougaige.com list=gfwlist
-add address=||howtoforge.com list=gfwlist
-add address=||hoxx.com list=gfwlist
-add address=.hqcdp.org list=gfwlist
-add address=||hqcdp.org list=gfwlist
-add address=||hqjapanesesex.com list=gfwlist
-add address=hqmovies.com list=gfwlist
-add address=.hrcir.com list=gfwlist
-add address=.hrcchina.org list=gfwlist
-add address=.hrea.org list=gfwlist
-add address=.hrichina.org list=gfwlist
-add address=||hrichina.org list=gfwlist
-add address=||hrntt.org list=gfwlist
-add address=.hrtsea.com list=gfwlist
-add address=.hrw.org list=gfwlist
-add address=||hrw.org list=gfwlist
-add address=hrweb.org list=gfwlist
-add address=||hsjp.net list=gfwlist
-add address=||hsselite.com list=gfwlist
-add address=|http://hst.net.tw list=gfwlist
-add address=.hstern.net list=gfwlist
-add address=.hstt.net list=gfwlist
-add address=.htkou.net list=gfwlist
-add address=||htkou.net list=gfwlist
-add address=.hua-yue.net list=gfwlist
-add address=.huaglad.com list=gfwlist
-add address=||huaglad.com list=gfwlist
-add address=.huanghuagang.org list=gfwlist
-add address=||huanghuagang.org list=gfwlist
-add address=.huangyiyu.com list=gfwlist
-add address=.huaren.us list=gfwlist
-add address=||huaren.us list=gfwlist
-add address=.huaren4us.com list=gfwlist
-add address=.huashangnews.com list=gfwlist
-add address=|http://huashangnews.com list=gfwlist
-add address=bbs.huasing.org list=gfwlist
-add address=huaxia-news.com list=gfwlist
-add address=huaxiabao.org list=gfwlist
-add address=huaxin.ph list=gfwlist
-add address=||huayuworld.org list=gfwlist
-add address=||huffingtonpost.com list=gfwlist
-add address=||huffpost.com list=gfwlist
-add address=||huggingface.co list=gfwlist
-add address=||hugoroy.eu list=gfwlist
-add address=||huhaitai.com list=gfwlist
-add address=||huhamhire.com list=gfwlist
-add address=.huhangfei.com list=gfwlist
-add address=||huhangfei.com list=gfwlist
-add address=huiyi.in list=gfwlist
-add address=.hulkshare.com list=gfwlist
-add address=||humanparty.me list=gfwlist
-add address=||humanrightspressawards.org list=gfwlist
-add address=||hung-ya.com list=gfwlist
-add address=||hungerstrikeforaids.org list=gfwlist
-add address=||huping.net list=gfwlist
-add address=hurgokbayrak.com list=gfwlist
-add address=.hurriyet.com.tr list=gfwlist
-add address=.hut2.ru list=gfwlist
-add address=||hutianyi.net list=gfwlist
-add address=hutong9.net list=gfwlist
-add address=huyandex.com list=gfwlist
-add address=.hwadzan.tw list=gfwlist
-add address=||hwayue.org.tw list=gfwlist
-add address=||hwinfo.com list=gfwlist
-add address=||hxwk.org list=gfwlist
-add address=hxwq.org list=gfwlist
-add address=||hyperrate.com list=gfwlist
-add address=ebook.hyread.com.tw list=gfwlist
-add address=||ebook.hyread.com.tw list=gfwlist
-add address=||i1.hk list=gfwlist
-add address=||i2p2.de list=gfwlist
-add address=||i2runner.com list=gfwlist
-add address=||i818hk.com list=gfwlist
-add address=.i-cable.com list=gfwlist
-add address=.i-part.com.tw list=gfwlist
-add address=.iamtopone.com list=gfwlist
-add address=iask.ca list=gfwlist
-add address=||iask.ca list=gfwlist
-add address=iask.bz list=gfwlist
-add address=||iask.bz list=gfwlist
-add address=.iav19.com list=gfwlist
-add address=ibiblio.org/pub/packages/ccic list=gfwlist
-add address=||ibit.am list=gfwlist
-add address=.iblist.com list=gfwlist
-add address=||iblogserv-f.net list=gfwlist
-add address=ibros.org list=gfwlist
-add address=|http://cn.ibtimes.com list=gfwlist
-add address=.ibvpn.com list=gfwlist
-add address=||ibvpn.com list=gfwlist
-add address=icams.com list=gfwlist
-add address=||icedrive.net list=gfwlist
-add address=.icij.org list=gfwlist
-add address=||icij.org list=gfwlist
-add address=||icl-fi.org list=gfwlist
-add address=.icoco.com list=gfwlist
-add address=||icoco.com list=gfwlist
-add address=||furbo.org list=gfwlist
-add address=||warbler.iconfactory.net list=gfwlist
-add address=||iconpaper.org list=gfwlist
-add address=||icu-project.org list=gfwlist
-add address=w.idaiwan.com/forum list=gfwlist
-add address=idemocracy.asia list=gfwlist
-add address=.identi.ca list=gfwlist
-add address=||identi.ca list=gfwlist
-add address=||idiomconnection.com list=gfwlist
-add address=|http://www.idlcoyote.com list=gfwlist
-add address=.idouga.com list=gfwlist
-add address=.idreamx.com list=gfwlist
-add address=forum.idsam.com list=gfwlist
-add address=.idv.tw list=gfwlist
-add address=.ieasy5.com list=gfwlist
-add address=|http://ieasy5.com list=gfwlist
-add address=.ied2k.net list=gfwlist
-add address=.ienergy1.com list=gfwlist
-add address=||iepl.us list=gfwlist
-add address=||ift.tt list=gfwlist
-add address=ifanqiang.com list=gfwlist
-add address=.ifcss.org list=gfwlist
-add address=||ifcss.org list=gfwlist
-add address=ifjc.org list=gfwlist
-add address=.ift.tt list=gfwlist
-add address=|http://ift.tt list=gfwlist
-add address=||ifreewares.com list=gfwlist
-add address=||igcd.net list=gfwlist
-add address=.igfw.net list=gfwlist
-add address=||igfw.net list=gfwlist
-add address=.igfw.tech list=gfwlist
-add address=||igfw.tech list=gfwlist
-add address=.igmg.de list=gfwlist
-add address=||ignitedetroit.net list=gfwlist
-add address=.igotmail.com.tw list=gfwlist
-add address=||igvita.com list=gfwlist
-add address=||ihakka.net list=gfwlist
-add address=.ihao.org/dz5 list=gfwlist
-add address=||iicns.com list=gfwlist
-add address=.ikstar.com list=gfwlist
-add address=||ilhamtohtiinstitute.org list=gfwlist
-add address=||illusionfactory.com list=gfwlist
-add address=||ilove80.be list=gfwlist
-add address=||im.tv list=gfwlist
-add address=@@||myvlog.im.tv list=gfwlist
-add address=||im88.tw list=gfwlist
-add address=||imgchili.net list=gfwlist
-add address=.imageab.com list=gfwlist
-add address=.imagefap.com list=gfwlist
-add address=||imagefap.com list=gfwlist
-add address=||imageflea.com list=gfwlist
-add address=||imageglass.org list=gfwlist
-add address=||imageshack.us list=gfwlist
-add address=||imagevenue.com list=gfwlist
-add address=||imagezilla.net list=gfwlist
-add address=.imb.org list=gfwlist
-add address=|http://imb.org list=gfwlist
-add address=|http://www.imdb.com/name/nm0482730 list=gfwlist
-add address=.imdb.com/title/tt0819354 list=gfwlist
-add address=.imdb.com/title/tt1540068 list=gfwlist
-add address=.imdb.com/title/tt4908644 list=gfwlist
-add address=.img.ly list=gfwlist
-add address=||img.ly list=gfwlist
-add address=||imgasd.com list=gfwlist
-add address=.imgur.com list=gfwlist
-add address=||imgur.com list=gfwlist
-add address=.imkev.com list=gfwlist
-add address=||imkev.com list=gfwlist
-add address=.imlive.com list=gfwlist
-add address=.immoral.jp list=gfwlist
-add address=impact.org.au list=gfwlist
-add address=impp.mn list=gfwlist
-add address=|http://tech2.in.com/video/ list=gfwlist
-add address=in99.org list=gfwlist
-add address=in-disguise.com list=gfwlist
-add address=.incapdns.net list=gfwlist
-add address=.incloak.com list=gfwlist
-add address=||incloak.com list=gfwlist
-add address=||incredibox.fr list=gfwlist
-add address=||independent.co.uk list=gfwlist
-add address=||indiablooms.com list=gfwlist
-add address=||indiandefensenews.in list=gfwlist
-add address=||indianarrative.com list=gfwlist
-add address=||timesofindia.indiatimes.com list=gfwlist
-add address=.indiemerch.com list=gfwlist
-add address=||indiemerch.com list=gfwlist
-add address=||info-graf.fr list=gfwlist
-add address=website.informer.com list=gfwlist
-add address=||initiativesforchina.org list=gfwlist
-add address=||inkbunny.net list=gfwlist
-add address=||inkui.com list=gfwlist
-add address=||inmediahk.net list=gfwlist
-add address=||inmediahk.net list=gfwlist
-add address=||innermongolia.org list=gfwlist
-add address=||inoreader.com list=gfwlist
-add address=||inote.tw list=gfwlist
-add address=||insecam.org list=gfwlist
-add address=|http://insecam.org list=gfwlist
-add address=||inside.com.tw list=gfwlist
-add address=||insidevoa.com list=gfwlist
-add address=||institut-tibetain.org list=gfwlist
-add address=||interactivebrokers.com list=gfwlist
-add address=||internet.org list=gfwlist
-add address=internetdefenseleague.org list=gfwlist
-add address=internetfreedom.org list=gfwlist
-add address=||internetpopculture.com list=gfwlist
-add address=.inthenameofconfuciusmovie.com list=gfwlist
-add address=||inthenameofconfuciusmovie.com list=gfwlist
-add address=inxian.com list=gfwlist
-add address=||inxian.com list=gfwlist
-add address=ipalter.com list=gfwlist
-add address=||ipfire.org list=gfwlist
-add address=||iphone4hongkong.com list=gfwlist
-add address=||iphonehacks.com list=gfwlist
-add address=||iphonetaiwan.org list=gfwlist
-add address=||iphonix.fr list=gfwlist
-add address=||ipicture.ru list=gfwlist
-add address=.ipjetable.net list=gfwlist
-add address=||ipjetable.net list=gfwlist
-add address=.ipobar.com/read.php? list=gfwlist
-add address=ipoock.com/img list=gfwlist
-add address=.iportal.me list=gfwlist
-add address=|http://iportal.me list=gfwlist
-add address=||ippotv.com list=gfwlist
-add address=.ipredator.se list=gfwlist
-add address=||ipredator.se list=gfwlist
-add address=.iptv.com.tw list=gfwlist
-add address=||iptvbin.com list=gfwlist
-add address=||ipvanish.com list=gfwlist
-add address=iredmail.org list=gfwlist
-add address=chinese.irib.ir list=gfwlist
-add address=||ironbigfools.compython.net list=gfwlist
-add address=||ironpython.net list=gfwlist
-add address=.ironsocket.com list=gfwlist
-add address=||ironsocket.com list=gfwlist
-add address=.is.gd list=gfwlist
-add address=.islahhaber.net list=gfwlist
-add address=.islam.org.hk list=gfwlist
-add address=|http://islam.org.hk list=gfwlist
-add address=.islamawareness.net/Asia/China list=gfwlist
-add address=.islamhouse.com list=gfwlist
-add address=||islamhouse.com list=gfwlist
-add address=.islamicity.com list=gfwlist
-add address=.islamicpluralism.org list=gfwlist
-add address=.islamtoday.net list=gfwlist
-add address=.isaacmao.com list=gfwlist
-add address=||isaacmao.com list=gfwlist
-add address=||isgreat.org list=gfwlist
-add address=||ismaelan.com list=gfwlist
-add address=.ismalltits.com list=gfwlist
-add address=||ismprofessional.net list=gfwlist
-add address=isohunt.com list=gfwlist
-add address=||israbox.com list=gfwlist
-add address=.issuu.com list=gfwlist
-add address=||issuu.com list=gfwlist
-add address=.istars.co.nz list=gfwlist
-add address=oversea.istarshine.com list=gfwlist
-add address=||oversea.istarshine.com list=gfwlist
-add address=blog.istef.info/2007/10/21/myentunnel list=gfwlist
-add address=.istiqlalhewer.com list=gfwlist
-add address=.istockphoto.com list=gfwlist
-add address=isunaffairs.com list=gfwlist
-add address=isuntv.com list=gfwlist
-add address=||isupportuyghurs.org list=gfwlist
-add address=itaboo.info list=gfwlist
-add address=||itaboo.info list=gfwlist
-add address=||italiatibet.org list=gfwlist
-add address=||itemfix.com list=gfwlist
-add address=ithelp.ithome.com.tw list=gfwlist
-add address=||itshidden.com list=gfwlist
-add address=.itsky.it list=gfwlist
-add address=.itweet.net list=gfwlist
-add address=|http://itweet.net list=gfwlist
-add address=.iu45.com list=gfwlist
-add address=.iuhrdf.org list=gfwlist
-add address=||iuhrdf.org list=gfwlist
-add address=.iuksky.com list=gfwlist
-add address=.ivacy.com list=gfwlist
-add address=||ivacy.com list=gfwlist
-add address=.iverycd.com list=gfwlist
-add address=||ivonblog.com list=gfwlist
-add address=.ivpn.net list=gfwlist
-add address=||ivpn.net list=gfwlist
-add address=||iwara.tv list=gfwlist
-add address=||ixquick.com list=gfwlist
-add address=.ixxx.com list=gfwlist
-add address=.iyouport.com list=gfwlist
-add address=||iyouport.com list=gfwlist
-add address=||iyouport.org list=gfwlist
-add address=.izaobao.us list=gfwlist
-add address=||gmozomg.izihost.org list=gfwlist
-add address=.izles.net list=gfwlist
-add address=.izlesem.org list=gfwlist
-add address=||j.mp list=gfwlist
-add address=||jable.tv list=gfwlist
-add address=||blog.jackjia.com list=gfwlist
-add address=jamaat.org list=gfwlist
-add address=||jamestown.org list=gfwlist
-add address=||jamyangnorbu.com list=gfwlist
-add address=||jan.ai list=gfwlist
-add address=.jandyx.com list=gfwlist
-add address=||janwongphoto.com list=gfwlist
-add address=||japan-whores.com list=gfwlist
-add address=.jav.com list=gfwlist
-add address=.jav101.com list=gfwlist
-add address=.jav2be.com list=gfwlist
-add address=||jav2be.com list=gfwlist
-add address=.jav68.tv list=gfwlist
-add address=.javakiba.org list=gfwlist
-add address=|http://javakiba.org list=gfwlist
-add address=.javbus.com list=gfwlist
-add address=||javbus.com list=gfwlist
-add address=||javfor.me list=gfwlist
-add address=.javhd.com list=gfwlist
-add address=.javhip.com list=gfwlist
-add address=.javmobile.net list=gfwlist
-add address=|http://javmobile.net list=gfwlist
-add address=.javmoo.com list=gfwlist
-add address=.javseen.com list=gfwlist
-add address=|http://javseen.com list=gfwlist
-add address=jbtalks.cc list=gfwlist
-add address=jbtalks.com list=gfwlist
-add address=jbtalks.my list=gfwlist
-add address=.jdwsy.com list=gfwlist
-add address=jeanyim.com list=gfwlist
-add address=||jfqu36.club list=gfwlist
-add address=||jfqu37.xyz list=gfwlist
-add address=||jgoodies.com list=gfwlist
-add address=.jiangweiping.com list=gfwlist
-add address=||jiangweiping.com list=gfwlist
-add address=||jiaoyou8.com list=gfwlist
-add address=||jichangtj.com list=gfwlist
-add address=.jiehua.cz list=gfwlist
-add address=||hk.jiepang.com list=gfwlist
-add address=||tw.jiepang.com list=gfwlist
-add address=jieshibaobao.com list=gfwlist
-add address=.jigglegifs.com list=gfwlist
-add address=56cun04.jigsy.com list=gfwlist
-add address=jigong1024.com list=gfwlist
-add address=daodu14.jigsy.com list=gfwlist
-add address=specxinzl.jigsy.com list=gfwlist
-add address=wlcnew.jigsy.com list=gfwlist
-add address=.jihadology.net list=gfwlist
-add address=|http://jihadology.net list=gfwlist
-add address=jinbushe.org list=gfwlist
-add address=||jinbushe.org list=gfwlist
-add address=.jingsim.org list=gfwlist
-add address=zhao.jinhai.de list=gfwlist
-add address=jingpin.org list=gfwlist
-add address=||jingpin.org list=gfwlist
-add address=jinpianwang.com list=gfwlist
-add address=.jinroukong.com list=gfwlist
-add address=ac.jiruan.net list=gfwlist
-add address=||jitouch.com list=gfwlist
-add address=.jizzthis.com list=gfwlist
-add address=jjgirls.com list=gfwlist
-add address=.jkb.cc list=gfwlist
-add address=|http://jkb.cc list=gfwlist
-add address=jkforum.net list=gfwlist
-add address=||jma.go.jp list=gfwlist
-add address=research.jmsc.hku.hk/social list=gfwlist
-add address=weiboscope.jmsc.hku.hk list=gfwlist
-add address=.jmscult.com list=gfwlist
-add address=|http://jmscult.com list=gfwlist
-add address=||joachims.org list=gfwlist
-add address=||jobso.tv list=gfwlist
-add address=.sunwinism.joinbbs.net list=gfwlist
-add address=||joinclubhouse.com list=gfwlist
-add address=||jornaldacidadeonline.com.br list=gfwlist
-add address=.journalchretien.net list=gfwlist
-add address=||journalofdemocracy.org list=gfwlist
-add address=.joymiihub.com list=gfwlist
-add address=.joyourself.com list=gfwlist
-add address=jpopforum.net list=gfwlist
-add address=||jsdelivr.net list=gfwlist
-add address=||fiddle.jshell.net list=gfwlist
-add address=.jubushoushen.com list=gfwlist
-add address=||jubushoushen.com list=gfwlist
-add address=.juhuaren.com list=gfwlist
-add address=||juliereyc.com list=gfwlist
-add address=||junauza.com list=gfwlist
-add address=.june4commemoration.org list=gfwlist
-add address=.junefourth-20.net list=gfwlist
-add address=||junefourth-20.net list=gfwlist
-add address=||bbs.junglobal.net list=gfwlist
-add address=.juoaa.com list=gfwlist
-add address=|http://juoaa.com list=gfwlist
-add address=justfreevpn.com list=gfwlist
-add address=||justhost.ru list=gfwlist
-add address=.justicefortenzin.org list=gfwlist
-add address=justpaste.it list=gfwlist
-add address=||justmysocks1.net list=gfwlist
-add address=justtristan.com list=gfwlist
-add address=juyuange.org list=gfwlist
-add address=juziyue.com list=gfwlist
-add address=||juziyue.com list=gfwlist
-add address=||jwmusic.org list=gfwlist
-add address=@@||music.jwmusic.org list=gfwlist
-add address=||cdn.jwplayer.com list=gfwlist
-add address=.jyxf.net list=gfwlist
-add address=||k-doujin.net list=gfwlist
-add address=||ka-wai.com list=gfwlist
-add address=||kadokawa.co.jp list=gfwlist
-add address=.kagyu.org list=gfwlist
-add address=||kagyu.org.za list=gfwlist
-add address=.kagyumonlam.org list=gfwlist
-add address=.kagyunews.com.hk list=gfwlist
-add address=.kagyuoffice.org list=gfwlist
-add address=||kagyuoffice.org list=gfwlist
-add address=||kagyuoffice.org.tw list=gfwlist
-add address=.kaiyuan.de list=gfwlist
-add address=.kakao.com list=gfwlist
-add address=||kakao.com list=gfwlist
-add address=.kalachakralugano.org list=gfwlist
-add address=.kankan.today list=gfwlist
-add address=.kannewyork.com list=gfwlist
-add address=||kannewyork.com list=gfwlist
-add address=.kanshifang.com list=gfwlist
-add address=||kanshifang.com list=gfwlist
-add address=||kantie.org list=gfwlist
-add address=kanzhongguo.com list=gfwlist
-add address=kanzhongguo.eu list=gfwlist
-add address=.kaotic.com list=gfwlist
-add address=||kaotic.com list=gfwlist
-add address=||karayou.com list=gfwlist
-add address=karkhung.com list=gfwlist
-add address=.karmapa.org list=gfwlist
-add address=.karmapa-teachings.org list=gfwlist
-add address=||kawase.com list=gfwlist
-add address=.kba-tx.org list=gfwlist
-add address=.kcoolonline.com list=gfwlist
-add address=.kebrum.com list=gfwlist
-add address=||kebrum.com list=gfwlist
-add address=.kechara.com list=gfwlist
-add address=.keepandshare.com/visit/visit_page.php?i=688154 list=gfwlist
-add address=.keezmovies.com list=gfwlist
-add address=.kendincos.net list=gfwlist
-add address=.kenengba.com list=gfwlist
-add address=||kenengba.com list=gfwlist
-add address=||keontech.net list=gfwlist
-add address=.kepard.com list=gfwlist
-add address=||kepard.com list=gfwlist
-add address=wiki.keso.cn/Home list=gfwlist
-add address=||keycdn.com list=gfwlist
-add address=.khabdha.org list=gfwlist
-add address=.khmusic.com.tw list=gfwlist
-add address=||kichiku-doujinko.com list=gfwlist
-add address=.kik.com list=gfwlist
-add address=||kik.com list=gfwlist
-add address=bbs.kimy.com.tw list=gfwlist
-add address=.kindleren.com list=gfwlist
-add address=|http://kindleren.com list=gfwlist
-add address=|http://www.kindleren.com list=gfwlist
-add address=.kingdomsalvation.org list=gfwlist
-add address=||kingdomsalvation.org list=gfwlist
-add address=kinghost.com list=gfwlist
-add address=||kingstone.com.tw list=gfwlist
-add address=.kink.com list=gfwlist
-add address=.kinokuniya.com list=gfwlist
-add address=||kinokuniya.com list=gfwlist
-add address=killwall.com list=gfwlist
-add address=||killwall.com list=gfwlist
-add address=||kinmen.travel list=gfwlist
-add address=.kir.jp list=gfwlist
-add address=.kissbbao.cn list=gfwlist
-add address=|http://kiwi.kz list=gfwlist
-add address=||kk-whys.co.jp list=gfwlist
-add address=.kmuh.org.tw list=gfwlist
-add address=.knowledgerush.com/kr/encyclopedia list=gfwlist
-add address=||knowyourmeme.com list=gfwlist
-add address=.kobo.com list=gfwlist
-add address=||kobo.com list=gfwlist
-add address=.kobobooks.com list=gfwlist
-add address=||kobobooks.com list=gfwlist
-add address=||kodingen.com list=gfwlist
-add address=@@||www.kodingen.com list=gfwlist
-add address=||kompozer.net list=gfwlist
-add address=.konachan.com list=gfwlist
-add address=||konachan.com list=gfwlist
-add address=.kone.com list=gfwlist
-add address=||koolsolutions.com list=gfwlist
-add address=.koornk.com list=gfwlist
-add address=||koornk.com list=gfwlist
-add address=||koranmandarin.com list=gfwlist
-add address=.korenan2.com list=gfwlist
-add address=||kqes.net list=gfwlist
-add address=|http://gojet.krtco.com.tw list=gfwlist
-add address=.ksdl.org list=gfwlist
-add address=.ksnews.com.tw list=gfwlist
-add address=||ktzhk.com list=gfwlist
-add address=.kui.name/event list=gfwlist
-add address=||kukuku.uk list=gfwlist
-add address=kun.im list=gfwlist
-add address=.kurashsultan.com list=gfwlist
-add address=||kurtmunger.com list=gfwlist
-add address=kusocity.com list=gfwlist
-add address=||kwcg.ca list=gfwlist
-add address=||kwok7.com list=gfwlist
-add address=.kwongwah.com.my list=gfwlist
-add address=||kwongwah.com.my list=gfwlist
-add address=.kxsw.life list=gfwlist
-add address=||kxsw.life list=gfwlist
-add address=.kyofun.com list=gfwlist
-add address=kyohk.net list=gfwlist
-add address=||kyoyue.com list=gfwlist
-add address=.kyzyhello.com list=gfwlist
-add address=||kyzyhello.com list=gfwlist
-add address=.kzeng.info list=gfwlist
-add address=||kzeng.info list=gfwlist
-add address=la-forum.org list=gfwlist
-add address=ladbrokes.com list=gfwlist
-add address=||labiennale.org list=gfwlist
-add address=.lagranepoca.com list=gfwlist
-add address=||lagranepoca.com list=gfwlist
-add address=||lala.im list=gfwlist
-add address=.lalulalu.com list=gfwlist
-add address=.lama.com.tw list=gfwlist
-add address=||lama.com.tw list=gfwlist
-add address=.lamayeshe.com list=gfwlist
-add address=|http://lamayeshe.com list=gfwlist
-add address=|http://www.lamenhu.com list=gfwlist
-add address=.lamnia.co.uk list=gfwlist
-add address=||lamnia.co.uk list=gfwlist
-add address=lamrim.com list=gfwlist
-add address=||landofhope.tv list=gfwlist
-add address=.lanterncn.cn list=gfwlist
-add address=|http://lanterncn.cn list=gfwlist
-add address=.lantosfoundation.org list=gfwlist
-add address=.laod.cn list=gfwlist
-add address=|http://laod.cn list=gfwlist
-add address=laogai.org list=gfwlist
-add address=||laogai.org list=gfwlist
-add address=||laogairesearch.org list=gfwlist
-add address=laomiu.com list=gfwlist
-add address=.laoyang.info list=gfwlist
-add address=|http://laoyang.info list=gfwlist
-add address=||laptoplockdown.com list=gfwlist
-add address=.laqingdan.net list=gfwlist
-add address=||laqingdan.net list=gfwlist
-add address=||larsgeorge.com list=gfwlist
-add address=.lastcombat.com list=gfwlist
-add address=|http://lastcombat.com list=gfwlist
-add address=||lastfm.es list=gfwlist
-add address=latelinenews.com list=gfwlist
-add address=||lausan.hk list=gfwlist
-add address=||le-vpn.com list=gfwlist
-add address=.leafyvpn.net list=gfwlist
-add address=||leafyvpn.net list=gfwlist
-add address=||ledger.com list=gfwlist
-add address=leeao.com.cn/bbs/forum.php list=gfwlist
-add address=lefora.com list=gfwlist
-add address=||left21.hk list=gfwlist
-add address=.legalporno.com list=gfwlist
-add address=.legsjapan.com list=gfwlist
-add address=|http://leirentv.ca list=gfwlist
-add address=leisurecafe.ca list=gfwlist
-add address=||lematin.ch list=gfwlist
-add address=.lemonde.fr list=gfwlist
-add address=||lenwhite.com list=gfwlist
-add address=||leorockwell.com list=gfwlist
-add address=lerosua.org list=gfwlist
-add address=||lerosua.org list=gfwlist
-add address=blog.lester850.info list=gfwlist
-add address=||lesoir.be list=gfwlist
-add address=.letou.com list=gfwlist
-add address=letscorp.net list=gfwlist
-add address=||letscorp.net list=gfwlist
-add address=||ocsp.int-x3.letsencrypt.org list=gfwlist
-add address=||ss.levyhsu.com list=gfwlist
-add address=||cdn.assets.lfpcontent.com list=gfwlist
-add address=.lhakar.org list=gfwlist
-add address=|http://lhakar.org list=gfwlist
-add address=.lhasocialwork.org list=gfwlist
-add address=.liangyou.net list=gfwlist
-add address=||liangyou.net list=gfwlist
-add address=.lianyue.net list=gfwlist
-add address=||liaowangxizang.net list=gfwlist
-add address=.liaowangxizang.net list=gfwlist
-add address=||liberal.org.hk list=gfwlist
-add address=||libertysculpturepark.com list=gfwlist
-add address=||libertytimes.com.tw list=gfwlist
-add address=blogs.libraryinformationtechnology.com/jxyz list=gfwlist
-add address=||libredd.it list=gfwlist
-add address=||lighten.org.tw list=gfwlist
-add address=||lightnovel.cn list=gfwlist
-add address=limiao.net list=gfwlist
-add address=linkuswell.com list=gfwlist
-add address=abitno.linpie.com/use-ipv6-to-fuck-gfw list=gfwlist
-add address=||line.me list=gfwlist
-add address=||line-apps.com list=gfwlist
-add address=.linglingfa.com list=gfwlist
-add address=||lingvodics.com list=gfwlist
-add address=.link-o-rama.com list=gfwlist
-add address=|http://link-o-rama.com list=gfwlist
-add address=||linkedin.com list=gfwlist
-add address=.linkideo.com list=gfwlist
-add address=||api.linksalpha.com list=gfwlist
-add address=||apidocs.linksalpha.com list=gfwlist
-add address=||www.linksalpha.com list=gfwlist
-add address=||help.linksalpha.com list=gfwlist
-add address=||linux.org.hk list=gfwlist
-add address=linuxtoy.org/archives/installing-west-chamber-on-ubuntu list=gfwlist
-add address=.lionsroar.com list=gfwlist
-add address=.lipuman.com list=gfwlist
-add address=||liquidvpn.com list=gfwlist
-add address=||greatfire.us7.list-manage.com list=gfwlist
-add address=||listennotes.com list=gfwlist
-add address=||listentoyoutube.com list=gfwlist
-add address=listorious.com list=gfwlist
-add address=.liu-xiaobo.org list=gfwlist
-add address=||liudejun.com list=gfwlist
-add address=.liuhanyu.com list=gfwlist
-add address=.liujianshu.com list=gfwlist
-add address=||liujianshu.com list=gfwlist
-add address=.liuxiaobo.net list=gfwlist
-add address=||liuxiaobo.net list=gfwlist
-add address=liuxiaotong.com list=gfwlist
-add address=||liuxiaotong.com list=gfwlist
-add address=.livedoor.jp list=gfwlist
-add address=.liveleak.com list=gfwlist
-add address=||liveleak.com list=gfwlist
-add address=||livemint.com list=gfwlist
-add address=livestream.com list=gfwlist
-add address=||livestream.com list=gfwlist
-add address=||livingonline.us list=gfwlist
-add address=||livingstream.com list=gfwlist
-add address=||livevideo.com list=gfwlist
-add address=.livevideo.com list=gfwlist
-add address=.liwangyang.com list=gfwlist
-add address=lizhizhuangbi.com list=gfwlist
-add address=lkcn.net list=gfwlist
-add address=||chat.lmsys.org list=gfwlist
-add address=||lncn.org list=gfwlist
-add address=.load.to list=gfwlist
-add address=.lobsangwangyal.com list=gfwlist
-add address=.localdomain.ws list=gfwlist
-add address=||localdomain.ws list=gfwlist
-add address=localpresshk.com list=gfwlist
-add address=||lockestek.com list=gfwlist
-add address=logbot.net list=gfwlist
-add address=||logiqx.com list=gfwlist
-add address=secure.logmein.com list=gfwlist
-add address=||secure.logmein.com list=gfwlist
-add address=||logos.com.hk list=gfwlist
-add address=.londonchinese.ca list=gfwlist
-add address=.longhair.hk list=gfwlist
-add address=longmusic.com list=gfwlist
-add address=||longtermly.net list=gfwlist
-add address=||lookpic.com list=gfwlist
-add address=.looktoronto.com list=gfwlist
-add address=|http://looktoronto.com list=gfwlist
-add address=.lotsawahouse.org/tibetan-masters/fourteenth-dalai-lama list=gfwlist
-add address=.lotuslight.org.hk list=gfwlist
-add address=.lotuslight.org.tw list=gfwlist
-add address=hkreporter.loved.hk list=gfwlist
-add address=||lpsg.com list=gfwlist
-add address=||lrfz.com list=gfwlist
-add address=.lrip.org list=gfwlist
-add address=||lrip.org list=gfwlist
-add address=.lsd.org.hk list=gfwlist
-add address=||lsd.org.hk list=gfwlist
-add address=lsforum.net list=gfwlist
-add address=.lsm.org list=gfwlist
-add address=||lsm.org list=gfwlist
-add address=.lsmchinese.org list=gfwlist
-add address=||lsmchinese.org list=gfwlist
-add address=.lsmkorean.org list=gfwlist
-add address=||lsmkorean.org list=gfwlist
-add address=.lsmradio.com/rad_archives list=gfwlist
-add address=.lsmwebcast.com list=gfwlist
-add address=.ltn.com.tw list=gfwlist
-add address=||ltn.com.tw list=gfwlist
-add address=||luckydesigner.space list=gfwlist
-add address=.luke54.com list=gfwlist
-add address=.luke54.org list=gfwlist
-add address=.lupm.org list=gfwlist
-add address=||lupm.org list=gfwlist
-add address=||lushstories.com list=gfwlist
-add address=luxebc.com list=gfwlist
-add address=lvhai.org list=gfwlist
-add address=||lvhai.org list=gfwlist
-add address=||lvv2.com list=gfwlist
-add address=.lyfhk.net list=gfwlist
-add address=|http://lyfhk.net list=gfwlist
-add address=||lzjscript.com list=gfwlist
-add address=.lzmtnews.org list=gfwlist
-add address=||lzmtnews.org list=gfwlist
-add address=http://*.m-team.cc list=gfwlist
-add address=.macrovpn.com list=gfwlist
-add address=macts.com.tw list=gfwlist
-add address=||mad-ar.ch list=gfwlist
-add address=||madrau.com list=gfwlist
-add address=||madthumbs.com list=gfwlist
-add address=||magic-net.info list=gfwlist
-add address=mahabodhi.org list=gfwlist
-add address=my.mail.ru list=gfwlist
-add address=.maiplus.com list=gfwlist
-add address=|http://maiplus.com list=gfwlist
-add address=.maizhong.org list=gfwlist
-add address=makkahnewspaper.com list=gfwlist
-add address=.mamingzhe.com list=gfwlist
-add address=manicur4ik.ru list=gfwlist
-add address=||manyvoices.news list=gfwlist
-add address=.maplew.com list=gfwlist
-add address=|http://maplew.com list=gfwlist
-add address=||marc.info list=gfwlist
-add address=marguerite.su list=gfwlist
-add address=||martincartoons.com list=gfwlist
-add address=maskedip.com list=gfwlist
-add address=.maiio.net list=gfwlist
-add address=.mail-archive.com list=gfwlist
-add address=.malaysiakini.com list=gfwlist
-add address=||makemymood.com list=gfwlist
-add address=.manchukuo.net list=gfwlist
-add address=.maniash.com list=gfwlist
-add address=|http://maniash.com list=gfwlist
-add address=.mansion.com list=gfwlist
-add address=.mansionpoker.com list=gfwlist
-add address=||martau.com list=gfwlist
-add address=|http://blog.martinoei.com list=gfwlist
-add address=.martsangkagyuofficial.org list=gfwlist
-add address=|http://martsangkagyuofficial.org list=gfwlist
-add address=maruta.be/forget list=gfwlist
-add address=.marxist.com list=gfwlist
-add address=||marxist.net list=gfwlist
-add address=.marxists.org/chinese list=gfwlist
-add address=||matainja.com list=gfwlist
-add address=||mathable.io list=gfwlist
-add address=||mathiew-badimon.com list=gfwlist
-add address=||matrix.org list=gfwlist
-add address=||matsushimakaede.com list=gfwlist
-add address=||matters.town list=gfwlist
-add address=||maturejp.com list=gfwlist
-add address=mayimayi.com list=gfwlist
-add address=.maxing.jp list=gfwlist
-add address=.mcaf.ee list=gfwlist
-add address=|http://mcaf.ee list=gfwlist
-add address=||mcadforums.com list=gfwlist
-add address=mcfog.com list=gfwlist
-add address=mcreasite.com list=gfwlist
-add address=.md-t.org list=gfwlist
-add address=||md-t.org list=gfwlist
-add address=||meansys.com list=gfwlist
-add address=.media.org.hk list=gfwlist
-add address=.mediachinese.com list=gfwlist
-add address=||mediachinese.com list=gfwlist
-add address=.mediafire.com/? list=gfwlist
-add address=.mediafire.com/download list=gfwlist
-add address=.mediafreakcity.com list=gfwlist
-add address=||mediafreakcity.com list=gfwlist
-add address=.medium.com list=gfwlist
-add address=||medium.com list=gfwlist
-add address=.meetav.com list=gfwlist
-add address=||meetup.com list=gfwlist
-add address=mefeedia.com list=gfwlist
-add address=jihadintel.meforum.org list=gfwlist
-add address=||mega.co.nz list=gfwlist
-add address=||mega.io list=gfwlist
-add address=||mega.nz list=gfwlist
-add address=||megaproxy.com list=gfwlist
-add address=||megarotic.com list=gfwlist
-add address=megavideo.com list=gfwlist
-add address=||megurineluka.com list=gfwlist
-add address=||meizhong.blog list=gfwlist
-add address=||meizhong.report list=gfwlist
-add address=.meltoday.com list=gfwlist
-add address=.memehk.com list=gfwlist
-add address=||memehk.com list=gfwlist
-add address=memorybbs.com list=gfwlist
-add address=.memri.org list=gfwlist
-add address=.memrijttm.org list=gfwlist
-add address=||mercdn.net list=gfwlist
-add address=.mercyprophet.org list=gfwlist
-add address=||mercyprophet.org list=gfwlist
-add address=||mergersandinquisitions.org list=gfwlist
-add address=.meridian-trust.org list=gfwlist
-add address=||meridian-trust.org list=gfwlist
-add address=.meripet.biz list=gfwlist
-add address=||meripet.biz list=gfwlist
-add address=.meripet.com list=gfwlist
-add address=||meripet.com list=gfwlist
-add address=||merit-times.com.tw list=gfwlist
-add address=meshrep.com list=gfwlist
-add address=.mesotw.com/bbs list=gfwlist
-add address=metacafe.com/watch list=gfwlist
-add address=||metafilter.com list=gfwlist
-add address=||meteorshowersonline.com list=gfwlist
-add address=||metro.taipei list=gfwlist
-add address=.metrohk.com.hk/?cmd=detail&categoryID=2 list=gfwlist
-add address=||metrolife.ca list=gfwlist
-add address=.metroradio.com.hk list=gfwlist
-add address=|http://metroradio.com.hk list=gfwlist
-add address=||mewe.com list=gfwlist
-add address=meyou.jp list=gfwlist
-add address=.meyul.com list=gfwlist
-add address=||mgoon.com list=gfwlist
-add address=||mgstage.com list=gfwlist
-add address=||mh4u.org list=gfwlist
-add address=mhradio.org list=gfwlist
-add address=|http://michaelanti.com list=gfwlist
-add address=||michaelmarketl.com list=gfwlist
-add address=|http://bbs.mikocon.com list=gfwlist
-add address=.microvpn.com list=gfwlist
-add address=|http://microvpn.com list=gfwlist
-add address=middle-way.net list=gfwlist
-add address=.mihk.hk/forum list=gfwlist
-add address=.mihr.com list=gfwlist
-add address=mihua.org list=gfwlist
-add address=||mikesoltys.com list=gfwlist
-add address=.milph.net list=gfwlist
-add address=|http://milph.net list=gfwlist
-add address=.milsurps.com list=gfwlist
-add address=mimiai.net list=gfwlist
-add address=.mimivip.com list=gfwlist
-add address=.mimivv.com list=gfwlist
-add address=.mindrolling.org list=gfwlist
-add address=|http://mindrolling.org list=gfwlist
-add address=||mingdemedia.org list=gfwlist
-add address=.minghui.or.kr list=gfwlist
-add address=|http://minghui.or.kr list=gfwlist
-add address=minghui.org list=gfwlist
-add address=||minghui.org list=gfwlist
-add address=minghui-a.org list=gfwlist
-add address=minghui-b.org list=gfwlist
-add address=minghui-school.org list=gfwlist
-add address=.mingjinglishi.com list=gfwlist
-add address=||mingjinglishi.com list=gfwlist
-add address=mingjingnews.com list=gfwlist
-add address=||mingjingtimes.com list=gfwlist
-add address=.mingpao.com list=gfwlist
-add address=||mingpao.com list=gfwlist
-add address=.mingpaocanada.com list=gfwlist
-add address=.mingpaomonthly.com list=gfwlist
-add address=|http://mingpaomonthly.com list=gfwlist
-add address=mingpaonews.com list=gfwlist
-add address=.mingpaony.com list=gfwlist
-add address=.mingpaosf.com list=gfwlist
-add address=.mingpaotor.com list=gfwlist
-add address=.mingpaovan.com list=gfwlist
-add address=.mingshengbao.com list=gfwlist
-add address=.minhhue.net list=gfwlist
-add address=.miniforum.org list=gfwlist
-add address=.ministrybooks.org list=gfwlist
-add address=.minzhuhua.net list=gfwlist
-add address=||minzhuhua.net list=gfwlist
-add address=minzhuzhanxian.com list=gfwlist
-add address=minzhuzhongguo.org list=gfwlist
-add address=||miroguide.com list=gfwlist
-add address=mirrorbooks.com list=gfwlist
-add address=||mirrormedia.mg list=gfwlist
-add address=.mist.vip list=gfwlist
-add address=||thecenter.mit.edu list=gfwlist
-add address=||scratch.mit.edu list=gfwlist
-add address=.mitao.com.tw list=gfwlist
-add address=.mitbbs.com list=gfwlist
-add address=||mitbbs.com list=gfwlist
-add address=mitbbsau.com list=gfwlist
-add address=.mixero.com list=gfwlist
-add address=||mixero.com list=gfwlist
-add address=||mixi.jp list=gfwlist
-add address=mixpod.com list=gfwlist
-add address=.mixx.com list=gfwlist
-add address=||mixx.com list=gfwlist
-add address=||mizzmona.com list=gfwlist
-add address=.mk5000.com list=gfwlist
-add address=.mlcool.com list=gfwlist
-add address=||mlzs.work list=gfwlist
-add address=.mm-cg.com list=gfwlist
-add address=||mmaaxx.com list=gfwlist
-add address=.mmmca.com list=gfwlist
-add address=mnewstv.com list=gfwlist
-add address=||mobatek.net list=gfwlist
-add address=.mobile01.com list=gfwlist
-add address=||mobile01.com list=gfwlist
-add address=||mobileways.de list=gfwlist
-add address=.mobypicture.com list=gfwlist
-add address=|http://moby.to list=gfwlist
-add address=||mod.io list=gfwlist
-add address=||modernchinastudies.org list=gfwlist
-add address=||moeerolibrary.com list=gfwlist
-add address=wiki.moegirl.org list=gfwlist
-add address=.mofaxiehui.com list=gfwlist
-add address=.mofos.com list=gfwlist
-add address=||mog.com list=gfwlist
-add address=||mohu.rocks list=gfwlist
-add address=molihua.org list=gfwlist
-add address=||mondex.org list=gfwlist
-add address=.money-link.com.tw list=gfwlist
-add address=|http://money-link.com.tw list=gfwlist
-add address=|http://www.monlamit.org list=gfwlist
-add address=||moon.fm list=gfwlist
-add address=.moonbbs.com list=gfwlist
-add address=||moonbbs.com list=gfwlist
-add address=||moptt.tw list=gfwlist
-add address=||monica.im list=gfwlist
-add address=||monitorchina.org list=gfwlist
-add address=||monocloud.me list=gfwlist
-add address=bbs.morbell.com list=gfwlist
-add address=||morningsun.org list=gfwlist
-add address=||moroneta.com list=gfwlist
-add address=.motherless.com list=gfwlist
-add address=|http://motherless.com list=gfwlist
-add address=motor4ik.ru list=gfwlist
-add address=.mousebreaker.com list=gfwlist
-add address=.movements.org list=gfwlist
-add address=||movements.org list=gfwlist
-add address=||moviefap.com list=gfwlist
-add address=||www.moztw.org list=gfwlist
-add address=.mp3buscador.com list=gfwlist
-add address=||mpettis.com list=gfwlist
-add address=.mpfinance.com list=gfwlist
-add address=||mpfinance.com list=gfwlist
-add address=.mpinews.com list=gfwlist
-add address=||mpinews.com list=gfwlist
-add address=mponline.hk list=gfwlist
-add address=.mqxd.org list=gfwlist
-add address=|http://mqxd.org list=gfwlist
-add address=mrtweet.com list=gfwlist
-add address=||mrtweet.com list=gfwlist
-add address=news.hk.msn.com list=gfwlist
-add address=news.msn.com.tw list=gfwlist
-add address=msguancha.com list=gfwlist
-add address=.mswe1.org list=gfwlist
-add address=|http://mswe1.org list=gfwlist
-add address=||mthruf.com list=gfwlist
-add address=||mubi.com list=gfwlist
-add address=muchosucko.com list=gfwlist
-add address=||multiply.com list=gfwlist
-add address=multiproxy.org list=gfwlist
-add address=multiupload.com list=gfwlist
-add address=.mullvad.net list=gfwlist
-add address=||mullvad.net list=gfwlist
-add address=.mummysgold.com list=gfwlist
-add address=.murmur.tw list=gfwlist
-add address=|http://murmur.tw list=gfwlist
-add address=.musicade.net list=gfwlist
-add address=.muslimvideo.com list=gfwlist
-add address=||muzi.com list=gfwlist
-add address=||muzi.net list=gfwlist
-add address=||mx981.com list=gfwlist
-add address=.my-formosa.com list=gfwlist
-add address=.my-proxy.com list=gfwlist
-add address=.my-private-network.co.uk list=gfwlist
-add address=||my-private-network.co.uk list=gfwlist
-add address=forum.my903.com list=gfwlist
-add address=.myactimes.com/actimes list=gfwlist
-add address=||myanniu.com list=gfwlist
-add address=.myaudiocast.com list=gfwlist
-add address=||myaudiocast.com list=gfwlist
-add address=.myav.com.tw/bbs list=gfwlist
-add address=.mybbs.us list=gfwlist
-add address=.myca168.com list=gfwlist
-add address=.mycanadanow.com list=gfwlist
-add address=||bbs.mychat.to list=gfwlist
-add address=||mychinamyhome.com list=gfwlist
-add address=.mychinamyhome.com list=gfwlist
-add address=.mychinanet.com list=gfwlist
-add address=.mychinanews.com list=gfwlist
-add address=||mychinanews.com list=gfwlist
-add address=.mychinese.news list=gfwlist
-add address=||mycnnews.com list=gfwlist
-add address=||mykomica.org list=gfwlist
-add address=mycould.com/discuz list=gfwlist
-add address=.myeasytv.com list=gfwlist
-add address=||myeclipseide.com list=gfwlist
-add address=.myforum.com.hk list=gfwlist
-add address=||myforum.com.hk list=gfwlist
-add address=||myforum.com.uk list=gfwlist
-add address=.myfreecams.com list=gfwlist
-add address=.myfreepaysite.com list=gfwlist
-add address=.myfreshnet.com list=gfwlist
-add address=.myiphide.com list=gfwlist
-add address=||myiphide.com list=gfwlist
-add address=forum.mymaji.com list=gfwlist
-add address=mymediarom.com/files/box list=gfwlist
-add address=||mymoe.moe list=gfwlist
-add address=||mymusic.net.tw list=gfwlist
-add address=||myparagliding.com list=gfwlist
-add address=||mypopescu.com list=gfwlist
-add address=myradio.hk/podcast list=gfwlist
-add address=.myreadingmanga.info list=gfwlist
-add address=mysinablog.com list=gfwlist
-add address=.myspace.com list=gfwlist
-add address=||myspacecdn.com list=gfwlist
-add address=.mytalkbox.com list=gfwlist
-add address=.mytizi.com list=gfwlist
-add address=||naacoalition.org list=gfwlist
-add address=old.nabble.com list=gfwlist
-add address=||naitik.net list=gfwlist
-add address=.nakido.com list=gfwlist
-add address=||nakido.com list=gfwlist
-add address=.nakuz.com/bbs list=gfwlist
-add address=||nalandabodhi.org list=gfwlist
-add address=||nalandawest.org list=gfwlist
-add address=.namgyal.org list=gfwlist
-add address=namgyalmonastery.org list=gfwlist
-add address=||namsisi.com list=gfwlist
-add address=.nanyang.com list=gfwlist
-add address=||nanyang.com list=gfwlist
-add address=.nanyangpost.com list=gfwlist
-add address=||nanyangpost.com list=gfwlist
-add address=.nanzao.com list=gfwlist
-add address=.naol.ca list=gfwlist
-add address=.naol.cc list=gfwlist
-add address=uighur.narod.ru list=gfwlist
-add address=.nat.moe list=gfwlist
-add address=||nat.moe list=gfwlist
-add address=cyberghost.natado.com list=gfwlist
-add address=||national-lottery.co.uk list=gfwlist
-add address=||nationalawakening.org list=gfwlist
-add address=||nationalinterest.org list=gfwlist
-add address=news.nationalgeographic.com/news/2014/06/140603-tiananmen-square list=gfwlist
-add address=||nationalreview.com list=gfwlist
-add address=.nationsonline.org/oneworld/tibet list=gfwlist
-add address=||line.naver.jp list=gfwlist
-add address=||navyfamily.navy.mil list=gfwlist
-add address=||navyreserve.navy.mil list=gfwlist
-add address=||nko.navy.mil list=gfwlist
-add address=||usno.navy.mil list=gfwlist
-add address=naweeklytimes.com list=gfwlist
-add address=||nbcnews.com list=gfwlist
-add address=.nbtvpn.com list=gfwlist
-add address=|http://nbtvpn.com list=gfwlist
-add address=nccwatch.org.tw list=gfwlist
-add address=.nch.com.tw list=gfwlist
-add address=.ncn.org list=gfwlist
-add address=||nchrd.org list=gfwlist
-add address=||ncn.org list=gfwlist
-add address=||etools.ncol.com list=gfwlist
-add address=.nde.de list=gfwlist
-add address=||ndi.org list=gfwlist
-add address=.ndr.de list=gfwlist
-add address=.ned.org list=gfwlist
-add address=||nekoslovakia.net list=gfwlist
-add address=||neowin.net list=gfwlist
-add address=||nepusoku.com list=gfwlist
-add address=||net-fits.pro list=gfwlist
-add address=||netalert.me list=gfwlist
-add address=bbs.netbig.com list=gfwlist
-add address=.netbirds.com list=gfwlist
-add address=netcolony.com list=gfwlist
-add address=bolin.netfirms.com list=gfwlist
-add address=||netflav.com list=gfwlist
-add address=||netme.cc list=gfwlist
-add address=||netsarang.com list=gfwlist
-add address=netsneak.com list=gfwlist
-add address=.network54.com list=gfwlist
-add address=networkedblogs.com list=gfwlist
-add address=.networktunnel.net list=gfwlist
-add address=neverforget8964.org list=gfwlist
-add address=new-3lunch.net list=gfwlist
-add address=.new-akiba.com list=gfwlist
-add address=.new96.ca list=gfwlist
-add address=.newcenturymc.com list=gfwlist
-add address=|http://newcenturymc.com list=gfwlist
-add address=newcenturynews.com list=gfwlist
-add address=||newchen.com list=gfwlist
-add address=.newchen.com list=gfwlist
-add address=.newgrounds.com list=gfwlist
-add address=||newhighlandvision.com list=gfwlist
-add address=newipnow.com list=gfwlist
-add address=.newlandmagazine.com.au list=gfwlist
-add address=||newmitbbs.com list=gfwlist
-add address=.newnews.ca list=gfwlist
-add address=news100.com.tw list=gfwlist
-add address=newschinacomment.org list=gfwlist
-add address=.newscn.org list=gfwlist
-add address=||newscn.org list=gfwlist
-add address=newspeak.cc/story list=gfwlist
-add address=.newsancai.com list=gfwlist
-add address=||newsancai.com list=gfwlist
-add address=.newsdetox.ca list=gfwlist
-add address=.newsdh.com list=gfwlist
-add address=||newsmax.com list=gfwlist
-add address=||newstamago.com list=gfwlist
-add address=||newstapa.org list=gfwlist
-add address=||newstatesman.com list=gfwlist
-add address=newstarnet.com list=gfwlist
-add address=||newsweek.com list=gfwlist
-add address=.newtaiwan.com.tw list=gfwlist
-add address=newtalk.tw list=gfwlist
-add address=||newtalk.tw list=gfwlist
-add address=||newyorker.com list=gfwlist
-add address=newyorktimes.com list=gfwlist
-add address=||nexon.com list=gfwlist
-add address=.next11.co.jp list=gfwlist
-add address=||nextdigital.com.hk list=gfwlist
-add address=.nextmag.com.tw list=gfwlist
-add address=.nextmedia.com list=gfwlist
-add address=||nexton-net.jp list=gfwlist
-add address=||nexttv.com.tw list=gfwlist
-add address=.nfjtyd.com list=gfwlist
-add address=||co.ng.mil list=gfwlist
-add address=||nga.mil list=gfwlist
-add address=ngensis.com list=gfwlist
-add address=||ngodupdongchung.com list=gfwlist
-add address=.nhentai.net list=gfwlist
-add address=|http://nhentai.net list=gfwlist
-add address=.nhk-ondemand.jp list=gfwlist
-add address=.nicovideo.jp/watch list=gfwlist
-add address=||nicovideo.jp list=gfwlist
-add address=||nighost.org list=gfwlist
-add address=av.nightlife141.com list=gfwlist
-add address=ninecommentaries.com list=gfwlist
-add address=.ninjacloak.com list=gfwlist
-add address=||ninjaproxy.ninja list=gfwlist
-add address=nintendium.com list=gfwlist
-add address=taiwanyes.ning.com list=gfwlist
-add address=usmgtcg.ning.com/forum list=gfwlist
-add address=||niusnews.com list=gfwlist
-add address=||njactb.org list=gfwlist
-add address=njuice.com list=gfwlist
-add address=||njuice.com list=gfwlist
-add address=||nlfreevpn.com list=gfwlist
-add address=||nmsl.website list=gfwlist
-add address=||nnews.eu list=gfwlist
-add address=.ddns.net/ list=gfwlist
-add address=.gooddns.info list=gfwlist
-add address=||gotdns.ch list=gfwlist
-add address=.maildns.xyz list=gfwlist
-add address=.no-ip.org list=gfwlist
-add address=.opendn.xyz list=gfwlist
-add address=.servehttp.com list=gfwlist
-add address=sytes.net list=gfwlist
-add address=.whodns.xyz list=gfwlist
-add address=.zapto.org list=gfwlist
-add address=|http://dynupdate.no-ip.com/ list=gfwlist
-add address=||nobel.se list=gfwlist
-add address=nobelprize.org/nobel_prizes/peace/laureates/1989 list=gfwlist
-add address=nobelprize.org/nobel_prizes/peace/laureates/2010 list=gfwlist
-add address=nobodycanstop.us list=gfwlist
-add address=||nobodycanstop.us list=gfwlist
-add address=||nokogiri.org list=gfwlist
-add address=||nokola.com list=gfwlist
-add address=noodlevpn.com list=gfwlist
-add address=.norbulingka.org list=gfwlist
-add address=nordvpn.com list=gfwlist
-add address=||nordvpn.com list=gfwlist
-add address=||notepad-plus-plus.org list=gfwlist
-add address=||novelasia.com list=gfwlist
-add address=.news.now.com list=gfwlist
-add address=|http://news.now.com list=gfwlist
-add address=news.now.com%2Fhome list=gfwlist
-add address=||nownews.com list=gfwlist
-add address=.nowtorrents.com list=gfwlist
-add address=.noypf.com list=gfwlist
-add address=||noypf.com list=gfwlist
-add address=||npa.go.jp list=gfwlist
-add address=.npnt.me list=gfwlist
-add address=|http://npnt.me list=gfwlist
-add address=.nps.gov list=gfwlist
-add address=.nradio.me list=gfwlist
-add address=|http://nradio.me list=gfwlist
-add address=.nrk.no list=gfwlist
-add address=||nrk.no list=gfwlist
-add address=.ntd.tv list=gfwlist
-add address=||ntd.tv list=gfwlist
-add address=.ntdtv.com list=gfwlist
-add address=||ntdtv.com list=gfwlist
-add address=||ntdtv.com.tw list=gfwlist
-add address=.ntdtv.co.kr list=gfwlist
-add address=ntdtv.ca list=gfwlist
-add address=ntdtv.org list=gfwlist
-add address=ntdtv.ru list=gfwlist
-add address=ntdtvla.com list=gfwlist
-add address=.ntrfun.com list=gfwlist
-add address=||cbs.ntu.edu.tw list=gfwlist
-add address=||media.nu.nl list=gfwlist
-add address=.nubiles.net list=gfwlist
-add address=||nuexpo.com list=gfwlist
-add address=.nukistream.com list=gfwlist
-add address=||nurgo-software.com list=gfwlist
-add address=||nutaku.net list=gfwlist
-add address=||nutsvpn.work list=gfwlist
-add address=.nuvid.com list=gfwlist
-add address=||nvdst.com list=gfwlist
-add address=nuzcom.com list=gfwlist
-add address=.nvquan.org list=gfwlist
-add address=.nvtongzhisheng.org list=gfwlist
-add address=|http://nvtongzhisheng.org list=gfwlist
-add address=.nwtca.org list=gfwlist
-add address=|http://nyaa.eu list=gfwlist
-add address=||nyaa.si list=gfwlist
-add address=||nybooks.com list=gfwlist
-add address=.nydus.ca list=gfwlist
-add address=nylon-angel.com list=gfwlist
-add address=nylonstockingsonline.com list=gfwlist
-add address=||nypost.com list=gfwlist
-add address=.nzchinese.com list=gfwlist
-add address=||nzchinese.net.nz list=gfwlist
-add address=||oann.com list=gfwlist
-add address=observechina.net list=gfwlist
-add address=.obutu.com list=gfwlist
-add address=ocaspro.com list=gfwlist
-add address=occupytiananmen.com list=gfwlist
-add address=oclp.hk list=gfwlist
-add address=.ocreampies.com list=gfwlist
-add address=||october-review.org list=gfwlist
-add address=||odysee.com list=gfwlist
-add address=offbeatchina.com list=gfwlist
-add address=||officeoftibet.com list=gfwlist
-add address=|http://ofile.org list=gfwlist
-add address=||ogaoga.org list=gfwlist
-add address=twtr2src.ogaoga.org list=gfwlist
-add address=.ogate.org list=gfwlist
-add address=||ogate.org list=gfwlist
-add address=www2.ohchr.org/english/bodies/cat/docs/ngos/II_China_41.pdf list=gfwlist
-add address=||ohmyrss.com list=gfwlist
-add address=.oikos.com.tw/v4 list=gfwlist
-add address=.oiktv.com list=gfwlist
-add address=oizoblog.com list=gfwlist
-add address=.ok.ru list=gfwlist
-add address=||ok.ru list=gfwlist
-add address=.okayfreedom.com list=gfwlist
-add address=||okayfreedom.com list=gfwlist
-add address=||okk.tw list=gfwlist
-add address=|http://filmy.olabloga.pl/player list=gfwlist
-add address=old-cat.net list=gfwlist
-add address=||olevod.com list=gfwlist
-add address=||olumpo.com list=gfwlist
-add address=.olympicwatch.org list=gfwlist
-add address=||omct.org list=gfwlist
-add address=omgili.com list=gfwlist
-add address=||omnitalk.com list=gfwlist
-add address=||omnitalk.org list=gfwlist
-add address=||omny.fm list=gfwlist
-add address=cling.omy.sg list=gfwlist
-add address=forum.omy.sg list=gfwlist
-add address=news.omy.sg list=gfwlist
-add address=showbiz.omy.sg list=gfwlist
-add address=||on.cc list=gfwlist
-add address=||onedrive.live.com list=gfwlist
-add address=||onion.city list=gfwlist
-add address=||onion.ly list=gfwlist
-add address=.onlinecha.com list=gfwlist
-add address=||onlineyoutube.com list=gfwlist
-add address=||onlygayvideo.com list=gfwlist
-add address=.onlytweets.com list=gfwlist
-add address=|http://onlytweets.com list=gfwlist
-add address=onmoon.net list=gfwlist
-add address=onmoon.com list=gfwlist
-add address=.onthehunt.com list=gfwlist
-add address=|http://onthehunt.com list=gfwlist
-add address=.oopsforum.com list=gfwlist
-add address=open.com.hk list=gfwlist
-add address=openallweb.com list=gfwlist
-add address=opendemocracy.net list=gfwlist
-add address=||opendemocracy.net list=gfwlist
-add address=.openervpn.in list=gfwlist
-add address=openid.net list=gfwlist
-add address=||openid.net list=gfwlist
-add address=.openleaks.org list=gfwlist
-add address=||openleaks.org list=gfwlist
-add address=||openstreetmap.org list=gfwlist
-add address=||opentech.fund list=gfwlist
-add address=openvpn.net list=gfwlist
-add address=||openvpn.net list=gfwlist
-add address=||openwebster.com list=gfwlist
-add address=.openwrt.org.cn list=gfwlist
-add address=@@||openwrt.org.cn list=gfwlist
-add address=my.opera.com/dahema list=gfwlist
-add address=||demo.opera-mini.net list=gfwlist
-add address=.opus-gaming.com list=gfwlist
-add address=|http://opus-gaming.com list=gfwlist
-add address=www.orchidbbs.com list=gfwlist
-add address=.organcare.org.tw list=gfwlist
-add address=organharvestinvestigation.net list=gfwlist
-add address=.orgasm.com list=gfwlist
-add address=.orgfree.com list=gfwlist
-add address=||oricon.co.jp list=gfwlist
-add address=||orient-doll.com list=gfwlist
-add address=orientaldaily.com.my list=gfwlist
-add address=||orientaldaily.com.my list=gfwlist
-add address=||orn.jp list=gfwlist
-add address=t.orzdream.com list=gfwlist
-add address=||t.orzdream.com list=gfwlist
-add address=tui.orzdream.com list=gfwlist
-add address=||orzistic.org list=gfwlist
-add address=||osfoora.com list=gfwlist
-add address=.otnd.org list=gfwlist
-add address=||otnd.org list=gfwlist
-add address=||otto.de list=gfwlist
-add address=||ourdearamy.com list=gfwlist
-add address=oursogo.com list=gfwlist
-add address=.oursteps.com.au list=gfwlist
-add address=||oursteps.com.au list=gfwlist
-add address=.oursweb.net list=gfwlist
-add address=||ourtv.hk list=gfwlist
-add address=xinqimeng.over-blog.com list=gfwlist
-add address=||overcast.fm list=gfwlist
-add address=||overdaily.org list=gfwlist
-add address=||overplay.net list=gfwlist
-add address=share.ovi.com/media list=gfwlist
-add address=||ovpn.com list=gfwlist
-add address=|http://owl.li list=gfwlist
-add address=|http://ht.ly list=gfwlist
-add address=|http://htl.li list=gfwlist
-add address=|http://mash.to list=gfwlist
-add address=www.owind.com list=gfwlist
-add address=||owltail.com list=gfwlist
-add address=||oxfordscholarship.com list=gfwlist
-add address=|http://www.oxid.it list=gfwlist
-add address=oyax.com list=gfwlist
-add address=oyghan.com/wps list=gfwlist
-add address=.ozchinese.com/bbs list=gfwlist
-add address=||ow.ly list=gfwlist
-add address=bbs.ozchinese.com list=gfwlist
-add address=.ozvoice.org list=gfwlist
-add address=||ozvoice.org list=gfwlist
-add address=.ozxw.com list=gfwlist
-add address=.ozyoyo.com list=gfwlist
-add address=||pachosting.com list=gfwlist
-add address=.pacificpoker.com list=gfwlist
-add address=.packetix.net list=gfwlist
-add address=||pacopacomama.com list=gfwlist
-add address=.padmanet.com list=gfwlist
-add address=||page.link list=gfwlist
-add address=page2rss.com list=gfwlist
-add address=||pagodabox.com list=gfwlist
-add address=.palacemoon.com list=gfwlist
-add address=forum.palmislife.com list=gfwlist
-add address=||eriversoft.com list=gfwlist
-add address=.paldengyal.com list=gfwlist
-add address=paljorpublications.com list=gfwlist
-add address=.paltalk.com list=gfwlist
-add address=||pandapow.co list=gfwlist
-add address=.pandapow.net list=gfwlist
-add address=.pandavpn-jp.com list=gfwlist
-add address=||pandavpn-jp.com list=gfwlist
-add address=||pandavpnpro.com list=gfwlist
-add address=.panluan.net list=gfwlist
-add address=||panluan.net list=gfwlist
-add address=||pao-pao.net list=gfwlist
-add address=paper.li list=gfwlist
-add address=paperb.us list=gfwlist
-add address=.paradisehill.cc list=gfwlist
-add address=.paradisepoker.com list=gfwlist
-add address=||parler.com list=gfwlist
-add address=||parsevideo.com list=gfwlist
-add address=.partycasino.com list=gfwlist
-add address=.partypoker.com list=gfwlist
-add address=.passion.com list=gfwlist
-add address=||passion.com list=gfwlist
-add address=.passiontimes.hk list=gfwlist
-add address=pastebin.com list=gfwlist
-add address=.pastie.org list=gfwlist
-add address=||pastie.org list=gfwlist
-add address=||blog.pathtosharepoint.com list=gfwlist
-add address=||patreon.com list=gfwlist
-add address=||pawoo.net list=gfwlist
-add address=pbs.org/wgbh/pages/frontline/tankman list=gfwlist
-add address=pbs.org/wgbh/pages/frontline/tibet list=gfwlist
-add address=video.pbs.org list=gfwlist
-add address=pbwiki.com list=gfwlist
-add address=||pbworks.com list=gfwlist
-add address=||developers.box.net list=gfwlist
-add address=||wiki.oauth.net list=gfwlist
-add address=||wiki.phonegap.com list=gfwlist
-add address=||wiki.jqueryui.com list=gfwlist
-add address=||pbxes.com list=gfwlist
-add address=||pbxes.org list=gfwlist
-add address=pcdvd.com.tw list=gfwlist
-add address=.pchome.com.tw list=gfwlist
-add address=|http://pcij.org list=gfwlist
-add address=.pcstore.com.tw list=gfwlist
-add address=||pct.org.tw list=gfwlist
-add address=pdetails.com list=gfwlist
-add address=||pdproxy.com list=gfwlist
-add address=||peace.ca list=gfwlist
-add address=peacefire.org list=gfwlist
-add address=peacehall.com list=gfwlist
-add address=||peacehall.com list=gfwlist
-add address=|http://pearlher.org list=gfwlist
-add address=.peeasian.com list=gfwlist
-add address=||peing.net list=gfwlist
-add address=.pekingduck.org list=gfwlist
-add address=||pekingduck.org list=gfwlist
-add address=.pemulihan.or.id list=gfwlist
-add address=|http://pemulihan.or.id list=gfwlist
-add address=||pen.io list=gfwlist
-add address=penchinese.com list=gfwlist
-add address=||penchinese.net list=gfwlist
-add address=.penchinese.net list=gfwlist
-add address=||blog.pentalogic.net list=gfwlist
-add address=.penthouse.com list=gfwlist
-add address=||pentoy.hk list=gfwlist
-add address=.peoplebookcafe.com list=gfwlist
-add address=.peoplenews.tw list=gfwlist
-add address=||peoplenews.tw list=gfwlist
-add address=.peopo.org list=gfwlist
-add address=||peopo.org list=gfwlist
-add address=.percy.in list=gfwlist
-add address=.perfectgirls.net list=gfwlist
-add address=||perfect-privacy.com list=gfwlist
-add address=||perplexity.ai list=gfwlist
-add address=.persecutionblog.com list=gfwlist
-add address=.persiankitty.com list=gfwlist
-add address=phapluan.org list=gfwlist
-add address=.phayul.com list=gfwlist
-add address=||phayul.com list=gfwlist
-add address=philborges.com list=gfwlist
-add address=||phncdn.com list=gfwlist
-add address=||photodharma.net list=gfwlist
-add address=||photofocus.com list=gfwlist
-add address=||phuquocservices.com list=gfwlist
-add address=||picacomiccn.com list=gfwlist
-add address=.picidae.net list=gfwlist
-add address=||img*.picturedip.com list=gfwlist
-add address=picturesocial.com list=gfwlist
-add address=||pin-cong.com list=gfwlist
-add address=.pin6.com list=gfwlist
-add address=||pin6.com list=gfwlist
-add address=.ping.fm list=gfwlist
-add address=||ping.fm list=gfwlist
-add address=||pinimg.com list=gfwlist
-add address=.pinkrod.com list=gfwlist
-add address=||pinoy-n.com list=gfwlist
-add address=||pinterest.at list=gfwlist
-add address=||pinterest.ca list=gfwlist
-add address=||pinterest.co.kr list=gfwlist
-add address=||pinterest.co.uk list=gfwlist
-add address=.pinterest.com list=gfwlist
-add address=||pinterest.com list=gfwlist
-add address=||pinterest.com.mx list=gfwlist
-add address=||pinterest.de list=gfwlist
-add address=||pinterest.dk list=gfwlist
-add address=||pinterest.fr list=gfwlist
-add address=||pinterest.jp list=gfwlist
-add address=||pinterest.nl list=gfwlist
-add address=||pinterest.se list=gfwlist
-add address=.pipii.tv list=gfwlist
-add address=.piposay.com list=gfwlist
-add address=piraattilahti.org list=gfwlist
-add address=.piring.com list=gfwlist
-add address=||pixeldrain.com list=gfwlist
-add address=||pixelqi.com list=gfwlist
-add address=||css.pixnet.in list=gfwlist
-add address=||pixnet.net list=gfwlist
-add address=.pixnet.net list=gfwlist
-add address=.pk.com list=gfwlist
-add address=||placemix.com list=gfwlist
-add address=|http://pictures.playboy.com list=gfwlist
-add address=||playboy.com list=gfwlist
-add address=.playboyplus.com list=gfwlist
-add address=||playboyplus.com list=gfwlist
-add address=||player.fm list=gfwlist
-add address=.playno1.com list=gfwlist
-add address=||playno1.com list=gfwlist
-add address=||playpcesor.com list=gfwlist
-add address=plays.com.tw list=gfwlist
-add address=||plexvpn.pro list=gfwlist
-add address=||m.plixi.com list=gfwlist
-add address=plm.org.hk list=gfwlist
-add address=plunder.com list=gfwlist
-add address=.plurk.com list=gfwlist
-add address=||plurk.com list=gfwlist
-add address=.plus28.com list=gfwlist
-add address=.plusbb.com list=gfwlist
-add address=.pmatehunter.com list=gfwlist
-add address=||pmatehunter.com list=gfwlist
-add address=.pmates.com list=gfwlist
-add address=||po2b.com list=gfwlist
-add address=pobieramy.top list=gfwlist
-add address=||podbean.com list=gfwlist
-add address=||podictionary.com list=gfwlist
-add address=||poe.com list=gfwlist
-add address=.pokerstars.com list=gfwlist
-add address=||pokerstars.com list=gfwlist
-add address=||pokerstars.net list=gfwlist
-add address=||zh.pokerstrategy.com list=gfwlist
-add address=||politicalchina.org list=gfwlist
-add address=||politicalconsultation.org list=gfwlist
-add address=.politiscales.net list=gfwlist
-add address=||poloniex.com list=gfwlist
-add address=||polymerhk.com list=gfwlist
-add address=.popo.tw list=gfwlist
-add address=||popvote.hk list=gfwlist
-add address=||popxi.click list=gfwlist
-add address=.popyard.com list=gfwlist
-add address=||popyard.org list=gfwlist
-add address=.porn.com list=gfwlist
-add address=.porn2.com list=gfwlist
-add address=.porn5.com list=gfwlist
-add address=.pornbase.org list=gfwlist
-add address=.pornerbros.com list=gfwlist
-add address=||pornhd.com list=gfwlist
-add address=.pornhost.com list=gfwlist
-add address=.pornhub.com list=gfwlist
-add address=||pornhub.com list=gfwlist
-add address=.pornhubdeutsch.net list=gfwlist
-add address=|http://pornhubdeutsch.net list=gfwlist
-add address=||pornmm.net list=gfwlist
-add address=.pornoxo.com list=gfwlist
-add address=.pornrapidshare.com list=gfwlist
-add address=||pornrapidshare.com list=gfwlist
-add address=.pornsharing.com list=gfwlist
-add address=|http://pornsharing.com list=gfwlist
-add address=.pornsocket.com list=gfwlist
-add address=.pornstarclub.com list=gfwlist
-add address=||pornstarclub.com list=gfwlist
-add address=.porntube.com list=gfwlist
-add address=.porntubenews.com list=gfwlist
-add address=.porntvblog.com list=gfwlist
-add address=||porntvblog.com list=gfwlist
-add address=.pornvisit.com list=gfwlist
-add address=.portablevpn.nl list=gfwlist
-add address=||poskotanews.com list=gfwlist
-add address=.post01.com list=gfwlist
-add address=.post76.com list=gfwlist
-add address=||post76.com list=gfwlist
-add address=.post852.com list=gfwlist
-add address=||post852.com list=gfwlist
-add address=postadult.com list=gfwlist
-add address=.postimg.org list=gfwlist
-add address=||potvpn.com list=gfwlist
-add address=||pourquoi.tw list=gfwlist
-add address=||powercx.com list=gfwlist
-add address=.powerphoto.org list=gfwlist
-add address=||www.powerpointninja.com list=gfwlist
-add address=||presidentlee.tw list=gfwlist
-add address=||cdn.printfriendly.com list=gfwlist
-add address=.pritunl.com list=gfwlist
-add address=provpnaccounts.com list=gfwlist
-add address=||provpnaccounts.com list=gfwlist
-add address=.proxfree.com list=gfwlist
-add address=||proxfree.com list=gfwlist
-add address=proxyanonimo.es list=gfwlist
-add address=.proxynetwork.org.uk list=gfwlist
-add address=||proxynetwork.org.uk list=gfwlist
-add address=||pts.org.tw list=gfwlist
-add address=.pttvan.org list=gfwlist
-add address=pubu.com.tw list=gfwlist
-add address=puffinbrowser.com list=gfwlist
-add address=pureinsight.org list=gfwlist
-add address=.pushchinawall.com list=gfwlist
-add address=.putty.org list=gfwlist
-add address=||putty.org list=gfwlist
-add address=||calebelston.com list=gfwlist
-add address=||blog.fizzik.com list=gfwlist
-add address=||nf.id.au list=gfwlist
-add address=||sogrady.me list=gfwlist
-add address=||vatn.org list=gfwlist
-add address=||ventureswell.com list=gfwlist
-add address=||whereiswerner.com list=gfwlist
-add address=.power.com list=gfwlist
-add address=||power.com list=gfwlist
-add address=powerapple.com list=gfwlist
-add address=||powerapple.com list=gfwlist
-add address=||abc.pp.ru list=gfwlist
-add address=heix.pp.ru list=gfwlist
-add address=||prayforchina.net list=gfwlist
-add address=||premeforwindows7.com list=gfwlist
-add address=||presentationzen.com list=gfwlist
-add address=||prestige-av.com list=gfwlist
-add address=.prisoneralert.com list=gfwlist
-add address=||pritunl.com list=gfwlist
-add address=||privacybox.de list=gfwlist
-add address=.private.com/home list=gfwlist
-add address=||privateinternetaccess.com list=gfwlist
-add address=privatepaste.com list=gfwlist
-add address=||privatepaste.com list=gfwlist
-add address=privatetunnel.com list=gfwlist
-add address=||privatetunnel.com list=gfwlist
-add address=||privatevpn.com list=gfwlist
-add address=||privoxy.org list=gfwlist
-add address=||procopytips.com list=gfwlist
-add address=||project-syndicate.org list=gfwlist
-add address=||proton.me list=gfwlist
-add address=provideocoalition.com list=gfwlist
-add address=||prosiben.de list=gfwlist
-add address=proxifier.com list=gfwlist
-add address=||proxomitron.info list=gfwlist
-add address=.proxpn.com list=gfwlist
-add address=||proxpn.com list=gfwlist
-add address=.proxylist.org.uk list=gfwlist
-add address=||proxylist.org.uk list=gfwlist
-add address=.proxypy.net list=gfwlist
-add address=||proxypy.net list=gfwlist
-add address=proxyroad.com list=gfwlist
-add address=.proxytunnel.net list=gfwlist
-add address=||proyectoclubes.com list=gfwlist
-add address=prozz.net list=gfwlist
-add address=psblog.name list=gfwlist
-add address=||psblog.name list=gfwlist
-add address=||pshvpn.com list=gfwlist
-add address=||psiphon.ca list=gfwlist
-add address=.psiphon3.com list=gfwlist
-add address=||psiphon3.com list=gfwlist
-add address=.psiphontoday.com list=gfwlist
-add address=||pstatic.net list=gfwlist
-add address=||pt.im list=gfwlist
-add address=.ptt.cc list=gfwlist
-add address=||ptt.cc list=gfwlist
-add address=||pttgame.com list=gfwlist
-add address=.puffstore.com list=gfwlist
-add address=.puuko.com list=gfwlist
-add address=||pullfolio.com list=gfwlist
-add address=.punyu.com/puny list=gfwlist
-add address=||pureconcepts.net list=gfwlist
-add address=||pureinsight.org list=gfwlist
-add address=||purepdf.com list=gfwlist
-add address=||purevpn.com list=gfwlist
-add address=.purplelotus.org list=gfwlist
-add address=.pursuestar.com list=gfwlist
-add address=||pursuestar.com list=gfwlist
-add address=||nitter.pussthecat.org list=gfwlist
-add address=.pussyspace.com list=gfwlist
-add address=.putihome.org list=gfwlist
-add address=.putlocker.com/file list=gfwlist
-add address=pwned.com list=gfwlist
-add address=||pximg.net list=gfwlist
-add address=python.com list=gfwlist
-add address=.python.com.tw list=gfwlist
-add address=||python.com.tw list=gfwlist
-add address=pythonhackers.com/p list=gfwlist
-add address=ss.pythonic.life list=gfwlist
-add address=.qanote.com list=gfwlist
-add address=||qanote.com list=gfwlist
-add address=||qbittorrent.org list=gfwlist
-add address=||qgirl.com.tw list=gfwlist
-add address=||qianbai.tw list=gfwlist
-add address=||qiandao.today list=gfwlist
-add address=||qiangwaikan.com list=gfwlist
-add address=.qi-gong.me list=gfwlist
-add address=||qi-gong.me list=gfwlist
-add address=||qiangyou.org list=gfwlist
-add address=.qidian.ca list=gfwlist
-add address=.qienkuen.org list=gfwlist
-add address=||qienkuen.org list=gfwlist
-add address=||qiwen.lu list=gfwlist
-add address=qixianglu.cn list=gfwlist
-add address=bbs.qmzdd.com list=gfwlist
-add address=.qkshare.com list=gfwlist
-add address=qoos.com list=gfwlist
-add address=||qoos.com list=gfwlist
-add address=||efksoft.com list=gfwlist
-add address=||qstatus.com list=gfwlist
-add address=||qtweeter.com list=gfwlist
-add address=||qtrac.eu list=gfwlist
-add address=.quannengshen.org list=gfwlist
-add address=||quannengshen.org list=gfwlist
-add address=quantumbooter.net list=gfwlist
-add address=||quitccp.net list=gfwlist
-add address=.quitccp.net list=gfwlist
-add address=||quitccp.org list=gfwlist
-add address=.quitccp.org list=gfwlist
-add address=.quora.com/Chinas-Future list=gfwlist
-add address=.quran.com list=gfwlist
-add address=|http://quran.com list=gfwlist
-add address=.quranexplorer.com list=gfwlist
-add address=qusi8.net list=gfwlist
-add address=.qvodzy.org list=gfwlist
-add address=nemesis2.qx.net/pages/MyEnTunnel list=gfwlist
-add address=qxbbs.org list=gfwlist
-add address=||r0.ru list=gfwlist
-add address=||radio-canada.ca list=gfwlist
-add address=||rael.org list=gfwlist
-add address=radicalparty.org list=gfwlist
-add address=||radio.garden list=gfwlist
-add address=||radioaustralia.net.au list=gfwlist
-add address=.radiohilight.net list=gfwlist
-add address=||radiohilight.net list=gfwlist
-add address=||radioline.co list=gfwlist
-add address=opml.radiotime.com list=gfwlist
-add address=||radiovaticana.org list=gfwlist
-add address=||radiovncr.com list=gfwlist
-add address=||raggedbanner.com list=gfwlist
-add address=||raidcall.com.tw list=gfwlist
-add address=.raidtalk.com.tw list=gfwlist
-add address=.rainbowplan.org/bbs list=gfwlist
-add address=|https://raindrop.io/ list=gfwlist
-add address=.raizoji.or.jp list=gfwlist
-add address=|http://raizoji.or.jp list=gfwlist
-add address=rangwang.biz list=gfwlist
-add address=rangzen.net list=gfwlist
-add address=rangzen.org list=gfwlist
-add address=|http://blog.ranxiang.com/ list=gfwlist
-add address=ranyunfei.com list=gfwlist
-add address=||ranyunfei.com list=gfwlist
-add address=.rapbull.net list=gfwlist
-add address=||rapidmoviez.com list=gfwlist
-add address=rapidvpn.com list=gfwlist
-add address=||rapidvpn.com list=gfwlist
-add address=||rarbgprx.org list=gfwlist
-add address=.raremovie.cc list=gfwlist
-add address=|http://raremovie.cc list=gfwlist
-add address=.raremovie.net list=gfwlist
-add address=|http://raremovie.net list=gfwlist
-add address=||rationalwiki.org list=gfwlist
-add address=||rawgit.com list=gfwlist
-add address=||rawgithub.com list=gfwlist
-add address=||razyboard.com list=gfwlist
-add address=rcinet.ca list=gfwlist
-add address=.read100.com list=gfwlist
-add address=.readingtimes.com.tw list=gfwlist
-add address=||readingtimes.com.tw list=gfwlist
-add address=||readmoo.com list=gfwlist
-add address=.readydown.com list=gfwlist
-add address=|http://readydown.com list=gfwlist
-add address=.realcourage.org list=gfwlist
-add address=.realitykings.com list=gfwlist
-add address=||realitykings.com list=gfwlist
-add address=.realraptalk.com list=gfwlist
-add address=.realsexpass.com list=gfwlist
-add address=||reason.com list=gfwlist
-add address=.recordhistory.org list=gfwlist
-add address=.recovery.org.tw list=gfwlist
-add address=|http://online.recoveryversion.org list=gfwlist
-add address=||recoveryversion.com.tw list=gfwlist
-add address=||red-lang.org list=gfwlist
-add address=redballoonsolidarity.org list=gfwlist
-add address=||redbubble.com list=gfwlist
-add address=.redchinacn.net list=gfwlist
-add address=|http://redchinacn.net list=gfwlist
-add address=redchinacn.org list=gfwlist
-add address=redtube.com list=gfwlist
-add address=referer.us list=gfwlist
-add address=||referer.us list=gfwlist
-add address=||reflectivecode.com list=gfwlist
-add address=relaxbbs.com list=gfwlist
-add address=.relay.com.tw list=gfwlist
-add address=.releaseinternational.org list=gfwlist
-add address=||religionnews.com list=gfwlist
-add address=religioustolerance.org list=gfwlist
-add address=renminbao.com list=gfwlist
-add address=||renminbao.com list=gfwlist
-add address=.renyurenquan.org list=gfwlist
-add address=||renyurenquan.org list=gfwlist
-add address=|http://certificate.revocationcheck.com list=gfwlist
-add address=subacme.rerouted.org list=gfwlist
-add address=||resilio.com list=gfwlist
-add address=.reuters.com list=gfwlist
-add address=||reuters.com list=gfwlist
-add address=||reutersmedia.net list=gfwlist
-add address=.revleft.com list=gfwlist
-add address=||resistchina.org list=gfwlist
-add address=retweetist.com list=gfwlist
-add address=||retweetrank.com list=gfwlist
-add address=revver.com list=gfwlist
-add address=.rfa.org list=gfwlist
-add address=||rfa.org list=gfwlist
-add address=.rfachina.com list=gfwlist
-add address=.rfamobile.org list=gfwlist
-add address=rfaweb.org list=gfwlist
-add address=||rferl.org list=gfwlist
-add address=.rfi.fr list=gfwlist
-add address=||rfi.fr list=gfwlist
-add address=||rfi.my list=gfwlist
-add address=|http://vds.rightster.com/ list=gfwlist
-add address=.rigpa.org list=gfwlist
-add address=.rileyguide.com list=gfwlist
-add address=||riku.me list=gfwlist
-add address=.ritouki.jp list=gfwlist
-add address=||ritter.vg list=gfwlist
-add address=.rlwlw.com list=gfwlist
-add address=||rlwlw.com list=gfwlist
-add address=||rmbl.ws list=gfwlist
-add address=.rmjdw.com list=gfwlist
-add address=.rmjdw132.info list=gfwlist
-add address=.roadshow.hk list=gfwlist
-add address=.roboforex.com list=gfwlist
-add address=||robustnessiskey.com list=gfwlist
-add address=||rocket-inc.net list=gfwlist
-add address=|http://www2.rocketbbs.com/11/bbs.cgi?id=5mus list=gfwlist
-add address=|http://www2.rocketbbs.com/11/bbs.cgi?id=freemgl list=gfwlist
-add address=||rojo.com list=gfwlist
-add address=||ronjoneswriter.com list=gfwlist
-add address=||rolfoundation.org list=gfwlist
-add address=||rolia.net list=gfwlist
-add address=||rolsociety.org list=gfwlist
-add address=.roodo.com list=gfwlist
-add address=.rosechina.net list=gfwlist
-add address=.rotten.com list=gfwlist
-add address=||rou.video list=gfwlist
-add address=.rsf.org list=gfwlist
-add address=||rsf.org list=gfwlist
-add address=.rsf-chinese.org list=gfwlist
-add address=||rsf-chinese.org list=gfwlist
-add address=.rsgamen.org list=gfwlist
-add address=||rsshub.app list=gfwlist
-add address=||phosphation13.rssing.com list=gfwlist
-add address=.rssmeme.com list=gfwlist
-add address=||rssmeme.com list=gfwlist
-add address=||rtalabel.org list=gfwlist
-add address=.rthk.hk list=gfwlist
-add address=||rthk.hk list=gfwlist
-add address=.rthk.org.hk list=gfwlist
-add address=||rthk.org.hk list=gfwlist
-add address=.rti.org.tw list=gfwlist
-add address=||rti.org.tw list=gfwlist
-add address=||rti.tw list=gfwlist
-add address=.rtycminnesota.org list=gfwlist
-add address=.ruanyifeng.com/blog*some_ways_to_break_the_great_firewall list=gfwlist
-add address=rukor.org list=gfwlist
-add address=||rule34.xxx list=gfwlist
-add address=||rumble.com list=gfwlist
-add address=.runbtx.com list=gfwlist
-add address=.rushbee.com list=gfwlist
-add address=||rusvpn.com list=gfwlist
-add address=.ruten.com.tw list=gfwlist
-add address=||ruten.com.tw list=gfwlist
-add address=||rutracker.net list=gfwlist
-add address=rutube.ru list=gfwlist
-add address=.ruyiseek.com list=gfwlist
-add address=.rxhj.net list=gfwlist
-add address=|http://rxhj.net list=gfwlist
-add address=.s1s1s1.com list=gfwlist
-add address=||s-cute.com list=gfwlist
-add address=.s-dragon.org list=gfwlist
-add address=||s1heng.com list=gfwlist
-add address=|http://www.s4miniarchive.com list=gfwlist
-add address=||s8forum.com list=gfwlist
-add address=cdn1.lp.saboom.com list=gfwlist
-add address=||sacks.com list=gfwlist
-add address=sacom.hk list=gfwlist
-add address=||sacom.hk list=gfwlist
-add address=||sadpanda.us list=gfwlist
-add address=||safechat.com list=gfwlist
-add address=||safeguarddefenders.com list=gfwlist
-add address=.safervpn.com list=gfwlist
-add address=||safervpn.com list=gfwlist
-add address=.saintyculture.com list=gfwlist
-add address=|http://saintyculture.com list=gfwlist
-add address=.saiq.me list=gfwlist
-add address=||saiq.me list=gfwlist
-add address=||sakuralive.com list=gfwlist
-add address=.sakya.org list=gfwlist
-add address=.salvation.org.hk list=gfwlist
-add address=||salvation.org.hk list=gfwlist
-add address=.samair.ru/proxy/type-01 list=gfwlist
-add address=.sambhota.org list=gfwlist
-add address=||cn.sandscotaicentral.com list=gfwlist
-add address=||sankakucomplex.com list=gfwlist
-add address=||sankei.com list=gfwlist
-add address=.sanmin.com.tw list=gfwlist
-add address=sapikachu.net list=gfwlist
-add address=savemedia.com list=gfwlist
-add address=||savethesounds.info list=gfwlist
-add address=.savetibet.de list=gfwlist
-add address=||savetibet.de list=gfwlist
-add address=savetibet.fr list=gfwlist
-add address=savetibet.nl list=gfwlist
-add address=.savetibet.org list=gfwlist
-add address=||savetibet.org list=gfwlist
-add address=savetibet.ru list=gfwlist
-add address=.savetibetstore.org list=gfwlist
-add address=||savetibetstore.org list=gfwlist
-add address=||saveuighur.org list=gfwlist
-add address=savevid.com list=gfwlist
-add address=||say2.info list=gfwlist
-add address=.sbme.me list=gfwlist
-add address=|http://sbme.me list=gfwlist
-add address=.sbs.com.au/yourlanguage list=gfwlist
-add address=.scasino.com list=gfwlist
-add address=|http://www.sciencemag.org/content/344/6187/953 list=gfwlist
-add address=.sciencenets.com list=gfwlist
-add address=.scmp.com list=gfwlist
-add address=||scmp.com list=gfwlist
-add address=.scmpchinese.com list=gfwlist
-add address=||scramble.io list=gfwlist
-add address=.scribd.com list=gfwlist
-add address=||scribd.com list=gfwlist
-add address=||scriptspot.com list=gfwlist
-add address=||search.com list=gfwlist
-add address=.searchtruth.com list=gfwlist
-add address=||searx.me list=gfwlist
-add address=||seattlefdc.com list=gfwlist
-add address=.secretchina.com list=gfwlist
-add address=||secretchina.com list=gfwlist
-add address=||secretgarden.no list=gfwlist
-add address=.secretsline.biz list=gfwlist
-add address=||secretsline.biz list=gfwlist
-add address=||secureservercdn.net list=gfwlist
-add address=||securetunnel.com list=gfwlist
-add address=securityinabox.org list=gfwlist
-add address=|https://securityinabox.org list=gfwlist
-add address=.securitykiss.com list=gfwlist
-add address=||securitykiss.com list=gfwlist
-add address=||seed4.me list=gfwlist
-add address=news.seehua.com list=gfwlist
-add address=seesmic.com list=gfwlist
-add address=||seevpn.com list=gfwlist
-add address=||seezone.net list=gfwlist
-add address=sejie.com list=gfwlist
-add address=.sendspace.com list=gfwlist
-add address=||sensortower.com list=gfwlist
-add address=|http://tweets.seraph.me/ list=gfwlist
-add address=sesawe.net list=gfwlist
-add address=||sesawe.net list=gfwlist
-add address=.sesawe.org list=gfwlist
-add address=||sethwklein.net list=gfwlist
-add address=.setn.com list=gfwlist
-add address=.settv.com.tw list=gfwlist
-add address=forum.setty.com.tw list=gfwlist
-add address=.sevenload.com list=gfwlist
-add address=||sevenload.com list=gfwlist
-add address=.sex.com list=gfwlist
-add address=||sex.com list=gfwlist
-add address=.sex-11.com list=gfwlist
-add address=||sex3.com list=gfwlist
-add address=||sex8.cc list=gfwlist
-add address=.sexandsubmission.com list=gfwlist
-add address=.sexbot.com list=gfwlist
-add address=.sexhu.com list=gfwlist
-add address=.sexhuang.com list=gfwlist
-add address=sexinsex.net list=gfwlist
-add address=||sexinsex.net list=gfwlist
-add address=.sextvx.com list=gfwlist
-add address=67.220.91.15 list=gfwlist
-add address=67.220.91.18 list=gfwlist
-add address=67.220.91.23 list=gfwlist
-add address=|http://*.sf.net list=gfwlist
-add address=.sfileydy.com list=gfwlist
-add address=||sfshibao.com list=gfwlist
-add address=.sftindia.org list=gfwlist
-add address=.sftuk.org list=gfwlist
-add address=||sftuk.org list=gfwlist
-add address=||shadeyouvpn.com list=gfwlist
-add address=shadow.ma list=gfwlist
-add address=.shadowsky.xyz list=gfwlist
-add address=.shadowsocks.asia list=gfwlist
-add address=||www.shadowsocks.com list=gfwlist
-add address=.shadowsocks.com list=gfwlist
-add address=||shadowsocks.com.hk list=gfwlist
-add address=.shadowsocks.org list=gfwlist
-add address=||shadowsocks.org list=gfwlist
-add address=||shadowsocks-r.com list=gfwlist
-add address=|http://cn.shafaqna.com list=gfwlist
-add address=||shahit.biz list=gfwlist
-add address=.shambalapost.com list=gfwlist
-add address=.shambhalasun.com list=gfwlist
-add address=.shangfang.org list=gfwlist
-add address=||shangfang.org list=gfwlist
-add address=shapeservices.com list=gfwlist
-add address=.sharebee.com list=gfwlist
-add address=||sharecool.org list=gfwlist
-add address=sharpdaily.com.hk list=gfwlist
-add address=||sharpdaily.com.hk list=gfwlist
-add address=.sharpdaily.hk list=gfwlist
-add address=.sharpdaily.tw list=gfwlist
-add address=.shat-tibet.com list=gfwlist
-add address=sheikyermami.com list=gfwlist
-add address=.shellfire.de list=gfwlist
-add address=||shellfire.de list=gfwlist
-add address=.shenshou.org list=gfwlist
-add address=shenyun.com list=gfwlist
-add address=shenyunperformingarts.org list=gfwlist
-add address=||shenyunperformingarts.org list=gfwlist
-add address=||shenyunshop.com list=gfwlist
-add address=shenzhoufilm.com list=gfwlist
-add address=||shenzhoufilm.com list=gfwlist
-add address=||shenzhouzhengdao.org list=gfwlist
-add address=||sherabgyaltsen.com list=gfwlist
-add address=.shiatv.net list=gfwlist
-add address=.shicheng.org list=gfwlist
-add address=shinychan.com list=gfwlist
-add address=shipcamouflage.com list=gfwlist
-add address=.shireyishunjian.com list=gfwlist
-add address=.shitaotv.org list=gfwlist
-add address=||shixiao.org list=gfwlist
-add address=||shizhao.org list=gfwlist
-add address=shizhao.org list=gfwlist
-add address=shkspr.mobi/dabr list=gfwlist
-add address=||shodanhq.com list=gfwlist
-add address=||shooshtime.com list=gfwlist
-add address=.shop2000.com.tw list=gfwlist
-add address=||shopee.tw list=gfwlist
-add address=.shopping.com list=gfwlist
-add address=.showhaotu.com list=gfwlist
-add address=.showtime.jp list=gfwlist
-add address=||showwe.tw list=gfwlist
-add address=.shutterstock.com list=gfwlist
-add address=||shutterstock.com list=gfwlist
-add address=ch.shvoong.com list=gfwlist
-add address=.shwchurch.org list=gfwlist
-add address=||shwchurch.org list=gfwlist
-add address=.shwchurch3.com list=gfwlist
-add address=|http://shwchurch3.com list=gfwlist
-add address=.siddharthasintent.org list=gfwlist
-add address=||sidelinesnews.com list=gfwlist
-add address=.sidelinessportseatery.com list=gfwlist
-add address=||signal.org list=gfwlist
-add address=.sijihuisuo.club list=gfwlist
-add address=.sijihuisuo.com list=gfwlist
-add address=.silkbook.com list=gfwlist
-add address=||simbolostwitter.com list=gfwlist
-add address=simplecd.org list=gfwlist
-add address=||simplecd.org list=gfwlist
-add address=@@||simplecd.me list=gfwlist
-add address=simpleproductivityblog.com list=gfwlist
-add address=bbs.sina.com/ list=gfwlist
-add address=bbs.sina.com%2F list=gfwlist
-add address=blog.sina.com.tw list=gfwlist
-add address=dailynews.sina.com/ list=gfwlist
-add address=dailynews.sina.com%2F list=gfwlist
-add address=forum.sina.com.hk list=gfwlist
-add address=home.sina.com list=gfwlist
-add address=||magazines.sina.com.tw list=gfwlist
-add address=news.sina.com.hk list=gfwlist
-add address=news.sina.com.tw list=gfwlist
-add address=news.sinchew.com.my list=gfwlist
-add address=.sinchew.com.my/node/ list=gfwlist
-add address=.sinchew.com.my/taxonomy/term list=gfwlist
-add address=.singaporepools.com.sg list=gfwlist
-add address=||singaporepools.com.sg list=gfwlist
-add address=.singfortibet.com list=gfwlist
-add address=.singpao.com.hk list=gfwlist
-add address=singtao.com list=gfwlist
-add address=||singtao.com list=gfwlist
-add address=news.singtao.ca list=gfwlist
-add address=.singtaousa.com list=gfwlist
-add address=||singtaousa.com list=gfwlist
-add address=sino-monthly.com list=gfwlist
-add address=||sinoca.com list=gfwlist
-add address=||sinocast.com list=gfwlist
-add address=sinocism.com list=gfwlist
-add address=sinomontreal.ca list=gfwlist
-add address=.sinonet.ca list=gfwlist
-add address=.sinopitt.info list=gfwlist
-add address=.sinoants.com list=gfwlist
-add address=||sinoants.com list=gfwlist
-add address=||sinoinsider.com list=gfwlist
-add address=.sinoquebec.com list=gfwlist
-add address=.sierrafriendsoftibet.org list=gfwlist
-add address=sis.xxx list=gfwlist
-add address=||sis001.com list=gfwlist
-add address=sis001.us list=gfwlist
-add address=.site2unblock.com list=gfwlist
-add address=||site90.net list=gfwlist
-add address=.sitebro.tw list=gfwlist
-add address=||sitekreator.com list=gfwlist
-add address=||siteks.uk.to list=gfwlist
-add address=||sitemaps.org list=gfwlist
-add address=.sjrt.org list=gfwlist
-add address=|http://sjrt.org list=gfwlist
-add address=||sjum.cn list=gfwlist
-add address=||sketchappsources.com list=gfwlist
-add address=||skimtube.com list=gfwlist
-add address=||lab.skk.moe list=gfwlist
-add address=||skybet.com list=gfwlist
-add address=|http://users.skynet.be/reves/tibethome.html list=gfwlist
-add address=.skyking.com.tw list=gfwlist
-add address=bbs.skykiwi.com list=gfwlist
-add address=|http://www.skype.com/intl/ list=gfwlist
-add address=|http://www.skype.com/zh-Hant list=gfwlist
-add address=||skyvegas.com list=gfwlist
-add address=.xskywalker.com list=gfwlist
-add address=||xskywalker.com list=gfwlist
-add address=||skyxvpn.com list=gfwlist
-add address=m.slandr.net list=gfwlist
-add address=.slaytizle.com list=gfwlist
-add address=.sleazydream.com list=gfwlist
-add address=||slheng.com list=gfwlist
-add address=||slideshare.net list=gfwlist
-add address=forum.slime.com.tw list=gfwlist
-add address=.slinkset.com list=gfwlist
-add address=||slickvpn.com list=gfwlist
-add address=.slutload.com list=gfwlist
-add address=||smartdnsproxy.com list=gfwlist
-add address=.smarthide.com list=gfwlist
-add address=||app.smartmailcloud.com list=gfwlist
-add address=smchbooks.com list=gfwlist
-add address=.smh.com.au/world/death-of-chinese-playboy-leaves-fresh-scratches-in-party-paintwork-20120903-25a8v list=gfwlist
-add address=smhric.org list=gfwlist
-add address=.smith.edu/dalailama list=gfwlist
-add address=.smyxy.org list=gfwlist
-add address=||snapchat.com list=gfwlist
-add address=.snaptu.com list=gfwlist
-add address=||snaptu.com list=gfwlist
-add address=||sndcdn.com list=gfwlist
-add address=sneakme.net list=gfwlist
-add address=snowlionpub.com list=gfwlist
-add address=home.so-net.net.tw/yisa_tsai list=gfwlist
-add address=||soc.mil list=gfwlist
-add address=||socialblade.com list=gfwlist
-add address=.socks-proxy.net list=gfwlist
-add address=||socks-proxy.net list=gfwlist
-add address=.sockscap64.com list=gfwlist
-add address=||sockslist.net list=gfwlist
-add address=.socrec.org list=gfwlist
-add address=|http://socrec.org list=gfwlist
-add address=.sod.co.jp list=gfwlist
-add address=.softether.org list=gfwlist
-add address=||softether.org list=gfwlist
-add address=.softether-download.com list=gfwlist
-add address=||softether-download.com list=gfwlist
-add address=||cdn.softlayer.net list=gfwlist
-add address=||sogclub.com list=gfwlist
-add address=sohcradio.com list=gfwlist
-add address=||sohcradio.com list=gfwlist
-add address=.sokmil.com list=gfwlist
-add address=||sorting-algorithms.com list=gfwlist
-add address=.sostibet.org list=gfwlist
-add address=.soumo.info list=gfwlist
-add address=||soup.io list=gfwlist
-add address=@@||static.soup.io list=gfwlist
-add address=.sobees.com list=gfwlist
-add address=||sobees.com list=gfwlist
-add address=socialwhale.com list=gfwlist
-add address=.softether.co.jp list=gfwlist
-add address=||softwarebychuck.com list=gfwlist
-add address=blog.sogoo.org list=gfwlist
-add address=soh.tw list=gfwlist
-add address=||soh.tw list=gfwlist
-add address=sohfrance.org list=gfwlist
-add address=||sohfrance.org list=gfwlist
-add address=chinese.soifind.com list=gfwlist
-add address=sokamonline.com list=gfwlist
-add address=||solana.com list=gfwlist
-add address=.solidaritetibet.org list=gfwlist
-add address=.solidfiles.com list=gfwlist
-add address=||somee.com list=gfwlist
-add address=.songjianjun.com list=gfwlist
-add address=||songjianjun.com list=gfwlist
-add address=.sonicbbs.cc list=gfwlist
-add address=.sonidodelaesperanza.org list=gfwlist
-add address=.sopcast.com list=gfwlist
-add address=.sopcast.org list=gfwlist
-add address=||nakedsecurity.sophos.com list=gfwlist
-add address=.sorazone.net list=gfwlist
-add address=||sos.org list=gfwlist
-add address=bbs.sou-tong.org list=gfwlist
-add address=.soubory.com list=gfwlist
-add address=|http://soubory.com list=gfwlist
-add address=.soul-plus.net list=gfwlist
-add address=.soulcaliburhentai.net list=gfwlist
-add address=||soulcaliburhentai.net list=gfwlist
-add address=||soundcloud.com list=gfwlist
-add address=.soundofhope.kr list=gfwlist
-add address=soundofhope.org list=gfwlist
-add address=||soundofhope.org list=gfwlist
-add address=||soupofmedia.com list=gfwlist
-add address=|http://sourceforge.net/p*/shadowsocksgui/ list=gfwlist
-add address=.sourcewadio.com list=gfwlist
-add address=||south-plus.org list=gfwlist
-add address=southnews.com.tw list=gfwlist
-add address=sowers.org.hk list=gfwlist
-add address=||wlx.sowiki.net list=gfwlist
-add address=||spankbang.com list=gfwlist
-add address=.spankingtube.com list=gfwlist
-add address=.spankwire.com list=gfwlist
-add address=||spb.com list=gfwlist
-add address=||speakerdeck.com list=gfwlist
-add address=||speedify.com list=gfwlist
-add address=spem.at list=gfwlist
-add address=||spencertipping.com list=gfwlist
-add address=||spendee.com list=gfwlist
-add address=||spicevpn.com list=gfwlist
-add address=.spideroak.com list=gfwlist
-add address=||spideroak.com list=gfwlist
-add address=.spike.com list=gfwlist
-add address=.spotflux.com list=gfwlist
-add address=||spotflux.com list=gfwlist
-add address=.spring4u.info list=gfwlist
-add address=||spring4u.info list=gfwlist
-add address=||springwood.me list=gfwlist
-add address=||sproutcore.com list=gfwlist
-add address=||sproxy.info list=gfwlist
-add address=||squirrelvpn.com list=gfwlist
-add address=||srocket.us list=gfwlist
-add address=.ss-link.com list=gfwlist
-add address=||ss-link.com list=gfwlist
-add address=.ssglobal.co/wp list=gfwlist
-add address=|http://ssglobal.co list=gfwlist
-add address=.ssglobal.me list=gfwlist
-add address=||ssh91.com list=gfwlist
-add address=.sspro.ml list=gfwlist
-add address=|http://sspro.ml list=gfwlist
-add address=.ssrshare.com list=gfwlist
-add address=||ssrshare.com list=gfwlist
-add address=||sss.camp list=gfwlist
-add address=||sstm.moe list=gfwlist
-add address=||sstmlt.moe list=gfwlist
-add address=sstmlt.net list=gfwlist
-add address=||sstmlt.net list=gfwlist
-add address=|http://stackoverflow.com/users/895245 list=gfwlist
-add address=.stage64.hk list=gfwlist
-add address=||stage64.hk list=gfwlist
-add address=||standupfortibet.org list=gfwlist
-add address=||standwithhk.org list=gfwlist
-add address=stanford.edu/group/falun list=gfwlist
-add address=usinfo.state.gov list=gfwlist
-add address=||statueofdemocracy.org list=gfwlist
-add address=.starfishfx.com list=gfwlist
-add address=.starp2p.com list=gfwlist
-add address=||starp2p.com list=gfwlist
-add address=.startpage.com list=gfwlist
-add address=||startpage.com list=gfwlist
-add address=.startuplivingchina.com list=gfwlist
-add address=|http://startuplivingchina.com list=gfwlist
-add address=||static-economist.com list=gfwlist
-add address=||stboy.net list=gfwlist
-add address=||stc.com.sa list=gfwlist
-add address=||steel-storm.com list=gfwlist
-add address=.steganos.com list=gfwlist
-add address=||steganos.com list=gfwlist
-add address=.steganos.net list=gfwlist
-add address=.stepchina.com list=gfwlist
-add address=ny.stgloballink.com list=gfwlist
-add address=hd.stheadline.com/news/realtime list=gfwlist
-add address=sthoo.com list=gfwlist
-add address=||sthoo.com list=gfwlist
-add address=.stickam.com list=gfwlist
-add address=stickeraction.com/sesawe list=gfwlist
-add address=.stileproject.com list=gfwlist
-add address=.sto.cc list=gfwlist
-add address=.stoporganharvesting.org list=gfwlist
-add address=||storagenewsletter.com list=gfwlist
-add address=.storm.mg list=gfwlist
-add address=||storm.mg list=gfwlist
-add address=.stoptibetcrisis.net list=gfwlist
-add address=||stoptibetcrisis.net list=gfwlist
-add address=||storify.com list=gfwlist
-add address=||storj.io list=gfwlist
-add address=.stormmediagroup.com list=gfwlist
-add address=||stoweboyd.com list=gfwlist
-add address=||straitstimes.com list=gfwlist
-add address=stranabg.com list=gfwlist
-add address=||straplessdildo.com list=gfwlist
-add address=||streamable.com list=gfwlist
-add address=||streamate.com list=gfwlist
-add address=||streamingthe.net list=gfwlist
-add address=streema.com/tv/NTDTV_Chinese list=gfwlist
-add address=cn.streetvoice.com/article list=gfwlist
-add address=cn.streetvoice.com/diary list=gfwlist
-add address=cn2.streetvoice.com list=gfwlist
-add address=tw.streetvoice.com list=gfwlist
-add address=.strikingly.com list=gfwlist
-add address=||strongvpn.com list=gfwlist
-add address=.strongwindpress.com list=gfwlist
-add address=.student.tw/db list=gfwlist
-add address=||studentsforafreetibet.org list=gfwlist
-add address=||stumbleupon.com list=gfwlist
-add address=stupidvideos.com list=gfwlist
-add address=||substack.com list=gfwlist
-add address=.successfn.com list=gfwlist
-add address=panamapapers.sueddeutsche.de list=gfwlist
-add address=.sugarsync.com list=gfwlist
-add address=||sugarsync.com list=gfwlist
-add address=.sugobbs.com list=gfwlist
-add address=||sugumiru18.com list=gfwlist
-add address=||suissl.com list=gfwlist
-add address=summify.com list=gfwlist
-add address=.sumrando.com list=gfwlist
-add address=||sumrando.com list=gfwlist
-add address=sun1911.com list=gfwlist
-add address=||sundayguardianlive.com list=gfwlist
-add address=.sunporno.com list=gfwlist
-add address=||sunmedia.ca list=gfwlist
-add address=||sunporno.com list=gfwlist
-add address=.sunskyforum.com list=gfwlist
-add address=.sunta.com.tw list=gfwlist
-add address=.sunvpn.net list=gfwlist
-add address=.suoluo.org list=gfwlist
-add address=.superfreevpn.com list=gfwlist
-add address=.supervpn.net list=gfwlist
-add address=||supervpn.net list=gfwlist
-add address=.superzooi.com list=gfwlist
-add address=|http://superzooi.com list=gfwlist
-add address=.suppig.net list=gfwlist
-add address=.suprememastertv.com list=gfwlist
-add address=|http://suprememastertv.com list=gfwlist
-add address=.surfeasy.com list=gfwlist
-add address=||surfeasy.com list=gfwlist
-add address=.surfeasy.com.au list=gfwlist
-add address=|http://surfeasy.com.au list=gfwlist
-add address=||surfshark.com list=gfwlist
-add address=||surrenderat20.net list=gfwlist
-add address=.svsfx.com list=gfwlist
-add address=.swissinfo.ch list=gfwlist
-add address=||swissinfo.ch list=gfwlist
-add address=.swissvpn.net list=gfwlist
-add address=||swissvpn.net list=gfwlist
-add address=switchvpn.net list=gfwlist
-add address=||switchvpn.net list=gfwlist
-add address=.sydneytoday.com list=gfwlist
-add address=||sydneytoday.com list=gfwlist
-add address=.sylfoundation.org list=gfwlist
-add address=||sylfoundation.org list=gfwlist
-add address=||syncback.com list=gfwlist
-add address=sysresccd.org list=gfwlist
-add address=.sytes.net list=gfwlist
-add address=blog.syx86.com/2009/09/puff list=gfwlist
-add address=blog.syx86.cn/2009/09/puff list=gfwlist
-add address=.szbbs.net list=gfwlist
-add address=.szetowah.org.hk list=gfwlist
-add address=||t-g.com list=gfwlist
-add address=.t35.com list=gfwlist
-add address=.t66y.com list=gfwlist
-add address=||t66y.com list=gfwlist
-add address=||esg.t91y.com list=gfwlist
-add address=.taa-usa.org list=gfwlist
-add address=|http://taa-usa.org list=gfwlist
-add address=.taaze.tw list=gfwlist
-add address=||taaze.tw list=gfwlist
-add address=|http://www.tablesgenerator.com/ list=gfwlist
-add address=tabtter.jp list=gfwlist
-add address=.tacem.org list=gfwlist
-add address=.taconet.com.tw list=gfwlist
-add address=||taedp.org.tw list=gfwlist
-add address=.tafm.org list=gfwlist
-add address=.tagwa.org.au list=gfwlist
-add address=tagwalk.com list=gfwlist
-add address=||tagwalk.com list=gfwlist
-add address=tahr.org.tw list=gfwlist
-add address=.taipeisociety.org list=gfwlist
-add address=||taipeisociety.org list=gfwlist
-add address=||taipeitimes.com list=gfwlist
-add address=||taisounds.com list=gfwlist
-add address=.taiwanbible.com list=gfwlist
-add address=.taiwancon.com list=gfwlist
-add address=.taiwandaily.net list=gfwlist
-add address=||taiwandaily.net list=gfwlist
-add address=.taiwandc.org list=gfwlist
-add address=||taiwanhot.net list=gfwlist
-add address=.taiwanjustice.com list=gfwlist
-add address=taiwankiss.com list=gfwlist
-add address=taiwannation.com list=gfwlist
-add address=taiwannation.com.tw list=gfwlist
-add address=||taiwanncf.org.tw list=gfwlist
-add address=||taiwannews.com.tw list=gfwlist
-add address=|http://www.taiwanonline.cc/ list=gfwlist
-add address=taiwantp.net list=gfwlist
-add address=||taiwantt.org.tw list=gfwlist
-add address=taiwanus.net list=gfwlist
-add address=taiwanyes.com list=gfwlist
-add address=taiwan-sex.com list=gfwlist
-add address=.talk853.com list=gfwlist
-add address=.talkboxapp.com list=gfwlist
-add address=||talkboxapp.com list=gfwlist
-add address=.talkcc.com list=gfwlist
-add address=||talkcc.com list=gfwlist
-add address=.talkonly.net list=gfwlist
-add address=||talkonly.net list=gfwlist
-add address=||tamiaode.tk list=gfwlist
-add address=||tanc.org list=gfwlist
-add address=tangben.com list=gfwlist
-add address=.tangren.us list=gfwlist
-add address=.taoism.net list=gfwlist
-add address=|http://taoism.net list=gfwlist
-add address=.taolun.info list=gfwlist
-add address=||taolun.info list=gfwlist
-add address=.tapatalk.com list=gfwlist
-add address=||tapatalk.com list=gfwlist
-add address=blog.taragana.com list=gfwlist
-add address=.tascn.com.au list=gfwlist
-add address=||taup.net list=gfwlist
-add address=|http://www.taup.org.tw list=gfwlist
-add address=.taweet.com list=gfwlist
-add address=||taweet.com list=gfwlist
-add address=.tbcollege.org list=gfwlist
-add address=||tbcollege.org list=gfwlist
-add address=.tbi.org.hk list=gfwlist
-add address=.tbicn.org list=gfwlist
-add address=.tbjyt.org list=gfwlist
-add address=||tbpic.info list=gfwlist
-add address=.tbrc.org list=gfwlist
-add address=tbs-rainbow.org list=gfwlist
-add address=.tbsec.org list=gfwlist
-add address=||tbsec.org list=gfwlist
-add address=tbskkinabalu.page.tl list=gfwlist
-add address=.tbsmalaysia.org list=gfwlist
-add address=.tbsn.org list=gfwlist
-add address=||tbsn.org list=gfwlist
-add address=.tbsseattle.org list=gfwlist
-add address=.tbssqh.org list=gfwlist
-add address=|http://tbssqh.org list=gfwlist
-add address=tbswd.org list=gfwlist
-add address=.tbtemple.org.uk list=gfwlist
-add address=.tbthouston.org list=gfwlist
-add address=.tccwonline.org list=gfwlist
-add address=.tcewf.org list=gfwlist
-add address=tchrd.org list=gfwlist
-add address=tcnynj.org list=gfwlist
-add address=||tcpspeed.co list=gfwlist
-add address=.tcpspeed.com list=gfwlist
-add address=||tcpspeed.com list=gfwlist
-add address=.tcsofbc.org list=gfwlist
-add address=.tcsovi.org list=gfwlist
-add address=.tdm.com.mo list=gfwlist
-add address=teamamericany.com list=gfwlist
-add address=||techspot.com list=gfwlist
-add address=||techviz.net list=gfwlist
-add address=||teck.in list=gfwlist
-add address=.teeniefuck.net list=gfwlist
-add address=teensinasia.com list=gfwlist
-add address=||tehrantimes.com list=gfwlist
-add address=.telecomspace.com list=gfwlist
-add address=||telegraph.co.uk list=gfwlist
-add address=.tenacy.com list=gfwlist
-add address=||tenor.com list=gfwlist
-add address=||tenzinpalmo.com list=gfwlist
-add address=.tew.org list=gfwlist
-add address=||tew.org list=gfwlist
-add address=||tfiflve.com list=gfwlist
-add address=.thaicn.com list=gfwlist
-add address=||theatlantic.com list=gfwlist
-add address=||theatrum-belli.com list=gfwlist
-add address=||cn.theaustralian.com.au list=gfwlist
-add address=theblemish.com list=gfwlist
-add address=||thebcomplex.com list=gfwlist
-add address=||theblaze.com list=gfwlist
-add address=.thebobs.com list=gfwlist
-add address=||thebobs.com list=gfwlist
-add address=.thechinabeat.org list=gfwlist
-add address=||thechinacollection.org list=gfwlist
-add address=|http://www.thechinastory.org/yearbooks/yearbook-2012/ list=gfwlist
-add address=||theconversation.com list=gfwlist
-add address=.thedalailamamovie.com list=gfwlist
-add address=|http://thedalailamamovie.com list=gfwlist
-add address=||thediplomat.com list=gfwlist
-add address=||thedw.us list=gfwlist
-add address=||theepochtimes.com list=gfwlist
-add address=thefrontier.hk/tf list=gfwlist
-add address=||theguardian.com list=gfwlist
-add address=||thegay.com list=gfwlist
-add address=|http://thegioitinhoc.vn/ list=gfwlist
-add address=.thegly.com list=gfwlist
-add address=.thehots.info list=gfwlist
-add address=thehousenews.com list=gfwlist
-add address=||thehun.net list=gfwlist
-add address=.theinitium.com list=gfwlist
-add address=||theinitium.com list=gfwlist
-add address=||themoviedb.org list=gfwlist
-add address=.thenewslens.com list=gfwlist
-add address=||thenewslens.com list=gfwlist
-add address=.thepiratebay.org list=gfwlist
-add address=||thepiratebay.org list=gfwlist
-add address=.theporndude.com list=gfwlist
-add address=||theporndude.com list=gfwlist
-add address=||theportalwiki.com list=gfwlist
-add address=||theprint.in list=gfwlist
-add address=||threadreaderapp.com list=gfwlist
-add address=thereallove.kr list=gfwlist
-add address=therock.net.nz list=gfwlist
-add address=||thesaturdaypaper.com.au list=gfwlist
-add address=||thestandnews.com list=gfwlist
-add address=thetibetcenter.org list=gfwlist
-add address=thetibetconnection.org list=gfwlist
-add address=.thetibetmuseum.org list=gfwlist
-add address=.thetibetpost.com list=gfwlist
-add address=||thetibetpost.com list=gfwlist
-add address=||thetinhat.com list=gfwlist
-add address=thetrotskymovie.com list=gfwlist
-add address=||thetvdb.com list=gfwlist
-add address=thevivekspot.com list=gfwlist
-add address=||thewgo.org list=gfwlist
-add address=.theync.com list=gfwlist
-add address=|http://theync.com list=gfwlist
-add address=.thinkingtaiwan.com list=gfwlist
-add address=||thinkingtaiwan.com list=gfwlist
-add address=.thisav.com list=gfwlist
-add address=|http://thisav.com list=gfwlist
-add address=.thlib.org list=gfwlist
-add address=||thomasbernhard.org list=gfwlist
-add address=.thongdreams.com list=gfwlist
-add address=threatchaos.com list=gfwlist
-add address=||throughnightsfire.com list=gfwlist
-add address=.thumbzilla.com list=gfwlist
-add address=||thywords.com list=gfwlist
-add address=.thywords.com.tw list=gfwlist
-add address=tiananmenmother.org list=gfwlist
-add address=.tiananmenduizhi.com list=gfwlist
-add address=||tiananmenduizhi.com list=gfwlist
-add address=||tiananmenuniv.com list=gfwlist
-add address=||tiananmenuniv.net list=gfwlist
-add address=||tiandixing.org list=gfwlist
-add address=.tianhuayuan.com list=gfwlist
-add address=.tianlawoffice.com list=gfwlist
-add address=||tianti.io list=gfwlist
-add address=tiantibooks.org list=gfwlist
-add address=||tiantibooks.org list=gfwlist
-add address=tianyantong.org.cn list=gfwlist
-add address=.tianzhu.org list=gfwlist
-add address=.tibet.at list=gfwlist
-add address=tibet.ca list=gfwlist
-add address=.tibet.com list=gfwlist
-add address=||tibet.com list=gfwlist
-add address=tibet.fr list=gfwlist
-add address=.tibet.net list=gfwlist
-add address=||tibet.net list=gfwlist
-add address=||tibet.nu list=gfwlist
-add address=.tibet.org list=gfwlist
-add address=||tibet.org list=gfwlist
-add address=.tibet.sk list=gfwlist
-add address=||tibet.org.tw list=gfwlist
-add address=||tibet.to list=gfwlist
-add address=.tibet-envoy.eu list=gfwlist
-add address=||tibet-envoy.eu list=gfwlist
-add address=.tibet-foundation.org list=gfwlist
-add address=.tibet-house-trust.co.uk list=gfwlist
-add address=||tibet-initiative.de list=gfwlist
-add address=.tibet-munich.de list=gfwlist
-add address=.tibet3rdpole.org list=gfwlist
-add address=|http://tibet3rdpole.org list=gfwlist
-add address=tibetaction.net list=gfwlist
-add address=||tibetaction.net list=gfwlist
-add address=.tibetaid.org list=gfwlist
-add address=tibetalk.com list=gfwlist
-add address=.tibetan.fr list=gfwlist
-add address=tibetan-alliance.org list=gfwlist
-add address=.tibetanarts.org list=gfwlist
-add address=.tibetanbuddhistinstitute.org list=gfwlist
-add address=||tibetanbuddhistinstitute.org list=gfwlist
-add address=||tibetancommunity.org list=gfwlist
-add address=||tibetanentrepreneurs.org list=gfwlist
-add address=||tibetanhealth.org list=gfwlist
-add address=.tibetanjournal.com list=gfwlist
-add address=.tibetanlanguage.org list=gfwlist
-add address=.tibetanliberation.org list=gfwlist
-add address=||tibetanliberation.org list=gfwlist
-add address=.tibetcollection.com list=gfwlist
-add address=.tibetanaidproject.org list=gfwlist
-add address=.tibetancommunityuk.net list=gfwlist
-add address=|http://tibetancommunityuk.net list=gfwlist
-add address=tibetanculture.org list=gfwlist
-add address=tibetanfeministcollective.org list=gfwlist
-add address=.tibetanpaintings.com list=gfwlist
-add address=.tibetanphotoproject.com list=gfwlist
-add address=.tibetanpoliticalreview.org list=gfwlist
-add address=.tibetanreview.net list=gfwlist
-add address=|http://tibetansports.org list=gfwlist
-add address=.tibetanwomen.org list=gfwlist
-add address=|http://tibetanwomen.org list=gfwlist
-add address=.tibetanyouth.org list=gfwlist
-add address=.tibetanyouthcongress.org list=gfwlist
-add address=||tibetanyouthcongress.org list=gfwlist
-add address=.tibetcharity.dk list=gfwlist
-add address=tibetcharity.in list=gfwlist
-add address=.tibetchild.org list=gfwlist
-add address=.tibetcity.com list=gfwlist
-add address=||tibetcorps.org list=gfwlist
-add address=||tibetexpress.net list=gfwlist
-add address=||tibetfocus.com list=gfwlist
-add address=||tibetfund.org list=gfwlist
-add address=.tibetgermany.com list=gfwlist
-add address=||tibetgermany.de list=gfwlist
-add address=.tibethaus.com list=gfwlist
-add address=.tibetheritagefund.org list=gfwlist
-add address=||tibethouse.jp list=gfwlist
-add address=||tibethouse.org list=gfwlist
-add address=||tibethouse.us list=gfwlist
-add address=.tibetinfonet.net list=gfwlist
-add address=.tibetjustice.org list=gfwlist
-add address=.tibetkomite.dk list=gfwlist
-add address=||tibetmuseum.org list=gfwlist
-add address=||tibetnetwork.org list=gfwlist
-add address=||tibetoffice.ch list=gfwlist
-add address=tibetoffice.eu list=gfwlist
-add address=||tibetoffice.org list=gfwlist
-add address=||tibetonline.com list=gfwlist
-add address=||tibetoffice.com.au list=gfwlist
-add address=||tibetonline.tv list=gfwlist
-add address=||tibetoralhistory.org list=gfwlist
-add address=||tibetpolicy.eu list=gfwlist
-add address=||tibetrelieffund.co.uk list=gfwlist
-add address=||tibetsites.com list=gfwlist
-add address=||tibetsociety.com list=gfwlist
-add address=||tibetsun.com list=gfwlist
-add address=||tibetsupportgroup.org list=gfwlist
-add address=||tibetswiss.ch list=gfwlist
-add address=||tibettelegraph.com list=gfwlist
-add address=||tibettimes.net list=gfwlist
-add address=||tibettruth.com list=gfwlist
-add address=||tibetwrites.org list=gfwlist
-add address=.ticket.com.tw list=gfwlist
-add address=.tigervpn.com list=gfwlist
-add address=||tigervpn.com list=gfwlist
-add address=||tiktokv.com list=gfwlist
-add address=.timdir.com list=gfwlist
-add address=|http://timdir.com list=gfwlist
-add address=.time.com list=gfwlist
-add address=|http://time.com list=gfwlist
-add address=||timesnownews.com list=gfwlist
-add address=.timsah.com list=gfwlist
-add address=||timtales.com list=gfwlist
-add address=||blog.tiney.com list=gfwlist
-add address=tintuc101.com list=gfwlist
-add address=.tiny.cc list=gfwlist
-add address=|http://tiny.cc list=gfwlist
-add address=tinychat.com list=gfwlist
-add address=||tinypaste.com list=gfwlist
-add address=||tipas.net list=gfwlist
-add address=.tistory.com list=gfwlist
-add address=||tkcs-collins.com list=gfwlist
-add address=.tmagazine.com list=gfwlist
-add address=||tmagazine.com list=gfwlist
-add address=.tmdfish.com list=gfwlist
-add address=|http://tmi.me list=gfwlist
-add address=.tmpp.org list=gfwlist
-add address=|http://tmpp.org list=gfwlist
-add address=.tnaflix.com list=gfwlist
-add address=||tnaflix.com list=gfwlist
-add address=.tngrnow.com list=gfwlist
-add address=.tngrnow.net list=gfwlist
-add address=.tnp.org list=gfwlist
-add address=|http://tnp.org list=gfwlist
-add address=.to-porno.com list=gfwlist
-add address=||to-porno.com list=gfwlist
-add address=togetter.com list=gfwlist
-add address=.tokyo-247.com list=gfwlist
-add address=.tokyo-hot.com list=gfwlist
-add address=||tokyo-porn-tube.com list=gfwlist
-add address=||tokyocn.com list=gfwlist
-add address=tw.tomonews.net list=gfwlist
-add address=.tongil.or.kr list=gfwlist
-add address=.tono-oka.jp list=gfwlist
-add address=tonyyan.net list=gfwlist
-add address=.toodoc.com list=gfwlist
-add address=toonel.net list=gfwlist
-add address=top81.ws list=gfwlist
-add address=.topnews.in list=gfwlist
-add address=.toppornsites.com list=gfwlist
-add address=|http://toppornsites.com list=gfwlist
-add address=.torguard.net list=gfwlist
-add address=||torguard.net list=gfwlist
-add address=||top.tv list=gfwlist
-add address=.topshareware.com list=gfwlist
-add address=.topsy.com list=gfwlist
-add address=||topsy.com list=gfwlist
-add address=||toptip.ca list=gfwlist
-add address=tora.to list=gfwlist
-add address=.torcn.com list=gfwlist
-add address=||torlock.com list=gfwlist
-add address=.torproject.org list=gfwlist
-add address=||torproject.org list=gfwlist
-add address=||torrentkitty.tv list=gfwlist
-add address=torrentprivacy.com list=gfwlist
-add address=||torrentprivacy.com list=gfwlist
-add address=|http://torrentproject.se list=gfwlist
-add address=||torrenty.org list=gfwlist
-add address=||torrentz.eu list=gfwlist
-add address=||tortoisesvn.net list=gfwlist
-add address=||torvpn.com list=gfwlist
-add address=||totalvpn.com list=gfwlist
-add address=.toutiaoabc.com list=gfwlist
-add address=towngain.com list=gfwlist
-add address=toypark.in list=gfwlist
-add address=toytractorshow.com list=gfwlist
-add address=.tparents.org list=gfwlist
-add address=.tpi.org.tw list=gfwlist
-add address=||tpi.org.tw list=gfwlist
-add address=||tradingview.com list=gfwlist
-add address=||transparency.org list=gfwlist
-add address=||treemall.com.tw list=gfwlist
-add address=trendsmap.com list=gfwlist
-add address=||trendsmap.com list=gfwlist
-add address=.trialofccp.org list=gfwlist
-add address=||trialofccp.org list=gfwlist
-add address=.trimondi.de/SDLE list=gfwlist
-add address=.trouw.nl list=gfwlist
-add address=||trouw.nl list=gfwlist
-add address=.trt.net.tr list=gfwlist
-add address=||trt.net.tr list=gfwlist
-add address=trtc.com.tw list=gfwlist
-add address=.truebuddha-md.org list=gfwlist
-add address=||truebuddha-md.org list=gfwlist
-add address=trulyergonomic.com list=gfwlist
-add address=.truth101.co.tv list=gfwlist
-add address=||truth101.co.tv list=gfwlist
-add address=.truthontour.org list=gfwlist
-add address=||truthontour.org list=gfwlist
-add address=||truthsocial.com list=gfwlist
-add address=.truveo.com list=gfwlist
-add address=.tsctv.net list=gfwlist
-add address=.tsemtulku.com list=gfwlist
-add address=tsquare.tv list=gfwlist
-add address=.tsu.org.tw list=gfwlist
-add address=tsunagarumon.com list=gfwlist
-add address=.tsctv.net list=gfwlist
-add address=||tt1069.com list=gfwlist
-add address=.tttan.com list=gfwlist
-add address=||tttan.com list=gfwlist
-add address=||ttv.com.tw list=gfwlist
-add address=tu8964.com list=gfwlist
-add address=.tubaholic.com list=gfwlist
-add address=.tube.com list=gfwlist
-add address=tube8.com list=gfwlist
-add address=||tube8.com list=gfwlist
-add address=.tube911.com list=gfwlist
-add address=||tube911.com list=gfwlist
-add address=.tubecup.com list=gfwlist
-add address=.tubegals.com list=gfwlist
-add address=.tubeislam.com list=gfwlist
-add address=|http://tubeislam.com list=gfwlist
-add address=.tubestack.com list=gfwlist
-add address=||tubewolf.com list=gfwlist
-add address=.tuibeitu.net list=gfwlist
-add address=tuidang.net list=gfwlist
-add address=.tuidang.org list=gfwlist
-add address=||tuidang.org list=gfwlist
-add address=.tuidang.se list=gfwlist
-add address=bbs.tuitui.info list=gfwlist
-add address=.tumutanzi.com list=gfwlist
-add address=|http://tumutanzi.com list=gfwlist
-add address=||tumview.com list=gfwlist
-add address=.tunein.com list=gfwlist
-add address=|http://tunein.com list=gfwlist
-add address=||tunnelbear.com list=gfwlist
-add address=||tunnelblick.net list=gfwlist
-add address=.tunnelr.com list=gfwlist
-add address=||tunnelr.com list=gfwlist
-add address=||tunsafe.com list=gfwlist
-add address=tuitwit.com list=gfwlist
-add address=.turansam.org list=gfwlist
-add address=.turbobit.net list=gfwlist
-add address=||turbobit.net list=gfwlist
-add address=.turbohide.com list=gfwlist
-add address=||turbohide.com list=gfwlist
-add address=||turkistantimes.com list=gfwlist
-add address=.tushycash.com list=gfwlist
-add address=|http://tushycash.com list=gfwlist
-add address=||app.tutanota.com list=gfwlist
-add address=.tuvpn.com list=gfwlist
-add address=||tuvpn.com list=gfwlist
-add address=|http://tuzaijidi.com list=gfwlist
-add address=|http://*.tuzaijidi.com list=gfwlist
-add address=.tw01.org list=gfwlist
-add address=|http://tw01.org list=gfwlist
-add address=.tumblr.com list=gfwlist
-add address=||tumblr.com list=gfwlist
-add address=||lecloud.net list=gfwlist
-add address=|http://cosmic.monar.ch list=gfwlist
-add address=||slutmoonbeam.com list=gfwlist
-add address=|http://blog.soylent.com list=gfwlist
-add address=.tv.com list=gfwlist
-add address=|http://tv.com list=gfwlist
-add address=tvants.com list=gfwlist
-add address=forum.tvb.com list=gfwlist
-add address=news.tvb.com/list/world list=gfwlist
-add address=news.tvb.com/local list=gfwlist
-add address=news.tvbs.com.tw list=gfwlist
-add address=.tvboxnow.com list=gfwlist
-add address=|http://tvboxnow.com/ list=gfwlist
-add address=tvider.com list=gfwlist
-add address=.tvmost.com.hk list=gfwlist
-add address=.tvplayvideos.com list=gfwlist
-add address=||tvunetworks.com list=gfwlist
-add address=.tw-blog.com list=gfwlist
-add address=|https://tw-blog.com list=gfwlist
-add address=.tw-npo.org list=gfwlist
-add address=.twaitter.com list=gfwlist
-add address=twapperkeeper.com list=gfwlist
-add address=||twapperkeeper.com list=gfwlist
-add address=||twaud.io list=gfwlist
-add address=.twaud.io list=gfwlist
-add address=.twavi.com list=gfwlist
-add address=.twbbs.net.tw list=gfwlist
-add address=twbbs.org list=gfwlist
-add address=twbbs.tw list=gfwlist
-add address=||twblogger.com list=gfwlist
-add address=tweepmag.com list=gfwlist
-add address=.tweepml.org list=gfwlist
-add address=||tweepml.org list=gfwlist
-add address=.tweetbackup.com list=gfwlist
-add address=||tweetbackup.com list=gfwlist
-add address=tweetboard.com list=gfwlist
-add address=||tweetboard.com list=gfwlist
-add address=.tweetboner.biz list=gfwlist
-add address=||tweetboner.biz list=gfwlist
-add address=.tweetcs.com list=gfwlist
-add address=|http://tweetcs.com list=gfwlist
-add address=|http://deck.ly list=gfwlist
-add address=||mtw.tl list=gfwlist
-add address=||tweetedtimes.com list=gfwlist
-add address=||tweetmylast.fm list=gfwlist
-add address=tweetphoto.com list=gfwlist
-add address=||tweetphoto.com list=gfwlist
-add address=||tweetrans.com list=gfwlist
-add address=tweetree.com list=gfwlist
-add address=||tweetree.com list=gfwlist
-add address=.tweettunnel.com list=gfwlist
-add address=||tweettunnel.com list=gfwlist
-add address=||tweetwally.com list=gfwlist
-add address=tweetymail.com list=gfwlist
-add address=||twelve.today list=gfwlist
-add address=.tweez.net list=gfwlist
-add address=|http://tweez.net list=gfwlist
-add address=||twftp.org list=gfwlist
-add address=||twgreatdaily.com list=gfwlist
-add address=twibase.com list=gfwlist
-add address=.twibble.de list=gfwlist
-add address=||twibble.de list=gfwlist
-add address=twibbon.com list=gfwlist
-add address=||twibs.com list=gfwlist
-add address=.twicountry.org list=gfwlist
-add address=|http://twicountry.org list=gfwlist
-add address=twicsy.com list=gfwlist
-add address=.twiends.com list=gfwlist
-add address=|http://twiends.com list=gfwlist
-add address=.twifan.com list=gfwlist
-add address=|http://twifan.com list=gfwlist
-add address=twiffo.com list=gfwlist
-add address=||twiffo.com list=gfwlist
-add address=.twilightsex.com list=gfwlist
-add address=twilog.org list=gfwlist
-add address=twimbow.com list=gfwlist
-add address=||twindexx.com list=gfwlist
-add address=twipple.jp list=gfwlist
-add address=||twipple.jp list=gfwlist
-add address=||twip.me list=gfwlist
-add address=twishort.com list=gfwlist
-add address=||twishort.com list=gfwlist
-add address=twistar.cc list=gfwlist
-add address=||twister.net.co list=gfwlist
-add address=||twisterio.com list=gfwlist
-add address=twisternow.com list=gfwlist
-add address=twistory.net list=gfwlist
-add address=twitbrowser.net list=gfwlist
-add address=||twitcause.com list=gfwlist
-add address=||twitgether.com list=gfwlist
-add address=||twiggit.org list=gfwlist
-add address=twitgoo.com list=gfwlist
-add address=twitiq.com list=gfwlist
-add address=||twitiq.com list=gfwlist
-add address=.twitlonger.com list=gfwlist
-add address=||twitlonger.com list=gfwlist
-add address=|http://tl.gd/ list=gfwlist
-add address=twitmania.com list=gfwlist
-add address=twitoaster.com list=gfwlist
-add address=||twitoaster.com list=gfwlist
-add address=||twitonmsn.com list=gfwlist
-add address=.twit2d.com list=gfwlist
-add address=||twit2d.com list=gfwlist
-add address=.twitstat.com list=gfwlist
-add address=||twitstat.com list=gfwlist
-add address=||firstfivefollowers.com list=gfwlist
-add address=||retweeteffect.com list=gfwlist
-add address=||tweeplike.me list=gfwlist
-add address=||tweepguide.com list=gfwlist
-add address=||turbotwitter.com list=gfwlist
-add address=.twitvid.com list=gfwlist
-add address=||twitvid.com list=gfwlist
-add address=|http://twt.tl list=gfwlist
-add address=twittbot.net list=gfwlist
-add address=||ads-twitter.com list=gfwlist
-add address=||twttr.com list=gfwlist
-add address=||twitter4j.org list=gfwlist
-add address=.twittercounter.com list=gfwlist
-add address=||twittercounter.com list=gfwlist
-add address=twitterfeed.com list=gfwlist
-add address=.twittergadget.com list=gfwlist
-add address=||twittergadget.com list=gfwlist
-add address=.twitterkr.com list=gfwlist
-add address=||twitterkr.com list=gfwlist
-add address=||twittermail.com list=gfwlist
-add address=||twitterrific.com list=gfwlist
-add address=twittertim.es list=gfwlist
-add address=||twittertim.es list=gfwlist
-add address=twitthat.com list=gfwlist
-add address=||twitturk.com list=gfwlist
-add address=.twitturly.com list=gfwlist
-add address=||twitturly.com list=gfwlist
-add address=.twitzap.com list=gfwlist
-add address=twiyia.com list=gfwlist
-add address=||twstar.net list=gfwlist
-add address=.twtkr.com list=gfwlist
-add address=|http://twtkr.com list=gfwlist
-add address=.twnorth.org.tw list=gfwlist
-add address=||twreporter.org list=gfwlist
-add address=twskype.com list=gfwlist
-add address=twtrland.com list=gfwlist
-add address=twurl.nl list=gfwlist
-add address=.twyac.org list=gfwlist
-add address=||twyac.org list=gfwlist
-add address=.txxx.com list=gfwlist
-add address=.tycool.com list=gfwlist
-add address=||tycool.com list=gfwlist
-add address=||typepad.com list=gfwlist
-add address=@@||www.typepad.com list=gfwlist
-add address=@@||static.typepad.com list=gfwlist
-add address=||blog.expofutures.com list=gfwlist
-add address=||legaltech.law.com list=gfwlist
-add address=||blogs.tampabay.com list=gfwlist
-add address=||contests.twilio.com list=gfwlist
-add address=||typora.io list=gfwlist
-add address=.u9un.com list=gfwlist
-add address=||u9un.com list=gfwlist
-add address=.ubddns.org list=gfwlist
-add address=|http://ubddns.org list=gfwlist
-add address=||uberproxy.net list=gfwlist
-add address=.uc-japan.org list=gfwlist
-add address=||uc-japan.org list=gfwlist
-add address=.srcf.ucam.org/salon/ list=gfwlist
-add address=|http://china.ucanews.com/ list=gfwlist
-add address=||ucdc1998.org list=gfwlist
-add address=|http://hum*.uchicago.edu/faculty/ywang/history list=gfwlist
-add address=||uderzo.it list=gfwlist
-add address=.udn.com list=gfwlist
-add address=||udn.com list=gfwlist
-add address=||udn.com.tw list=gfwlist
-add address=udnbkk.com/bbs list=gfwlist
-add address=||uforadio.com.tw list=gfwlist
-add address=ufreevpn.com list=gfwlist
-add address=.ugo.com list=gfwlist
-add address=||uhdwallpapers.org list=gfwlist
-add address=||uhrp.org list=gfwlist
-add address=.uighur.nl list=gfwlist
-add address=||uighur.nl list=gfwlist
-add address=uighurbiz.net list=gfwlist
-add address=.ulike.net list=gfwlist
-add address=ukcdp.co.uk list=gfwlist
-add address=ukliferadio.co.uk list=gfwlist
-add address=||ukliferadio.co.uk list=gfwlist
-add address=ultravpn.fr list=gfwlist
-add address=||ultravpn.fr list=gfwlist
-add address=ultraxs.com list=gfwlist
-add address=umich.edu/~falun list=gfwlist
-add address=||unblock.cn.com list=gfwlist
-add address=.unblocker.yt list=gfwlist
-add address=unblock-us.com list=gfwlist
-add address=||unblock-us.com list=gfwlist
-add address=.unblockdmm.com list=gfwlist
-add address=|http://unblockdmm.com list=gfwlist
-add address=||unblocksit.es list=gfwlist
-add address=uncyclomedia.org list=gfwlist
-add address=.uncyclopedia.hk/wiki list=gfwlist
-add address=|http://uncyclopedia.hk list=gfwlist
-add address=|http://uncyclopedia.tw list=gfwlist
-add address=underwoodammo.com list=gfwlist
-add address=||underwoodammo.com list=gfwlist
-add address=||unholyknight.com list=gfwlist
-add address=.uni.cc list=gfwlist
-add address=||cldr.unicode.org list=gfwlist
-add address=.unification.net list=gfwlist
-add address=.unification.org.tw list=gfwlist
-add address=||unirule.cloud list=gfwlist
-add address=.unitedsocialpress.com list=gfwlist
-add address=.unix100.com list=gfwlist
-add address=||unknownspace.org list=gfwlist
-add address=.unodedos.com list=gfwlist
-add address=unpo.org list=gfwlist
-add address=||unstable.icu list=gfwlist
-add address=.untraceable.us list=gfwlist
-add address=|http://untraceable.us list=gfwlist
-add address=||uocn.org list=gfwlist
-add address=tor.updatestar.com list=gfwlist
-add address=||upghsbc.com list=gfwlist
-add address=.upholdjustice.org list=gfwlist
-add address=.upload4u.info list=gfwlist
-add address=uploaded.net/file list=gfwlist
-add address=|http://uploaded.net/file list=gfwlist
-add address=|http://uploaded.to/file list=gfwlist
-add address=.uploadstation.com/file list=gfwlist
-add address=.upmedia.mg list=gfwlist
-add address=||upmedia.mg list=gfwlist
-add address=.upornia.com list=gfwlist
-add address=|http://upornia.com list=gfwlist
-add address=||uproxy.org list=gfwlist
-add address=||uptodown.com list=gfwlist
-add address=.upwill.org list=gfwlist
-add address=ur7s.com list=gfwlist
-add address=||urbandictionary.com list=gfwlist
-add address=||urbansurvival.com list=gfwlist
-add address=myshare.url.com.tw/ list=gfwlist
-add address=||urlborg.com list=gfwlist
-add address=||urlparser.com list=gfwlist
-add address=us.to list=gfwlist
-add address=||usacn.com list=gfwlist
-add address=.usaip.eu list=gfwlist
-add address=||usaip.eu list=gfwlist
-add address=||uscnpm.org list=gfwlist
-add address=||uscardforum.com list=gfwlist
-add address=||usma.edu list=gfwlist
-add address=.usocctn.com list=gfwlist
-add address=||ustibetcommittee.org list=gfwlist
-add address=.ustream.tv list=gfwlist
-add address=||ustream.tv list=gfwlist
-add address=usus.cc list=gfwlist
-add address=.utopianpal.com list=gfwlist
-add address=||utopianpal.com list=gfwlist
-add address=.uu-gg.com list=gfwlist
-add address=.uvwxyz.xyz list=gfwlist
-add address=||uvwxyz.xyz list=gfwlist
-add address=.uwants.com list=gfwlist
-add address=||uwants.com list=gfwlist
-add address=.uwants.net list=gfwlist
-add address=uyghur.co.uk list=gfwlist
-add address=|http://uyghur-j.org list=gfwlist
-add address=||uyghuraa.org list=gfwlist
-add address=||uyghuramerican.org list=gfwlist
-add address=||uyghurbiz.org list=gfwlist
-add address=||uyghurcanadian.ca list=gfwlist
-add address=||uyghurcongress.org list=gfwlist
-add address=||uyghurpen.org list=gfwlist
-add address=||uyghurpress.com list=gfwlist
-add address=||uyghurstudies.org list=gfwlist
-add address=||uyghurtribunal.com list=gfwlist
-add address=uygur.org list=gfwlist
-add address=|http://uymaarip.com/ list=gfwlist
-add address=||v2fly.org list=gfwlist
-add address=.v2ray.com list=gfwlist
-add address=||v2ray.com list=gfwlist
-add address=||v2raycn.com list=gfwlist
-add address=||v2raytech.com list=gfwlist
-add address=||valeursactuelles.com list=gfwlist
-add address=.van001.com list=gfwlist
-add address=.van698.com list=gfwlist
-add address=.vanemu.cn list=gfwlist
-add address=.vanilla-jp.com list=gfwlist
-add address=.vanpeople.com list=gfwlist
-add address=vansky.com list=gfwlist
-add address=||vaticannews.va list=gfwlist
-add address=||vcf-online.org list=gfwlist
-add address=||vcfbuilder.org list=gfwlist
-add address=.vegasred.com list=gfwlist
-add address=.velkaepocha.sk list=gfwlist
-add address=.venbbs.com list=gfwlist
-add address=.venchina.com list=gfwlist
-add address=.venetianmacao.com list=gfwlist
-add address=||venetianmacao.com list=gfwlist
-add address=veoh.com list=gfwlist
-add address=||vercel.app list=gfwlist
-add address=mysite.verizon.net list=gfwlist
-add address=vermonttibet.org list=gfwlist
-add address=.versavpn.com list=gfwlist
-add address=||versavpn.com list=gfwlist
-add address=||verybs.com list=gfwlist
-add address=.vft.com.tw list=gfwlist
-add address=.viber.com list=gfwlist
-add address=||viber.com list=gfwlist
-add address=.vica.info list=gfwlist
-add address=.victimsofcommunism.org list=gfwlist
-add address=||victimsofcommunism.org list=gfwlist
-add address=||vid.me list=gfwlist
-add address=||vidble.com list=gfwlist
-add address=videobam.com list=gfwlist
-add address=||videobam.com list=gfwlist
-add address=.videodetective.com list=gfwlist
-add address=.videomega.tv list=gfwlist
-add address=||videomega.tv list=gfwlist
-add address=.videomo.com list=gfwlist
-add address=videopediaworld.com list=gfwlist
-add address=.videopress.com list=gfwlist
-add address=.vidinfo.org/video list=gfwlist
-add address=vietdaikynguyen.com list=gfwlist
-add address=.vijayatemple.org list=gfwlist
-add address=||vilavpn.com list=gfwlist
-add address=vimeo.com list=gfwlist
-add address=||vimeo.com list=gfwlist
-add address=||vimperator.org list=gfwlist
-add address=||vincnd.com list=gfwlist
-add address=||vinniev.com list=gfwlist
-add address=|http://www.lib.virginia.edu/area-studies/Tibet/tibet.html list=gfwlist
-add address=.virtualrealporn.com list=gfwlist
-add address=||virtualrealporn.com list=gfwlist
-add address=visibletweets.com list=gfwlist
-add address=|http://ny.visiontimes.com list=gfwlist
-add address=.vital247.org list=gfwlist
-add address=||viu.com list=gfwlist
-add address=.vivahentai4u.net list=gfwlist
-add address=||vivaldi.com list=gfwlist
-add address=.vivatube.com list=gfwlist
-add address=.vivthomas.com list=gfwlist
-add address=||vivthomas.com list=gfwlist
-add address=.vjav.com list=gfwlist
-add address=||vjav.com list=gfwlist
-add address=.vjmedia.com.hk list=gfwlist
-add address=.vllcs.org list=gfwlist
-add address=|http://vllcs.org list=gfwlist
-add address=||vmixcore.com list=gfwlist
-add address=||vnet.link list=gfwlist
-add address=.vocativ.com list=gfwlist
-add address=vocn.tv list=gfwlist
-add address=||vocus.cc list=gfwlist
-add address=||voicettank.org list=gfwlist
-add address=.vot.org list=gfwlist
-add address=||vot.org list=gfwlist
-add address=.vovo2000.com list=gfwlist
-add address=|http://vovo2000.com list=gfwlist
-add address=.voxer.com list=gfwlist
-add address=||voxer.com list=gfwlist
-add address=.voy.com list=gfwlist
-add address=||vpn.ac list=gfwlist
-add address=.vpn4all.com list=gfwlist
-add address=||vpn4all.com list=gfwlist
-add address=.vpnaccount.org list=gfwlist
-add address=|http://vpnaccount.org list=gfwlist
-add address=.vpnaccounts.com list=gfwlist
-add address=||vpnaccounts.com list=gfwlist
-add address=.vpncomparison.org list=gfwlist
-add address=.vpncup.com list=gfwlist
-add address=||vpncup.com list=gfwlist
-add address=vpnbook.com list=gfwlist
-add address=.vpncoupons.com list=gfwlist
-add address=|http://vpncoupons.com list=gfwlist
-add address=.vpndada.com list=gfwlist
-add address=||vpndada.com list=gfwlist
-add address=.vpnfan.com list=gfwlist
-add address=vpnfire.com list=gfwlist
-add address=.vpnfires.biz list=gfwlist
-add address=.vpnforgame.net list=gfwlist
-add address=||vpnforgame.net list=gfwlist
-add address=||vpngate.jp list=gfwlist
-add address=.vpngate.net list=gfwlist
-add address=||vpngate.net list=gfwlist
-add address=.vpngratis.net list=gfwlist
-add address=vpnhq.com list=gfwlist
-add address=||vpnhub.com list=gfwlist
-add address=.vpnmaster.com list=gfwlist
-add address=||vpnmaster.com list=gfwlist
-add address=.vpnmentor.com list=gfwlist
-add address=||vpnmentor.com list=gfwlist
-add address=.vpninja.net list=gfwlist
-add address=||vpninja.net list=gfwlist
-add address=.vpnintouch.com list=gfwlist
-add address=||vpnintouch.net list=gfwlist
-add address=vpnjack.com list=gfwlist
-add address=||vpnjack.com list=gfwlist
-add address=.vpnpick.com list=gfwlist
-add address=||vpnpick.com list=gfwlist
-add address=||vpnpop.com list=gfwlist
-add address=||vpnpronet.com list=gfwlist
-add address=.vpnreactor.com list=gfwlist
-add address=||vpnreactor.com list=gfwlist
-add address=||vpnreviewz.com list=gfwlist
-add address=.vpnsecure.me list=gfwlist
-add address=||vpnsecure.me list=gfwlist
-add address=.vpnshazam.com list=gfwlist
-add address=||vpnshazam.com list=gfwlist
-add address=.vpnshieldapp.com list=gfwlist
-add address=||vpnshieldapp.com list=gfwlist
-add address=.vpnsp.com list=gfwlist
-add address=.vpntraffic.com list=gfwlist
-add address=.vpntunnel.com list=gfwlist
-add address=||vpntunnel.com list=gfwlist
-add address=.vpnuk.info list=gfwlist
-add address=||vpnuk.info list=gfwlist
-add address=||vpnunlimitedapp.com list=gfwlist
-add address=.vpnvip.com list=gfwlist
-add address=||vpnvip.com list=gfwlist
-add address=.vpnworldwide.com list=gfwlist
-add address=.vporn.com list=gfwlist
-add address=||vporn.com list=gfwlist
-add address=.vpser.net list=gfwlist
-add address=@@||vpser.net list=gfwlist
-add address=vraiesagesse.net list=gfwlist
-add address=.vrmtr.com list=gfwlist
-add address=||vtunnel.com list=gfwlist
-add address=||vuku.cc list=gfwlist
-add address=lists.w3.org/archives/public list=gfwlist
-add address=||w3schools.com list=gfwlist
-add address=||waffle1999.com list=gfwlist
-add address=.wahas.com list=gfwlist
-add address=.waigaobu.com list=gfwlist
-add address=waikeung.org/php_wind list=gfwlist
-add address=.wailaike.net list=gfwlist
-add address=||wainao.me list=gfwlist
-add address=.waiwaier.com list=gfwlist
-add address=|http://waiwaier.com list=gfwlist
-add address=||wallmama.com list=gfwlist
-add address=wallornot.org list=gfwlist
-add address=||wallpapercasa.com list=gfwlist
-add address=.wallproxy.com list=gfwlist
-add address=@@||wallproxy.com.cn list=gfwlist
-add address=||wallsttv.com list=gfwlist
-add address=||waltermartin.com list=gfwlist
-add address=||waltermartin.org list=gfwlist
-add address=||www.wan-press.org list=gfwlist
-add address=||wanderinghorse.net list=gfwlist
-add address=||wangafu.net list=gfwlist
-add address=||wangjinbo.org list=gfwlist
-add address=.wangjinbo.org list=gfwlist
-add address=wanglixiong.com list=gfwlist
-add address=.wango.org list=gfwlist
-add address=||wango.org list=gfwlist
-add address=wangruoshui.net list=gfwlist
-add address=www.wangruowang.org list=gfwlist
-add address=||want-daily.com list=gfwlist
-add address=wapedia.mobi/zhsimp list=gfwlist
-add address=||warroom.org list=gfwlist
-add address=||waselpro.com list=gfwlist
-add address=.watchinese.com list=gfwlist
-add address=||watchout.tw list=gfwlist
-add address=.wattpad.com list=gfwlist
-add address=||wattpad.com list=gfwlist
-add address=.makzhou.warehouse333.com list=gfwlist
-add address=washeng.net list=gfwlist
-add address=.watch8x.com list=gfwlist
-add address=||watchmygf.net list=gfwlist
-add address=||wav.tv list=gfwlist
-add address=||wd.bible list=gfwlist
-add address=.wdf5.com list=gfwlist
-add address=||wealth.com.tw list=gfwlist
-add address=.wearehairy.com list=gfwlist
-add address=.wearn.com list=gfwlist
-add address=||wearn.com list=gfwlist
-add address=|http://hkcoc.weather.com.hk list=gfwlist
-add address=||hudatoriq.web.id list=gfwlist
-add address=||web2project.net list=gfwlist
-add address=webbang.net list=gfwlist
-add address=.webevader.org list=gfwlist
-add address=.webfreer.com list=gfwlist
-add address=weblagu.com list=gfwlist
-add address=.webjb.org list=gfwlist
-add address=.webrush.net list=gfwlist
-add address=webs-tv.net list=gfwlist
-add address=.websitepulse.com/help/testtools.china-test list=gfwlist
-add address=|http://www.websnapr.com list=gfwlist
-add address=.webwarper.net list=gfwlist
-add address=|http://webwarper.net list=gfwlist
-add address=webworkerdaily.com list=gfwlist
-add address=||wechatlawsuit.com list=gfwlist
-add address=.weekmag.info list=gfwlist
-add address=||wefightcensorship.org list=gfwlist
-add address=.wefong.com list=gfwlist
-add address=weiboleak.com list=gfwlist
-add address=.weihuo.org list=gfwlist
-add address=||weijingsheng.org list=gfwlist
-add address=.weiming.info list=gfwlist
-add address=||weiming.info list=gfwlist
-add address=weiquanwang.org list=gfwlist
-add address=|http://weisuo.ws list=gfwlist
-add address=.welovecock.com list=gfwlist
-add address=||welt.de list=gfwlist
-add address=.wemigrate.org list=gfwlist
-add address=|http://wemigrate.org list=gfwlist
-add address=wengewang.com list=gfwlist
-add address=||wengewang.org list=gfwlist
-add address=.wenhui.ch list=gfwlist
-add address=|http://trans.wenweipo.com/gb/ list=gfwlist
-add address=.wenxuecity.com list=gfwlist
-add address=||wenxuecity.com list=gfwlist
-add address=.wenyunchao.com list=gfwlist
-add address=||wenyunchao.com list=gfwlist
-add address=.westca.com list=gfwlist
-add address=||westca.com list=gfwlist
-add address=||westernwolves.com list=gfwlist
-add address=.westkit.net list=gfwlist
-add address=||westpoint.edu list=gfwlist
-add address=.westernshugdensociety.org list=gfwlist
-add address=wetpussygames.com list=gfwlist
-add address=.wetplace.com list=gfwlist
-add address=wexiaobo.org list=gfwlist
-add address=||wexiaobo.org list=gfwlist
-add address=wezhiyong.org list=gfwlist
-add address=||wezone.net list=gfwlist
-add address=.wforum.com list=gfwlist
-add address=||wforum.com/ list=gfwlist
-add address=.whatblocked.com list=gfwlist
-add address=||whatblocked.com list=gfwlist
-add address=.wheatseeds.org list=gfwlist
-add address=||wheelockslatin.com list=gfwlist
-add address=.whippedass.com list=gfwlist
-add address=.whoer.net list=gfwlist
-add address=||whoer.net list=gfwlist
-add address=whotalking.com list=gfwlist
-add address=whylover.com list=gfwlist
-add address=||whyx.org list=gfwlist
-add address=||wikileaks.ch list=gfwlist
-add address=||wikileaks.com list=gfwlist
-add address=||wikileaks.de list=gfwlist
-add address=||wikileaks.eu list=gfwlist
-add address=||wikileaks.lu list=gfwlist
-add address=.wikileaks.org list=gfwlist
-add address=||wikileaks.org list=gfwlist
-add address=||wikileaks.pl list=gfwlist
-add address=.wikileaks-forum.com list=gfwlist
-add address=wildammo.com list=gfwlist
-add address=.williamhill.com list=gfwlist
-add address=||collateralmurder.com list=gfwlist
-add address=||collateralmurder.org list=gfwlist
-add address=wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0 list=gfwlist
-add address=||wikimapia.org list=gfwlist
-add address=.wikiwand.com list=gfwlist
-add address=||wikiwand.com list=gfwlist
-add address=||wikiwiki.jp list=gfwlist
-add address=||casino.williamhill.com list=gfwlist
-add address=||sports.williamhill.com list=gfwlist
-add address=||vegas.williamhill.com list=gfwlist
-add address=||willw.net list=gfwlist
-add address=||windowsphoneme.com list=gfwlist
-add address=.windscribe.com list=gfwlist
-add address=||windscribe.com list=gfwlist
-add address=||community.windy.com list=gfwlist
-add address=||wingy.site list=gfwlist
-add address=.winning11.com list=gfwlist
-add address=winwhispers.info list=gfwlist
-add address=||wionews.com list=gfwlist
-add address=||wiredbytes.com list=gfwlist
-add address=||wiredpen.com list=gfwlist
-add address=||wireguard.com list=gfwlist
-add address=.wisdompubs.org list=gfwlist
-add address=.wisevid.com list=gfwlist
-add address=||wisevid.com list=gfwlist
-add address=||whispersystems.org list=gfwlist
-add address=.witnessleeteaching.com list=gfwlist
-add address=.witopia.net list=gfwlist
-add address=.wjbk.org list=gfwlist
-add address=||wjbk.org list=gfwlist
-add address=||wmflabs.org list=gfwlist
-add address=||wn.com list=gfwlist
-add address=.wnacg.com list=gfwlist
-add address=.wnacg.org list=gfwlist
-add address=.wo.tc list=gfwlist
-add address=||woeser.com list=gfwlist
-add address=.wokar.org list=gfwlist
-add address=||wokar.org list=gfwlist
-add address=wolfax.com list=gfwlist
-add address=||wolfax.com list=gfwlist
-add address=||wombo.ai list=gfwlist
-add address=||woolyss.com list=gfwlist
-add address=woopie.jp list=gfwlist
-add address=||woopie.jp list=gfwlist
-add address=woopie.tv list=gfwlist
-add address=||woopie.tv list=gfwlist
-add address=||workatruna.com list=gfwlist
-add address=.workerdemo.org.hk list=gfwlist
-add address=.workerempowerment.org list=gfwlist
-add address=||workers.dev list=gfwlist
-add address=||workersthebig.net list=gfwlist
-add address=.worldcat.org list=gfwlist
-add address=worldjournal.com list=gfwlist
-add address=.worldvpn.net list=gfwlist
-add address=||worldvpn.net list=gfwlist
-add address=||videopress.com list=gfwlist
-add address=.wordpress.com list=gfwlist
-add address=|http://*.wordpress.com list=gfwlist
-add address=||chenshan20042005.wordpress.com list=gfwlist
-add address=||chinaview.wordpress.com list=gfwlist
-add address=||cnbbnews.wordpress.com list=gfwlist
-add address=||freedominfonetweb.wordpress.com list=gfwlist
-add address=||hka8964.wordpress.com list=gfwlist
-add address=||hkanews.wordpress.com list=gfwlist
-add address=||hqsbnet.wordpress.com list=gfwlist
-add address=||hqsbonline.wordpress.com list=gfwlist
-add address=||investigating.wordpress.com list=gfwlist
-add address=||jobnewera.wordpress.com list=gfwlist
-add address=||matthewdgreen.wordpress.com list=gfwlist
-add address=||minghuiyw.wordpress.com list=gfwlist
-add address=||wo3ttt.wordpress.com list=gfwlist
-add address=||sujiatun.wordpress.com list=gfwlist
-add address=||xijie.wordpress.com list=gfwlist
-add address=||wp.com list=gfwlist
-add address=.wow.com list=gfwlist
-add address=.wow-life.net list=gfwlist
-add address=||wowlegacy.ml list=gfwlist
-add address=||wowporn.com list=gfwlist
-add address=||wowgirls.com list=gfwlist
-add address=.wowrk.com list=gfwlist
-add address=woxinghuiguo.com list=gfwlist
-add address=.woyaolian.org list=gfwlist
-add address=|http://woyaolian.org list=gfwlist
-add address=.wpoforum.com list=gfwlist
-add address=||wpoforum.com list=gfwlist
-add address=.wqyd.org list=gfwlist
-add address=||wqyd.org list=gfwlist
-add address=wrchina.org list=gfwlist
-add address=wretch.cc list=gfwlist
-add address=||writesonic.com list=gfwlist
-add address=.wsj.com list=gfwlist
-add address=||wsj.com list=gfwlist
-add address=.wsj.net list=gfwlist
-add address=||wsj.net list=gfwlist
-add address=.wsjhk.com list=gfwlist
-add address=.wtbn.org list=gfwlist
-add address=.wtfpeople.com list=gfwlist
-add address=wuerkaixi.com list=gfwlist
-add address=||wufafangwen.com list=gfwlist
-add address=||wufi.org.tw list=gfwlist
-add address=||wuguoguang.com list=gfwlist
-add address=wujie.net list=gfwlist
-add address=wujieliulan.com list=gfwlist
-add address=||wujieliulan.com list=gfwlist
-add address=wukangrui.net list=gfwlist
-add address=||wuw.red list=gfwlist
-add address=||wuyanblog.com list=gfwlist
-add address=.wwitv.com list=gfwlist
-add address=||wwitv.com list=gfwlist
-add address=wzyboy.im/post/160 list=gfwlist
-add address=||x.co list=gfwlist
-add address=.x-berry.com list=gfwlist
-add address=||x-berry.com list=gfwlist
-add address=||x-art.com list=gfwlist
-add address=||x-wall.org list=gfwlist
-add address=x1949x.com list=gfwlist
-add address=x365x.com list=gfwlist
-add address=xanga.com list=gfwlist
-add address=||xbabe.com list=gfwlist
-add address=.xbookcn.com list=gfwlist
-add address=||xbookcn.com list=gfwlist
-add address=||xcafe.in list=gfwlist
-add address=||xcity.jp list=gfwlist
-add address=.xcritic.com list=gfwlist
-add address=|http://cdn*.xda-developers.com list=gfwlist
-add address=.xerotica.com list=gfwlist
-add address=destiny.xfiles.to/ubbthreads list=gfwlist
-add address=.xfm.pp.ru list=gfwlist
-add address=.xgmyd.com list=gfwlist
-add address=||xgmyd.com list=gfwlist
-add address=xhamster.com list=gfwlist
-add address=||xhamster.com list=gfwlist
-add address=.xianba.net list=gfwlist
-add address=.xianchawang.net list=gfwlist
-add address=.xianjian.tw list=gfwlist
-add address=|http://xianjian.tw list=gfwlist
-add address=.xianqiao.net list=gfwlist
-add address=.xiaobaiwu.com list=gfwlist
-add address=.xiaochuncnjp.com list=gfwlist
-add address=.xiaod.in list=gfwlist
-add address=.xiaohexie.com list=gfwlist
-add address=||xiaolan.me list=gfwlist
-add address=||xiaoma.org list=gfwlist
-add address=||xiaohexie.com list=gfwlist
-add address=||xiaxiaoqiang.net list=gfwlist
-add address=xiezhua.com list=gfwlist
-add address=.xihua.es list=gfwlist
-add address=forum.xinbao.de/forum list=gfwlist
-add address=.xing.com list=gfwlist
-add address=|http://xing.com list=gfwlist
-add address=||xinjiangpolicefiles.org list=gfwlist
-add address=.xinmiao.com.hk list=gfwlist
-add address=||xinmiao.com.hk list=gfwlist
-add address=xinsheng.net list=gfwlist
-add address=xinshijue.com list=gfwlist
-add address=xinhuanet.org list=gfwlist
-add address=|http://xinyubbs.net list=gfwlist
-add address=.xiongpian.com list=gfwlist
-add address=.xiuren.org list=gfwlist
-add address=||xixicui.icu list=gfwlist
-add address=xizang-zhiye.org list=gfwlist
-add address=xjp.cc list=gfwlist
-add address=||xjp.cc list=gfwlist
-add address=||xjtravelguide.com list=gfwlist
-add address=xlfmtalk.com list=gfwlist
-add address=||xlfmwz.info list=gfwlist
-add address=||xml-training-guide.com list=gfwlist
-add address=xmovies.com list=gfwlist
-add address=||xnxx.com list=gfwlist
-add address=xpdo.net list=gfwlist
-add address=||xpud.org list=gfwlist
-add address=.xrentdvd.com list=gfwlist
-add address=.xskywalker.net list=gfwlist
-add address=||xtube.com list=gfwlist
-add address=blog.xuite.net list=gfwlist
-add address=vlog.xuite.net list=gfwlist
-add address=xuzhiyong.net list=gfwlist
-add address=||xuchao.org list=gfwlist
-add address=xuchao.net list=gfwlist
-add address=||xuchao.net list=gfwlist
-add address=xvideo.cc list=gfwlist
-add address=.xvideos.com list=gfwlist
-add address=||xvideos.com list=gfwlist
-add address=||xvideos-cdn.com list=gfwlist
-add address=||xvideos.es list=gfwlist
-add address=||xvbelink.com list=gfwlist
-add address=||xvinlink.com list=gfwlist
-add address=.xkiwi.tk/ list=gfwlist
-add address=||xsden.info list=gfwlist
-add address=.xxbbx.com list=gfwlist
-add address=.xxlmovies.com list=gfwlist
-add address=||xxx.com list=gfwlist
-add address=.xxx.xxx list=gfwlist
-add address=|http://xxx.xxx list=gfwlist
-add address=.xxxfuckmom.com list=gfwlist
-add address=||xxxx.com.au list=gfwlist
-add address=.xxxymovies.com list=gfwlist
-add address=|http://xxxymovies.com list=gfwlist
-add address=xys.org list=gfwlist
-add address=xysblogs.org list=gfwlist
-add address=xyy69.com list=gfwlist
-add address=xyy69.info list=gfwlist
-add address=||y2mate.com list=gfwlist
-add address=||yadi.sk list=gfwlist
-add address=||yakbutterblues.com list=gfwlist
-add address=||yam.com list=gfwlist
-add address=||yam.org.tw list=gfwlist
-add address=||yande.re list=gfwlist
-add address=||disk.yandex.com list=gfwlist
-add address=||disk.yandex.ru list=gfwlist
-add address=.yanghengjun.com list=gfwlist
-add address=yangjianli.com list=gfwlist
-add address=.yasni.co.uk list=gfwlist
-add address=||yasni.co.uk list=gfwlist
-add address=.yayabay.com/forum list=gfwlist
-add address=||news.ycombinator.com list=gfwlist
-add address=.ydy.com list=gfwlist
-add address=.yeahteentube.com list=gfwlist
-add address=||yeahteentube.com list=gfwlist
-add address=||yecl.net list=gfwlist
-add address=||yeelou.com list=gfwlist
-add address=||yeeyi.com list=gfwlist
-add address=yegle.net list=gfwlist
-add address=||yegle.net list=gfwlist
-add address=.yes.xxx list=gfwlist
-add address=||yes123.com.tw list=gfwlist
-add address=||yesasia.com list=gfwlist
-add address=||yesasia.com.hk list=gfwlist
-add address=.yes-news.com list=gfwlist
-add address=|http://yes-news.com list=gfwlist
-add address=.yespornplease.com list=gfwlist
-add address=||yespornplease.com list=gfwlist
-add address=|http://yeyeclub.com list=gfwlist
-add address=||yhcw.net list=gfwlist
-add address=.yibada.com list=gfwlist
-add address=.yibaochina.com list=gfwlist
-add address=.yidio.com list=gfwlist
-add address=||yidio.com list=gfwlist
-add address=||yigeni.com list=gfwlist
-add address=yilubbs.com list=gfwlist
-add address=||s.yimg.com list=gfwlist
-add address=||xa.yimg.com list=gfwlist
-add address=.yingsuoss.com list=gfwlist
-add address=.yipub.com list=gfwlist
-add address=||yipub.com list=gfwlist
-add address=yinlei.org/mt list=gfwlist
-add address=.yizhihongxing.com list=gfwlist
-add address=||yizhihongxing.com list=gfwlist
-add address=.yobt.com list=gfwlist
-add address=.yobt.tv list=gfwlist
-add address=||yobt.tv list=gfwlist
-add address=.yogichen.org list=gfwlist
-add address=||yogichen.org list=gfwlist
-add address=.yolasite.com list=gfwlist
-add address=.yomiuri.co.jp list=gfwlist
-add address=yong.hu list=gfwlist
-add address=.yorkbbs.ca list=gfwlist
-add address=||you.com list=gfwlist
-add address=||youxu.info list=gfwlist
-add address=.youjizz.com list=gfwlist
-add address=||youjizz.com list=gfwlist
-add address=.youmaker.com list=gfwlist
-add address=||youmaker.com list=gfwlist
-add address=.youngpornvideos.com list=gfwlist
-add address=youngspiration.hk list=gfwlist
-add address=.youpai.org list=gfwlist
-add address=||youpai.org list=gfwlist
-add address=.your-freedom.net list=gfwlist
-add address=||yourepeat.com list=gfwlist
-add address=.yourprivatevpn.com list=gfwlist
-add address=||yourprivatevpn.com list=gfwlist
-add address=.yousendit.com list=gfwlist
-add address=||yousendit.com list=gfwlist
-add address=||youthforfreechina.org list=gfwlist
-add address=.youthnetradio.org/tmit/forum list=gfwlist
-add address=blog.youthwant.com.tw list=gfwlist
-add address=me.youthwant.com.tw list=gfwlist
-add address=share.youthwant.com.tw list=gfwlist
-add address=topic.youthwant.com.tw list=gfwlist
-add address=.youporn.com list=gfwlist
-add address=||youporn.com list=gfwlist
-add address=.youporngay.com list=gfwlist
-add address=||youporngay.com list=gfwlist
-add address=.yourlisten.com list=gfwlist
-add address=||yourlisten.com list=gfwlist
-add address=.yourlust.com list=gfwlist
-add address=||yourlust.com list=gfwlist
-add address=youshun12.com list=gfwlist
-add address=.youtubecn.com list=gfwlist
-add address=youversion.com list=gfwlist
-add address=||youversion.com list=gfwlist
-add address=ytht.net list=gfwlist
-add address=yuanming.net list=gfwlist
-add address=.yuanzhengtang.org list=gfwlist
-add address=.yulghun.com list=gfwlist
-add address=||yulghun.com list=gfwlist
-add address=||yunchao.net list=gfwlist
-add address=.yuvutu.com list=gfwlist
-add address=||yvesgeleyn.com list=gfwlist
-add address=.ywpw.com/forums/history/post/A0/p0/html/227 list=gfwlist
-add address=yx51.net list=gfwlist
-add address=.yyii.org list=gfwlist
-add address=||yyii.org list=gfwlist
-add address=||yyjlymb.xyz list=gfwlist
-add address=||yysub.net list=gfwlist
-add address=.yzzk.com list=gfwlist
-add address=||yzzk.com list=gfwlist
-add address=||z-lib.org list=gfwlist
-add address=zacebook.com list=gfwlist
-add address=.zalmos.com list=gfwlist
-add address=||zalmos.com list=gfwlist
-add address=||zannel.com list=gfwlist
-add address=.zaobao.com list=gfwlist
-add address=||zaobao.com list=gfwlist
-add address=|http://zaobao.com.sg list=gfwlist
-add address=||zaobao.com.sg list=gfwlist
-add address=.zaozon.com list=gfwlist
-add address=||zdnet.com.tw list=gfwlist
-add address=.zello.com list=gfwlist
-add address=||zello.com list=gfwlist
-add address=.zengjinyan.org list=gfwlist
-add address=.zenmate.com list=gfwlist
-add address=||zenmate.com list=gfwlist
-add address=||zenmate.com.ru list=gfwlist
-add address=||zerohedge.com list=gfwlist
-add address=||zeronet.io list=gfwlist
-add address=||zeutch.com list=gfwlist
-add address=.zfreet.com list=gfwlist
-add address=.zgsddh.com list=gfwlist
-add address=zgzcjj.net list=gfwlist
-add address=.zhanbin.net list=gfwlist
-add address=||zhanbin.net list=gfwlist
-add address=.zhangboli.net list=gfwlist
-add address=||zhangtianliang.com list=gfwlist
-add address=||zhanlve.org list=gfwlist
-add address=zhenghui.org list=gfwlist
-add address=.zhengjian.org list=gfwlist
-add address=||zhengjian.org list=gfwlist
-add address=zhengwunet.org list=gfwlist
-add address=zhenlibu.info list=gfwlist
-add address=||zhenlibu.info list=gfwlist
-add address=.zhenlibu1984.com list=gfwlist
-add address=||zhenlibu1984.com list=gfwlist
-add address=|http://zhenxiang.biz list=gfwlist
-add address=.zhinengluyou.com list=gfwlist
-add address=zhongguo.ca list=gfwlist
-add address=|http://zhongguorenquan.org list=gfwlist
-add address=zhongguotese.net list=gfwlist
-add address=||zhongguotese.net list=gfwlist
-add address=||zhongmeng.org list=gfwlist
-add address=.zhoushuguang.com list=gfwlist
-add address=||zhreader.com list=gfwlist
-add address=.zhuangbi.me list=gfwlist
-add address=||zhuangbi.me list=gfwlist
-add address=.zhuanxing.cn list=gfwlist
-add address=||zhuatieba.com list=gfwlist
-add address=zhuichaguoji.org list=gfwlist
-add address=||zhuichaguoji.org list=gfwlist
-add address=||zi.media list=gfwlist
-add address=|http://book.zi5.me list=gfwlist
-add address=.ziddu.com/download list=gfwlist
-add address=||zillionk.com list=gfwlist
-add address=.zinio.com list=gfwlist
-add address=||zinio.com list=gfwlist
-add address=.ziporn.com list=gfwlist
-add address=.zippyshare.com list=gfwlist
-add address=.zkaip.com list=gfwlist
-add address=||zkaip.com list=gfwlist
-add address=realforum.zkiz.com list=gfwlist
-add address=||zmw.cn list=gfwlist
-add address=.zodgame.us list=gfwlist
-add address=zomobo.net list=gfwlist
-add address=.zonaeuropa.com list=gfwlist
-add address=||zonaeuropa.com list=gfwlist
-add address=||zonghexinwen.com list=gfwlist
-add address=.zonghexinwen.net list=gfwlist
-add address=||zoogvpn.com list=gfwlist
-add address=||zootool.com list=gfwlist
-add address=.zoozle.net list=gfwlist
-add address=||zophar.net list=gfwlist
-add address=writer.zoho.com list=gfwlist
-add address=||zorrovpn.com list=gfwlist
-add address=||zpn.im list=gfwlist
-add address=||zspeeder.me list=gfwlist
-add address=.zsrhao.com list=gfwlist
-add address=.zuo.la list=gfwlist
-add address=||zuo.la list=gfwlist
-add address=||zuobiao.me list=gfwlist
-add address=.zuola.com list=gfwlist
-add address=||zuola.com list=gfwlist
-add address=||zvereff.com list=gfwlist
-add address=||zyxel.com list=gfwlist
-add address=.zynaima.com list=gfwlist
-add address=zyzc9.com list=gfwlist
-add address=.zzcartoon.com list=gfwlist
-add address=64memo list=gfwlist
-add address=aHR0cHM6Ly95ZWNsLm5ldA list=gfwlist
-add address=freenet list=gfwlist
-add address=.google.*/falun list=gfwlist
-add address=phobos.apple.com*/video list=gfwlist
-add address=q=freedom list=gfwlist
-add address=q%3Dfreedom list=gfwlist
-add address=remembering_tiananmen_20_years list=gfwlist
-add address=search*safeweb list=gfwlist
-add address=q=triangle list=gfwlist
-add address=q%3DTriangle list=gfwlist
-add address=ultrareach list=gfwlist
-add address=ultrasurf list=gfwlist
-add address=@@||aliyun.com list=gfwlist
-add address=@@||baidu.com list=gfwlist
-add address=@@||chinaso.com list=gfwlist
-add address=@@||chinaz.com list=gfwlist
-add address=@@|http://nrch.culture.tw/ list=gfwlist
-add address=@@||adservice.google.com list=gfwlist
-add address=@@||dl.google.com list=gfwlist
-add address=@@||tools.google.com list=gfwlist
-add address=@@||clientservices.googleapis.com list=gfwlist
-add address=@@||fonts.googleapis.com list=gfwlist
-add address=@@||storage.googleapis.com list=gfwlist
-add address=@@||update.googleapis.com list=gfwlist
-add address=@@||safebrowsing.googleapis.com list=gfwlist
-add address=@@||cn.gravatar.com list=gfwlist
-add address=@@||haosou.com list=gfwlist
-add address=@@||ip.cn list=gfwlist
-add address=@@||jike.com list=gfwlist
-add address=@@|http://translate.google.cn list=gfwlist
-add address=@@|http://www.google.cn/maps list=gfwlist
-add address=@@||http2.golang.org list=gfwlist
-add address=@@||gov.cn list=gfwlist
-add address=@@||ocsp.pki.goog list=gfwlist
-add address=@@||qq.com list=gfwlist
-add address=@@||sina.cn list=gfwlist
-add address=@@||sina.com.cn list=gfwlist
-add address=@@||sogou.com list=gfwlist
-add address=@@||so.com list=gfwlist
-add address=@@||soso.com list=gfwlist
-add address=@@||uluai.com.cn list=gfwlist
-add address=@@||weibo.com list=gfwlist
-add address=@@||yahoo.cn list=gfwlist
-add address=@@||youdao.com list=gfwlist
-add address=@@||zhongsou.com list=gfwlist
-add address=@@|http://ime.baidu.jp list=gfwlist
+[AutoProxy 0.2.9]
+! Checksum: j9+lCGr2eTNyrwZCFg8ZzQ
+! Expires: 6h
+! Title: GFWList4LL
+! GFWList with EVERYTHING included
+! Last Modified: Mon, 07 Oct 2024 11:39:43 -0400
+!
+! HomePage: https://github.com/gfwlist/gfwlist
+! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
+!
+! GFWList is unlikely to fully comprise the real
+! rules being deployed inside GFW system. We try
+! our best to keep the list up to date. Please
+! contact us regarding URL submission / removal,
+! or suggestion / enhancement at issue tracker:
+! https://github.com/gfwlist/gfwlist/issues/.
+
+!---------403/451/503/520 & URL Redirects---------
+!--ehentai
+|http://85.17.73.31/
+!--||adorama.com
+||afreecatv.com
+||agnesb.fr
+||akiba-web.com
+||altrec.com
+||angela-merkel.de
+||angola.org
+||anthropic.com
+||apartmentratings.com
+||apartments.com
+||arena.taipei
+||asianspiss.com
+||assimp.org
+||athenaeizou.com
+||azubu.tv
+||bankmobilevibe.com
+||banorte.com
+||beeg.com
+||global.bing.com
+||booktopia.com.au
+||boysmaster.com
+||bynet.co.il
+||byrut.org
+||carfax.com
+.casinobellini.com
+||casinobellini.com
+||centauro.com.br
+||chobit.cc
+||ciciai.com
+||claude.ai
+||clearsurance.com
+||images.comico.tw
+||static.comico.tw
+||counter.social
+||costco.com
+||coze.com
+||crossfire.co.kr
+||crunchyroll.com
+||d2pass.com
+||darpa.mil
+||dawangidc.com
+||deezer.com
+||desipro.de
+||dingchin.com.tw
+||discord.com
+||discord.gg
+||discordapp.com
+||discordapp.net
+||dish.com
+|http://img.dlsite.jp/
+||dm530.net
+share.dmhy.org
+||dmhy.org
+||dmm.co.jp
+|http://www.dmm.com/netgame
+||dnvod.tv
+||dubox.com
+||dvdpac.com
+||eesti.ee
+||esurance.com
+.expekt.com
+||expekt.com
+.extmatrix.com
+||extmatrix.com
+||fakku.net
+||fastpic.ru
+||filesor.com
+||financetwitter.com
+||flipboard.com
+||flitto.com
+||fnac.be
+||fnac.com
+||funkyimg.com
+||fxnetworks.com
+||g-area.org
+||gettyimages.com
+||getuploader.com
+||ghidra-sre.org
+!--|https://github.com/programthink/zhao
+!--|https://raw.githubusercontent.com/programthink/zhao
+||glass8.eu
+||glype.com
+||go141.com
+||guo.media
+||hautelook.com
+||hautelookcdn.com
+||wego.here.com
+||gamer-cds.cdn.hinet.net
+||gamer2-cds.cdn.hinet.net
+||hmoegirl.com
+||hmvdigital.ca
+||hmvdigital.com
+||homedepot.com
+||hoovers.com
+||hulu.com
+||huluim.com
+|http://secure.hustler.com
+|http://hustlercash.com
+|http://www.hustlercash.com
+||hybrid-analysis.com
+||cdn*.i-scmp.com
+||ilbe.com
+||ilovelongtoes.com
+|http://imgmega.com/*.gif.html
+|http://imgmega.com/*.jpg.html
+|http://imgmega.com/*.jpeg.html
+|http://imgmega.com/*.png.html
+||imlive.com
+||tw.iqiyi.com
+||javhub.net
+||javhuge.com
+.javlibrary.com
+||javlibrary.com
+||jcpenney.com
+||jims.net
+||tv.jtbc.joins.com
+||jukujo-club.com
+||juliepost.com
+||kawaiikawaii.jp
+||kendatire.com
+||khatrimaza.org
+||kkbox.com
+||leisurepro.com
+||lifemiles.com
+||longtoes.com
+||lovetvshow.com
+|http://www.m-sport.co.uk
+||macgamestore.com
+||madonna-av.com
+||mandiant.com
+||mangafox.com
+||mangafox.me
+||manta.com
+||matome-plus.com
+||matome-plus.net
+||mattwilcox.net
+||metarthunter.com
+||mfxmedia.com
+||mojim.com
+||kb.monitorware.com
+||monster.com
+||moodyz.com
+||moonbingo.com
+||mos.ru
+||msha.gov
+||muzu.tv
+||mvg.jp
+.mybet.com
+||mybet.com
+||mypikpak.com
+||nationwide.com
+|http://www.nbc.com/live
+||neo-miracle.com
+||netflix.com
+||netflix.net
+||nflximg.com
+||nflximg.net
+||nflxext.com
+||nflxso.net
+||nflxvideo.net
+||nic.gov
+|http://mo.nightlife141.com
+||purpose.nike.com
+||noxinfluencer.com
+@@||cn.noxinfluencer.com
+||nordstrom.com
+||nordstromimage.com
+||nordstromrack.com
+||nottinghampost.com
+||npsboost.com
+||ntdtv.cz
+||s1.nudezz.com
+||nusatrip.com
+||nuuvem.com
+||olehdtv.com
+||omni7.jp
+||onapp.com
+!--We are confused as well
+||ontrac.com
+@@|http://blog.ontrac.com
+||openai.com
+||pandora.com
+.pandora.tv
+||parkansky.com
+||phmsociety.org
+|http://*.pimg.tw/
+||podcast.co
+||pure18.com
+||pytorch.org
+||qq.co.za
+||r18.com
+|http://radiko.jp
+||ramcity.com.au
+||rateyourmusic.com
+||rd.com
+||rdio.com
+|https://riseup.net
+||sadistic-v.com
+||isc.sans.edu
+|http://cdn*.search.xxx/
+||shiksha.com
+||slacker.com
+||sm-miracle.com
+||softnology.biz
+||soylentnews.org
+||spotify.com
+||spreadshirt.es
+||springboardplatform.com
+||sprite.org
+@@|http://store.sprite.org
+||superokayama.com
+||superpages.com
+||swagbucks.com
+||switch1.jp
+||tapanwap.com
+||gsp.target.com
+||login.target.com
+!--@@||intl.target.com
+||rcam.target.com
+||technews.tw
+||terabox.com
+||thinkgeek.com
+||thebodyshop-usa.com
+||tiktok.com
+||tma.co.jp
+||tracfone.com
+||tryheart.jp
+||turntable.fm
+||twerkingbutt.com
+||ulop.net
+||uukanshu.com
+||vegasred.com
+||vevo.com
+||vip-enterprise.com
+|http://viu.tv/ch/
+|http://viu.tv/encore/
+||vmpsoft.com
+|http://ecsm.vs.com/
+||wanz-factory.com
+||ssl.webpack.de
+||wheretowatch.com
+||wingamestore.com
+||wizcrafts.net
+||wowhead.com
+||vod.wwe.com
+||xfinity.com
+||xiaomi.eu
+||youwin.com
+||ytn.co.kr
+||zamimg.com
+||zattoo.com
+||zim.vn
+||zozotown.com
+
+!##############General List Start###############
+!-------------------Pure IP---------------------
+14.102.250.18
+14.102.250.19
+50.7.31.230:8898
+174.142.105.153
+69.65.19.160
+
+!----------------------IDN----------------------
+||xn--4gq171p.com
+||xn--czq75pvv1aj5c.org
+||xn--i2ru8q2qg.com
+||xn--oiq.cc
+||xn--p8j9a0d9c9a.xn--q9jyb4c
+||xn--9pr62r24a.com
+
+!-----------------DNS Poisoning-----------------
+!---Amazon---
+!-||cdn-images.mailchimp.com
+||abebooks.com
+|https://*.s3.amazonaws.com
+||s3-ap-southeast-2.amazonaws.com
+
+||43110.cf
+||9cache.com
+||9gag.com
+||agro.hk
+||share.america.gov
+||apkmirror.com
+||arte.tv
+||artstation.com
+||bangdream.space
+||behance.net
+||bird.so
+||bitterwinter.org
+||bnn.co
+||businessinsider.com
+||boomssr.com
+||bwgyhw.com
+||castbox.fm
+||chinatimes.com
+||clyp.it
+||cmcn.org
+||cmx.im
+||dailyview.tw
+||daum.net
+||depositphotos.com
+||disconnect.me
+||documentingreality.com
+||doubibackup.com
+||doubmirror.cf
+||encyclopedia.com
+||fangeqiang.com
+||fanqiangdang.com
+||feedly.com
+||feedx.net
+||flyzy2005.com
+||foreignpolicy.com
+||free-ss.site
+||freehongkong.org
+||blog.fuckgfw233.org
+||g0v.social
+||globalvoices.org
+||glorystar.me
+||goregrish.com
+||guangnianvpn.com
+||hanime.tv
+||hbo.com
+||spaces.hightail.com
+||hkgalden.com
+||hkgolden.com
+||hudson.org
+||ipfs.io
+||japantimes.co.jp
+||jiji.com
+||jintian.net
+||jinx.com
+||joinmastodon.org
+||liangzhichuanmei.com
+||lighti.me
+||lightyearvpn.com
+||lihkg.com
+||line-scdn.net
+||i.lithium.com
+||cloud.mail.ru
+||cdn-images.mailchimp.com
+||mastodon.cloud
+||mastodon.host
+||mastodon.social
+||mastodon.xyz
+||matters.news
+||me.me
+||metart.com
+||mohu.club
+||mohu.ml
+||motiyun.com
+||msa-it.org
+||goo.ne.jp
+||go.nesnode.com
+||international-news.newsmagazine.asia
+||nikkei.com
+||nitter.cc
+||nitter.net
+||niu.moe
+||nofile.io
+||now.com
+||openvpn.org
+||onejav.com
+||paste.ee
+||my.pcloud.com
+||picacomic.com
+||pincong.rocks
+||pixiv.net
+||potato.im
+||premproxy.com
+||prism-break.org
+||proton.me
+||protonvpn.com
+||api.pureapk.com
+||quora.com
+||quoracdn.net
+||qz.com
+||cdn.seatguru.com
+||secure.raxcdn.com
+||redd.it
+||reddit.com
+.redditlist.com
+|http://redditlist.com
+||redditmedia.com
+||redditstatic.com
+!--defunct
+||rixcloud.com
+||rixcloud.us
+||rsdlmonitor.com
+||shadowsocks.be
+||shadowsocks9.com
+||tn1.shemalez.com
+||tn2.shemalez.com
+||tn3.shemalez.com
+||static.shemalez.com
+||six-degrees.io
+||softfamous.com
+||softsmirror.cf
+||sosreader.com
+||sspanel.net
+||sulian.me
+||supchina.com
+||teddysun.com
+||textnow.me
+||tineye.com
+||top10vpn.com
+||tubepornclassic.com
+||uku.im
+||unseen.is
+||cn.uptodown.com
+||uraban.me
+||vrsmash.com
+||vultryhw.com
+||scache.vzw.com
+||scache1.vzw.com
+||scache2.vzw.com
+||ss7.vzw.com
+||ssr.tools
+||steemit.com
+||taiwanjustice.net
+||tinc-vpn.org
+||u15.info
+||washingtonpost.com
+||wenzhao.ca
+||whatsonweibo.com
+||wire.com
+||blog.workflow.is
+||xm.com
+||xuehua.us
+||yes-news.com
+||yigeni.com
+||you-get.org
+||zzcloud.me
+
+!---Digital Currency Exchange(CRYPTO)---
+||aex.com
+||allcoin.com
+||adcex.com
+||bcex.ca
+||bibox.com
+||big.one
+||bigone.com
+||binance.com
+||bit-z.com
+||bitz.ai
+||bitbay.net
+||bitcoinworld.com
+||bitfinex.com
+||bithumb.com
+||bitinka.com.ar
+||bitmex.com
+||bnbstatic.com
+||btc98.com
+||btcbank.bank
+||btctrade.im
+||bybit.com
+||c2cx.com
+||chaoex.com
+||cobinhood.com
+||coin2co.in
+||coinbene.com
+.coinegg.com
+||coinegg.com
+||coinex.com
+!--|https://www.coinexchange.io/
+||coingecko.com
+||coingi.com
+||coinmarketcap.com
+||coinrail.co.kr
+||cointiger.com
+||cointobe.com
+||coinut.com
+||discoins.com
+||dragonex.io
+||ebtcbank.com
+||etherdelta.com
+||ethermine.org
+||etherscan.io
+||exmo.com
+||exrates.me
+||exx.com
+||f2pool.com
+||fatbtc.com
+||ftx.com
+||gate.io
+||gatecoin.com
+||hbg.com
+||hitbtc.com
+||hotcoin.com
+||huobi.co
+||huobi.com
+||huobi.me
+!--||huobi.li
+||huobi.pro
+||huobi.sc
+||huobipro.com
+||bx.in.th
+||jex.com
+||kex.com
+||kraken.com
+||kspcoin.com
+||kucoin.com
+||lbank.info
+||liquiditytp.com
+||livecoin.net
+||localbitcoins.com
+||mercatox.com
+||oanda.com
+||obyte.org
+||oex.com
+||okex.com
+||okx.com
+||opensea.io
+||otcbtc.com
+||paxful.com
+||poolin.com
+||rightbtc.com
+||solv.finance
+||topbtc.com
+||tronscan.org
+||xbtce.com
+||yobit.net
+||zb.com
+
+!----------------Frauds & Scams-----------------
+!!---Content Farm(fake 500 error)---
+||read01.com
+||kknews.cc
+
+china-mmm.jp.net
+.lsxszzg.com
+.china-mmm.net
+||china-mmm.net
+china-mmm.sa.com
+
+!---------------------Groups--------------------
+!!---Afraid FreeDNS---
+.allowed.org
+.now.im
+
+!!---Amazon---
+||amazon.co.jp
+.amazon.com/Dalai-Lama
+amazon.com/Prisoner-State-Secret-Journal-Premier
+s3-ap-northeast-1.amazonaws.com
+
+!!---AOL---
+||aolchannels.aol.com
+video.aol.ca/video-detail
+video.aol.co.uk/video-detail
+video.aol.com
+||video.aol.com
+||search.aol.com
+www.aolnews.com
+
+!!---AvMoo---
+.avmo.pw
+!--|http://avmo.pw
+.avmoo.com
+|http://avmoo.com
+.avmoo.net
+|http://avmoo.net
+||avmoo.pw
+.javmoo.xyz
+|http://javmoo.xyz
+.javtag.com
+|http://javtag.com
+.javzoo.com
+|http://javzoo.com
+.tellme.pw
+
+!!---BBC---
+!--.bbc.co.uk/blogs
+!--.bbc.co.uk/chinese
+!--.bbc.co.uk/news/world-asia-china
+!--.bbc.co.uk/tv
+!--.bbc.co.uk/zhongwen
+!--.bbc.com/ukchina
+!--.bbc.com/zhongwen
+!--.bbc.com%2Fzhongwen
+!--news.bbc.co.uk/onthisday*newsid_2496000/2496277
+!--newsforums.bbc.co.uk
+.bbc.com
+||bbc.com
+.bbc.co.uk
+||bbc.co.uk
+||bbci.co.uk
+.bbcchinese.com
+||bbcchinese.com
+|http://bbc.in
+
+!!---Bloomberg---
+.bloomberg.cn
+||bloomberg.cn
+.bloomberg.com
+||bloomberg.com
+bloomberg.de
+||bloomberg.de
+||bloombergview.com
+.businessweek.com
+
+!!---ChangeIP---
+.1dumb.com
+.25u.com
+.2waky.com
+.3-a.net
+.4dq.com
+.4mydomain.com
+.4pu.com
+.acmetoy.com
+.almostmy.com
+.americanunfinished.com
+.authorizeddns.net
+.authorizeddns.org
+.authorizeddns.us
+.bigmoney.biz
+.changeip.name
+.changeip.net
+.changeip.org
+.cleansite.biz
+.cleansite.info
+.cleansite.us
+.compress.to
+.ddns.info
+.ddns.me.uk
+.ddns.mobi
+.ddns.ms
+.ddns.name
+.ddns.us
+.dhcp.biz
+.dns-dns.com
+.dns-stuff.com
+.dns04.com
+.dns05.com
+.dns1.us
+.dns2.us
+.dnset.com
+.dnsrd.com
+.dsmtp.com
+.dumb1.com
+.dynamic-dns.net
+.dynamicdns.biz
+.dynamicdns.co.uk
+.dynamicdns.me.uk
+.dynamicdns.org.uk
+.dyndns.pro
+.dynssl.com
+.edns.biz
+.epac.to
+.esmtp.biz
+.ezua.com
+.faqserv.com
+.fartit.com
+.freeddns.com
+.freetcp.com
+.freewww.biz
+.freewww.info
+.ftp1.biz
+.ftpserver.biz
+.gettrials.com
+.got-game.org
+.gr8domain.biz
+.gr8name.biz
+.https443.net
+.https443.org
+.ikwb.com
+.instanthq.com
+.iownyour.biz
+.iownyour.org
+.isasecret.com
+.itemdb.com
+.itsaol.com
+.jetos.com
+.jkub.com
+.jungleheart.com
+.justdied.com
+.lflink.com
+.lflinkup.com
+.lflinkup.net
+.lflinkup.org
+.longmusic.com
+.mefound.com
+.moneyhome.biz
+.mrbasic.com
+.mrbonus.com
+.mrface.com
+.mrslove.com
+.my03.com
+.mydad.info
+.myddns.com
+.myftp.info
+.myftp.name
+.mylftv.com
+.mymom.info
+.mynetav.net
+.mynetav.org
+.mynumber.org
+.mypicture.info
+.mypop3.net
+.mypop3.org
+.mysecondarydns.com
+.mywww.biz
+.myz.info
+.ninth.biz
+.ns01.biz
+.ns01.info
+.ns01.us
+.ns02.biz
+.ns02.info
+.ns02.us
+.ns1.name
+.ns2.name
+.ns3.name
+.ocry.com
+.onedumb.com
+.onmypc.biz
+.onmypc.info
+.onmypc.net
+.onmypc.org
+.onmypc.us
+.organiccrap.com
+.otzo.com
+.ourhobby.com
+.pcanywhere.net
+.port25.biz
+.proxydns.com
+.qhigh.com
+.qpoe.com
+.rebatesrule.net
+.sellclassics.com
+.sendsmtp.com
+.serveuser.com
+.serveusers.com
+.sexidude.com
+.sexxxy.biz
+.sixth.biz
+.squirly.info
+.ssl443.org
+.toh.info
+.toythieves.com
+.trickip.net
+.trickip.org
+.vizvaz.com
+.wha.la
+.wikaba.com
+.www1.biz
+.wwwhost.biz
+@@|http://xx.wwwhost.biz
+.x24hr.com
+.xxuz.com
+.xxxy.biz
+.xxxy.info
+.ygto.com
+.youdontcare.com
+.yourtrap.com
+.zyns.com
+.zzux.com
+
+!!--Cloudflare--
+!--||pages.dev
+
+!!---CloudFront---
+d1b183sg0nvnuh.cloudfront.net
+|https://d1b183sg0nvnuh.cloudfront.net
+d1c37gjwa26taa.cloudfront.net
+|https://d1c37gjwa26taa.cloudfront.net
+d3c33hcgiwev3.cloudfront.net
+|https://d3c33hcgiwev3.cloudfront.net
+||d3rhr7kgmtrq1v.cloudfront.net
+
+!!---DtDNS---
+!###https://www.dtdns.com/dtsite/faq
+.3d-game.com
+.4irc.com
+.b0ne.com
+.chatnook.com
+.darktech.org
+.deaftone.com
+.dtdns.net
+.effers.com
+.etowns.net
+.etowns.org
+.flnet.org
+.gotgeeks.com
+.scieron.com
+.slyip.com
+.slyip.net
+.suroot.com
+
+!!---DynDNS---
+!###https://help.dyn.com/list-of-dyn-dns-pro-remote-access-domain-names/
+.blogdns.org
+.dyndns.org
+.dyndns-ip.com
+.dyndns-pics.com
+.from-sd.com
+.from-pr.com
+.is-a-hunter.com
+
+!!---Dynu---
+.dynu.com
+||dynu.com
+.dynu.net
+.freeddns.org
+
+!!---Facebook---
+||accountkit.com
+cdninstagram.com
+||cdninstagram.com
+||f8.com
+||facebook.br
+.facebook.com
+||facebook.com
+!--/^https?:\/\/[^\/]+facebook\.com/
+@@||v6.facebook.com
+||facebook.de
+||facebook.design
+||connect.facebook.net
+||facebook.hu
+||facebook.in
+||facebook.nl
+||facebook.se
+||facebookmail.com
+||fb.com
+||fb.me
+||fb.watch
+||fbcdn.net
+||fbsbx.com
+||fbaddins.com
+||fbworkmail.com
+.instagram.com
+||instagram.com
+||m.me
+||messenger.com
+||meta.com
+||oculus.com
+||oculuscdn.com
+||rocksdb.org
+@@||ip6.static.sl-reverse.com
+||parse.com
+||thefacebook.com
+||threads.net
+||whatsapp.com
+||whatsapp.net
+
+!!---Fandom---
+||auntology.fandom.com
+||hongkong.fandom.com
+
+!!---FTChinese---
+.ftchinese.com
+||ftchinese.com
+!--.ftchinese.com/channel/video
+!--.ftchinese.com/premium/001081066
+!--.ftchinese.com/story/00102753
+!--.ftchinese.com/story/001026616
+!--.ftchinese.com/story/001026749
+!--.ftchinese.com/story/001026807
+!--.ftchinese.com/story/001026808
+!--.ftchinese.com/story/001026834
+!--.ftchinese.com/story/001026880
+!--.ftchinese.com/story/001027429
+!--.ftchinese.com/story/001030341
+!--.ftchinese.com/story/001030502
+!--.ftchinese.com/story/001030803
+!--.ftchinese.com/story/001031317
+!--.ftchinese.com/story/001032617
+!--.ftchinese.com/story/001032636
+!--.ftchinese.com/story/001032692
+!--.ftchinese.com/story/001032762
+!--.ftchinese.com/story/001033138
+!--.ftchinese.com/story/001034917
+!--.ftchinese.com/story/001034926
+!--.ftchinese.com/story/001034927
+!--.ftchinese.com/story/001034928
+!--.ftchinese.com/story/001034952
+!--.ftchinese.com/story/001035890
+!--.ftchinese.com/story/001035972
+!--.ftchinese.com/story/001035993
+!--.ftchinese.com/story/001036417
+!--.ftchinese.com/story/001037090
+!--.ftchinese.com/story/001037091
+!--.ftchinese.com/story/001038178
+!--.ftchinese.com/story/001038199
+!--.ftchinese.com/story/001038220
+!--.ftchinese.com/story/001038819
+!--.ftchinese.com/story/001038862
+!--.ftchinese.com/story/001039067
+!--.ftchinese.com/story/001039178
+!--.ftchinese.com/story/001039211
+!--.ftchinese.com/story/001039271
+!--.ftchinese.com/story/001039295
+!--.ftchinese.com/story/001039369
+!--.ftchinese.com/story/001039482
+!--.ftchinese.com/story/001039534
+!--.ftchinese.com/story/001039555
+!--.ftchinese.com/story/001039576
+!--.ftchinese.com/story/001039712
+!--.ftchinese.com/story/001039779
+!--.ftchinese.com/story/001039809
+!--.ftchinese.com/story/001040134
+!--.ftchinese.com/story/001040835
+!--.ftchinese.com/story/001040890
+!--.ftchinese.com/story/001040918
+!--.ftchinese.com/story/001040992
+!--.ftchinese.com/story/001041209
+!--.ftchinese.com/story/001042100
+!--.ftchinese.com/story/001042252
+!--.ftchinese.com/story/001042272
+!--.ftchinese.com/story/001042280
+!--.ftchinese.com/story/001043029
+!--.ftchinese.com/story/001043066
+!--.ftchinese.com/story/001043096
+!--.ftchinese.com/story/001043124
+!--.ftchinese.com/story/001043152
+!--.ftchinese.com/story/001043189
+!--.ftchinese.com/story/001043428
+!--.ftchinese.com/story/001043439
+!--.ftchinese.com/story/001043534
+!--.ftchinese.com/story/001043675
+!--.ftchinese.com/story/001043680
+!--.ftchinese.com/story/001043702
+!--.ftchinese.com/story/001043849
+!--.ftchinese.com/story/001044099
+!--.ftchinese.com/story/001044776
+!--.ftchinese.com/story/001044871
+!--.ftchinese.com/story/001044897
+!--.ftchinese.com/story/001045114
+!--.ftchinese.com/story/001045139
+!--.ftchinese.com/story/001045186
+!--.ftchinese.com/story/001045755
+!--.ftchinese.com/story/001046087
+!--.ftchinese.com/story/001046105
+!--.ftchinese.com/story/001046118
+!--.ftchinese.com/story/001046132
+!--.ftchinese.com/story/001046517
+!--.ftchinese.com/story/001046822
+!--.ftchinese.com/story/001046866
+!--.ftchinese.com/story/001046942
+!--.ftchinese.com/story/001047180
+!--.ftchinese.com/story/001047206
+!--.ftchinese.com/story/001047304
+!--.ftchinese.com/story/001047317
+!--.ftchinese.com/story/001047345
+!--.ftchinese.com/story/001047358
+!--.ftchinese.com/story/001047375
+!--.ftchinese.com/story/001047381
+!--.ftchinese.com/story/001047413
+!--.ftchinese.com/story/001047456
+!--.ftchinese.com/story/001047491
+!--.ftchinese.com/story/001047545
+!--.ftchinese.com/story/001047558
+!--.ftchinese.com/story/001047568
+!--.ftchinese.com/story/001047627
+!--.ftchinese.com/story/001048293
+!--.ftchinese.com/story/001048343
+!--.ftchinese.com/story/001048710
+!--.ftchinese.com/story/001049289
+!--.ftchinese.com/story/001049360
+!--.ftchinese.com/story/001049896
+!--.ftchinese.com/story/001050152
+!--.ftchinese.com/story/001051027
+!--.ftchinese.com/story/001051161
+!--.ftchinese.com/story/001051372
+!--.ftchinese.com/story/001051479
+!--.ftchinese.com/story/001052138
+!--.ftchinese.com/story/001052161
+!--.ftchinese.com/story/001052525
+!--.ftchinese.com/story/001052549
+!--.ftchinese.com/story/001052701
+!--.ftchinese.com/story/001052965
+!--.ftchinese.com/story/001053149
+!--.ftchinese.com/story/001053150
+!--.ftchinese.com/story/001053200
+!--.ftchinese.com/story/001053425
+!--.ftchinese.com/story/001053496
+!--.ftchinese.com/story/001053526
+!--.ftchinese.com/story/001053557
+!--.ftchinese.com/story/001053906
+!--.ftchinese.com/story/001054049
+!--.ftchinese.com/story/001054103
+!--.ftchinese.com/story/001054109
+!--.ftchinese.com/story/001054119
+!--.ftchinese.com/story/001054123
+!--.ftchinese.com/story/001054139
+!--.ftchinese.com/story/001054166
+!--.ftchinese.com/story/001054168
+!--.ftchinese.com/story/001054190
+!--.ftchinese.com/story/001054437
+!--.ftchinese.com/story/001054526
+!--.ftchinese.com/story/001054607
+!--.ftchinese.com/story/001054644
+!--.ftchinese.com/story/001054786
+!--.ftchinese.com/story/001054843
+!--.ftchinese.com/story/001054925
+!--.ftchinese.com/story/001054940
+!--.ftchinese.com/story/001055051
+!--.ftchinese.com/story/001055063
+!--.ftchinese.com/story/001055069
+!--.ftchinese.com/story/001055136
+!--.ftchinese.com/story/001055170
+!--.ftchinese.com/story/001055202
+!--.ftchinese.com/story/001055242
+!--.ftchinese.com/story/001055263
+!--.ftchinese.com/story/001055274
+!--.ftchinese.com/story/001055299
+!--.ftchinese.com/story/001055480
+!--.ftchinese.com/story/001055551
+!--.ftchinese.com/story/001055559
+!--.ftchinese.com/story/001055566
+!--.ftchinese.com/story/001055840
+!--.ftchinese.com/story/001056099
+!--.ftchinese.com/story/001056108
+!--.ftchinese.com/story/001056131
+!--.ftchinese.com/story/001056375
+!--.ftchinese.com/story/001056491
+!--.ftchinese.com/story/001056529
+!--.ftchinese.com/story/001056534
+!--.ftchinese.com/story/001056538
+!--.ftchinese.com/story/001056541
+!--.ftchinese.com/story/001056554
+!--.ftchinese.com/story/001056557
+!--.ftchinese.com/story/001056560
+!--.ftchinese.com/story/001056567
+!--.ftchinese.com/story/001056574
+!--.ftchinese.com/story/001056588
+!--.ftchinese.com/story/001056594
+!--.ftchinese.com/story/001056596
+!--.ftchinese.com/story/001056684
+!--.ftchinese.com/story/001056832
+!--.ftchinese.com/story/001056833
+!--.ftchinese.com/story/001056851
+!--.ftchinese.com/story/001056874
+!--.ftchinese.com/story/001056896
+!--.ftchinese.com/story/001056927
+!--.ftchinese.com/story/001057011
+!--.ftchinese.com/story/001057018
+!--.ftchinese.com/story/001057044
+!--.ftchinese.com/story/001057162
+!--.ftchinese.com/story/001057500
+!--.ftchinese.com/story/001057504
+!--.ftchinese.com/story/001057509
+!--.ftchinese.com/story/001057518
+!--.ftchinese.com/story/001057532
+!--.ftchinese.com/story/001057533
+!--.ftchinese.com/story/001057556
+!--.ftchinese.com/story/001057580
+!--.ftchinese.com/story/001057638
+!--.ftchinese.com/story/001057644
+!--.ftchinese.com/story/001057817
+!--.ftchinese.com/story/001057875
+!--.ftchinese.com/story/001058009
+!--.ftchinese.com/story/001058056
+!--.ftchinese.com/story/001058224
+!--.ftchinese.com/story/001058257
+!--.ftchinese.com/story/001058295
+!--.ftchinese.com/story/001058328
+!--.ftchinese.com/story/001058339
+!--.ftchinese.com/story/001058344
+!--.ftchinese.com/story/001058352
+!--.ftchinese.com/story/001058413
+!--.ftchinese.com/story/001058421
+!--.ftchinese.com/story/001058440
+!--.ftchinese.com/story/001058458
+!--.ftchinese.com/story/001058468
+!--.ftchinese.com/story/001058561
+!--.ftchinese.com/story/001058566
+!--.ftchinese.com/story/001058567
+!--.ftchinese.com/story/001058585
+!--.ftchinese.com/story/001058628
+!--.ftchinese.com/story/001058656
+!--.ftchinese.com/story/001058665
+!--.ftchinese.com/story/001058678
+!--.ftchinese.com/story/001058691
+!--.ftchinese.com/story/001058721
+!--.ftchinese.com/story/001058728
+!--.ftchinese.com/story/001059464
+!--.ftchinese.com/story/001059484
+!--.ftchinese.com/story/001059537
+!--.ftchinese.com/story/001059538
+!--.ftchinese.com/story/001059551
+!--.ftchinese.com/story/001059818
+!--.ftchinese.com/story/001059914
+!--.ftchinese.com/story/001059920
+!--.ftchinese.com/story/001059957
+!--.ftchinese.com/story/001060088
+!--.ftchinese.com/story/001060156
+!--.ftchinese.com/story/001060157
+!--.ftchinese.com/story/001060160
+!--.ftchinese.com/story/001060181
+!--.ftchinese.com/story/001060185
+!--.ftchinese.com/story/001060493
+!--.ftchinese.com/story/001060495
+!--.ftchinese.com/story/001060590
+!--.ftchinese.com/story/001060846
+!--.ftchinese.com/story/001060847
+!--.ftchinese.com/story/001060875
+!--.ftchinese.com/story/001060921
+!--.ftchinese.com/story/001060946
+!--.ftchinese.com/story/001061120
+!--.ftchinese.com/story/001061474
+!--.ftchinese.com/story/001061524
+!--.ftchinese.com/story/001061642
+!--.ftchinese.com/story/001062017
+!--.ftchinese.com/story/001062020
+!--.ftchinese.com/story/001062028
+!--.ftchinese.com/story/001062092
+!--.ftchinese.com/story/001062096
+!--.ftchinese.com/story/001062147
+!--.ftchinese.com/story/001062176
+!--.ftchinese.com/story/001062188
+!--.ftchinese.com/story/001062254
+!--.ftchinese.com/story/001062374
+!--.ftchinese.com/story/001062482
+!--.ftchinese.com/story/001062496
+!--.ftchinese.com/story/001062501
+!--.ftchinese.com/story/001062508
+!--.ftchinese.com/story/001062519
+!--.ftchinese.com/story/001062554
+!--.ftchinese.com/story/001062741
+!--.ftchinese.com/story/001062794
+!--.ftchinese.com/story/001063160
+!--.ftchinese.com/story/001063359
+!--.ftchinese.com/story/001063512
+!--.ftchinese.com/story/001063668
+!--.ftchinese.com/story/001063692
+!--.ftchinese.com/story/001063763
+!--.ftchinese.com/story/001063764
+!--.ftchinese.com/story/001063826
+!--.ftchinese.com/story/001064127
+!--.ftchinese.com/story/001064312
+!--.ftchinese.com/story/001064705
+!--.ftchinese.com/story/001064807
+!--.ftchinese.com/story/001065120
+!--.ftchinese.com/story/001065168
+!--.ftchinese.com/story/001065249
+!--.ftchinese.com/story/001065287
+!--.ftchinese.com/story/001065335
+!--.ftchinese.com/story/001065337
+!--.ftchinese.com/story/001065541
+!--.ftchinese.com/story/001065715
+!--.ftchinese.com/story/001065735
+!--.ftchinese.com/story/001065756
+!--.ftchinese.com/story/001065802
+!--.ftchinese.com/story/001066112
+!--.ftchinese.com/story/001066136
+!--.ftchinese.com/story/001066140
+!--.ftchinese.com/story/001066465
+!--.ftchinese.com/story/001066881
+!--.ftchinese.com/story/001066950
+!--.ftchinese.com/story/001066959
+!--.ftchinese.com/story/001067435
+!--www.ftchinese.com/story/001067479
+!--.ftchinese.com/story/001067528
+!--.ftchinese.com/story/001067545
+!--.ftchinese.com/story/001067572
+!--.ftchinese.com/story/001067648
+!--.ftchinese.com/story/001067650
+!--.ftchinese.com/story/001067680
+!--.ftchinese.com/story/001067692
+!--.ftchinese.com/story/001067871
+!--.ftchinese.com/story/001067923
+!--.ftchinese.com/story/001068062
+!--.ftchinese.com/story/001068248
+!--.ftchinese.com/story/001068278
+!--.ftchinese.com/story/001068379
+!--.ftchinese.com/story/001068483
+!--.ftchinese.com/story/001068506
+!--.ftchinese.com/story/001068547
+!--.ftchinese.com/story/001068616
+!--.ftchinese.com/story/001068622
+!--.ftchinese.com/story/001068707
+!--.ftchinese.com/story/001069146
+!--.ftchinese.com/story/001069373
+!--.ftchinese.com/story/001069516
+!--.ftchinese.com/story/001069517
+!--.ftchinese.com/story/001069687
+!--.ftchinese.com/story/001069741
+!--.ftchinese.com/story/001069861
+!--.ftchinese.com/story/001069952
+!--.ftchinese.com/story/001070053
+!--.ftchinese.com/story/001070177
+!--.ftchinese.com/story/001070307
+!--.ftchinese.com/story/001070809
+!--.ftchinese.com/story/001070990
+!--.ftchinese.com/story/001071042
+!--.ftchinese.com/story/001071044
+!--.ftchinese.com/story/001071106
+!--.ftchinese.com/story/001071166
+!--.ftchinese.com/story/001071181
+!--ftchinese.com/story/001071200
+!--.ftchinese.com/story/001071208
+!--.ftchinese.com/story/001071238
+!--.ftchinese.com/story/001071683
+!--.ftchinese.com/story/001072271
+!--.ftchinese.com/story/001072348
+!--.ftchinese.com/story/001072677
+!--.ftchinese.com/story/001072726
+!--.ftchinese.com/story/001072794
+!--.ftchinese.com/story/001072853
+!--.ftchinese.com/story/001072895
+!--.ftchinese.com/story/001072993
+!--.ftchinese.com/story/001073043
+!--.ftchinese.com/story/001073103
+!--.ftchinese.com/story/001073157
+!--.ftchinese.com/story/001073216
+!--.ftchinese.com/story/001073246
+!--.ftchinese.com/story/001073305
+!--.ftchinese.com/story/001073307
+!--.ftchinese.com/story/001073408
+!--.ftchinese.com/story/001073537
+!--.ftchinese.com/story/001073672
+!--.ftchinese.com/story/001073849
+!--.ftchinese.com/story/001073906
+!--.ftchinese.com/story/001074089
+!--.ftchinese.com/story/001074110
+!--.ftchinese.com/story/001074128
+!--.ftchinese.com/story/001074157
+!--.ftchinese.com/story/001074246
+!--.ftchinese.com/story/001074307
+!--.ftchinese.com/story/001074347
+!--.ftchinese.com/story/001074423
+!--.ftchinese.com/story/001074454
+!--.ftchinese.com/story/001074467
+!--.ftchinese.com/story/001074493
+!--.ftchinese.com/story/001074550
+!--.ftchinese.com/story/001074562
+!--.ftchinese.com/story/001074653
+!--.ftchinese.com/story/001074693
+!--.ftchinese.com/story/001074699
+!--.ftchinese.com/story/001074712
+!--.ftchinese.com/story/001074713
+!--.ftchinese.com/story/001074768
+!--.ftchinese.com/story/001074782
+!--.ftchinese.com/story/001074794
+!--.ftchinese.com/story/001074822
+!--.ftchinese.com/story/001074874
+!--.ftchinese.com/story/001074891
+!--.ftchinese.com/story/001074918
+!--.ftchinese.com/story/001075081
+!--.ftchinese.com/story/001075134
+!--.ftchinese.com/story/001075142
+!--.ftchinese.com/story/001075216
+!--.ftchinese.com/story/001075230
+!--.ftchinese.com/story/001075238
+!--.ftchinese.com/story/001075262
+!--.ftchinese.com/story/001075269
+!--.ftchinese.com/story/001075491
+!--.ftchinese.com/story/001075500
+!--.ftchinese.com/story/001075650
+!--.ftchinese.com/story/001075678
+!--.ftchinese.com/story/001075703
+!--.ftchinese.com/story/001075739
+!--.ftchinese.com/story/001076066
+!--.ftchinese.com/story/001076142
+!--.ftchinese.com/story/001076459
+!--.ftchinese.com/story/001076470
+!--.ftchinese.com/story/001076538
+!--.ftchinese.com/story/001076573
+!--.ftchinese.com/story/001076901
+!--.ftchinese.com/story/001077067
+!--.ftchinese.com/story/001077084
+!--.ftchinese.com/story/001077235
+!--.ftchinese.com/story/001077344
+!--.ftchinese.com/story/001077390
+!--.ftchinese.com/story/001077392
+!--.ftchinese.com/story/001077465
+!--.ftchinese.com/story/001077468
+!--.ftchinese.com/story/001077492
+!--.ftchinese.com/story/001077745
+!--.ftchinese.com/story/001077768
+!--.ftchinese.com/story/001077804
+!--.ftchinese.com/story/001077852
+!--.ftchinese.com/story/001078646
+!--.ftchinese.com/story/001078928
+!--.ftchinese.com/story/001078967
+!--.ftchinese.com/story/001079559
+!--.ftchinese.com/story/001079641
+!--.ftchinese.com/story/001079909
+!--.ftchinese.com/story/001079934
+!--.ftchinese.com/story/001079992
+!--.ftchinese.com/story/001080054
+!--.ftchinese.com/story/001080109
+!--.ftchinese.com/story/001080169
+!--.ftchinese.com/story/001080226
+!--.ftchinese.com/story/001080429
+!--.ftchinese.com/story/001080471
+!--.ftchinese.com/story/001080550
+!--.ftchinese.com/story/001080581
+!--.ftchinese.com/story/001080647
+!--.ftchinese.com/story/001080778
+!--.ftchinese.com/story/001080892
+!--.ftchinese.com/story/001080915
+!--.ftchinese.com/story/001080935
+!--.ftchinese.com/story/001081059
+!--.ftchinese.com/story/001081127
+!--.ftchinese.com/tag/%E5%8D%81%E5%85%AB%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A
+!--.ftchinese.com/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D
+!--.ftchinese.com/tag/%E8%96%84%E7%86%99%E6%9D%A5
+!--.ftchinese.com/video/1437
+!--.ftchinese.com/video/1882
+!--.ftchinese.com/video/2446
+!--.ftchinese.com/video/2601
+!--.ftchinese.com/comments
+
+!!---Google---
+!###https://www.google.com/supported_domains###
+!...GFWList doesn't intend to support typosquatting...
+||1e100.net
+||466453.com
+||abc.xyz
+||about.google
+||admob.com
+||adsense.com
+||advertisercommunity.com
+||agoogleaday.com
+||ai.google
+||ampproject.org
+@@|https://www.ampproject.org
+@@|https://cdn.ampproject.org
+||android.com
+||androidify.com
+||androidtv.com
+||api.ai
+.appspot.com
+||appspot.com
+||autodraw.com
+||blog.google
+||blogblog.com
+blogspot.com
+/^https?:\/\/[^\/]+blogspot\.(.*)/
+.blogspot.hk
+.blogspot.jp
+.blogspot.tw
+||business.page
+!--||capitalg.com
+||certificate-transparency.org
+||chrome.com
+||chromecast.com
+||chromeenterprise.google
+||chromeexperiments.com
+||chromercise.com
+||chromestatus.com
+||chromium.org
+||cloudfunctions.net
+||com.google
+||crbug.com
+||creativelab5.com
+||crisisresponse.google
+||crrev.com
+||data-vocabulary.org
+||debug.com
+||deepmind.com
+||deja.com
+||design.google
+||digisfera.com
+||dns.google
+||hub.docker.com
+||domains.google
+||duck.com
+||environment.google
+||feedburner.com
+||firebaseio.com
+||g.co
+||gcr.io
+||get.app
+||get.dev
+||get.how
+||get.page
+||getmdl.io
+||getoutline.org
+||ggpht.com
+||gmail.com
+||gmodules.com
+||godoc.org
+||golang.org
+||goo.gl
+||goo.gle
+.google.ae
+.google.as
+.google.am
+.google.at
+.google.az
+.google.ba
+.google.be
+.google.bg
+.google.ca
+.google.cd
+.google.ci
+.google.co.id
+.google.co.jp
+.google.co.kr
+.google.co.ma
+.google.co.uk
+.google.com
+.google.de
+||google.dev
+.google.dj
+.google.dk
+.google.es
+.google.fi
+.google.fm
+.google.fr
+.google.gg
+.google.gl
+.google.gr
+.google.ie
+.google.is
+.google.it
+.google.jo
+.google.kz
+.google.lv
+.google.mn
+.google.ms
+.google.nl
+.google.nu
+.google.no
+.google.ro
+.google.ru
+.google.rw
+.google.sc
+.google.sh
+.google.sk
+.google.sm
+.google.sn
+.google.tk
+.google.tm
+.google.to
+.google.tt
+.google.vu
+.google.ws
+/^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|af|ai|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
+!--||google-analytics.com
+!--||googleadservices.com
+||googleapis.cn
+||googleapis.com
+||googleapps.com
+||googleartproject.com
+||googleblog.com
+||googlebot.com
+!--||googlecapital.com
+||googlechinawebmaster.com
+||googlecode.com
+||googlecommerce.com
+||googledomains.com
+||googlearth.com
+||googleearth.com
+||googledrive.com
+||googlefiber.net
+||googlegroups.com
+||googlehosted.com
+||googleideas.com
+||googleinsidesearch.com
+||googlelabs.com
+||googlemail.com
+||googlemashups.com
+||googlepagecreator.com
+||googleplay.com
+||googleplus.com
+||googlescholar.comUSA
+||googlesource.com
+!--||googlesyndication.com
+!--||googletagmanager.com
+!--||googletagservices.com
+||googleusercontent.com
+.googlevideo.com
+||googlevideo.com
+||googleweblight.com
+||googlezip.net
+||groups.google.cn
+||grow.google
+||gstatic.com
+!--||gv.com
+||gvt0.com
+||gvt1.com
+@@||redirector.gvt1.com
+||gvt3.com
+||gwtproject.org
+||html5rocks.com
+||iam.soy
+||igoogle.com
+||itasoftware.com
+||lers.google
+||like.com
+||madewithcode.com
+||material.io
+||nic.google
+||on2.com
+||opensource.google
+||panoramio.com
+||passwords.google
+||picasaweb.com
+||pki.goog
+||plus.codes
+||polymer-project.org
+||pride.google
+||questvisual.com
+||admin.recaptcha.net
+||api.recaptcha.net
+||api-secure.recaptcha.net
+||api-verify.recaptcha.net
+||redhotlabs.com
+||registry.google
+||research.google
+||safety.google
+||savethedate.foo
+||schema.org
+||shattered.io
+|http://sipml5.org/
+||stories.google
+||sustainability.google
+||synergyse.com
+||teachparentstech.org
+||tensorflow.org
+||tfhub.dev
+||thinkwithgoogle.com
+||tiltbrush.com
+||translate.goog
+||tv.google
+||urchin.com
+!--||www.google
+||waveprotocol.org
+||waymo.com
+||web.dev
+||webmproject.org
+||webpkgcache.com
+||webrtc.org
+||whatbrowser.org
+||widevine.com
+||withgoogle.com
+||withyoutube.com
+||x.company
+||xn--ngstr-lra8j.com
+||youtu.be
+.youtube.com
+||youtube.com
+||youtube-nocookie.com
+||youtubeeducation.com
+||youtubegaming.com
+||youtubekids.com
+||yt.be
+||ytimg.com
+||zynamics.com
+
+!!---KickASS---
+!--OFFICIAL URL list at: https://kastatus.com
+
+!!---NaughtyAmerica---
+||naughtyamerica.com
+
+!!---NYTimes---
+!--||d1f1eryiqyjs0r.cloudfront.net
+!--||d3lar09xbwlsge.cloudfront.net
+!--||d3q1qj9jzsu8nw.cloudfront.net
+!--||dc8xl0ndzn2cb.cloudfront.net
+!--||a1.nyt.com
+!--||int.nyt.com
+!--||s1.nyt.com
+static01.nyt.com
+!--||static01.nyt.com
+!--||typeface.nyt.com
+||nyt.com
+nytchina.com
+nytcn.me
+||nytcn.me
+||nytco.com
+|http://nyti.ms/
+.nytimes.com
+||nytimes.com
+||nytimg.com
+userapi.nytlog.com
+cn.nytstyle.com
+||nytstyle.com
+
+!!---Steam---
+.steamcommunity.com
+||steamcommunity.com
+!--steamcommunity.com/profiles/76561198062771609
+!--steamcommunity.com/groups/LibetTibet
+!--steamcommunity.com/groups/zhonggong
+!--steamcommunity.com/id/CJT_Jackton
+||store.steampowered.com
+
+!!---Telegram---
+!!!---Domain---
+||cdn-telegram.org
+||comments.app
+||graph.org
+||quiz.directory
+||t.me
+||updates.tdesktop.com
+||telegram.dog
+||telegram.me
+||telegram.org
+||telegram.space
+||telegram-cdn.org
+||telegramdownload.com
+||telegra.ph
+||telesco.pe
+!!!---IP---
+
+!!---Twitch---
+||jtvnw.net
+||ttvnw.net
+||twitch.tv
+||twitchcdn.net
+
+!!---Twitter---
+||periscope.tv
+.pscp.tv
+||pscp.tv
+.t.co
+||t.co
+.tweetdeck.com
+||tweetdeck.com
+||twimg.com
+.twitpic.com
+||twitpic.com
+.twitter.com
+||twitter.com
+||twitter.jp
+||vine.co
+||x.com
+
+!!---Taiwan---
+||gov.taipei
+.gov.tw
+|https://aiss.anws.gov.tw
+||archives.gov.tw
+||tacc.cwb.gov.tw
+||data.gov.tw
+||epa.gov.tw
+||fa.gov.tw
+||fda.gov.tw
+||hpa.gov.tw
+||immigration.gov.tw
+||itaiwan.gov.tw
+||li.taipei
+||mjib.gov.tw
+||moeaic.gov.tw
+||mofa.gov.tw
+||mol.gov.tw
+||mvdis.gov.tw
+||nat.gov.tw
+||nhi.gov.tw
+||npa.gov.tw
+||nsc.gov.tw
+||ntbk.gov.tw
+||ntbna.gov.tw
+||ntbt.gov.tw
+||ntsna.gov.tw
+||pcc.gov.tw
+||stat.gov.tw
+||taipei.gov.tw
+||taiwanjobs.gov.tw
+||thb.gov.tw
+||tipo.gov.tw
+||wda.gov.tw
+
+||teco-hk.org
+||teco-mo.org
+
+@@||aftygh.gov.tw
+@@||aide.gov.tw
+@@||tpde.aide.gov.tw
+@@||arte.gov.tw
+@@||chukuang.gov.tw
+@@||cwb.gov.tw
+@@||cycab.gov.tw
+@@||dbnsa.gov.tw
+@@||df.gov.tw
+@@||eastcoast-nsa.gov.tw
+@@||erv-nsa.gov.tw
+@@||grb.gov.tw
+@@||gysd.nyc.gov.tw
+@@||hchcc.gov.tw
+@@||hsinchu-cc.gov.tw
+@@||iner.gov.tw
+@@||klsio.gov.tw
+@@||kmseh.gov.tw
+@@||lungtanhr.gov.tw
+@@||maolin-nsa.gov.tw
+@@||matsu-news.gov.tw
+@@||matsu-nsa.gov.tw
+@@||matsucc.gov.tw
+@@||moe.gov.tw
+@@||nankan.gov.tw
+@@||ncree.gov.tw
+@@||necoast-nsa.gov.tw
+@@||siraya-nsa.gov.tw
+@@||cromotc.nat.gov.tw
+@@||tax.nat.gov.tw
+@@||necoast-nsa.gov.tw
+@@||ner.gov.tw
+@@||nmmba.gov.tw
+@@||nmp.gov.tw
+@@||nmvttc.gov.tw
+@@||northguan-nsa.gov.tw
+||npm.gov.tw
+@@||nstm.gov.tw
+@@||ntdmh.gov.tw
+@@||ntl.gov.tw
+@@||ntsec.gov.tw
+@@||ntuh.gov.tw
+@@||nvri.gov.tw
+@@||penghu-nsa.gov.tw
+@@||post.gov.tw
+@@||siraya-nsa.gov.tw
+@@||stdtime.gov.tw
+@@||sunmoonlake.gov.tw
+@@||taitung-house.gov.tw
+@@||taoyuan.gov.tw
+@@||tphcc.gov.tw
+@@||trimt-nsa.gov.tw
+@@||vghtpe.gov.tw
+@@||vghks.gov.tw
+@@||vghtc.gov.tw
+@@||wanfang.gov.tw
+@@||yatsen.gov.tw
+@@||yda.gov.tw
+
+!--@@||4pppc.gov.tw
+!--@@||921.gov.tw
+!--@@||dmtip.gov.tw
+!--@@||etraining.gov.tw
+!--@@||gsn-cert.nat.gov.tw
+!--@@||nici.nat.gov.tw
+!--@@||hcc.gov.tw
+!--@@||hengchuen.gov.tw
+!--@@||khcc.gov.tw
+!--@@||khms.gov.tw
+!--@@||kk.gov.tw
+!--@@||klccab.gov.tw
+!--@@||klra.gov.tw
+!--@@||nmh.gov.tw
+!--@@||nmtl.gov.tw
+!--@@||pabp.gov.tw
+!--@@||pet.gov.tw
+!--@@||tchb.gov.tw
+!--@@||tcsac.gov.tw
+!--@@||tncsec.gov.tw
+||kinmen.org.tw
+
+!!---USA---
+|http://www.americorps.gov
+||jpl.nasa.gov
+||pds.nasa.gov
+||solarsystem.nasa.gov
+iipdigital.usembassy.gov
+||usfk.mil
+||usmc.mil
+|http://tarr.uspto.gov/
+||tsdr.uspto.gov
+
+!!---V2EX---
+||v2ex.com
+!--.v2ex.com
+!--Included in above rule: dns.v2ex.com
+!--@@|http://v2ex.com
+!--@@|http://cdn.v2ex.com
+!--@@|http://cn.v2ex.com
+!--@@|http://hk.v2ex.com
+!--@@|http://i.v2ex.com
+!--@@|http://lax.v2ex.com
+!--@@|http://neue.v2ex.com
+!--@@|http://pagespeed.v2ex.com
+!--@@|http://static.v2ex.com
+!--@@|http://workspace.v2ex.com
+!--@@|http://www.v2ex.com
+
+!!---VOA---
+cn.voa.mobi
+tw.voa.mobi
+||voacambodia.com
+.voachineseblog.com
+||voachineseblog.com
+.voacantonese.com
+||voacantonese.com
+voachinese.com
+||voachinese.com
+voagd.com
+||voaindonesia.com
+.voanews.com
+||voanews.com
+voatibetan.com
+||voatibetan.com
+.voatibetanenglish.com
+||voatibetanenglish.com
+
+!!---Wikia---
+||zh.ecdm.wikia.com
+||evchk.wikia.com
+fq.wikia.com
+zh.pttpedia.wikia.com/wiki/%E7%BF%92%E5%8C%85%E5%AD%90%E4%B9%8B%E4%BA%82
+cn.uncyclopedia.wikia.com
+zh.uncyclopedia.wikia.com
+
+!-------------Wikipedia Related-------------
+!!Emergency need only(IP/Port block usage)!!
+!------0------
+!--||mediawiki.org
+!--@@||m.mediawiki.org
+!------1------
+!--||wikidata.org
+!--@@||m.wikidata.org
+!------2------
+||wikimedia.org
+!--@@||lists.wikimedia.org
+!--@@||m.wikimedia.org
+!--@@||phabricator.wikimedia.org
+!--@@||upload.wikimedia.org
+!--@@||wikitech.wikimedia.org
+!------3------
+!--||wikibooks.org
+!--@@||m.wikibooks.org
+!------4------
+!--||wikiversity.org
+!--@@||m.wikiversity.org
+!------5------
+!--||wikisource.org
+!--@@||m.wikisource.org
+|http://zh.wikisource.org
+!------6------
+||zh.wikiquote.org
+!--@@||m.wikiquote.org
+!------7------
+!--||wikinews.org
+!--@@||m.wikinews.org
+||zh.wikinews.org
+!------8------
+!--||wikivoyage.org
+!--@@||m.wikivoyage.org
+!--|http://zh.wikivoyage.org
+!------9------
+!--||wiktionary.org
+!--@@||m.wiktionary.org
+!--|http://zh.wiktionary.org
+!-----10------
+!--||wikimediafoundation.org
+!--@@||m.wikimediafoundation.org
+!----Main-----
+!!--||en.wikipedia.org
+!--||wikipedia.org
+||ja.wikipedia.org
+!!--zh.wikipedia.org
+!--||zh.wikipedia.org
+!!--||ug.m.wikipedia.org
+!!--zh.m.wikipedia.org
+!!--|https://zh.m.wikipedia.org
+!--@@||m.wikipedia.org
+!!--|https://zh.wikipedia.org
+!--Other Languages of Wikipedia
+!!--wuu.wikipedia.org
+!!--|https://wuu.wikipedia.org
+!!--zh-yue.wikipedia.org
+!!--|https://zh-yue.wikipedia.org
+!!! Starting with !! are previous rules replaced by:
+||wikipedia.org
+
+!!---Yahoo---
+||data.flurry.com
+||page.bid.yahoo.com
+||tw.bid.yahoo.com
+||auctions.yahoo.co.jp
+||blogs.yahoo.co.jp
+||search.yahoo.co.jp
+||buy.yahoo.com.tw
+||hk.yahoo.com
+||hk.knowledge.yahoo.com
+||tw.money.yahoo.com
+||hk.myblog.yahoo.com
+news.yahoo.com/china-blocks-bbc
+||hk.news.yahoo.com
+hk.rd.yahoo.com
+hk.search.yahoo.com/search
+hk.video.news.yahoo.com/video
+meme.yahoo.com
+!--tw.yahoo.com
+tw.answers.yahoo.com
+|https://tw.answers.yahoo.com
+||tw.knowledge.yahoo.com
+||tw.mall.yahoo.com
+tw.yahoo.com
+||tw.mobi.yahoo.com
+tw.myblog.yahoo.com
+||tw.news.yahoo.com
+pulse.yahoo.com
+||search.yahoo.com
+upcoming.yahoo.com
+video.yahoo.com
+||yahoo.com.hk
+||duckduckgo-owned-server.yahoo.net
+
+!------------------Numerics---------------------
+||000webhost.com
+.030buy.com
+.0rz.tw
+|http://0rz.tw
+1-apple.com.tw
+||1-apple.com.tw
+.10.tt
+.100ke.org
+.1000giri.net
+||1000giri.net
+||10beasts.net
+.10conditionsoflove.com
+||10musume.com
+123rf.com
+.12bet.com
+||12bet.com
+.12vpn.com
+.12vpn.net
+||12vpn.com
+||12vpn.net
+||1337x.to
+.138.com
+141hongkong.com/forum
+||141jj.com
+.141tube.com
+||1688.com.au
+.173ng.com
+||173ng.com
+.177pic.info
+.17t17p.com
+||18board.com
+||18board.info
+18onlygirls.com
+.18p2p.com
+.18virginsex.com
+.1949er.org
+zhao.1984.city
+||zhao.1984.city
+1984bbs.com
+||1984bbs.com
+!--||1984blog.com
+.1984bbs.org
+||1984bbs.org
+.1991way.com
+||1991way.com
+.1998cdp.org
+.1bao.org
+|http://1bao.org
+.1eew.com
+.1mobile.com
+|http://*.1mobile.tw
+||1pondo.tv
+.2-hand.info
+.2000fun.com/bbs
+.2008xianzhang.info
+||2008xianzhang.info
+||2017.hk
+||2021hkcharter.com
+||2047.name
+21andy.com/blog
+.21join.com
+.21pron.com
+21sextury.com
+.228.net.tw
+||233abc.com
+||24hrs.ca
+24smile.org
+2lipstube.com
+.2shared.com
+30boxes.com
+.315lz.com
+||32red.com
+||36rain.com
+.3a5a.com
+3arabtv.com
+.3boys2girls.com
+.3proxy.ru
+.3ren.ca
+.3tui.net
+||404museum.com
+||4bluestones.biz
+.4chan.com
+!--||4chan.org
+.4everproxy.com
+||4everproxy.com
+||4rbtv.com
+||4shared.com
+taiwannation.50webs.com
+||51.ca
+||51jav.org
+.51luoben.com
+||51luoben.com
+||5278.cc
+.5299.tv
+5aimiku.com
+5i01.com
+.5isotoi5.org
+.5maodang.com
+||63i.com
+.64museum.org
+64tianwang.com
+64wiki.com
+.66.ca
+666kb.com
+||6do.news
+.6park.com
+||6park.com
+||6parkbbs.com
+||6parker.com
+||6parknews.com
+||7capture.com
+.7cow.com
+!--||7-zip.org
+.8-d.com
+|http://8-d.com
+85cc.net
+.85cc.us
+|http://85cc.us
+|http://85st.com
+.881903.com/page/zh-tw/
+||881903.com
+.888.com
+.888poker.com
+89.64.charter.constitutionalism.solutions
+89-64.org
+||89-64.org
+||8964museum.com
+.8news.com.tw
+.8z1.net
+||8z1.net
+.9001700.com
+|http://908taiwan.org/
+||91porn.com
+||91vps.club
+.92ccav.com
+.991.com
+|http://991.com
+.99btgc01.com
+||99btgc01.com
+.99cn.info
+|http://99cn.info
+||9bis.com
+||9bis.net
+||9news.com.au
+
+!--------------------AA-------------------------
+.tibet.a.se
+|http://tibet.a.se
+||a-normal-day.com
+a5.com.ru
+|http://aamacau.com
+!--|http://cdn*.abc.com/
+.abc.com
+.abc.net.au
+||abc.net.au
+.abchinese.com
+abclite.net
+|https://www.abclite.net
+.ablwang.com
+.aboluowang.com
+||aboluowang.com
+||about.me
+.aboutgfw.com
+.abs.edu
+||acast.com
+.accim.org
+.aceros-de-hispania.com
+.acevpn.com
+||acevpn.com
+.acg18.me
+|http://acg18.me
+||acgbox.org
+||acgkj.com
+||acgnx.se
+.acmedia365.com
+.acnw.com.au
+actfortibet.org
+actimes.com.au
+activpn.com
+||activpn.com
+||aculo.us
+||addictedtocoffee.de
+||addyoutube.com
+.adelaidebbs.com/bbs
+.adpl.org.hk
+|http://adpl.org.hk
+.adult-sex-games.com
+||adult-sex-games.com
+adultfriendfinder.com
+adultkeep.net/peepshow/members/main.htm
+||advanscene.com
+||advertfan.com
+.ae.org
+||aei.org
+||aenhancers.com
+||af.mil
+.afantibbs.com
+|http://afantibbs.com
+||afr.com
+.ai-kan.net
+||ai-kan.net
+ai-wen.net
+.aiph.net
+||aiph.net
+.airasia.com
+||airconsole.com
+|http://download.aircrack-ng.org
+.airvpn.org
+||airvpn.org
+.aisex.com
+||ait.org.tw
+aiweiwei.com
+.aiweiweiblog.com
+||aiweiweiblog.com
+||www.ajsands.com
+
+!!---Akamai---
+a248.e.akamai.net
+||a248.e.akamai.net
+
+rfalive1.akacast.akamaistream.net
+voa-11.akacast.akamaistream.net
+
+!!--403
+||abematv.akamaized.net
+||linear-abematv.akamaized.net
+||vod-abematv.akamaized.net
+
+|https://fbcdn*.akamaihd.net/
+!--||fbexternal-a.akamaihd.net
+!--||fbstatic-a.akamaihd.net
+!--|https://igcdn*.akamaihd.net
+rthklive2-lh.akamaihd.net
+
+.akademiye.org/ug
+|http://akademiye.org/ug
+||akiba-online.com
+||akow.org
+.al-islam.com
+||al-qimmah.net
+||alabout.com
+.alanhou.com
+|http://alanhou.com
+.alarab.qa
+||alasbarricadas.org
+alexlur.org
+||alforattv.net
+.alhayat.com
+.alicejapan.co.jp
+aliengu.com
+||alive.bar
+||alkasir.com
+||all4mom.org
+||allconnected.co
+.alldrawnsex.com
+||alldrawnsex.com
+.allervpn.com
+||allfinegirls.com
+.allgirlmassage.com
+allgirlsallowed.org
+.allgravure.com
+alliance.org.hk
+.allinfa.com
+||allinfa.com
+.alljackpotscasino.com
+||allmovie.com
+||almasdarnews.com
+.alphaporno.com
+||alternate-tools.com
+alternativeto.net/software
+alvinalexander.com
+alwaysdata.com
+||alwaysdata.com
+||alwaysdata.net
+.alwaysvpn.com
+||alwaysvpn.com
+||am730.com.hk
+ameblo.jp
+||ameblo.jp
+www1.american.edu/ted/ice/tibet
+||americangreencard.com
+||amiblockedornot.com
+.amigobbs.net
+.amitabhafoundation.us
+|http://amitabhafoundation.us
+.amnesty.org
+||amnesty.org
+||amnesty.org.hk
+.amnesty.tw
+.amnestyusa.org
+||amnestyusa.org
+.amnyemachen.org
+.amoiist.com
+.amtb-taipei.org
+androidplus.co/apk
+.andygod.com
+|http://andygod.com
+annatam.com/chinese
+||anchor.fm
+||anchorfree.com
+!--GHS
+||ancsconf.org
+||andfaraway.net
+||android-x86.org
+angelfire.com/hi/hayashi
+||angularjs.org
+animecrazy.net
+aniscartujo.com
+||aniscartujo.com
+||anobii.com
+||anonfiles.com
+.anonymitynetwork.com
+.anonymizer.com
+.anonymouse.org
+||anonymouse.org
+anontext.com
+.anpopo.com
+.answering-islam.org
+|http://www.antd.org
+||anthonycalzadilla.com
+.anti1984.com
+antichristendom.com
+.antiwave.net
+|http://antiwave.net
+.anyporn.com
+.anysex.com
+|http://anysex.com
+.ao3.org
+||ao3.org
+||aobo.com.au
+.aofriend.com
+|http://aofriend.com
+.aofriend.com.au
+.aojiao.org
+||aomiwang.com
+video.ap.org
+||apat1989.org
+.apetube.com
+||apiary.io
+.apigee.com
+||apigee.com
+||apk.support
+||apk-dl.com
+||apkcombo.com
+.apkmonk.com/app
+||apkmonk.com
+||apkplz.com
+||apkpure.com
+||apkpure.net
+.aplusvpn.com
+!--||appannie.com
+||appbrain.com
+.appdownloader.net/Android
+.appledaily.com
+||appledaily.com
+appledaily.com.hk
+||appledaily.com.hk
+appledaily.com.tw
+||appledaily.com.tw
+.appshopper.com
+|http://appshopper.com
+||appsocks.net
+||appsto.re
+.aptoide.com
+||aptoide.com
+||archives.gov
+.archive.fo
+||archive.fo
+.archive.is
+||archive.is
+.archive.li
+||archive.li
+||archive.md
+||archive.org
+||archive.ph
+archive.today
+|https://archive.today
+||archiveofourown.com
+||archiveofourown.org
+.arctosia.com
+|http://arctosia.com
+||areca-backup.org
+.arethusa.su
+||arethusa.su
+||arlingtoncemetery.mil
+||army.mil
+.art4tibet1998.org
+artofpeacefoundation.org
+artsy.net
+||asacp.org
+asdfg.jp/dabr
+asg.to
+.asia-gaming.com
+.asiaharvest.org
+||asiaharvest.org
+||asianage.com
+||asianews.it
+|http://japanfirst.asianfreeforum.com/
+||asiansexdiary.com
+||asianwomensfilm.de
+||asiaone.com
+.asiatgp.com
+.asiatoday.us
+||askstudent.com
+.askynz.net
+||askynz.net
+||aspi.org.au
+||aspistrategist.org.au
+||assembla.com
+||astrill.com
+||atc.org.au
+.atchinese.com
+|http://atchinese.com
+atgfw.org
+.atlaspost.com
+||atlaspost.com
+||atdmt.com
+.atlanta168.com
+||atlanta168.com
+.atnext.com
+||atnext.com
+ice.audionow.com
+.av.com
+||av.movie
+.av-e-body.com
+avaaz.org
+||avaaz.org
+!--||avast.com
+.avbody.tv
+.avcity.tv
+.avcool.com
+.avdb.in
+||avdb.in
+.avdb.tv
+||avdb.tv
+.avfantasy.com
+||avg.com
+.avgle.com
+||avgle.com
+||avidemux.org
+||avoision.com
+.avyahoo.com
+||axios.com
+||axureformac.com
+.azerbaycan.tv
+azerimix.com
+||azirevpn.com
+!--boxun.azurewebsites.net doesn't exist.
+boxun*.azurewebsites.net
+||boxun*.azurewebsites.net
+
+!--------------------BB-------------------------
+||b-ok.cc
+forum.baby-kingdom.com
+||babylonbee.com
+babynet.com.hk
+backchina.com
+||backchina.com
+.backpackers.com.tw/forum
+backtotiananmen.com
+||bad.news
+.badiucao.com
+||badiucao.com
+.badjojo.com
+badoo.com
+|http://*2.bahamut.com.tw
+||baidu.jp
+.baijie.org
+||baijie.org
+||bailandaily.com
+||baixing.me
+||baizhi.org
+||bakgeekhome.tk
+.banana-vpn.com
+||banana-vpn.com
+.band.us
+||bandcamp.com
+.bandwagonhost.com
+||bandwagonhost.com
+.bangbrosnetwork.com
+.bangchen.net
+|http://bangchen.net
+||bangkokpost.com
+||bangyoulater.com
+bannedbook.org
+||bannedbook.org
+.bannednews.org
+.baramangaonline.com
+|http://baramangaonline.com
+.barenakedislam.com
+||barnabu.co.uk
+||barton.de
+.bastillepost.com
+||bastillepost.com
+bayvoice.net
+||bayvoice.net
+dajusha.baywords.com
+||bbchat.tv
+||bb-chat.tv
+.bbg.gov
+.bbkz.com/forum
+.bbnradio.org
+bbs-tw.com
+.bbsdigest.com/thread
+||bbsfeed.com
+bbsland.com
+.bbsmo.com
+.bbsone.com
+bbtoystore.com
+.bcast.co.nz
+.bcc.com.tw/board
+.bcchinese.net
+.bcmorning.com
+bdsmvideos.net
+.beaconevents.com
+.bebo.com
+||bebo.com
+.beevpn.com
+||beevpn.com
+.behindkink.com
+||beijing1989.com
+||beijing2022.art
+beijingspring.com
+||beijingspring.com
+.beijingzx.org
+|http://beijingzx.org
+.belamionline.com
+.bell.wiki
+|http://bell.wiki
+bemywife.cc
+beric.me
+||berlinerbericht.de
+.berlintwitterwall.com
+||berlintwitterwall.com
+.berm.co.nz
+.bestforchina.org
+||bestforchina.org
+.bestgore.com
+.bestpornstardb.com
+||bestvpn.com
+.bestvpnanalysis.com
+.bestvpnserver.com
+.bestvpnservice.com
+.bestvpnusa.com
+||bet365.com
+.betfair.com
+||betternet.co
+.bettervpn.com
+||bettervpn.com
+.bettween.com
+||bettween.com
+||betvictor.com
+.bewww.net
+.beyondfirewall.com
+||bfnn.org
+||bfsh.hk
+.bgvpn.com
+||bgvpn.com
+.bianlei.com
+@@||bianlei.com
+biantailajiao.com
+biantailajiao.in
+.biblesforamerica.org
+|http://biblesforamerica.org
+.bic2011.org
+||biedian.me
+bigfools.com
+||bigjapanesesex.com
+.bignews.org
+||bignews.org
+.bigsound.org
+||bild.de
+.biliworld.com
+|http://biliworld.com
+|http://billypan.com/wiki
+.binux.me
+ai.binwang.me/couplet
+.bit.do
+|http://bit.do
+.bit.ly
+|http://bit.ly
+!--||bitbucket.org
+||bitchute.com
+||bitcointalk.org
+.bitshare.com
+||bitshare.com
+bitsnoop.com
+.bitvise.com
+||bitvise.com
+bizhat.com
+||bl-doujinsouko.com
+.bjnewlife.org
+.bjs.org
+bjzc.org
+||bjzc.org
+.blacklogic.com
+.blackvpn.com
+||blackvpn.com
+blewpass.com
+tor.blingblingsquad.net
+.blinkx.com
+||blinkx.com
+blinw.com
+.blip.tv
+||blip.tv/
+||blockcast.it
+.blockcn.com
+||blockcn.com
+||blockedbyhk.com
+||blockless.com
+||blog.de
+.blog.jp
+|http://blog.jp
+@@||jpush.cn
+.blogcatalog.com
+||blogcatalog.com
+||blogcity.me
+.blogger.com
+||blogger.com
+blogimg.jp
+||blog.kangye.org
+.bloglines.com
+||bloglines.com
+||bloglovin.com
+rconversation.blogs.com
+blogtd.net
+.blogtd.org
+|http://blogtd.org
+||bloodshed.net
+!--403
+||assets.bwbx.io
+
+||bloomfortune.com
+blueangellive.com
+||blubrry.com
+.bmfinn.com
+.bnews.co
+||bnews.co
+||bnext.com.tw
+||bnrmetal.com
+boardreader.com/thread
+||boardreader.com
+.bod.asia
+||bod.asia
+.bodog88.com
+.bolehvpn.net
+||bolehvpn.net
+bonbonme.com
+.bonbonsex.com
+.bonfoundation.org
+.bongacams.com
+||boobstagram.com
+||book.com.tw
+||bookdepository.com
+bookepub.com
+||books.com.tw
+||borgenmagazine.com
+||botanwang.com
+.bot.nu
+.bowenpress.com
+||bowenpress.com
+||app.box.com
+dl.box.net
+||dl.box.net
+.boxpn.com
+||boxpn.com
+boxun.com
+||boxun.com
+.boxun.tv
+||boxun.tv
+boxunblog.com
+||boxunblog.com
+.boxunclub.com
+boyangu.com
+.boyfriendtv.com
+.boysfood.com
+||br.st
+.brainyquote.com/quotes/authors/d/dalai_lama
+||brandonhutchinson.com
+||braumeister.org
+||brave.com
+.bravotube.net
+||bravotube.net
+.brazzers.com
+||brazzers.com
+||breached.to
+.break.com
+||break.com
+breakgfw.com
+||breakgfw.com
+breaking911.com
+.breakingtweets.com
+||breakingtweets.com
+||breakwall.net
+briian.com/6511/freegate
+.briefdream.com/%E7%B4%A0%E6%A3%BA
+||brill.com
+brizzly.com
+||brizzly.com
+||brkmd.com
+broadbook.com
+.broadpressinc.com
+||broadpressinc.com
+bbs.brockbbs.com
+||brookings.edu
+brucewang.net
+.brutaltgp.com
+||brutaltgp.com
+.bt2mag.com
+||bt95.com
+.btaia.com
+.btbtav.com
+||btdig.com
+||btdigg.org
+.btku.me
+||btku.me
+||btku.org
+.btspread.com
+.btsynckeys.com
+.budaedu.org
+||budaedu.org
+.buddhanet.com.tw/zfrop/tibet
+||buffered.com
+||bullguard.com
+.bullog.org
+||bullog.org
+.bullogger.com
+||bullogger.com
+||bumingbai.net
+||bunbunhk.com
+.busayari.com
+|http://busayari.com
+||business-humanrights.org
+.businessinsider.com/bing-could-be-censoring-search-results-2014
+.businessinsider.com/china-banks-preparing-for-debt-implosion-2014
+.businessinsider.com/hong-kong-activists-defy-police-tear-gas-as-protests-continue-overnight-2014
+.businessinsider.com/internet-outages-reported-in-north-korea-2014
+.businessinsider.com/iphone-6-is-approved-for-sale-in-china-2014
+.businessinsider.com/nfl-announcers-surface-tablets-2014
+.businessinsider.com/panama-papers
+.businessinsider.com/umbrella-man-hong-kong-2014
+|http://www.businessinsider.com.au/*
+.businesstoday.com.tw
+||businesstoday.com.tw
+.busu.org/news
+|http://busu.org/news
+busytrade.com
+.buugaa.com
+.buzzhand.com
+.buzzhand.net
+.buzzorange.com
+||buzzorange.com
+||buzzsprout.com
+||bvpn.com
+||bwh1.net
+bwsj.hk
+||bx.tl
+||bypasscensorship.org
+
+!--------------------CC-------------------------
+||c-span.org
+.c-spanvideo.org
+||c-spanvideo.org
+||c-est-simple.com
+.c100tibet.org
+||cableav.tv
+||cablegatesearch.net
+.cachinese.com
+.cacnw.com
+|http://cacnw.com
+.cactusvpn.com
+||cactusvpn.com
+.cafepress.com
+.cahr.org.tw
+.caijinglengyan.com
+||caijinglengyan.com
+.calameo.com/books
+||calendarz.com
+.calgarychinese.ca
+.calgarychinese.com
+.calgarychinese.net
+|http://blog.calibre-ebook.com
+falun.caltech.edu
+.its.caltech.edu/~falun/
+.cam4.com
+.cam4.jp
+.cam4.sg
+.camfrog.com
+||camfrog.com
+||campaignforuyghurs.org
+||cams.com
+.cams.org.sg
+canadameet.com
+.canalporno.com
+|http://bbs.cantonese.asia/
+!--http://www.cantonese.asia/action-bbs.html
+.canyu.org
+||canyu.org
+.cao.im
+.caobian.info
+||caobian.info
+caochangqing.com
+||caochangqing.com
+.cap.org.hk
+||cap.org.hk
+.carabinasypistolas.com
+cardinalkungfoundation.org
+||posts.careerengine.us
+carmotorshow.com
+||carrd.co
+ss.carryzhou.com
+.cartoonmovement.com
+||cartoonmovement.com
+.casadeltibetbcn.org
+.casatibet.org.mx
+|http://casatibet.org.mx
+.cari.com.my
+||cari.com.my
+||caribbeancom.com
+.casinoking.com
+.casinoriva.com
+||catch22.net
+.catchgod.com
+|http://catchgod.com
+||catfightpayperview.xxx
+.catholic.org.hk
+||catholic.org.hk
+catholic.org.tw
+||catholic.org.tw
+.cathvoice.org.tw
+||cato.org
+||cattt.com
+.cbc.ca
+||cbc.ca
+.cbsnews.com/video
+.cbtc.org.hk
+||southpark.cc.com
+!-.ccc.de
+!-||ccc.de
+||cccat.cc
+||cccat.co
+.ccdtr.org
+||ccdtr.org
+.cchere.com
+||cchere.com
+.ccim.org
+.cclife.ca
+cclife.org
+||cclife.org
+cclifefl.org
+||cclifefl.org
+.ccthere.com
+||ccthere.com
+||ccthere.net
+.cctmweb.net
+.cctongbao.com/article/2078732
+ccue.ca
+ccue.com
+.ccvoice.ca
+.ccw.org.tw
+.cgdepot.org
+|http://cgdepot.org
+||cdbook.org
+.cdcparty.com
+.cdef.org
+||cdef.org
+||cdig.info
+cdjp.org
+||cdjp.org
+!--.cdn-apple.com
+!--||cdn-apple.com
+.cdnews.com.tw
+cdp1989.org
+cdp1998.org
+||cdp1998.org
+cdp2006.org
+||cdp2006.org
+.cdpa.url.tw
+cdpeu.org
+cdpusa.org
+cdpweb.org
+||cdpweb.org
+cdpwu.org
+||cdpwu.org
+||cdw.com
+.cecc.gov
+||cecc.gov
+||cellulo.info
+||cenews.eu
+||centerforhumanreprod.com
+||centralnation.com
+.centurys.net
+|http://centurys.net
+.cfhks.org.hk
+.cfos.de
+||cfr.org
+.cftfc.com
+.cgst.edu
+.change.org
+||change.org
+.changp.com
+||changp.com
+.changsa.net
+|http://changsa.net
+||channelnewsasia.com
+.chapm25.com
+||chatgpt.com
+.chaturbate.com
+||chaturbate.com
+.chuang-yen.org
+||checkgfw.com
+chengmingmag.com
+.chenguangcheng.com
+||chenguangcheng.com
+.chenpokong.com
+||chenpokong.com
+.chenpokong.net
+|http://chenpokong.net
+||chenpokongvip.com
+||cherrysave.com
+.chhongbi.org
+chicagoncmtv.com
+|http://chicagoncmtv.com
+.china-week.com
+china101.com
+||china101.com
+||china18.org
+||china21.com
+china21.org
+||china21.org
+.china5000.us
+chinaaffairs.org
+||chinaaffairs.org
+||chinaaid.me
+chinaaid.us
+chinaaid.org
+chinaaid.net
+||chinaaid.net
+chinacomments.org
+||chinacomments.org
+.chinachange.org
+||chinachange.org
+chinachannel.hk
+||chinachannel.hk
+.chinacitynews.be
+.chinadialogue.net
+.chinadigitaltimes.net
+||chinadigitaltimes.net
+.chinaelections.org
+||chinaelections.org
+.chinaeweekly.com
+||chinaeweekly.com
+||chinafile.com
+||chinafreepress.org
+.chinagate.com
+chinageeks.org
+chinagfw.org
+||chinagfw.org
+.chinagonet.com
+.chinagreenparty.org
+||chinagreenparty.org
+.chinahorizon.org
+||chinahorizon.org
+.chinahush.com
+.chinainperspective.com
+||chinainterimgov.org
+chinalaborwatch.org
+chinalawtranslate.com
+.chinapost.com.tw/taiwan/national/national-news
+chinaxchina.com/howto
+chinalawandpolicy.com
+.chinamule.com
+||chinamule.com
+chinamz.org
+.chinanewscenter.com
+|https://chinanewscenter.com
+.chinapress.com.my
+||chinapress.com.my
+.china-review.com.ua
+|http://china-review.com.ua
+.chinarightsia.org
+chinasmile.net/forums
+chinasocialdemocraticparty.com
+||chinasocialdemocraticparty.com
+chinasoul.org
+||chinasoul.org
+.chinasucks.net
+||chinatopsex.com
+.chinatown.com.au
+chinatweeps.com
+chinaway.org
+.chinaworker.info
+||chinaworker.info
+chinayouth.org.hk
+chinayuanmin.org
+||chinayuanmin.org
+.chinese-hermit.net
+chinese-leaders.org
+chinese-memorial.org
+.chinesedaily.com
+||chinesedailynews.com
+.chinesedemocracy.com
+||chinesedemocracy.com
+||chinesegay.org
+.chinesen.de
+||chinesen.de
+.chinesenews.net.au/
+.chinesepen.org
+||chineseradioseattle.com
+.chinesetalks.net/ch
+||chineseupress.com
+.chingcheong.com
+||chingcheong.com
+.chinman.net
+|http://chinman.net
+chithu.org
+||cnnews.chosun.com
+.chrdnet.com
+|http://chrdnet.com
+.christianfreedom.org
+||christianfreedom.org
+christianstudy.com
+||christianstudy.com
+christusrex.org/www1/sdc
+.chubold.com
+chubun.com
+||christiantimes.org.hk
+.chrlawyers.hk
+||chrlawyers.hk
+.churchinhongkong.org/b5/index.php
+|http://churchinhongkong.org/b5/index.php
+.chushigangdrug.ch
+.cienen.com
+.cineastentreff.de
+.cipfg.org
+||circlethebayfortibet.org
+||cirosantilli.com
+.citizencn.com
+||citizencn.com
+||citizenlab.ca
+||citizenlab.org
+||citizenscommission.hk
+.citizenlab.org
+citizensradio.org
+.city365.ca
+|http://city365.ca
+city9x.com
+||citypopulation.de
+.citytalk.tw/event
+.civicparty.hk
+||civicparty.hk
+.civildisobediencemovement.org
+civilhrfront.org
+||civilhrfront.org
+.civiliangunner.com
+.civilmedia.tw
+||civilmedia.tw
+psiphon.civisec.org
+||civitai.com
+.ck101.com
+||ck101.com
+.clarionproject.org/news/islamic-state-isis-isil-propaganda
+||classicalguitarblog.net
+.clb.org.hk
+clearharmony.net
+clearwisdom.net
+||clinica-tibet.ru
+.clipfish.de
+cloakpoint.com
+||app.cloudcone.com
+||cloudflare-ipfs.com
+||club1069.com
+||clubhouseapi.com
+||cmegroup.com
+||cmi.org.tw
+|http://www.cmoinc.org
+cmp.hku.hk
+hkupop.hku.hk
+||cmule.com
+||cmule.org
+||cms.gov
+|http://vpn.cmu.edu
+|http://vpn.sv.cmu.edu
+.cn6.eu
+.cna.com.tw
+||cna.com.tw
+.cnabc.com
+.cnd.org
+||cnd.org
+download.cnet.com
+.cnex.org.cn
+.cnineu.com
+wiki.cnitter.com
+.cnn.com/video
+.cnpolitics.org
+||cnpolitics.org
+.cn-proxy.com
+|http://cn-proxy.com
+.cnproxy.com
+blog.cnyes.com
+news.cnyes.com
+||coat.co.jp
+.cochina.co
+||cochina.co
+||cochina.org
+.code1984.com/64
+|http://goagent.codeplex.com
+||codeshare.io
+||codeskulptor.org
+||conoha.jp
+|http://tosh.comedycentral.com
+comefromchina.com
+||comefromchina.com
+.comic-mega.me
+commandarms.com
+||commentshk.com
+.communistcrimes.org
+||communistcrimes.org
+||communitychoicecu.com
+||comparitech.com
+||compileheart.com
+||conoha.jp
+.contactmagazine.net
+.convio.net
+.coobay.com
+||cool18.com
+.coolaler.com
+||coolaler.com
+coolder.com
+||coolder.com
+||coolloud.org.tw
+.coolncute.com
+||coolstuffinc.com
+corumcollege.com
+.cos-moe.com
+|http://cos-moe.com
+.cosplayjav.pl
+|http://cosplayjav.pl
+.cotweet.com
+||cotweet.com
+.coursehero.com
+||coursehero.com
+cpj.org
+||cpj.org
+.cq99.us
+|http://cq99.us
+crackle.com
+||crackle.com
+.crazys.cc
+.crazyshit.com
+||crazyshit.com
+||crchina.org
+crd-net.org
+creaders.net
+||creaders.net
+.creadersnet.com
+||cristyli.com
+||croxyproxy.com
+.crocotube.com
+|http://crocotube.com
+.crossthewall.net
+||crossthewall.net
+.crossvpn.net
+||crossvpn.net
+||crucial.com
+||blog.cryptographyengineering.com
+csdparty.com
+||csdparty.com
+||csis.org
+||csmonitor.com
+||csuchen.de
+.csw.org.uk
+.ct.org.tw
+||ct.org.tw
+.ctao.org
+.ctfriend.net
+.ctitv.com.tw
+||ctowc.org
+.cts.com.tw
+||cts.com.tw
+||ctwant.com
+|http://library.usc.cuhk.edu.hk/
+|http://mjlsh.usc.cuhk.edu.hk/
+.cuhkacs.org/~benng
+.cuihua.org
+||cuihua.org
+.cuiweiping.net
+||cuiweiping.net
+||culture.tw
+.cumlouder.com
+||cumlouder.com
+||curvefish.com
+||cusp.hk
+.cusu.hk
+||cusu.hk
+.cutscenes.net
+||cutscenes.net
+.cw.com.tw
+||cw.com.tw
+|http://forum.cyberctm.com
+cyberghostvpn.com
+||cyberghostvpn.com
+||cynscribe.com
+cytode.us
+||ifan.cz.cc
+||mike.cz.cc
+||nic.cz.cc
+
+!--------------------DD-------------------------
+.d-fukyu.com
+|http://d-fukyu.com
+cl.d0z.net
+.d100.net
+||d100.net
+.d2bay.com
+|http://d2bay.com
+.dabr.co.uk
+||dabr.co.uk
+dabr.eu
+dabr.mobi
+||dabr.mobi
+||dabr.me
+dadazim.com
+||dadazim.com
+.dadi360.com
+.dafabet.com
+dafagood.com
+dafahao.com
+.dafoh.org
+.daftporn.com
+.dagelijksestandaard.nl
+.daidostup.ru
+|http://daidostup.ru
+.dailidaili.com
+||dailidaili.com
+||dailymail.co.uk
+.dailymotion.com
+||dailymotion.com
+||dailysabah.com
+daiphapinfo.net
+.dajiyuan.com
+||dajiyuan.de
+dajiyuan.eu
+dalailama.com
+.dalailama.mn
+|http://dalailama.mn
+.dalailama.ru
+||dalailama.ru
+dalailama80.org
+.dalailama-archives.org
+.dalailamacenter.org
+|http://dalailamacenter.org
+dalailamafellows.org
+.dalailamafilm.com
+.dalailamafoundation.org
+.dalailamahindi.com
+.dalailamainaustralia.org
+.dalailamajapanese.com
+.dalailamaprotesters.info
+.dalailamaquotes.org
+.dalailamatrust.org
+.dalailamavisit.org.nz
+.dalailamaworld.com
+||dalailamaworld.com
+dalianmeng.org
+||dalianmeng.org
+.daliulian.org
+||daliulian.org
+.danke4china.net
+||danke4china.net
+daolan.net
+darktoy.net
+||darrenliuwei.com
+||dastrassi.org
+||daum.net
+.david-kilgour.com
+|http://david-kilgour.com
+daxa.cn
+||daxa.cn
+cn.dayabook.com
+.daylife.com/topic/dalai_lama
+||db.tt
+.dbc.hk/main
+||dbgjd.com
+||dcard.tw
+dcmilitary.com
+.ddc.com.tw
+.ddhw.info
+||de-sci.org
+.de-sci.org
+||deadline.com
+||decodet.co
+
+!--Origin:cdn-i30$_
+!--Exception: Homepage access without rst
+!--Keyword is $_
+.definebabe.com
+
+||delcamp.net
+delicious.com/GFWbookmark
+.democrats.org
+||democrats.org
+.demosisto.hk
+||demosisto.hk
+||desc.se
+||dessci.com
+.destroy-china.jp
+||deutsche-welle.de
+||deviantart.com
+||deviantart.net
+||devio.us
+||devpn.com
+||devv.ai
+||dfas.mil
+dfn.org
+dharmakara.net
+.dharamsalanet.com
+.diaoyuislands.org
+||diaoyuislands.org
+.difangwenge.org
+|http://digiland.tw/
+||digitalnomadsproject.org
+.diigo.com
+||diigo.com
+||dilber.se
+||furl.net
+.dipity.com
+||directcreative.com
+!--||discogs.com
+!--@@||cdn.discogs.com
+.discuss.com.hk
+||discuss.com.hk
+.discuss4u.com
+disp.cc
+.disqus.com
+||disqus.com
+.dit-inc.us
+||dit-inc.us
+.dizhidizhi.com
+||dizhuzhishang.com
+djangosnippets.org
+.djorz.com
+||djorz.com
+||dl-laby.jp
+||dlive.tv
+||dlsite.com
+||dlyoutube.com
+||dmc.nico
+||dmcdn.net
+.dnscrypt.org
+||dnscrypt.org
+||dns2go.com
+||dnssec.net
+doctorvoice.org
+
+!--DogFartNetwork
+.dogfartnetwork.com/tour
+gloryhole.com
+
+.dojin.com
+.dok-forum.net
+||dolc.de
+||dolf.org.hk
+||dollf.com
+.domain.club.tw
+.domaintoday.com.au
+chinese.donga.com
+dongtaiwang.com
+||dongtaiwang.com
+.dongtaiwang.net
+||dongtaiwang.net
+.dongyangjing.com
+|http://danbooru.donmai.us
+.dontfilter.us
+||dontmovetochina.com
+.dorjeshugden.com
+.dotplane.com
+||dotplane.com
+||dotsub.com
+.dotvpn.com
+||dotvpn.com
+.doub.io
+||doub.io
+||doublethinklab.org
+||dougscripts.com
+||douhokanko.net
+||doujincafe.com
+dowei.org
+|https://bartender.dowjones.com
+dphk.org
+dpp.org.tw
+||dpp.org.tw
+||dpr.info
+||dragonsprings.org
+!--||draw.io
+.dreamamateurs.com
+.drepung.org
+||drgan.net
+.drmingxia.org
+|http://drmingxia.org
+||dropbooks.tv
+||dropbox.com
+||api.dropboxapi.com
+||notify.dropboxapi.com
+||dropboxusercontent.com
+drsunacademy.com
+.drtuber.com
+.dscn.info
+|http://dscn.info
+.dstk.dk
+|http://dstk.dk
+||dtiblog.com
+||dtic.mil
+.dtwang.org
+.duanzhihu.com
+.duckdns.org
+|http://duckdns.org
+.duckduckgo.com
+||duckduckgo.com
+.duckload.com/download
+||duckmylife.com
+.duga.jp
+|http://duga.jp
+.duihua.org
+||duihua.org
+||duihuahrjournal.org
+.dunyabulteni.net
+.duoweitimes.com
+||duoweitimes.com
+duping.net
+||duplicati.com
+dupola.com
+dupola.net
+.dushi.ca
+||duyaoss.com
+||dvorak.org
+.dw.com
+||dw.com
+||dw.de
+.dw-world.com
+||dw-world.com
+.dw-world.de
+|http://dw-world.de
+www.dwheeler.com
+dwnews.com
+||dwnews.com
+dwnews.net
+||dwnews.net
+xys.dxiong.com
+||dynawebinc.com
+||dysfz.cc
+.dzze.com
+
+!--------------------EE-------------------------
+||e-classical.com.tw
+||e-gold.com
+.e-gold.com
+.e-hentai.org
+||e-hentai.org
+.e-hentaidb.com
+|http://e-hentaidb.com
+e-info.org.tw
+.e-traderland.net/board
+.e-zone.com.hk/discuz
+|http://e-zone.com.hk/discuz
+.e123.hk
+||e123.hk
+.earlytibet.com
+|http://earlytibet.com
+.earthcam.com
+.earthvpn.com
+||earthvpn.com
+eastern-ark.com
+.easternlightning.org
+.eastturkestan.com
+|http://www.eastturkistan.net/
+.eastturkistan-gov.org
+.eastturkistancc.org
+.eastturkistangovernmentinexile.us
+||eastturkistangovernmentinexile.us
+.easyca.ca
+.easypic.com
+||fnc.ebc.net.tw
+||news.ebc.net.tw
+.ebony-beauty.com
+ebookbrowse.com
+ebookee.com
+||ecfa.org.tw
+ushuarencity.echainhost.com
+||ecimg.tw
+ecministry.net
+.economist.com
+bbs.ecstart.com
+edgecastcdn.net
+||edgecastcdn.net
+/twimg\.edgesuite\.net\/\/?appledaily/
+edicypages.com
+.edmontonchina.cn
+.edmontonservice.com
+edoors.com
+.edubridge.com
+||edubridge.com
+.edupro.org
+||eevpn.com
+efcc.org.hk
+.efukt.com
+|http://efukt.com
+||eic-av.com
+||eireinikotaerukai.com
+.eisbb.com
+.eksisozluk.com
+||eksisozluk.com
+electionsmeter.com
+||elgoog.im
+.ellawine.org
+.elpais.com
+||elpais.com
+.eltondisney.com
+.emaga.com/info/3407
+emilylau.org.hk
+.emanna.com/chineseTraditional
+bitc.bme.emory.edu/~lzhou/blogs
+.empfil.com
+.emule-ed2k.com
+|http://emule-ed2k.com
+.emulefans.com
+|http://emulefans.com
+.emuparadise.me
+.enanyang.my
+!--.enanyang.my/news/20170502/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%E5%A4%A7%E5%9C%B0%E9%9C%87%E3%80%8A%E8%8B%B9%E6%9E%9C%E3%80%8B%E7%8B%AC%E5%AE%B6
+||encrypt.me
+||enewstree.com
+.enfal.de
+||chinese.engadget.com
+||engagedaily.org
+englishforeveryone.org
+||englishfromengland.co.uk
+englishpen.org
+.enlighten.org.tw
+||entermap.com
+||app.evozi.com
+.episcopalchurch.org
+.epochhk.com
+||epochhk.com
+epochtimes-bg.com
+||epochtimes-bg.com
+epochtimes-romania.com
+||epochtimes-romania.com
+epochtimes.co.il
+||epochtimes.co.il
+epochtimes.co.kr
+||epochtimes.co.kr
+epochtimes.com
+||epochtimes.com
+.epochtimes.cz
+||epochtimes.de
+||epochtimes.fr
+||epochtimes.ie
+||epochtimes.it
+||epochtimes.jp
+||epochtimes.ru
+||epochtimes.se
+||epochtimestr.com
+.epochweek.com
+||epochweek.com
+||epochweekly.com
+.eporner.com
+.equinenow.com
+erabaru.net
+.eracom.com.tw
+.eraysoft.com.tr
+.erepublik.com
+.erights.net
+||erights.net
+.erktv.com
+|http://erktv.com
+||ernestmandel.org
+||erodaizensyu.com
+||erodoujinlog.com
+||erodoujinworld.com
+||eromanga-kingdom.com
+||eromangadouzin.com
+.eromon.net
+|http://eromon.net
+.eroprofile.com
+.eroticsaloon.net
+.eslite.com
+||eslite.com
+!--.eslite.com/product
+!--.eslite.com/Search_BW.aspx?q
+wiki.esu.im/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95
+||esu.dog
+.etaa.org.au
+.etadult.com
+etaiwannews.com
+||etizer.org
+||etokki.com
+||etsy.com
+!--.ettoday.net
+.ettoday.net/news/20151216/614081
+etvonline.hk
+.eu.org
+||eu.org
+.eucasino.com
+.eulam.com
+.eurekavpt.com
+||eurekavpt.com
+.euronews.com
+||euronews.com
+eeas.europa.eu/delegations/china/press_corner/all_news/news/2015/20150716_zh
+eeas.europa.eu/statements-eeas/2015/151022
+||apps.evozi.com
+||evschool.net
+||exblog.jp
+||blog.exblog.co.jp
+@@||www.exblog.jp
+.exchristian.hk
+||exchristian.hk
+|http://blog.excite.co.jp
+||exhentai.org
+||exmormon.org
+||expatshield.com
+.expecthim.com
+||expecthim.com
+experts-univers.com
+||exploader.net
+.expressvpn.com
+||expressvpn.com
+.extremetube.com
+eyevio.jp
+||eyevio.jp
+.eyny.com
+||eyny.com
+.ezpc.tk/category/soft
+.ezpeer.com
+
+!--------------------FF-------------------------
+||facebookquotes4u.com
+.faceless.me
+||faceless.me
+|http://facesoftibetanselfimmolators.info
+||facesofnyfw.com
+||factpedia.org
+.faith100.org
+|http://faith100.org
+
+!--Enhancement:
+!--http://faithfuleye.com.detail.website/
+!--http://faithfuleye.com.ipaddress.com/
+.faithfuleye.com
+
+||faiththedog.info
+.fakku.net
+||fallenark.com
+.falsefire.com
+||falsefire.com
+falun-co.org
+falunart.org
+||falunasia.info
+|http://falunau.org
+.falunaz.net
+falundafa.org
+falundafa-dc.org
+||falundafa-florida.org
+||falundafa-nc.org
+||falundafa-pa.net
+||falundafa-sacramento.org
+falun-ny.net
+||falundafaindia.org
+falundafamuseum.org
+.falungong.club
+.falungong.de
+falungong.org.uk
+||falunhr.org
+faluninfo.de
+faluninfo.net
+.falunpilipinas.net
+||falunworld.net
+familyfed.org
+.fangeming.com
+||fanglizhi.info
+||fangong.org
+fangongheike.com
+||fanhaolou.com
+.fanqiang.tk
+fanqianghou.com
+||fanqianghou.com
+.fanqiangzhe.com
+||fanqiangzhe.com
+||fantv.hk
+fapdu.com
+faproxy.com
+!--.farxian.com
+.fawanghuihui.org
+fanqiangyakexi.net
+fail.hk
+||famunion.com
+.fan-qiang.com
+.fangbinxing.com
+||fangbinxing.com
+fangeming.com
+.fangmincn.org
+||fangmincn.org
+.fanhaodang.com
+||fanqiang.network
+||fanswong.com
+.fanyue.info
+.farwestchina.com
+
+!--Fastly
+en.favotter.net
+!--||rnw.global.ssl.fastly.net
+!--|https://*global.ssl.fastly.net/
+nytimes.map.fastly.net
+||nytimes.map.fastly.net
+||fast.wistia.com
+
+||fastestvpn.com
+||fastssh.com
+||faststone.org
+favstar.fm
+||favstar.fm
+faydao.com/weblog
+||faz.net
+.fc2.com
+.fc2china.com
+.fc2cn.com
+||fc2cn.com
+fc2blog.net
+|http://uygur.fc2web.com/
+video.fdbox.com
+.fdc64.de
+.fdc64.org
+.fdc89.jp
+||fourface.nodesnoop.com
+!--feedbooks.mobi
+||feeder.co
+||feelssh.com
+feer.com
+.feifeiss.com
+|http://feitianacademy.org
+.feitian-california.org
+||feixiaohao.com
+||feministteacher.com
+.fengzhenghu.com
+||fengzhenghu.com
+.fengzhenghu.net
+||fengzhenghu.net
+.fevernet.com
+|http://ff.im
+fffff.at
+fflick.com
+.ffvpn.com
+fgmtv.net
+.fgmtv.org
+.fhreports.net
+|http://fhreports.net
+.figprayer.com
+||figprayer.com
+.fileflyer.com
+||fileflyer.com
+|http://feeds.fileforum.com
+.files2me.com
+.fileserve.com/file
+fillthesquare.org
+filmingfortibet.org
+.filthdump.com
+.finchvpn.com
+||finchvpn.com
+!--findbook.tw
+findmespot.com
+||findyoutube.com
+||findyoutube.net
+.fingerdaily.com
+finler.net
+.firearmsworld.net
+|http://firearmsworld.net
+||relay.firefox.com
+.fireofliberty.org
+||fireofliberty.org
+.firetweet.io
+||firetweet.io
+||firstpost.com
+||firstrade.com
+!--||flagfox.net
+.flagsonline.it
+fleshbot.com
+.fleursdeslettres.com
+|http://fleursdeslettres.com
+||flgg.us
+||flgjustice.org
+
+!--||farm6.staticflickr.com
+!--.flickr.com/photos/46231077@N06
+!--.flickr.com/groups/aiweiwei
+!--.flickr.com/photos/digitalboy100
+!--.flickr.com/photos/fzhenghu
+!--.flickr.com/photos/lonelyfox
+!--flickr.com/photos/vanvan/529925157
+!--.flickr.com/photos/winterkanal
+!--.flickr.com/photos/zola
+||flickr.com
+||staticflickr.com
+
+flickrhivemind.net
+.flickriver.com
+.fling.com
+||flipkart.com
+||flog.tw
+.flyvpn.com
+||flyvpn.com
+|http://cn.fmnnow.com
+fofldfradio.org
+blog.foolsmountain.com
+.forum4hk.com
+fangong.forums-free.com
+pioneer-worker.forums-free.com
+!--foursquare.com
+!--|http://4sq.com
+|https://ss*.4sqi.net
+video.foxbusiness.com
+|http://foxgay.com
+||fringenetwork.com
+||flecheinthepeche.fr
+.fochk.org
+||fochk.org
+||focustaiwan.tw
+.focusvpn.com
+||fofg.org
+.fofg-europe.net
+.fooooo.com
+||fooooo.com
+||foreignaffairs.com
+.fotile.me
+||fourthinternational.org
+||foxdie.us
+||foxsub.com
+foxtang.com
+.fpmt.org
+|http://fpmt.org
+.fpmt.tw
+.fpmt-osel.org
+||fpmtmexico.org
+fqok.org
+||fqrouter.com
+||franklc.com
+.freakshare.com
+|http://freakshare.com
+||free4u.com.ar
+free-gate.org
+.free-hada-now.org
+free-proxy.cz
+.free.fr/adsl
+kineox.free.fr
+tibetlibre.free.fr
+||freealim.com
+whitebear.freebearblog.org
+||freebrowser.org
+.freechal.com
+.freedomchina.info
+||freedomchina.info
+.freedomhouse.org
+||freedomhouse.org
+.freedomsherald.org
+||freedomsherald.org
+.freefq.com
+.freefuckvids.com
+.freegao.com
+||freegao.com
+freeilhamtohti.org
+||freekazakhs.org
+.freekwonpyong.org
+||saveliuxiaobo.com
+.freelotto.com
+||freelotto.com
+freeman2.com
+.freeopenvpn.com
+freemoren.com
+freemorenews.com
+freemuse.org/archives/789
+freenet-china.org
+freenewscn.com
+cn.freeones.com
+.freeoz.org/bbs
+||freeoz.org
+||freessh.us
+free4u.com.ar
+.free-ssh.com
+||free-ssh.com
+||freebeacon.com
+.freechina.news
+||freechinaforum.org
+||freechinaweibo.com
+.freedomcollection.org/interviews/rebiya_kadeer
+.freeforums.org
+||freenetproject.org
+.freeoz.org
+.freetibet.net
+||freetibet.org
+.freetibetanheroes.org
+|http://freetibetanheroes.org
+||freetribe.me
+.freeviewmovies.com
+.freevpn.me
+|http://freevpn.me
+||freewallpaper4.me
+.freewebs.com
+.freewechat.com
+||freewechat.com
+freeweibo.com
+||freeweibo.com
+.freexinwen.com
+.freeyoutubeproxy.net
+||freeyoutubeproxy.net
+friendfeed.com
+friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e
+friends-of-tibet.org
+.friendsoftibet.org
+||friendsoftibet.org
+freechina.net
+|http://www.zensur.freerk.com/
+freevpn.nl
+freeyellow.com
+hk.frienddy.com/hk
+|http://adult.friendfinder.com/
+.fring.com
+||fring.com
+.fromchinatousa.net
+||frommel.net
+.frontlinedefenders.org
+||frontlinedefenders.org
+.frootvpn.com
+||frootvpn.com
+||fscked.org
+.fsurf.com
+.ftv.com.tw
+||ftv.com.tw
+||ftvnews.com.tw
+fucd.com
+.fuckcnnic.net
+||fuckcnnic.net
+fuckgfw.org
+.fulione.com
+|https://fulione.com
+||fullerconsideration.com
+fulue.com
+.funf.tw
+funp.com
+.fuq.com
+.furhhdl.org
+||furinkan.com
+.futurechinaforum.org
+||futuremessage.org
+.fux.com
+.fuyin.net
+.fuyindiantai.org
+.fuyu.org.tw
+||fw.cm
+.fxcm-chinese.com
+||fxcm-chinese.com
+fzh999.com
+fzh999.net
+fzlm.com
+
+!--------------------GG-------------------------
+.g6hentai.com
+|http://g6hentai.com
+||g-queen.com
+||gab.com
+||gabocorp.com
+.gaeproxy.com
+.gaforum.org
+.gagaoolala.com
+||gagaoolala.com
+.galaxymacau.com
+||galenwu.com
+.galstars.net
+||game735.com
+gamebase.com.tw
+gamejolt.com
+|http://wiki.gamerp.jp
+||gamer.com.tw
+.gamer.com.tw
+.gamez.com.tw
+||gamez.com.tw
+.gamousa.com
+.gaoming.net
+||gaoming.net
+ganges.com
+||ganjing.com
+||ganjingworld.com
+.gaopi.net
+|http://gaopi.net
+.gaozhisheng.org
+.gaozhisheng.net
+gardennetworks.com
+||gardennetworks.org
+!--IP of Garden Network
+72.52.81.22
+||gartlive.com
+||gate-project.com
+||gather.com
+.gatherproxy.com
+gati.org.tw
+.gaybubble.com
+.gaycn.net
+.gayhub.com
+||gaymap.cc
+.gaymenring.com
+.gaytube.com
+!--||gaytube.com
+||images-gaytube.com
+.gaywatch.com
+|http://gaywatch.com
+.gazotube.com
+||gazotube.com
+||gcc.org.hk
+||gclooney.com
+||gclubs.com
+||gcmasia.com
+.gcpnews.com
+|http://gcpnews.com
+.gdbt.net/forum
+gdzf.org
+||geek-art.net
+geekerhome.com/2010/03/xixiang-project-cross-gfw
+||geekheart.info
+.gekikame.com
+|http://gekikame.com
+.gelbooru.com
+|http://gelbooru.com
+||generated.photos
+||genius.com
+!--||genuitec.com
+.geocities.co.jp
+.geocities.com/SiliconValley/Circuit/5683/download.html
+hk.geocities.com
+geocities.jp
+||geph.io
+.gerefoundation.org
+||getastrill.com
+.getchu.com
+.getcloak.com
+||getcloak.com
+||getfoxyproxy.org
+.getfreedur.com
+||getgom.com
+.geti2p.net
+||geti2p.net
+getiton.com
+.getjetso.com/forum
+.getlantern.org
+||getlantern.org
+||getmalus.com
+.getsocialscope.com
+||getsync.com
+||gettr.com
+gfbv.de
+.gfgold.com.hk
+.gfsale.com
+||gfsale.com
+gfw.org.ua
+.gfw.press
+||gfw.press
+||gfw.report
+.ggssl.com
+||ggssl.com
+!--||ghost.org
+.ghostpath.com
+||ghostpath.com
+||ghut.org
+.giantessnight.com
+|http://giantessnight.com
+.gifree.com
+||giga-web.jp
+tw.gigacircle.com
+|http://cn.giganews.com/
+gigporno.ru
+||girlbanker.com
+.git.io
+||git.io
+|http://softwaredownload.gitbooks.io
+||raw.githack.com
+
+!---GitHub---
+||github.blog
+||github.com
+!--github.com/getlantern
+!--|https://gist.github.com
+!--http://cthlo.github.io/hktv
+!--hahaxixi.github.io
+!--|https://hahaxixi.github.io
+!--||haoel.github.io
+!--|http://onionhacker.github.io
+!--||rg3.github.io
+!--||sikaozhe1997.github.io
+!--||sodatea.github.io
+!--||terminus2049.github.io
+!--||toutyrater.github.io
+!--wsgzao.github.io
+!--|https://wsgzao.github.io
+.github.io
+||github.io
+||githubusercontent.com
+||githubassets.com
+
+.gizlen.net
+||gizlen.net
+.gjczz.com
+||gjczz.com
+globaljihad.net
+globalmediaoutreach.com
+globalmuseumoncommunism.org
+||globalrescue.net
+.globaltm.org
+.globalvoicesonline.org
+||globalvoicesonline.org
+||globalvpn.net
+.glock.com
+gluckman.com/DalaiLama
+||gmgard.com
+||gmhz.org
+|http://www.gmiddle.com
+|http://www.gmiddle.net
+.gmll.org
+||suche.gmx.net
+||gnci.org.hk
+||gnews.org
+go-pki.com
+||goagent.biz
+||goagentplus.com
+gobet.cc
+||godaddy.com
+godfootsteps.org
+||godfootsteps.org
+godns.work
+godsdirectcontact.co.uk
+.godsdirectcontact.org
+godsdirectcontact.org.tw
+.godsimmediatecontact.com
+||gofundme.com
+.gogotunnel.com
+||gohappy.com.tw
+.gokbayrak.com
+.goldbet.com
+||goldbetsports.com
+||golden-ages.org
+||goldeneyevault.com
+.goldenfrog.com
+||goldenfrog.com
+.goldjizz.com
+|http://goldjizz.com
+.goldstep.net
+||goldwave.com
+gongmeng.info
+gongm.in
+gongminliliang.com
+.gongwt.com
+|http://gongwt.com
+blog.goo.ne.jp/duck-tail_2009
+.gooday.xyz
+||gooday.xyz
+||goodhope.school
+.goodreads.com
+||goodreads.com
+.goodreaders.com
+||goodreaders.com
+.goodtv.com.tw
+.goodtv.tv
+||goofind.com
+.googlesile.com
+.gopetition.com
+||gopetition.com
+.goproxing.net
+||goreforum.com
+.gotrusted.com
+||gotrusted.com
+||gotw.ca
+||grammaly.com
+grandtrial.org
+.graphis.ne.jp
+||graphis.ne.jp
+||graphql.org
+||gravatar.com
+greatfirewall.biz
+||greatfirewallofchina.net
+.greatfirewallofchina.org
+||greatfirewallofchina.org
+||greenfieldbookstore.com.hk
+.greenparty.org.tw
+||greenpeace.org
+.greenreadings.com/forum
+great-firewall.com
+great-roc.org
+greatroc.org
+greatzhonghua.org
+.greenpeace.com.tw
+.greenvpn.net
+||greenvpn.net
+.greenvpn.org
+||grindr.com
+||grotty-monday.com
+gs-discuss.com
+||gsearch.media
+||gtricks.com
+guancha.org
+guaneryu.com
+.guardster.com
+.gun-world.net
+gunsandammo.com
+||gutteruncensored.com
+||gvm.com.tw
+||gwins.org
+.gzm.tv
+||gzone-anime.info
+
+!-------------GHS-----
+!-||feeds.cbsnews.com
+!-||www.chinesealbumart.com
+||clementine-player.org
+!-||clemesha.org
+!-||www.cloudgirlfriend.com
+!-||cocoawithlove.com
+!-||blog.controlspace.org
+!-D
+!-||www.dailygyan.com
+!-||dailytodo.org
+!-||blog.danmarner.com
+!-||github.danmarner.com
+!-||design-seeds.com
+!-||designers-artists.com
+!-||mail.diyang.org
+!-||blog.doughellmann.com
+!-||downforeveryoneorjustme.com
+!-||droidsecurity.com
+!-||www.dropmocks.com
+!-||dumblittleman.com
+!-E
+echofon.com
+!-||echofon.com
+!-||epc-jav.com
+!-||everdark.info
+!-||evhead.com
+!-F
+!-||facilelogin.com
+!-||*.fatduck.org
+!-||blog.fdcn.org
+!-||fftogo.com
+!-||flightsimtalk.com
+!-||mclee.foolme.net
+!-||www.frienddeck.com
+!-||fringespoilers.com
+!-||fringetelevision.com
+!-||funpea.com
+!-G
+!-||blog.gatein.org
+!-||feeds.gawker.com
+!-||geektang.com
+!-||geohot.us
+!-||getaround.com
+!-||gmer.net
+!-||www.gmote.org
+!-||blog.go2web20.net
+!-||google-melange.com
+!-||fame.gonzolabs.org
+!-||govecn.org
+!-||gqueues.com
+!-||graphycalc.com
+!-||blog.growlforwindows.com
+!-H
+!-||hcm.com.tw
+!-||blog.headius.com
+!-||hogbaysoftware.com
+!-||blog.hotot.org
+!-||feeds.howstuffworks.com
+!-||huhaitai.com
+!-||blog.humanrightsfirst.org
+!-I
+!-||site.icu-project.org
+!-||igorware.com
+!-||ihas1337code.com
+!-||inknouveau.com
+!-||inote.tw
+!-||ironhelmet.com
+!-||iwfwcf.com
+!-J
+!-||blog.jangmt.com
+!-||blog.jayfields.com
+!-||blog.joint.net
+!-||blog.jsquaredjavascript.com
+!-||blog.jtbworld.com
+!-K
+!-||kathyschwalbe.com
+!-||tomatovpn.keithmoyer.com
+!-||www.keithmoyer.com
+!-||kendalvandyke.com
+!-||blog.kengao.tw
+!-||log.keso.cn
+!-||www.khanacademy.org
+||www.klip.me
+!-||usbloadergx.koureio.net
+!-||blog.kowalczyk.info
+!-L
+!-||labyrinth2.com
+!-||larsgeorge.com
+!-||blog.lastpass.com
+!-||docs.latexlab.org
+!-||leanessays.com
+!-||blog.lidaobing.info
+!-||log.lightory.net
+!-||feeds.limi.net
+!-||www.liteapplications.com
+!-||blog.liukangxu.info
+!-||twitter.liukangxu.info
+!-||oasisnewsroom.live4ever.us
+!-||www.lockergnome.com
+!-||locql.com
+@@||site.locql.com
+!-||feeds.loiclemeur.com
+!-||blog.louisgray.com
+!-M
+!-||madebysofa.com
+!-||mademoisellerobot.com
+!-||masamixes.com
+!-||www.metamuse.net
+!-||blog.metasploit.com
+!-||milazi.com
+!-||www.miniweather.com
+!-||twitter.missiu.com
+!-||plurktop-button.mmdays.com
+!-||feeds.mobileread.com
+!-||www.modernizr.com
+!-||www.modk.it
+!-||mytwishirt.com
+!-N
+!-||blog.netflix.com
+!-||blog.nihilogic.dk
+!-||ntlk.org
+!-||nvquan.org
+!-||nogoodatcoding.com
+!-||blog.notdot.net
+!-||www.notify.io
+!-O
+!-||blog.obvious.com
+!-||onebigfluke.com
+!-||overstimulate.com
+!-P
+!-||pcgeekblog.com
+!-||feeds.pdfchm.net
+!-||feeds.people.com
+!-||blog.persistent.info
+!-||chrome.plantsvszombies.com
+!-||portablesoft.org.ru
+!-||prasannatech.net
+!-||talk.news.pts.org.tw
+!-||python-excel.org
+!-Q
+!-R
+!-||r-chart.com
+!-||rameshsubramanian.org
+!-||rapid.pk
+!-||blog.renanse.com
+!-||robertmao.com
+!-||www.romeo-foxtrot.com
+!-S
+!-||salmiyuck.com
+!-||samsal.com
+!-||blog.seeminglee.com
+!-||blog.sflow.com
+!-||blog.sigfpe.com
+!-||simpletext.ws
+!-||www.skulpt.org
+!-||rss.slashdot.org
+!-||snippetsapp.com
+!-||w.sns.ly
+!-||www.socialnmobile.com
+!-||www.socialwhois.com
+!-||spiritjb.org
+!-||ssbook.com
+!-||sshforwarding.com
+!-||stationeria.com
+||stephaniered.com
+!-||sunjidong.net
+!-||syniumsoftware.com
+@@||download.syniumsoftware.com
+!-T
+!-||tagxedo.com
+!-||blog.tatoeba.org
+!-||www.techfob.com
+!-||teachparentstech.org
+!-||the8pen.com
+!-||theiphonewiki.com
+!-||blog.thesilentnumber.me
+!-||thesponty.com
+!-||theultralinx.com
+!-||blog.think-async.com
+!-||tornadoweb.org
+!-||transparentuptime.com
+!-||triangulationblog.com
+!-||blog.tsunanet.net
+!-||en.tuxero.com
+!-||twazzup.com
+!-||tweetswell.com
+!-||twibes.com
+!-||art.twgg.org
+!-||twivert.com
+!-U
+|http://ub0.cc
+!-||jonny.ubuntu-tw.net
+!-||blog.umonkey.net
+!-V
+!-||tp.vbap.com.au
+!-||www.virtuousrom.com
+!-||blog.visibotech.com
+!-W
+!-||waveprotocol.org
+!-||www.wavesandbox.com
+!-||webfee.org.ru
+!-||blog.webmproject.org
+!-||webupd8.org
+!-||www.whatbrowser.org
+!-||www.wheredoyougo.net
+!-||willhains.com
+!-||feeds.wired.com
+!-||wisemapping.org
+wozy.in
+!-||wozy.in/
+!-||blog.wundercounter.com
+!-X
+!-||xdelta.org
+!-||xiaogaozi.org
+!-||xilou.us
+!-||xzy.org.ru
+!-Y
+!-||yooper.be
+!-||tsong.yunxi.net
+!-Z
+
+gospelherald.com
+||gospelherald.com
+|http://hk.gradconnection.com/
+||grangorz.org
+greatfire.org
+||greatfire.org
+greatfirewallofchina.org
+||greatroc.tw
+.gts-vpn.com
+|http://gts-vpn.com
+||gtv.org
+||gtv1.org
+.gu-chu-sum.org
+|http://gu-chu-sum.org
+.guaguass.com
+|http://guaguass.com
+.guaguass.org
+|http://guaguass.org
+.guangming.com.my
+guishan.org
+||guishan.org
+.gumroad.com
+||gumroad.com
+||gunsamerica.com
+guruonline.hk
+|http://gvlib.com
+.gyalwarinpoche.com
+.gyatsostudio.com
+
+!--------------------HH-------------------------
+.h528.com
+.h5dm.com
+.h5galgame.me
+||h-china.org
+.h-moe.com
+|http://h-moe.com
+h1n1china.org
+.hacg.club
+||hacg.club
+.hacg.in
+|http://hacg.in
+.hacg.li
+|http://hacg.li
+.hacg.me
+|http://hacg.me
+.hacg.red
+|http://hacg.red
+.hacken.cc/bbs
+.hacker.org
+||hackmd.io
+||hackthatphone.net
+hahlo.com
+||hakkatv.org.tw
+.handcraftedsoftware.org
+|http://bbs.hanminzu.org/
+.hanunyi.com
+.hao.news/news
+|http://ae.hao123.com
+|http://ar.hao123.com
+|http://br.hao123.com
+|http://en.hao123.com
+|http://id.hao123.com
+|http://jp.hao123.com
+|http://ma.hao123.com
+|http://mx.hao123.com
+|http://sa.hao123.com
+|http://th.hao123.com
+|http://tw.hao123.com
+|http://vn.hao123.com
+|http://hk.hao123img.com
+|http://ld.hao123img.com
+||happy-vpn.com
+.haproxy.org
+||hardsextube.com
+.harunyahya.com
+|http://harunyahya.com
+bbs.hasi.wang
+have8.com
+@@||haygo.com
+.hclips.com
+||hdlt.me
+||hdtvb.net
+.hdzog.com
+|http://hdzog.com
+||ordns.he.net
+||heartyit.com
+.heavy-r.com
+.hec.su
+|http://hec.su
+.hecaitou.net
+||hecaitou.net
+.hechaji.com
+||hechaji.com
+||heeact.edu.tw
+.hegre-art.com
+|http://hegre-art.com
+||cdn.helixstudios.net
+||helplinfen.com
+||helpuyghursnow.org
+||helloandroid.com
+||helloqueer.com
+.helloss.pw
+hellotxt.com
+||hellotxt.com
+.hentai.to
+.hellouk.org/forum/lofiversion
+.helpeachpeople.com
+||helpeachpeople.com
+||helpster.de
+.helpzhuling.org
+hentaitube.tv
+.hentaivideoworld.com
+
+!###########--Heroku--##########
+!--||getcloudapp.com
+!--||cl.ly
+!--@@||f.cl.ly
+!--EC2 DNS Poisoned
+||id.heroku.com
+
+heqinglian.net
+||heqinglian.net
+||heritage.org
+||heungkongdiscuss.com
+.hexieshe.com
+||hexieshe.com
+||hexieshe.xyz
+!--Google employee within Google IP
+||hexxeh.net
+||heyuedi.com
+app.heywire.com
+.heyzo.com
+.hgseav.com
+.hhdcb3office.org
+.hhthesakyatrizin.org
+hi-on.org.tw
+||hiccears.com
+hidden-advent.org
+||hidden-advent.org
+hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
+||hide.me
+.hidein.net
+.hideipvpn.com
+||hideipvpn.com
+.hideman.net
+||hideman.net
+hideme.nl
+||hidemy.name
+.hidemyass.com
+||hidemyass.com
+hidemycomp.com
+||hidemycomp.com
+.hihiforum.com
+.hihistory.net
+||hihistory.net
+.higfw.com
+highpeakspureearth.com
+||highrockmedia.com
+||hiitch.com
+||hikinggfw.org
+.hilive.tv
+.himalayan-foundation.org
+||himalayan-foundation.org
+himalayanglacier.com
+.himemix.com
+||himemix.com
+.himemix.net
+times.hinet.net
+.hitomi.la
+|http://hitomi.la
+.hiwifi.com
+@@||hiwifi.com
+hizbuttahrir.org
+hizb-ut-tahrir.info
+hizb-ut-tahrir.org
+.hjclub.info
+.hk-pub.com/forum
+|http://hk-pub.com
+.hk01.com
+||hk01.com
+.hk32168.com
+||hk32168.com
+||hkacg.com
+||hkacg.net
+.hkatvnews.com
+hkbc.net
+.hkbf.org
+.hkbookcity.com
+||hkbookcity.com
+||hkchronicles.com
+.hkchurch.org
+hkci.org.hk
+.hkcmi.edu
+||hkcnews.com
+||hkcoc.com
+||hkctu.org.hk
+hkday.net
+.hkdailynews.com.hk/china.php
+||hkdc.us
+hkdf.org
+.hkej.com
+.hkepc.com/forum/viewthread.php?tid=1153322
+||hket.com
+||hkfaa.com
+hkfreezone.com
+hkfront.org
+m.hkgalden.com
+|https://m.hkgalden.com
+.hkgreenradio.org/home
+||hkgpao.com
+.hkheadline.com*blog
+.hkheadline.com/instantnews
+hkhkhk.com
+hkhrc.org.hk
+hkhrm.org.hk
+||hkip.org.uk
+1989report.hkja.org.hk
+hkjc.com
+.hkjp.org
+.hklft.com
+.hklts.org.hk
+||hklts.org.hk
+||hkmap.live
+||hkopentv.com
+||hkpeanut.com
+hkptu.org
+.hkreporter.com
+||hkreporter.com
+|http://hkupop.hku.hk/
+.hkusu.net
+||hkusu.net
+.hkvwet.com
+.hkwcc.org.hk
+||hkzone.org
+.hmonghot.com
+|http://hmonghot.com
+.hmv.co.jp/
+hnjhj.com
+||hnjhj.com
+.hnntube.com
+||hojemacau.com.mo
+||hola.com
+||hola.org
+holymountaincn.com
+holyspiritspeaks.org
+||holyspiritspeaks.org
+||derekhsu.homeip.net
+.homeperversion.com
+|http://homeservershow.com
+|http://old.honeynet.org/scans/scan31/sub/doug_eric/spam_translation.html
+.hongkongfp.com
+||hongkongfp.com
+hongmeimei.com
+||hongzhi.li
+||honven.xyz
+.hootsuite.com
+||hootsuite.com
+||hoover.org
+.hopedialogue.org
+|http://hopedialogue.org
+.hopto.org
+.hornygamer.com
+.hornytrip.com
+|http://hornytrip.com
+||horrorporn.com
+||hostloc.com
+||hotair.com
+.hotav.tv
+.hotels.cn
+hotfrog.com.tw
+hotgoo.com
+.hotpornshow.com
+hotpot.hk
+.hotshame.com
+||hotspotshield.com
+||hottg.com
+.hotvpn.com
+||hotvpn.com
+||hougaige.com
+||howtoforge.com
+||hoxx.com
+.hqcdp.org
+||hqcdp.org
+||hqjapanesesex.com
+hqmovies.com
+.hrcir.com
+.hrcchina.org
+.hrea.org
+.hrichina.org
+||hrichina.org
+||hrntt.org
+.hrtsea.com
+.hrw.org
+||hrw.org
+hrweb.org
+||hsjp.net
+||hsselite.com
+|http://hst.net.tw
+.hstern.net
+.hstt.net
+.htkou.net
+||htkou.net
+.hua-yue.net
+.huaglad.com
+||huaglad.com
+.huanghuagang.org
+||huanghuagang.org
+.huangyiyu.com
+.huaren.us
+||huaren.us
+.huaren4us.com
+.huashangnews.com
+|http://huashangnews.com
+bbs.huasing.org
+huaxia-news.com
+huaxiabao.org
+huaxin.ph
+||huayuworld.org
+||huffingtonpost.com
+||huffpost.com
+||huggingface.co
+||hugoroy.eu
+||huhaitai.com
+||huhamhire.com
+.huhangfei.com
+||huhangfei.com
+huiyi.in
+.hulkshare.com
+||humanparty.me
+||humanrightspressawards.org
+||hung-ya.com
+||hungerstrikeforaids.org
+||huping.net
+hurgokbayrak.com
+.hurriyet.com.tr
+.hut2.ru
+||hutianyi.net
+hutong9.net
+huyandex.com
+.hwadzan.tw
+||hwayue.org.tw
+||hwinfo.com
+||hxwk.org
+hxwq.org
+||hyperrate.com
+ebook.hyread.com.tw
+||ebook.hyread.com.tw
+
+!--------------------II-------------------------
+||i1.hk
+||i2p2.de
+||i2runner.com
+||i818hk.com
+.i-cable.com
+.i-part.com.tw
+.iamtopone.com
+iask.ca
+||iask.ca
+iask.bz
+||iask.bz
+.iav19.com
+ibiblio.org/pub/packages/ccic
+||ibit.am
+.iblist.com
+||iblogserv-f.net
+ibros.org
+|http://cn.ibtimes.com
+.ibvpn.com
+||ibvpn.com
+icams.com
+||icedrive.net
+.icij.org
+||icij.org
+||icl-fi.org
+.icoco.com
+||icoco.com
+
+!--38.103.165.50
+||furbo.org
+!--||iconfactory.com
+||warbler.iconfactory.net
+
+||iconpaper.org
+!-- Google Pages
+||icu-project.org
+w.idaiwan.com/forum
+idemocracy.asia
+.identi.ca
+||identi.ca
+||idiomconnection.com
+|http://www.idlcoyote.com
+.idouga.com
+.idreamx.com
+forum.idsam.com
+.idv.tw
+.ieasy5.com
+|http://ieasy5.com
+.ied2k.net
+.ienergy1.com
+||iepl.us
+||ift.tt
+ifanqiang.com
+.ifcss.org
+||ifcss.org
+ifjc.org
+.ift.tt
+|http://ift.tt
+||ifreewares.com
+||igcd.net
+.igfw.net
+||igfw.net
+.igfw.tech
+||igfw.tech
+.igmg.de
+||ignitedetroit.net
+.igotmail.com.tw
+||igvita.com
+||ihakka.net
+.ihao.org/dz5
+||iicns.com
+.ikstar.com
+||ilhamtohtiinstitute.org
+||illusionfactory.com
+||ilove80.be
+||im.tv
+@@||myvlog.im.tv
+||im88.tw
+||imgchili.net
+.imageab.com
+.imagefap.com
+||imagefap.com
+||imageflea.com
+||imageglass.org
+||imageshack.us
+||imagevenue.com
+||imagezilla.net
+.imb.org
+|http://imb.org
+
+!--IMDB
+|http://www.imdb.com/name/nm0482730
+.imdb.com/title/tt0819354
+.imdb.com/title/tt1540068
+.imdb.com/title/tt4908644
+
+.img.ly
+||img.ly
+||imgasd.com
+.imgur.com
+||imgur.com
+.imkev.com
+||imkev.com
+.imlive.com
+.immoral.jp
+impact.org.au
+impp.mn
+|http://tech2.in.com/video/
+in99.org
+in-disguise.com
+.incapdns.net
+.incloak.com
+||incloak.com
+||incredibox.fr
+||independent.co.uk
+||indiablooms.com
+||indiandefensenews.in
+||indianarrative.com
+||timesofindia.indiatimes.com
+.indiemerch.com
+||indiemerch.com
+||info-graf.fr
+website.informer.com
+||initiativesforchina.org
+||inkbunny.net
+||inkui.com
+||inmediahk.net
+||inmediahk.net
+||innermongolia.org
+||inoreader.com
+||inote.tw
+||insecam.org
+|http://insecam.org
+||inside.com.tw
+||insidevoa.com
+||institut-tibetain.org
+||interactivebrokers.com
+||internet.org
+internetdefenseleague.org
+internetfreedom.org
+!--||interpol.int
+||internetpopculture.com
+.inthenameofconfuciusmovie.com
+||inthenameofconfuciusmovie.com
+inxian.com
+||inxian.com
+ipalter.com
+!--||ipcf.org.tw
+||ipfire.org
+||iphone4hongkong.com
+||iphonehacks.com
+||iphonetaiwan.org
+||iphonix.fr
+||ipicture.ru
+.ipjetable.net
+||ipjetable.net
+.ipobar.com/read.php?
+ipoock.com/img
+.iportal.me
+|http://iportal.me
+||ippotv.com
+.ipredator.se
+||ipredator.se
+.iptv.com.tw
+||iptvbin.com
+||ipvanish.com
+iredmail.org
+chinese.irib.ir
+||ironbigfools.compython.net
+||ironpython.net
+.ironsocket.com
+||ironsocket.com
+.is.gd
+.islahhaber.net
+.islam.org.hk
+|http://islam.org.hk
+.islamawareness.net/Asia/China
+.islamhouse.com
+||islamhouse.com
+.islamicity.com
+.islamicpluralism.org
+.islamtoday.net
+.isaacmao.com
+||isaacmao.com
+||isgreat.org
+||ismaelan.com
+.ismalltits.com
+||ismprofessional.net
+isohunt.com
+||israbox.com
+.issuu.com
+||issuu.com
+.istars.co.nz
+oversea.istarshine.com
+||oversea.istarshine.com
+blog.istef.info/2007/10/21/myentunnel
+.istiqlalhewer.com
+.istockphoto.com
+isunaffairs.com
+isuntv.com
+||isupportuyghurs.org
+itaboo.info
+||itaboo.info
+||italiatibet.org
+||itemfix.com
+ithelp.ithome.com.tw
+||itshidden.com
+.itsky.it
+.itweet.net
+|http://itweet.net
+.iu45.com
+.iuhrdf.org
+||iuhrdf.org
+.iuksky.com
+.ivacy.com
+||ivacy.com
+.iverycd.com
+||ivonblog.com
+.ivpn.net
+||ivpn.net
+||iwara.tv
+||ixquick.com
+.ixxx.com
+.iyouport.com
+||iyouport.com
+||iyouport.org
+.izaobao.us
+||gmozomg.izihost.org
+.izles.net
+.izlesem.org
+
+!--------------------JJ-------------------------
+||j.mp
+||jable.tv
+||blog.jackjia.com
+jamaat.org
+||jamestown.org
+||jamyangnorbu.com
+||jan.ai
+.jandyx.com
+||janwongphoto.com
+||japan-whores.com
+.jav.com
+.jav101.com
+.jav2be.com
+||jav2be.com
+.jav68.tv
+.javakiba.org
+|http://javakiba.org
+.javbus.com
+||javbus.com
+||javfor.me
+.javhd.com
+.javhip.com
+.javmobile.net
+|http://javmobile.net
+.javmoo.com
+.javseen.com
+|http://javseen.com
+jbtalks.cc
+jbtalks.com
+jbtalks.my
+.jdwsy.com
+jeanyim.com
+||jfqu36.club
+||jfqu37.xyz
+||jgoodies.com
+.jiangweiping.com
+||jiangweiping.com
+||jiaoyou8.com
+||jichangtj.com
+.jiehua.cz
+||hk.jiepang.com
+||tw.jiepang.com
+jieshibaobao.com
+.jigglegifs.com
+56cun04.jigsy.com
+jigong1024.com
+daodu14.jigsy.com
+specxinzl.jigsy.com
+wlcnew.jigsy.com
+.jihadology.net
+|http://jihadology.net
+jinbushe.org
+||jinbushe.org
+.jingsim.org
+zhao.jinhai.de
+jingpin.org
+||jingpin.org
+jinpianwang.com
+.jinroukong.com
+ac.jiruan.net
+||jitouch.com
+.jizzthis.com
+jjgirls.com
+.jkb.cc
+|http://jkb.cc
+jkforum.net
+||jma.go.jp
+research.jmsc.hku.hk/social
+weiboscope.jmsc.hku.hk
+.jmscult.com
+|http://jmscult.com
+||joachims.org
+||jobso.tv
+.sunwinism.joinbbs.net
+||joinclubhouse.com
+||jornaldacidadeonline.com.br
+.journalchretien.net
+||journalofdemocracy.org
+.joymiihub.com
+.joyourself.com
+jpopforum.net
+||jsdelivr.net
+||fiddle.jshell.net
+.jubushoushen.com
+||jubushoushen.com
+!--Doamin parking
+.juhuaren.com
+||juliereyc.com
+||junauza.com
+.june4commemoration.org
+.junefourth-20.net
+||junefourth-20.net
+||bbs.junglobal.net
+.juoaa.com
+|http://juoaa.com
+justfreevpn.com
+||justhost.ru
+.justicefortenzin.org
+justpaste.it
+||justmysocks1.net
+justtristan.com
+juyuange.org
+juziyue.com
+||juziyue.com
+||jwmusic.org
+@@||music.jwmusic.org
+||cdn.jwplayer.com
+.jyxf.net
+
+!--------------------KK-------------------------
+||k-doujin.net
+||ka-wai.com
+||kadokawa.co.jp
+.kagyu.org
+||kagyu.org.za
+.kagyumonlam.org
+.kagyunews.com.hk
+.kagyuoffice.org
+||kagyuoffice.org
+||kagyuoffice.org.tw
+.kaiyuan.de
+.kakao.com
+||kakao.com
+.kalachakralugano.org
+.kankan.today
+.kannewyork.com
+||kannewyork.com
+.kanshifang.com
+||kanshifang.com
+||kantie.org
+kanzhongguo.com
+kanzhongguo.eu
+.kaotic.com
+||kaotic.com
+||karayou.com
+karkhung.com
+.karmapa.org
+.karmapa-teachings.org
+||kawase.com
+.kba-tx.org
+.kcoolonline.com
+.kebrum.com
+||kebrum.com
+.kechara.com
+.keepandshare.com/visit/visit_page.php?i=688154
+!--||keepvid.com
+.keezmovies.com
+.kendincos.net
+.kenengba.com
+||kenengba.com
+||keontech.net
+.kepard.com
+||kepard.com
+wiki.keso.cn/Home
+||keycdn.com
+.khabdha.org
+.khmusic.com.tw
+||kichiku-doujinko.com
+.kik.com
+||kik.com
+bbs.kimy.com.tw
+.kindleren.com
+|http://kindleren.com
+|http://www.kindleren.com
+.kingdomsalvation.org
+||kingdomsalvation.org
+kinghost.com
+!--.kingstone.com.tw/book/
+||kingstone.com.tw
+.kink.com
+.kinokuniya.com
+||kinokuniya.com
+killwall.com
+||killwall.com
+||kinmen.travel
+.kir.jp
+.kissbbao.cn
+|http://kiwi.kz
+||kk-whys.co.jp
+!--||kmt.org.tw
+.kmuh.org.tw
+.knowledgerush.com/kr/encyclopedia
+||knowyourmeme.com
+.kobo.com
+||kobo.com
+.kobobooks.com
+||kobobooks.com
+||kodingen.com
+@@||www.kodingen.com
+||kompozer.net
+.konachan.com
+||konachan.com
+.kone.com
+||koolsolutions.com
+.koornk.com
+||koornk.com
+||koranmandarin.com
+.korenan2.com
+||kqes.net
+|http://gojet.krtco.com.tw
+.ksdl.org
+.ksnews.com.tw
+||ktzhk.com
+.kui.name/event
+||kukuku.uk
+kun.im
+.kurashsultan.com
+||kurtmunger.com
+kusocity.com
+||kwcg.ca
+||kwok7.com
+.kwongwah.com.my
+||kwongwah.com.my
+.kxsw.life
+||kxsw.life
+.kyofun.com
+kyohk.net
+||kyoyue.com
+.kyzyhello.com
+||kyzyhello.com
+.kzeng.info
+||kzeng.info
+
+!--------------------LL-------------------------
+la-forum.org
+ladbrokes.com
+||labiennale.org
+.lagranepoca.com
+||lagranepoca.com
+||lala.im
+.lalulalu.com
+.lama.com.tw
+||lama.com.tw
+.lamayeshe.com
+|http://lamayeshe.com
+|http://www.lamenhu.com
+.lamnia.co.uk
+||lamnia.co.uk
+lamrim.com
+||landofhope.tv
+.lanterncn.cn
+|http://lanterncn.cn
+.lantosfoundation.org
+.laod.cn
+|http://laod.cn
+laogai.org
+||laogai.org
+||laogairesearch.org
+laomiu.com
+.laoyang.info
+|http://laoyang.info
+||laptoplockdown.com
+.laqingdan.net
+||laqingdan.net
+||larsgeorge.com
+.lastcombat.com
+|http://lastcombat.com
+||lastfm.es
+latelinenews.com
+||lausan.hk
+||le-vpn.com
+.leafyvpn.net
+||leafyvpn.net
+||ledger.com
+leeao.com.cn/bbs/forum.php
+!--||leecheukyan.org
+lefora.com
+||left21.hk
+.legalporno.com
+.legsjapan.com
+|http://leirentv.ca
+leisurecafe.ca
+||lematin.ch
+.lemonde.fr
+||lenwhite.com
+||leorockwell.com
+lerosua.org
+||lerosua.org
+blog.lester850.info
+||lesoir.be
+.letou.com
+letscorp.net
+||letscorp.net
+||ocsp.int-x3.letsencrypt.org
+||ss.levyhsu.com
+!69.16.175.42
+||cdn.assets.lfpcontent.com
+.lhakar.org
+|http://lhakar.org
+.lhasocialwork.org
+.liangyou.net
+||liangyou.net
+.lianyue.net
+||liaowangxizang.net
+.liaowangxizang.net
+||liberal.org.hk
+||libertysculpturepark.com
+||libertytimes.com.tw
+blogs.libraryinformationtechnology.com/jxyz
+||libredd.it
+||lighten.org.tw
+||lightnovel.cn
+limiao.net
+linkuswell.com
+abitno.linpie.com/use-ipv6-to-fuck-gfw
+||line.me
+||line-apps.com
+.linglingfa.com
+||lingvodics.com
+.link-o-rama.com
+|http://link-o-rama.com
+||linkedin.com
+.linkideo.com
+||api.linksalpha.com
+||apidocs.linksalpha.com
+||www.linksalpha.com
+||help.linksalpha.com
+||linux.org.hk
+linuxtoy.org/archives/installing-west-chamber-on-ubuntu
+.lionsroar.com
+.lipuman.com
+||liquidvpn.com
+||greatfire.us7.list-manage.com
+||listennotes.com
+||listentoyoutube.com
+listorious.com
+.liu-xiaobo.org
+||liudejun.com
+.liuhanyu.com
+.liujianshu.com
+||liujianshu.com
+.liuxiaobo.net
+||liuxiaobo.net
+liuxiaotong.com
+||liuxiaotong.com
+.livedoor.jp
+.liveleak.com
+||liveleak.com
+||livemint.com
+livestream.com
+||livestream.com
+||livingonline.us
+||livingstream.com
+||livevideo.com
+.livevideo.com
+.liwangyang.com
+lizhizhuangbi.com
+lkcn.net
+||chat.lmsys.org
+||lncn.org
+.load.to
+.lobsangwangyal.com
+.localdomain.ws
+||localdomain.ws
+localpresshk.com
+||lockestek.com
+logbot.net
+||logiqx.com
+secure.logmein.com
+||secure.logmein.com
+||logos.com.hk
+.londonchinese.ca
+.longhair.hk
+longmusic.com
+||longtermly.net
+||lookpic.com
+.looktoronto.com
+|http://looktoronto.com
+.lotsawahouse.org/tibetan-masters/fourteenth-dalai-lama
+.lotuslight.org.hk
+.lotuslight.org.tw
+hkreporter.loved.hk
+!--403?
+||lpsg.com
+||lrfz.com
+.lrip.org
+||lrip.org
+.lsd.org.hk
+||lsd.org.hk
+lsforum.net
+.lsm.org
+||lsm.org
+.lsmchinese.org
+||lsmchinese.org
+.lsmkorean.org
+||lsmkorean.org
+.lsmradio.com/rad_archives
+.lsmwebcast.com
+.ltn.com.tw
+||ltn.com.tw
+||luckydesigner.space
+.luke54.com
+.luke54.org
+.lupm.org
+||lupm.org
+||lushstories.com
+luxebc.com
+lvhai.org
+||lvhai.org
+||lvv2.com
+.lyfhk.net
+|http://lyfhk.net
+||lzjscript.com
+.lzmtnews.org
+||lzmtnews.org
+
+!--------------------MM-------------------------
+http://*.m-team.cc
+!--m-team.cc/forum
+.macrovpn.com
+macts.com.tw
+||mad-ar.ch
+||madrau.com
+||madthumbs.com
+||magic-net.info
+mahabodhi.org
+my.mail.ru
+.maiplus.com
+|http://maiplus.com
+.maizhong.org
+makkahnewspaper.com
+.mamingzhe.com
+manicur4ik.ru
+||manyvoices.news
+.maplew.com
+|http://maplew.com
+||marc.info
+marguerite.su
+||martincartoons.com
+maskedip.com
+.maiio.net
+.mail-archive.com
+.malaysiakini.com
+||makemymood.com
+.manchukuo.net
+.maniash.com
+|http://maniash.com
+.mansion.com
+.mansionpoker.com
+!--||marines.mil
+!--markmail.org*message
+||martau.com
+|http://blog.martinoei.com
+.martsangkagyuofficial.org
+|http://martsangkagyuofficial.org
+maruta.be/forget
+.marxist.com
+||marxist.net
+.marxists.org/chinese
+!--||mashable.com
+||matainja.com
+||mathable.io
+||mathiew-badimon.com
+||matrix.org
+||matsushimakaede.com
+||matters.town
+||maturejp.com
+mayimayi.com
+.maxing.jp
+.mcaf.ee
+|http://mcaf.ee
+||mcadforums.com
+mcfog.com
+mcreasite.com
+.md-t.org
+||md-t.org
+||meansys.com
+.media.org.hk
+.mediachinese.com
+||mediachinese.com
+.mediafire.com/?
+.mediafire.com/download
+.mediafreakcity.com
+||mediafreakcity.com
+.medium.com
+||medium.com
+.meetav.com
+||meetup.com
+mefeedia.com
+jihadintel.meforum.org
+||mega.co.nz
+||mega.io
+||mega.nz
+||megaproxy.com
+||megarotic.com
+megavideo.com
+||megurineluka.com
+||meizhong.blog
+||meizhong.report
+.meltoday.com
+.memehk.com
+||memehk.com
+memorybbs.com
+.memri.org
+.memrijttm.org
+||mercdn.net
+.mercyprophet.org
+||mercyprophet.org
+||mergersandinquisitions.org
+.meridian-trust.org
+||meridian-trust.org
+.meripet.biz
+||meripet.biz
+.meripet.com
+||meripet.com
+||merit-times.com.tw
+meshrep.com
+.mesotw.com/bbs
+metacafe.com/watch
+||metafilter.com
+||meteorshowersonline.com
+||metro.taipei
+.metrohk.com.hk/?cmd=detail&categoryID=2
+||metrolife.ca
+.metroradio.com.hk
+|http://metroradio.com.hk
+||mewe.com
+meyou.jp
+.meyul.com
+||mgoon.com
+||mgstage.com
+||mh4u.org
+mhradio.org
+|http://michaelanti.com
+||michaelmarketl.com
+|http://bbs.mikocon.com
+.microvpn.com
+|http://microvpn.com
+middle-way.net
+.mihk.hk/forum
+.mihr.com
+mihua.org
+!--IP
+||mikesoltys.com
+.milph.net
+|http://milph.net
+.milsurps.com
+mimiai.net
+.mimivip.com
+.mimivv.com
+.mindrolling.org
+|http://mindrolling.org
+||mingdemedia.org
+.minghui.or.kr
+|http://minghui.or.kr
+minghui.org
+||minghui.org
+minghui-a.org
+minghui-b.org
+minghui-school.org
+.mingjinglishi.com
+||mingjinglishi.com
+mingjingnews.com
+||mingjingtimes.com
+.mingpao.com
+||mingpao.com
+.mingpaocanada.com
+.mingpaomonthly.com
+|http://mingpaomonthly.com
+mingpaonews.com
+.mingpaony.com
+.mingpaosf.com
+.mingpaotor.com
+.mingpaovan.com
+.mingshengbao.com
+.minhhue.net
+.miniforum.org
+.ministrybooks.org
+.minzhuhua.net
+||minzhuhua.net
+minzhuzhanxian.com
+minzhuzhongguo.org
+||miroguide.com
+mirrorbooks.com
+||mirrormedia.mg
+.mist.vip
+||thecenter.mit.edu
+||scratch.mit.edu
+.mitao.com.tw
+.mitbbs.com
+||mitbbs.com
+mitbbsau.com
+.mixero.com
+||mixero.com
+||mixi.jp
+mixpod.com
+.mixx.com
+||mixx.com
+||mizzmona.com
+.mk5000.com
+.mlcool.com
+||mlzs.work
+.mm-cg.com
+||mmaaxx.com
+.mmmca.com
+mnewstv.com
+||mobatek.net
+.mobile01.com
+||mobile01.com
+||mobileways.de
+.mobypicture.com
+|http://moby.to
+||mod.io
+||modernchinastudies.org
+||moeerolibrary.com
+wiki.moegirl.org
+.mofaxiehui.com
+.mofos.com
+||mog.com
+||mohu.rocks
+molihua.org
+||mondex.org
+.money-link.com.tw
+|http://money-link.com.tw
+|http://www.monlamit.org
+||moon.fm
+.moonbbs.com
+||moonbbs.com
+||moptt.tw
+||monica.im
+||monitorchina.org
+||monocloud.me
+bbs.morbell.com
+||morningsun.org
+||moroneta.com
+.motherless.com
+|http://motherless.com
+motor4ik.ru
+.mousebreaker.com
+!--||movabletype.com
+.movements.org
+||movements.org
+||moviefap.com
+||www.moztw.org
+.mp3buscador.com
+||mpettis.com
+.mpfinance.com
+||mpfinance.com
+.mpinews.com
+||mpinews.com
+mponline.hk
+.mqxd.org
+|http://mqxd.org
+mrtweet.com
+||mrtweet.com
+news.hk.msn.com
+news.msn.com.tw
+msguancha.com
+.mswe1.org
+|http://mswe1.org
+||mthruf.com
+||mubi.com
+muchosucko.com
+||multiply.com
+multiproxy.org
+multiupload.com
+.mullvad.net
+||mullvad.net
+.mummysgold.com
+.murmur.tw
+|http://murmur.tw
+.musicade.net
+.muslimvideo.com
+||muzi.com
+||muzi.net
+||mx981.com
+.my-formosa.com
+.my-proxy.com
+.my-private-network.co.uk
+||my-private-network.co.uk
+forum.my903.com
+.myactimes.com/actimes
+||myanniu.com
+.myaudiocast.com
+||myaudiocast.com
+.myav.com.tw/bbs
+.mybbs.us
+.myca168.com
+.mycanadanow.com
+||bbs.mychat.to
+||mychinamyhome.com
+.mychinamyhome.com
+.mychinanet.com
+.mychinanews.com
+||mychinanews.com
+.mychinese.news
+||mycnnews.com
+||mykomica.org
+mycould.com/discuz
+.myeasytv.com
+||myeclipseide.com
+.myforum.com.hk
+||myforum.com.hk
+||myforum.com.uk
+.myfreecams.com
+.myfreepaysite.com
+.myfreshnet.com
+.myiphide.com
+||myiphide.com
+forum.mymaji.com
+mymediarom.com/files/box
+||mymoe.moe
+||mymusic.net.tw
+||myparagliding.com
+||mypopescu.com
+myradio.hk/podcast
+.myreadingmanga.info
+mysinablog.com
+.myspace.com
+!--.blogs.myspace.com
+!--||blogs.myspace.com
+!--vids.myspace.com/index.cfm?fuseaction=vids.
+!--viewmorepics.myspace.com
+||myspacecdn.com
+.mytalkbox.com
+.mytizi.com
+
+!--------------------NN-------------------------
+||naacoalition.org
+old.nabble.com
+||naitik.net
+.nakido.com
+||nakido.com
+.nakuz.com/bbs
+||nalandabodhi.org
+||nalandawest.org
+.namgyal.org
+namgyalmonastery.org
+||namsisi.com
+.nanyang.com
+||nanyang.com
+.nanyangpost.com
+||nanyangpost.com
+.nanzao.com
+!--.nanzao.com/sc/china/20223
+!--.nanzao.com/sc/hk-macau-tw
+.naol.ca
+.naol.cc
+uighur.narod.ru
+.nat.moe
+||nat.moe
+cyberghost.natado.com
+||national-lottery.co.uk
+||nationalawakening.org
+||nationalinterest.org
+news.nationalgeographic.com/news/2014/06/140603-tiananmen-square
+||nationalreview.com
+.nationsonline.org/oneworld/tibet
+||line.naver.jp
+||navyfamily.navy.mil
+||navyreserve.navy.mil
+||nko.navy.mil
+||usno.navy.mil
+naweeklytimes.com
+||nbcnews.com
+.nbtvpn.com
+|http://nbtvpn.com
+nccwatch.org.tw
+.nch.com.tw
+.ncn.org
+||nchrd.org
+||ncn.org
+||etools.ncol.com
+.nde.de
+||ndi.org
+.ndr.de
+.ned.org
+||nekoslovakia.net
+||neowin.net
+||nepusoku.com
+||net-fits.pro
+||netalert.me
+!--bbsnew.netbig.com
+bbs.netbig.com
+.netbirds.com
+netcolony.com
+bolin.netfirms.com
+||netflav.com
+||netme.cc
+||netsarang.com
+netsneak.com
+.network54.com
+networkedblogs.com
+.networktunnel.net
+neverforget8964.org
+new-3lunch.net
+.new-akiba.com
+.new96.ca
+.newcenturymc.com
+|http://newcenturymc.com
+newcenturynews.com
+||newchen.com
+.newchen.com
+.newgrounds.com
+||newhighlandvision.com
+newipnow.com
+.newlandmagazine.com.au
+||newmitbbs.com
+.newnews.ca
+news100.com.tw
+newschinacomment.org
+.newscn.org
+||newscn.org
+newspeak.cc/story
+.newsancai.com
+||newsancai.com
+.newsdetox.ca
+.newsdh.com
+||newsmax.com
+||newstamago.com
+||newstapa.org
+||newstatesman.com
+newstarnet.com
+||newsweek.com
+.newtaiwan.com.tw
+newtalk.tw
+||newtalk.tw
+||newyorker.com
+newyorktimes.com
+||nexon.com
+.next11.co.jp
+||nextdigital.com.hk
+.nextmag.com.tw
+
+!--hk*.nextmedia.com
+!--tw*.nextmedia.com
+!--static*.nextmedia.com
+.nextmedia.com
+
+||nexton-net.jp
+||nexttv.com.tw
+.nfjtyd.com
+||co.ng.mil
+||nga.mil
+ngensis.com
+||ngodupdongchung.com
+.nhentai.net
+|http://nhentai.net
+.nhk-ondemand.jp
+.nicovideo.jp/watch
+||nicovideo.jp
+||nighost.org
+av.nightlife141.com
+ninecommentaries.com
+.ninjacloak.com
+||ninjaproxy.ninja
+nintendium.com
+taiwanyes.ning.com
+usmgtcg.ning.com/forum
+||niusnews.com
+||njactb.org
+njuice.com
+||njuice.com
+||nlfreevpn.com
+||nmsl.website
+||nnews.eu
+
+!--no-ip.com#NOIP
+.ddns.net/
+.gooddns.info
+||gotdns.ch
+.maildns.xyz
+.no-ip.org
+.opendn.xyz
+.servehttp.com
+sytes.net
+.whodns.xyz
+.zapto.org
+|http://dynupdate.no-ip.com/
+
+||nobel.se
+!--.nobelprize.org
+!--|http://nobelprize.org
+nobelprize.org/nobel_prizes/peace/laureates/1989
+nobelprize.org/nobel_prizes/peace/laureates/2010
+nobodycanstop.us
+||nobodycanstop.us
+||nokogiri.org
+||nokola.com
+noodlevpn.com
+.norbulingka.org
+nordvpn.com
+||nordvpn.com
+||notepad-plus-plus.org
+||novelasia.com
+.news.now.com
+|http://news.now.com
+!--|http://news.now.com/home*
+news.now.com%2Fhome
+||nownews.com
+.nowtorrents.com
+.noypf.com
+||noypf.com
+||npa.go.jp
+.npnt.me
+|http://npnt.me
+.nps.gov
+.nradio.me
+|http://nradio.me
+.nrk.no
+||nrk.no
+.ntd.tv
+||ntd.tv
+.ntdtv.com
+||ntdtv.com
+||ntdtv.com.tw
+.ntdtv.co.kr
+ntdtv.ca
+ntdtv.org
+ntdtv.ru
+ntdtvla.com
+.ntrfun.com
+||cbs.ntu.edu.tw
+||media.nu.nl
+.nubiles.net
+||nuexpo.com
+.nukistream.com
+||nurgo-software.com
+||nutaku.net
+||nutsvpn.work
+.nuvid.com
+||nvdst.com
+nuzcom.com
+.nvquan.org
+.nvtongzhisheng.org
+|http://nvtongzhisheng.org
+.nwtca.org
+|http://nyaa.eu
+||nyaa.si
+||nybooks.com
+.nydus.ca
+nylon-angel.com
+nylonstockingsonline.com
+||nypost.com
+!--nysingtao.com
+.nzchinese.com
+||nzchinese.net.nz
+
+!--------------------OO-------------------------
+||oann.com
+observechina.net
+.obutu.com
+ocaspro.com
+occupytiananmen.com
+oclp.hk
+.ocreampies.com
+||october-review.org
+||odysee.com
+offbeatchina.com
+||officeoftibet.com
+|http://ofile.org
+||ogaoga.org
+twtr2src.ogaoga.org
+.ogate.org
+||ogate.org
+www2.ohchr.org/english/bodies/cat/docs/ngos/II_China_41.pdf
+||ohmyrss.com
+.oikos.com.tw/v4
+.oiktv.com
+oizoblog.com
+.ok.ru
+||ok.ru
+.okayfreedom.com
+||okayfreedom.com
+||okk.tw
+|http://filmy.olabloga.pl/player
+old-cat.net
+||olevod.com
+||olumpo.com
+.olympicwatch.org
+||omct.org
+omgili.com
+||omnitalk.com
+||omnitalk.org
+||omny.fm
+cling.omy.sg
+forum.omy.sg
+news.omy.sg
+showbiz.omy.sg
+||on.cc
+||onedrive.live.com
+||onion.city
+||onion.ly
+.onlinecha.com
+||onlineyoutube.com
+||onlygayvideo.com
+.onlytweets.com
+|http://onlytweets.com
+onmoon.net
+onmoon.com
+.onthehunt.com
+|http://onthehunt.com
+.oopsforum.com
+open.com.hk
+openallweb.com
+opendemocracy.net
+||opendemocracy.net
+.openervpn.in
+openid.net
+||openid.net
+.openleaks.org
+||openleaks.org
+||openstreetmap.org
+||opentech.fund
+openvpn.net
+||openvpn.net
+||openwebster.com
+.openwrt.org.cn
+@@||openwrt.org.cn
+my.opera.com/dahema
+||demo.opera-mini.net
+.opus-gaming.com
+|http://opus-gaming.com
+www.orchidbbs.com
+.organcare.org.tw
+organharvestinvestigation.net
+.orgasm.com
+.orgfree.com
+||oricon.co.jp
+||orient-doll.com
+orientaldaily.com.my
+||orientaldaily.com.my
+!--orientaldaily.on.cc
+||orn.jp
+t.orzdream.com
+||t.orzdream.com
+tui.orzdream.com
+||orzistic.org
+||osfoora.com
+.otnd.org
+||otnd.org
+||otto.de
+||ourdearamy.com
+oursogo.com
+.oursteps.com.au
+||oursteps.com.au
+.oursweb.net
+||ourtv.hk
+xinqimeng.over-blog.com
+||overcast.fm
+||overdaily.org
+||overplay.net
+share.ovi.com/media
+||ovpn.com
+|http://owl.li
+|http://ht.ly
+|http://htl.li
+|http://mash.to
+www.owind.com
+||owltail.com
+||oxfordscholarship.com
+|http://www.oxid.it
+oyax.com
+oyghan.com/wps
+.ozchinese.com/bbs
+||ow.ly
+bbs.ozchinese.com
+.ozvoice.org
+||ozvoice.org
+.ozxw.com
+.ozyoyo.com
+
+!--------------------PP-------------------------
+||pachosting.com
+.pacificpoker.com
+.packetix.net
+||pacopacomama.com
+.padmanet.com
+||page.link
+page2rss.com
+||pagodabox.com
+.palacemoon.com
+forum.palmislife.com
+||eriversoft.com
+.paldengyal.com
+paljorpublications.com
+.paltalk.com
+!--||pangci.net
+||pandapow.co
+.pandapow.net
+.pandavpn-jp.com
+||pandavpn-jp.com
+||pandavpnpro.com
+.panluan.net
+||panluan.net
+||pao-pao.net
+paper.li
+paperb.us
+.paradisehill.cc
+.paradisepoker.com
+||parler.com
+||parsevideo.com
+.partycasino.com
+.partypoker.com
+.passion.com
+||passion.com
+.passiontimes.hk
+pastebin.com
+.pastie.org
+||pastie.org
+||blog.pathtosharepoint.com
+||patreon.com
+||pawoo.net
+pbs.org/wgbh/pages/frontline/tankman
+pbs.org/wgbh/pages/frontline/tibet
+video.pbs.org
+
+!--Pbwiki
+pbwiki.com
+||pbworks.com
+||developers.box.net
+||wiki.oauth.net
+||wiki.phonegap.com
+||wiki.jqueryui.com
+
+||pbxes.com
+||pbxes.org
+pcdvd.com.tw
+.pchome.com.tw
+|http://pcij.org
+.pcstore.com.tw
+||pct.org.tw
+pdetails.com
+||pdproxy.com
+||peace.ca
+peacefire.org
+peacehall.com
+||peacehall.com
+|http://pearlher.org
+.peeasian.com
+||peing.net
+.pekingduck.org
+||pekingduck.org
+.pemulihan.or.id
+|http://pemulihan.or.id
+||pen.io
+penchinese.com
+||penchinese.net
+.penchinese.net
+||blog.pentalogic.net
+.penthouse.com
+||pentoy.hk
+.peoplebookcafe.com
+.peoplenews.tw
+||peoplenews.tw
+.peopo.org
+||peopo.org
+.percy.in
+.perfectgirls.net
+||perfect-privacy.com
+||perplexity.ai
+.persecutionblog.com
+.persiankitty.com
+phapluan.org
+.phayul.com
+||phayul.com
+philborges.com
+||phncdn.com
+||photodharma.net
+||photofocus.com
+||phuquocservices.com
+||picacomiccn.com
+.picidae.net
+||img*.picturedip.com
+picturesocial.com
+||pin-cong.com
+.pin6.com
+||pin6.com
+.ping.fm
+||ping.fm
+||pinimg.com
+.pinkrod.com
+||pinoy-n.com
+||pinterest.at
+||pinterest.ca
+||pinterest.co.kr
+||pinterest.co.uk
+.pinterest.com
+||pinterest.com
+||pinterest.com.mx
+||pinterest.de
+||pinterest.dk
+||pinterest.fr
+||pinterest.jp
+||pinterest.nl
+||pinterest.se
+.pipii.tv
+.piposay.com
+piraattilahti.org
+.piring.com
+||pixeldrain.com
+||pixelqi.com
+||css.pixnet.in
+||pixnet.net
+.pixnet.net
+.pk.com
+||placemix.com
+!--.planetsuzy.org
+|http://pictures.playboy.com
+||playboy.com
+.playboyplus.com
+||playboyplus.com
+||player.fm
+.playno1.com
+||playno1.com
+||playpcesor.com
+plays.com.tw
+||plexvpn.pro
+||m.plixi.com
+plm.org.hk
+plunder.com
+.plurk.com
+||plurk.com
+.plus28.com
+.plusbb.com
+.pmatehunter.com
+||pmatehunter.com
+.pmates.com
+||po2b.com
+pobieramy.top
+!--||pocoo.org
+||podbean.com
+||podictionary.com
+||poe.com
+.pokerstars.com
+||pokerstars.com
+||pokerstars.net
+||zh.pokerstrategy.com
+||politicalchina.org
+||politicalconsultation.org
+.politiscales.net
+||poloniex.com
+||polymerhk.com
+.popo.tw
+!--||popularpages.net
+||popvote.hk
+||popxi.click
+.popyard.com
+||popyard.org
+.porn.com
+.porn2.com
+.porn5.com
+.pornbase.org
+.pornerbros.com
+||pornhd.com
+.pornhost.com
+.pornhub.com
+||pornhub.com
+.pornhubdeutsch.net
+|http://pornhubdeutsch.net
+||pornmm.net
+.pornoxo.com
+.pornrapidshare.com
+||pornrapidshare.com
+.pornsharing.com
+|http://pornsharing.com
+.pornsocket.com
+.pornstarclub.com
+||pornstarclub.com
+.porntube.com
+.porntubenews.com
+.porntvblog.com
+||porntvblog.com
+.pornvisit.com
+.portablevpn.nl
+||poskotanews.com
+.post01.com
+.post76.com
+||post76.com
+.post852.com
+||post852.com
+postadult.com
+.postimg.org
+||potvpn.com
+||pourquoi.tw
+||powercx.com
+.powerphoto.org
+||www.powerpointninja.com
+||presidentlee.tw
+||cdn.printfriendly.com
+.pritunl.com
+provpnaccounts.com
+||provpnaccounts.com
+.proxfree.com
+||proxfree.com
+proxyanonimo.es
+.proxynetwork.org.uk
+||proxynetwork.org.uk
+||pts.org.tw
+.pttvan.org
+pubu.com.tw
+puffinbrowser.com
+pureinsight.org
+.pushchinawall.com
+.putty.org
+||putty.org
+
+!-------------Posterous-----
+||calebelston.com
+||blog.fizzik.com
+||nf.id.au
+||sogrady.me
+||vatn.org
+||ventureswell.com
+||whereiswerner.com
+
+.power.com
+||power.com
+powerapple.com
+||powerapple.com
+||abc.pp.ru
+heix.pp.ru
+||prayforchina.net
+||premeforwindows7.com
+||presentationzen.com
+||prestige-av.com
+.prisoneralert.com
+||pritunl.com
+||privacybox.de
+.private.com/home
+||privateinternetaccess.com
+privatepaste.com
+||privatepaste.com
+privatetunnel.com
+||privatetunnel.com
+||privatevpn.com
+||privoxy.org
+||procopytips.com
+||project-syndicate.org
+||proton.me
+provideocoalition.com
+||prosiben.de
+proxifier.com
+||proxomitron.info
+.proxpn.com
+||proxpn.com
+.proxylist.org.uk
+||proxylist.org.uk
+.proxypy.net
+||proxypy.net
+proxyroad.com
+.proxytunnel.net
+!--403 maybe
+||proyectoclubes.com
+prozz.net
+psblog.name
+||psblog.name
+||pshvpn.com
+||psiphon.ca
+.psiphon3.com
+||psiphon3.com
+.psiphontoday.com
+||pstatic.net
+||pt.im
+.ptt.cc
+||ptt.cc
+||pttgame.com
+.puffstore.com
+.puuko.com
+||pullfolio.com
+.punyu.com/puny
+||pureconcepts.net
+||pureinsight.org
+||purepdf.com
+||purevpn.com
+.purplelotus.org
+.pursuestar.com
+||pursuestar.com
+||nitter.pussthecat.org
+.pussyspace.com
+.putihome.org
+.putlocker.com/file
+pwned.com
+||pximg.net
+python.com
+.python.com.tw
+||python.com.tw
+pythonhackers.com/p
+ss.pythonic.life
+
+!--------------------QQ-------------------------
+.qanote.com
+||qanote.com
+||qbittorrent.org
+||qgirl.com.tw
+||qianbai.tw
+||qiandao.today
+||qiangwaikan.com
+.qi-gong.me
+||qi-gong.me
+!--#921
+||qiangyou.org
+.qidian.ca
+.qienkuen.org
+||qienkuen.org
+||qiwen.lu
+qixianglu.cn
+bbs.qmzdd.com
+.qkshare.com
+qoos.com
+||qoos.com
+||efksoft.com
+||qstatus.com
+||qtweeter.com
+||qtrac.eu
+.quannengshen.org
+||quannengshen.org
+quantumbooter.net
+||quitccp.net
+.quitccp.net
+||quitccp.org
+.quitccp.org
+.quora.com/Chinas-Future
+.quran.com
+|http://quran.com
+.quranexplorer.com
+qusi8.net
+.qvodzy.org
+nemesis2.qx.net/pages/MyEnTunnel
+qxbbs.org
+
+!--------------------RR-------------------------
+||r0.ru
+||radio-canada.ca
+||rael.org
+radicalparty.org
+||radio.garden
+||radioaustralia.net.au
+.radiohilight.net
+||radiohilight.net
+||radioline.co
+opml.radiotime.com
+||radiovaticana.org
+||radiovncr.com
+||raggedbanner.com
+||raidcall.com.tw
+.raidtalk.com.tw
+.rainbowplan.org/bbs
+|https://raindrop.io/
+.raizoji.or.jp
+|http://raizoji.or.jp
+rangwang.biz
+rangzen.net
+rangzen.org
+|http://blog.ranxiang.com/
+ranyunfei.com
+||ranyunfei.com
+.rapbull.net
+!--|http://rapidgator.net/
+||rapidmoviez.com
+rapidvpn.com
+||rapidvpn.com
+||rarbgprx.org
+.raremovie.cc
+|http://raremovie.cc
+.raremovie.net
+|http://raremovie.net
+||rationalwiki.org
+||rawgit.com
+||rawgithub.com
+!--.rayfme.com/bbs
+||razyboard.com
+rcinet.ca
+.read100.com
+.readingtimes.com.tw
+||readingtimes.com.tw
+||readmoo.com
+.readydown.com
+|http://readydown.com
+.realcourage.org
+.realitykings.com
+||realitykings.com
+.realraptalk.com
+.realsexpass.com
+||reason.com
+.recordhistory.org
+.recovery.org.tw
+|http://online.recoveryversion.org
+||recoveryversion.com.tw
+||red-lang.org
+redballoonsolidarity.org
+||redbubble.com
+.redchinacn.net
+|http://redchinacn.net
+redchinacn.org
+redtube.com
+referer.us
+||referer.us
+||reflectivecode.com
+relaxbbs.com
+.relay.com.tw
+.releaseinternational.org
+||religionnews.com
+religioustolerance.org
+renminbao.com
+||renminbao.com
+.renyurenquan.org
+||renyurenquan.org
+|http://certificate.revocationcheck.com
+subacme.rerouted.org
+||resilio.com
+.reuters.com
+||reuters.com
+||reutersmedia.net
+.revleft.com
+||resistchina.org
+retweetist.com
+||retweetrank.com
+!--connectedchina.reuters.com
+!--|http://www.reuters.com/news/video
+revver.com
+.rfa.org
+||rfa.org
+.rfachina.com
+.rfamobile.org
+rfaweb.org
+||rferl.org
+.rfi.fr
+||rfi.fr
+||rfi.my
+!--.rhcloud.com
+!--Edgecast
+|http://vds.rightster.com/
+.rigpa.org
+.rileyguide.com
+||riku.me
+.ritouki.jp
+||ritter.vg
+.rlwlw.com
+||rlwlw.com
+||rmbl.ws
+.rmjdw.com
+.rmjdw132.info
+.roadshow.hk
+.roboforex.com
+||robustnessiskey.com
+!--||roc-taiwan.org
+||rocket-inc.net
+|http://www2.rocketbbs.com/11/bbs.cgi?id=5mus
+|http://www2.rocketbbs.com/11/bbs.cgi?id=freemgl
+!--||rocmp.org
+||rojo.com
+||ronjoneswriter.com
+||rolfoundation.org
+||rolia.net
+||rolsociety.org
+.roodo.com
+.rosechina.net
+.rotten.com
+||rou.video
+.rsf.org
+||rsf.org
+.rsf-chinese.org
+||rsf-chinese.org
+.rsgamen.org
+||rsshub.app
+||phosphation13.rssing.com
+.rssmeme.com
+||rssmeme.com
+||rtalabel.org
+.rthk.hk
+||rthk.hk
+.rthk.org.hk
+||rthk.org.hk
+.rti.org.tw
+||rti.org.tw
+||rti.tw
+.rtycminnesota.org
+.ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
+rukor.org
+||rule34.xxx
+||rumble.com
+.runbtx.com
+.rushbee.com
+||rusvpn.com
+.ruten.com.tw
+||ruten.com.tw
+||rutracker.net
+rutube.ru
+.ruyiseek.com
+.rxhj.net
+|http://rxhj.net
+
+!--------------------SS-------------------------
+.s1s1s1.com
+||s-cute.com
+.s-dragon.org
+||s1heng.com
+|http://www.s4miniarchive.com
+||s8forum.com
+cdn1.lp.saboom.com
+||sacks.com
+sacom.hk
+||sacom.hk
+||sadpanda.us
+||safechat.com
+||safeguarddefenders.com
+.safervpn.com
+||safervpn.com
+.saintyculture.com
+|http://saintyculture.com
+.saiq.me
+||saiq.me
+||sakuralive.com
+.sakya.org
+.salvation.org.hk
+||salvation.org.hk
+.samair.ru/proxy/type-01
+.sambhota.org
+||cn.sandscotaicentral.com
+||sankakucomplex.com
+||sankei.com
+.sanmin.com.tw
+sapikachu.net
+savemedia.com
+||savethesounds.info
+.savetibet.de
+||savetibet.de
+savetibet.fr
+savetibet.nl
+.savetibet.org
+||savetibet.org
+savetibet.ru
+.savetibetstore.org
+||savetibetstore.org
+||saveuighur.org
+savevid.com
+||say2.info
+.sbme.me
+|http://sbme.me
+.sbs.com.au/yourlanguage
+.scasino.com
+|http://www.sciencemag.org/content/344/6187/953
+.sciencenets.com
+.scmp.com
+||scmp.com
+.scmpchinese.com
+||scramble.io
+.scribd.com
+||scribd.com
+||scriptspot.com
+||search.com
+.searchtruth.com
+||searx.me
+||seattlefdc.com
+.secretchina.com
+||secretchina.com
+||secretgarden.no
+.secretsline.biz
+||secretsline.biz
+||secureservercdn.net
+||securetunnel.com
+securityinabox.org
+|https://securityinabox.org
+.securitykiss.com
+||securitykiss.com
+||seed4.me
+news.seehua.com
+seesmic.com
+||seevpn.com
+||seezone.net
+sejie.com
+.sendspace.com
+||sensortower.com
+|http://tweets.seraph.me/
+sesawe.net
+||sesawe.net
+.sesawe.org
+||sethwklein.net
+.setn.com
+.settv.com.tw
+forum.setty.com.tw
+.sevenload.com
+||sevenload.com
+.sex.com
+||sex.com
+.sex-11.com
+||sex3.com
+||sex8.cc
+.sexandsubmission.com
+.sexbot.com
+.sexhu.com
+.sexhuang.com
+sexinsex.net
+||sexinsex.net
+.sextvx.com
+
+!--IP of SexInSex
+67.220.91.15
+67.220.91.18
+67.220.91.23
+
+|http://*.sf.net
+.sfileydy.com
+||sfshibao.com
+.sftindia.org
+.sftuk.org
+||sftuk.org
+||shadeyouvpn.com
+shadow.ma
+.shadowsky.xyz
+.shadowsocks.asia
+||www.shadowsocks.com
+.shadowsocks.com
+||shadowsocks.com.hk
+.shadowsocks.org
+||shadowsocks.org
+||shadowsocks-r.com
+|http://cn.shafaqna.com
+||shahit.biz
+.shambalapost.com
+.shambhalasun.com
+.shangfang.org
+||shangfang.org
+shapeservices.com
+.sharebee.com
+||sharecool.org
+!--||sharkdolphin.com
+sharpdaily.com.hk
+||sharpdaily.com.hk
+.sharpdaily.hk
+.sharpdaily.tw
+.shat-tibet.com
+sheikyermami.com
+.shellfire.de
+||shellfire.de
+.shenshou.org
+shenyun.com
+shenyunperformingarts.org
+||shenyunperformingarts.org
+||shenyunshop.com
+shenzhoufilm.com
+||shenzhoufilm.com
+||shenzhouzhengdao.org
+||sherabgyaltsen.com
+.shiatv.net
+.shicheng.org
+shinychan.com
+shipcamouflage.com
+.shireyishunjian.com
+.shitaotv.org
+||shixiao.org
+||shizhao.org
+shizhao.org
+shkspr.mobi/dabr
+||shodanhq.com
+||shooshtime.com
+.shop2000.com.tw
+||shopee.tw
+.shopping.com
+.showhaotu.com
+.showtime.jp
+||showwe.tw
+.shutterstock.com
+||shutterstock.com
+ch.shvoong.com
+.shwchurch.org
+||shwchurch.org
+.shwchurch3.com
+|http://shwchurch3.com
+.siddharthasintent.org
+||sidelinesnews.com
+.sidelinessportseatery.com
+||signal.org
+.sijihuisuo.club
+.sijihuisuo.com
+.silkbook.com
+||simbolostwitter.com
+simplecd.org
+||simplecd.org
+@@||simplecd.me
+simpleproductivityblog.com
+bbs.sina.com/
+bbs.sina.com%2F
+blog.sina.com.tw
+dailynews.sina.com/
+dailynews.sina.com%2F
+forum.sina.com.hk
+home.sina.com
+||magazines.sina.com.tw
+news.sina.com.hk
+news.sina.com.tw
+news.sinchew.com.my
+.sinchew.com.my/node/
+.sinchew.com.my/taxonomy/term
+.singaporepools.com.sg
+||singaporepools.com.sg
+.singfortibet.com
+.singpao.com.hk
+singtao.com
+||singtao.com
+news.singtao.ca
+.singtaousa.com
+||singtaousa.com
+!--||cdp.sinica.edu.tw
+sino-monthly.com
+||sinoca.com
+||sinocast.com
+sinocism.com
+sinomontreal.ca
+.sinonet.ca
+.sinopitt.info
+.sinoants.com
+||sinoants.com
+||sinoinsider.com
+.sinoquebec.com
+.sierrafriendsoftibet.org
+sis.xxx
+||sis001.com
+sis001.us
+.site2unblock.com
+||site90.net
+.sitebro.tw
+||sitekreator.com
+||siteks.uk.to
+||sitemaps.org
+.sjrt.org
+|http://sjrt.org
+||sjum.cn
+||sketchappsources.com
+||skimtube.com
+||lab.skk.moe
+||skybet.com
+|http://users.skynet.be/reves/tibethome.html
+.skyking.com.tw
+bbs.skykiwi.com
+|http://www.skype.com/intl/
+|http://www.skype.com/zh-Hant
+||skyvegas.com
+.xskywalker.com
+||xskywalker.com
+||skyxvpn.com
+m.slandr.net
+.slaytizle.com
+.sleazydream.com
+||slheng.com
+||slideshare.net
+forum.slime.com.tw
+.slinkset.com
+||slickvpn.com
+.slutload.com
+||smartdnsproxy.com
+.smarthide.com
+||app.smartmailcloud.com
+smchbooks.com
+.smh.com.au/world/death-of-chinese-playboy-leaves-fresh-scratches-in-party-paintwork-20120903-25a8v
+smhric.org
+.smith.edu/dalailama
+.smyxy.org
+!--TODO-no-homepage
+||snapchat.com
+.snaptu.com
+||snaptu.com
+||sndcdn.com
+sneakme.net
+snowlionpub.com
+home.so-net.net.tw/yisa_tsai
+||soc.mil
+||socialblade.com
+.socks-proxy.net
+||socks-proxy.net
+.sockscap64.com
+||sockslist.net
+.socrec.org
+|http://socrec.org
+.sod.co.jp
+.softether.org
+||softether.org
+.softether-download.com
+||softether-download.com
+||cdn.softlayer.net
+||sogclub.com
+sohcradio.com
+||sohcradio.com
+.sokmil.com
+||sorting-algorithms.com
+.sostibet.org
+.soumo.info
+||soup.io
+@@||static.soup.io
+.sobees.com
+||sobees.com
+socialwhale.com
+.softether.co.jp
+||softwarebychuck.com
+blog.sogoo.org
+soh.tw
+||soh.tw
+sohfrance.org
+||sohfrance.org
+chinese.soifind.com
+sokamonline.com
+||solana.com
+.solidaritetibet.org
+.solidfiles.com
+||somee.com
+.songjianjun.com
+||songjianjun.com
+.sonicbbs.cc
+.sonidodelaesperanza.org
+.sopcast.com
+.sopcast.org
+||nakedsecurity.sophos.com
+.sorazone.net
+||sos.org
+bbs.sou-tong.org
+.soubory.com
+|http://soubory.com
+.soul-plus.net
+.soulcaliburhentai.net
+||soulcaliburhentai.net
+||soundcloud.com
+!--|https://soundcloud.com/punkgod
+.soundofhope.kr
+soundofhope.org
+||soundofhope.org
+||soupofmedia.com
+!--.sourceforge.net
+!-|http://sourceforge.net
+|http://sourceforge.net/p*/shadowsocksgui/
+.sourcewadio.com
+||south-plus.org
+southnews.com.tw
+sowers.org.hk
+||wlx.sowiki.net
+||spankbang.com
+.spankingtube.com
+.spankwire.com
+||spb.com
+||speakerdeck.com
+||speedify.com
+spem.at
+||spencertipping.com
+||spendee.com
+||spicevpn.com
+.spideroak.com
+||spideroak.com
+.spike.com
+.spotflux.com
+||spotflux.com
+.spring4u.info
+||spring4u.info
+||springwood.me
+||sproutcore.com
+||sproxy.info
+||squirrelvpn.com
+||srocket.us
+.ss-link.com
+||ss-link.com
+.ssglobal.co/wp
+|http://ssglobal.co
+.ssglobal.me
+||ssh91.com
+.sspro.ml
+|http://sspro.ml
+.ssrshare.com
+||ssrshare.com
+||sss.camp
+!--|http://cdn.sstatic.net/
+||sstm.moe
+||sstmlt.moe
+sstmlt.net
+||sstmlt.net
+|http://stackoverflow.com/users/895245
+.stage64.hk
+||stage64.hk
+||standupfortibet.org
+||standwithhk.org
+stanford.edu/group/falun
+usinfo.state.gov
+||statueofdemocracy.org
+.starfishfx.com
+.starp2p.com
+||starp2p.com
+.startpage.com
+||startpage.com
+.startuplivingchina.com
+|http://startuplivingchina.com
+||static-economist.com
+||stboy.net
+||stc.com.sa
+||steel-storm.com
+.steganos.com
+||steganos.com
+.steganos.net
+.stepchina.com
+!--||stepmania.com
+ny.stgloballink.com
+hd.stheadline.com/news/realtime
+sthoo.com
+||sthoo.com
+.stickam.com
+stickeraction.com/sesawe
+.stileproject.com
+.sto.cc
+.stoporganharvesting.org
+||storagenewsletter.com
+.storm.mg
+||storm.mg
+.stoptibetcrisis.net
+||stoptibetcrisis.net
+||storify.com
+||storj.io
+.stormmediagroup.com
+||stoweboyd.com
+||straitstimes.com
+stranabg.com
+||straplessdildo.com
+||streamable.com
+||streamate.com
+||streamingthe.net
+streema.com/tv/NTDTV_Chinese
+cn.streetvoice.com/article
+cn.streetvoice.com/diary
+cn2.streetvoice.com
+tw.streetvoice.com
+.strikingly.com
+||strongvpn.com
+.strongwindpress.com
+.student.tw/db
+||studentsforafreetibet.org
+||stumbleupon.com
+stupidvideos.com
+||substack.com
+.successfn.com
+panamapapers.sueddeutsche.de
+.sugarsync.com
+||sugarsync.com
+.sugobbs.com
+||sugumiru18.com
+||suissl.com
+summify.com
+.sumrando.com
+||sumrando.com
+sun1911.com
+||sundayguardianlive.com
+.sunporno.com
+||sunmedia.ca
+||sunporno.com
+.sunskyforum.com
+.sunta.com.tw
+.sunvpn.net
+.suoluo.org
+.superfreevpn.com
+.supervpn.net
+||supervpn.net
+.superzooi.com
+|http://superzooi.com
+.suppig.net
+.suprememastertv.com
+|http://suprememastertv.com
+.surfeasy.com
+||surfeasy.com
+.surfeasy.com.au
+|http://surfeasy.com.au
+||surfshark.com
+||surrenderat20.net
+.svsfx.com
+.swissinfo.ch
+||swissinfo.ch
+.swissvpn.net
+||swissvpn.net
+switchvpn.net
+||switchvpn.net
+.sydneytoday.com
+||sydneytoday.com
+.sylfoundation.org
+||sylfoundation.org
+||syncback.com
+sysresccd.org
+.sytes.net
+blog.syx86.com/2009/09/puff
+blog.syx86.cn/2009/09/puff
+.szbbs.net
+.szetowah.org.hk
+
+!--------------------TT-------------------------
+||t-g.com
+.t35.com
+.t66y.com
+||t66y.com
+||esg.t91y.com
+.taa-usa.org
+|http://taa-usa.org
+.taaze.tw
+||taaze.tw
+|http://www.tablesgenerator.com/
+tabtter.jp
+.tacem.org
+.taconet.com.tw
+||taedp.org.tw
+.tafm.org
+.tagwa.org.au
+tagwalk.com
+||tagwalk.com
+tahr.org.tw
+.taipeisociety.org
+||taipeisociety.org
+||taipeitimes.com
+||taisounds.com
+.taiwanbible.com
+.taiwancon.com
+.taiwandaily.net
+||taiwandaily.net
+.taiwandc.org
+!--||taiwanembassy.org
+||taiwanhot.net
+.taiwanjustice.com
+taiwankiss.com
+taiwannation.com
+taiwannation.com.tw
+||taiwanncf.org.tw
+||taiwannews.com.tw
+|http://www.taiwanonline.cc/
+!--||taiwantoday.tw
+taiwantp.net
+||taiwantt.org.tw
+taiwanus.net
+taiwanyes.com
+taiwan-sex.com
+.talk853.com
+.talkboxapp.com
+||talkboxapp.com
+.talkcc.com
+||talkcc.com
+.talkonly.net
+||talkonly.net
+||tamiaode.tk
+||tanc.org
+tangben.com
+.tangren.us
+.taoism.net
+|http://taoism.net
+.taolun.info
+||taolun.info
+.tapatalk.com
+||tapatalk.com
+blog.taragana.com
+.tascn.com.au
+||taup.net
+|http://www.taup.org.tw
+.taweet.com
+||taweet.com
+.tbcollege.org
+||tbcollege.org
+.tbi.org.hk
+.tbicn.org
+.tbjyt.org
+||tbpic.info
+.tbrc.org
+tbs-rainbow.org
+.tbsec.org
+||tbsec.org
+tbskkinabalu.page.tl
+.tbsmalaysia.org
+.tbsn.org
+||tbsn.org
+.tbsseattle.org
+.tbssqh.org
+|http://tbssqh.org
+tbswd.org
+.tbtemple.org.uk
+.tbthouston.org
+.tccwonline.org
+.tcewf.org
+tchrd.org
+tcnynj.org
+||tcpspeed.co
+.tcpspeed.com
+||tcpspeed.com
+.tcsofbc.org
+.tcsovi.org
+.tdm.com.mo
+teamamericany.com
+||techspot.com
+!--OVH
+||techviz.net
+||teck.in
+.teeniefuck.net
+teensinasia.com
+||tehrantimes.com
+.telecomspace.com
+||telegraph.co.uk
+.tenacy.com
+||tenor.com
+||tenzinpalmo.com
+.tew.org
+||tew.org
+||tfiflve.com
+.thaicn.com
+||theatlantic.com
+||theatrum-belli.com
+||cn.theaustralian.com.au
+theblemish.com
+||thebcomplex.com
+||theblaze.com
+.thebobs.com
+||thebobs.com
+.thechinabeat.org
+||thechinacollection.org
+|http://www.thechinastory.org/yearbooks/yearbook-2012/
+||theconversation.com
+.thedalailamamovie.com
+|http://thedalailamamovie.com
+||thediplomat.com
+||thedw.us
+||theepochtimes.com
+!--||thefreeland.club
+thefrontier.hk/tf
+||theguardian.com
+||thegay.com
+|http://thegioitinhoc.vn/
+.thegly.com
+.thehots.info
+thehousenews.com
+||thehun.net
+.theinitium.com
+||theinitium.com
+||themoviedb.org
+.thenewslens.com
+||thenewslens.com
+.thepiratebay.org
+||thepiratebay.org
+!--||thepiratebay.se
+.theporndude.com
+||theporndude.com
+||theportalwiki.com
+||theprint.in
+||threadreaderapp.com
+thereallove.kr
+therock.net.nz
+||thesaturdaypaper.com.au
+||thestandnews.com
+thetibetcenter.org
+thetibetconnection.org
+.thetibetmuseum.org
+.thetibetpost.com
+||thetibetpost.com
+!--Tor
+||thetinhat.com
+thetrotskymovie.com
+||thetvdb.com
+thevivekspot.com
+||thewgo.org
+.theync.com
+|http://theync.com
+.thinkingtaiwan.com
+||thinkingtaiwan.com
+.thisav.com
+|http://thisav.com
+.thlib.org
+||thomasbernhard.org
+.thongdreams.com
+threatchaos.com
+||throughnightsfire.com
+.thumbzilla.com
+||thywords.com
+.thywords.com.tw
+tiananmenmother.org
+.tiananmenduizhi.com
+||tiananmenduizhi.com
+||tiananmenuniv.com
+||tiananmenuniv.net
+||tiandixing.org
+.tianhuayuan.com
+.tianlawoffice.com
+||tianti.io
+tiantibooks.org
+||tiantibooks.org
+tianyantong.org.cn
+.tianzhu.org
+.tibet.at
+tibet.ca
+.tibet.com
+||tibet.com
+tibet.fr
+.tibet.net
+||tibet.net
+||tibet.nu
+.tibet.org
+||tibet.org
+.tibet.sk
+||tibet.org.tw
+||tibet.to
+.tibet-envoy.eu
+||tibet-envoy.eu
+.tibet-foundation.org
+.tibet-house-trust.co.uk
+||tibet-initiative.de
+.tibet-munich.de
+.tibet3rdpole.org
+|http://tibet3rdpole.org
+tibetaction.net
+||tibetaction.net
+.tibetaid.org
+tibetalk.com
+.tibetan.fr
+tibetan-alliance.org
+.tibetanarts.org
+.tibetanbuddhistinstitute.org
+||tibetanbuddhistinstitute.org
+||tibetancommunity.org
+||tibetanentrepreneurs.org
+||tibetanhealth.org
+.tibetanjournal.com
+.tibetanlanguage.org
+.tibetanliberation.org
+||tibetanliberation.org
+.tibetcollection.com
+.tibetanaidproject.org
+.tibetancommunityuk.net
+|http://tibetancommunityuk.net
+tibetanculture.org
+tibetanfeministcollective.org
+.tibetanpaintings.com
+.tibetanphotoproject.com
+.tibetanpoliticalreview.org
+.tibetanreview.net
+|http://tibetansports.org
+.tibetanwomen.org
+|http://tibetanwomen.org
+.tibetanyouth.org
+.tibetanyouthcongress.org
+||tibetanyouthcongress.org
+.tibetcharity.dk
+tibetcharity.in
+.tibetchild.org
+.tibetcity.com
+||tibetcorps.org
+||tibetexpress.net
+||tibetfocus.com
+||tibetfund.org
+.tibetgermany.com
+||tibetgermany.de
+.tibethaus.com
+.tibetheritagefund.org
+||tibethouse.jp
+||tibethouse.org
+||tibethouse.us
+.tibetinfonet.net
+.tibetjustice.org
+.tibetkomite.dk
+||tibetmuseum.org
+||tibetnetwork.org
+||tibetoffice.ch
+tibetoffice.eu
+||tibetoffice.org
+||tibetonline.com
+||tibetoffice.com.au
+||tibetonline.tv
+||tibetoralhistory.org
+||tibetpolicy.eu
+||tibetrelieffund.co.uk
+||tibetsites.com
+||tibetsociety.com
+||tibetsun.com
+||tibetsupportgroup.org
+||tibetswiss.ch
+||tibettelegraph.com
+||tibettimes.net
+||tibettruth.com
+||tibetwrites.org
+.ticket.com.tw
+.tigervpn.com
+||tigervpn.com
+||tiktokv.com
+.timdir.com
+|http://timdir.com
+.time.com
+|http://time.com
+!--.time.com/time/time100/leaders/profile/rebel
+!--.time.com/time/specials/packages/article/0,28804
+!--.time.com/time/magazine
+||timesnownews.com
+.timsah.com
+||timtales.com
+||blog.tiney.com
+tintuc101.com
+.tiny.cc
+|http://tiny.cc
+tinychat.com
+||tinypaste.com
+||tipas.net
+.tistory.com
+||tkcs-collins.com
+.tmagazine.com
+||tmagazine.com
+.tmdfish.com
+|http://tmi.me
+.tmpp.org
+|http://tmpp.org
+.tnaflix.com
+||tnaflix.com
+.tngrnow.com
+.tngrnow.net
+.tnp.org
+|http://tnp.org
+.to-porno.com
+||to-porno.com
+togetter.com
+.tokyo-247.com
+.tokyo-hot.com
+||tokyo-porn-tube.com
+||tokyocn.com
+tw.tomonews.net
+.tongil.or.kr
+.tono-oka.jp
+tonyyan.net
+.toodoc.com
+toonel.net
+top81.ws
+.topnews.in
+.toppornsites.com
+|http://toppornsites.com
+.torguard.net
+||torguard.net
+||top.tv
+.topshareware.com
+.topsy.com
+||topsy.com
+||toptip.ca
+tora.to
+.torcn.com
+||torlock.com
+.torproject.org
+||torproject.org
+||torrentkitty.tv
+torrentprivacy.com
+||torrentprivacy.com
+|http://torrentproject.se
+||torrenty.org
+||torrentz.eu
+||tortoisesvn.net
+||torvpn.com
+||totalvpn.com
+.toutiaoabc.com
+towngain.com
+toypark.in
+toytractorshow.com
+.tparents.org
+.tpi.org.tw
+||tpi.org.tw
+||tradingview.com
+||transparency.org
+||treemall.com.tw
+trendsmap.com
+||trendsmap.com
+.trialofccp.org
+||trialofccp.org
+.trimondi.de/SDLE
+.trouw.nl
+||trouw.nl
+.trt.net.tr
+||trt.net.tr
+trtc.com.tw
+.truebuddha-md.org
+||truebuddha-md.org
+trulyergonomic.com
+.truth101.co.tv
+||truth101.co.tv
+.truthontour.org
+||truthontour.org
+||truthsocial.com
+.truveo.com
+.tsctv.net
+.tsemtulku.com
+tsquare.tv
+.tsu.org.tw
+tsunagarumon.com
+!--|http://www.tsuru-bird.net/
+.tsctv.net
+||tt1069.com
+.tttan.com
+||tttan.com
+||ttv.com.tw
+tu8964.com
+.tubaholic.com
+.tube.com
+tube8.com
+||tube8.com
+.tube911.com
+||tube911.com
+.tubecup.com
+.tubegals.com
+.tubeislam.com
+|http://tubeislam.com
+.tubestack.com
+||tubewolf.com
+.tuibeitu.net
+tuidang.net
+.tuidang.org
+||tuidang.org
+.tuidang.se
+bbs.tuitui.info
+.tumutanzi.com
+|http://tumutanzi.com
+||tumview.com
+.tunein.com
+|http://tunein.com
+||tunnelbear.com
+||tunnelblick.net
+.tunnelr.com
+||tunnelr.com
+||tunsafe.com
+tuitwit.com
+.turansam.org
+.turbobit.net
+||turbobit.net
+.turbohide.com
+||turbohide.com
+||turkistantimes.com
+.tushycash.com
+|http://tushycash.com
+||app.tutanota.com
+.tuvpn.com
+||tuvpn.com
+|http://tuzaijidi.com
+|http://*.tuzaijidi.com
+.tw01.org
+|http://tw01.org
+
+!---Tumblr---
+.tumblr.com
+||tumblr.com
+!--@@||assets.tumblr.com
+!--@@||data.tumblr.com
+!--@@||media.tumblr.com
+!--@@||static.tumblr.com
+!--@@||www.tumblr.com
+||lecloud.net
+|http://cosmic.monar.ch
+||slutmoonbeam.com
+|http://blog.soylent.com
+
+.tv.com
+|http://tv.com
+tvants.com
+forum.tvb.com
+news.tvb.com/list/world
+news.tvb.com/local
+news.tvbs.com.tw
+.tvboxnow.com
+|http://tvboxnow.com/
+tvider.com
+.tvmost.com.hk
+.tvplayvideos.com
+||tvunetworks.com
+.tw-blog.com
+|https://tw-blog.com
+.tw-npo.org
+.twaitter.com
+twapperkeeper.com
+||twapperkeeper.com
+||twaud.io
+.twaud.io
+.twavi.com
+.twbbs.net.tw
+twbbs.org
+twbbs.tw
+||twblogger.com
+tweepmag.com
+.tweepml.org
+||tweepml.org
+.tweetbackup.com
+||tweetbackup.com
+tweetboard.com
+||tweetboard.com
+.tweetboner.biz
+||tweetboner.biz
+.tweetcs.com
+|http://tweetcs.com
+|http://deck.ly
+!-- Operation discontinued
+!--||tweete.net
+!--m.tweete.net
+||mtw.tl
+||tweetedtimes.com
+!-- Operation discontinued
+!--tweetmeme.com
+||tweetmylast.fm
+tweetphoto.com
+||tweetphoto.com
+||tweetrans.com
+tweetree.com
+||tweetree.com
+.tweettunnel.com
+||tweettunnel.com
+||tweetwally.com
+tweetymail.com
+||twelve.today
+.tweez.net
+|http://tweez.net
+||twftp.org
+||twgreatdaily.com
+twibase.com
+.twibble.de
+||twibble.de
+twibbon.com
+||twibs.com
+.twicountry.org
+|http://twicountry.org
+twicsy.com
+.twiends.com
+|http://twiends.com
+.twifan.com
+|http://twifan.com
+twiffo.com
+||twiffo.com
+.twilightsex.com
+twilog.org
+twimbow.com
+||twindexx.com
+twipple.jp
+||twipple.jp
+||twip.me
+twishort.com
+||twishort.com
+twistar.cc
+||twister.net.co
+||twisterio.com
+twisternow.com
+twistory.net
+twitbrowser.net
+||twitcause.com
+||twitgether.com
+||twiggit.org
+twitgoo.com
+twitiq.com
+||twitiq.com
+.twitlonger.com
+||twitlonger.com
+|http://tl.gd/
+twitmania.com
+twitoaster.com
+||twitoaster.com
+||twitonmsn.com
+!--Same IP
+.twit2d.com
+||twit2d.com
+.twitstat.com
+||twitstat.com
+||firstfivefollowers.com
+||retweeteffect.com
+||tweeplike.me
+||tweepguide.com
+||turbotwitter.com
+.twitvid.com
+||twitvid.com
+|http://twt.tl
+twittbot.net
+||ads-twitter.com
+||twttr.com
+||twitter4j.org
+.twittercounter.com
+||twittercounter.com
+twitterfeed.com
+.twittergadget.com
+||twittergadget.com
+.twitterkr.com
+||twitterkr.com
+||twittermail.com
+||twitterrific.com
+twittertim.es
+||twittertim.es
+twitthat.com
+||twitturk.com
+.twitturly.com
+||twitturly.com
+.twitzap.com
+twiyia.com
+||twstar.net
+.twtkr.com
+|http://twtkr.com
+.twnorth.org.tw
+||twreporter.org
+twskype.com
+twtrland.com
+twurl.nl
+.twyac.org
+||twyac.org
+.txxx.com
+.tycool.com
+||tycool.com
+
+!--typepad
+||typepad.com
+@@||www.typepad.com
+@@||static.typepad.com
+||blog.expofutures.com
+||legaltech.law.com
+||blogs.tampabay.com
+||contests.twilio.com
+!-lawprofessors.typepad.com/china_law_prof
+||typora.io
+
+!--------------------UU-------------------------
+.u9un.com
+||u9un.com
+.ubddns.org
+|http://ubddns.org
+||uberproxy.net
+.uc-japan.org
+||uc-japan.org
+.srcf.ucam.org/salon/
+|http://china.ucanews.com/
+||ucdc1998.org
+|http://hum*.uchicago.edu/faculty/ywang/history
+||uderzo.it
+.udn.com
+||udn.com
+||udn.com.tw
+udnbkk.com/bbs
+||uforadio.com.tw
+ufreevpn.com
+.ugo.com
+!--ghs
+||uhdwallpapers.org
+||uhrp.org
+.uighur.nl
+||uighur.nl
+uighurbiz.net
+.ulike.net
+ukcdp.co.uk
+ukliferadio.co.uk
+||ukliferadio.co.uk
+ultravpn.fr
+||ultravpn.fr
+ultraxs.com
+umich.edu/~falun
+||unblock.cn.com
+.unblocker.yt
+unblock-us.com
+||unblock-us.com
+.unblockdmm.com
+|http://unblockdmm.com
+||unblocksit.es
+uncyclomedia.org
+.uncyclopedia.hk/wiki
+|http://uncyclopedia.hk
+!--uncyclopedia.info
+|http://uncyclopedia.tw
+underwoodammo.com
+||underwoodammo.com
+||unholyknight.com
+.uni.cc
+||cldr.unicode.org
+.unification.net
+.unification.org.tw
+||unirule.cloud
+.unitedsocialpress.com
+.unix100.com
+||unknownspace.org
+.unodedos.com
+unpo.org
+||unstable.icu
+.untraceable.us
+|http://untraceable.us
+||uocn.org
+tor.updatestar.com
+||upghsbc.com
+.upholdjustice.org
+.upload4u.info
+uploaded.net/file
+|http://uploaded.net/file
+|http://uploaded.to/file
+.uploadstation.com/file
+.upmedia.mg
+||upmedia.mg
+.upornia.com
+|http://upornia.com
+||uproxy.org
+||uptodown.com
+.upwill.org
+ur7s.com
+||urbandictionary.com
+||urbansurvival.com
+myshare.url.com.tw/
+||urlborg.com
+||urlparser.com
+us.to
+||usacn.com
+.usaip.eu
+||usaip.eu
+||uscnpm.org
+||uscardforum.com
+||usma.edu
+.usocctn.com
+||ustibetcommittee.org
+.ustream.tv
+||ustream.tv
+usus.cc
+.utopianpal.com
+||utopianpal.com
+.uu-gg.com
+.uvwxyz.xyz
+||uvwxyz.xyz
+.uwants.com
+||uwants.com
+.uwants.net
+uyghur.co.uk
+|http://uyghur-j.org
+||uyghuraa.org
+||uyghuramerican.org
+||uyghurbiz.org
+||uyghurcanadian.ca
+||uyghurcongress.org
+||uyghurpen.org
+||uyghurpress.com
+||uyghurstudies.org
+||uyghurtribunal.com
+uygur.org
+|http://uymaarip.com/
+
+!--------------------VV-------------------------
+||v2fly.org
+.v2ray.com
+||v2ray.com
+||v2raycn.com
+||v2raytech.com
+||valeursactuelles.com
+.van001.com
+.van698.com
+.vanemu.cn
+.vanilla-jp.com
+.vanpeople.com
+vansky.com
+||vaticannews.va
+||vcf-online.org
+||vcfbuilder.org
+.vegasred.com
+.velkaepocha.sk
+.venbbs.com
+.venchina.com
+.venetianmacao.com
+||venetianmacao.com
+veoh.com
+||vercel.app
+mysite.verizon.net
+vermonttibet.org
+.versavpn.com
+||versavpn.com
+||verybs.com
+.vft.com.tw
+.viber.com
+||viber.com
+.vica.info
+.victimsofcommunism.org
+||victimsofcommunism.org
+||vid.me
+||vidble.com
+videobam.com
+||videobam.com
+.videodetective.com
+.videomega.tv
+||videomega.tv
+.videomo.com
+videopediaworld.com
+.videopress.com
+.vidinfo.org/video
+vietdaikynguyen.com
+.vijayatemple.org
+||vilavpn.com
+vimeo.com
+||vimeo.com
+||vimperator.org
+||vincnd.com
+||vinniev.com
+|http://www.lib.virginia.edu/area-studies/Tibet/tibet.html
+.virtualrealporn.com
+||virtualrealporn.com
+visibletweets.com
+|http://ny.visiontimes.com
+.vital247.org
+||viu.com
+.vivahentai4u.net
+||vivaldi.com
+.vivatube.com
+.vivthomas.com
+||vivthomas.com
+.vjav.com
+||vjav.com
+.vjmedia.com.hk
+.vllcs.org
+|http://vllcs.org
+||vmixcore.com
+||vnet.link
+.vocativ.com
+vocn.tv
+||vocus.cc
+||voicettank.org
+.vot.org
+||vot.org
+.vovo2000.com
+|http://vovo2000.com
+.voxer.com
+||voxer.com
+.voy.com
+||vpn.ac
+.vpn4all.com
+||vpn4all.com
+.vpnaccount.org
+|http://vpnaccount.org
+.vpnaccounts.com
+||vpnaccounts.com
+.vpncomparison.org
+.vpncup.com
+||vpncup.com
+vpnbook.com
+.vpncoupons.com
+|http://vpncoupons.com
+.vpndada.com
+||vpndada.com
+.vpnfan.com
+vpnfire.com
+.vpnfires.biz
+.vpnforgame.net
+||vpnforgame.net
+||vpngate.jp
+.vpngate.net
+||vpngate.net
+.vpngratis.net
+vpnhq.com
+||vpnhub.com
+.vpnmaster.com
+||vpnmaster.com
+.vpnmentor.com
+||vpnmentor.com
+.vpninja.net
+||vpninja.net
+.vpnintouch.com
+||vpnintouch.net
+vpnjack.com
+||vpnjack.com
+.vpnpick.com
+||vpnpick.com
+||vpnpop.com
+||vpnpronet.com
+.vpnreactor.com
+||vpnreactor.com
+||vpnreviewz.com
+.vpnsecure.me
+||vpnsecure.me
+.vpnshazam.com
+||vpnshazam.com
+.vpnshieldapp.com
+||vpnshieldapp.com
+.vpnsp.com
+.vpntraffic.com
+.vpntunnel.com
+||vpntunnel.com
+.vpnuk.info
+||vpnuk.info
+||vpnunlimitedapp.com
+.vpnvip.com
+||vpnvip.com
+.vpnworldwide.com
+.vporn.com
+||vporn.com
+.vpser.net
+@@||vpser.net
+vraiesagesse.net
+.vrmtr.com
+||vtunnel.com
+||vuku.cc
+
+!--------------------WW-------------------------
+lists.w3.org/archives/public
+||w3schools.com
+||waffle1999.com
+.wahas.com
+.waigaobu.com
+waikeung.org/php_wind
+.wailaike.net
+||wainao.me
+.waiwaier.com
+|http://waiwaier.com
+||wallmama.com
+wallornot.org
+||wallpapercasa.com
+.wallproxy.com
+@@||wallproxy.com.cn
+||wallsttv.com
+||waltermartin.com
+||waltermartin.org
+||www.wan-press.org
+||wanderinghorse.net
+||wangafu.net
+||wangjinbo.org
+.wangjinbo.org
+wanglixiong.com
+.wango.org
+||wango.org
+wangruoshui.net
+www.wangruowang.org
+||want-daily.com
+wapedia.mobi/zhsimp
+||warroom.org
+||waselpro.com
+.watchinese.com
+||watchout.tw
+.wattpad.com
+||wattpad.com
+.makzhou.warehouse333.com
+washeng.net
+.watch8x.com
+||watchmygf.net
+||wav.tv
+||wd.bible
+.wdf5.com
+||wealth.com.tw
+.wearehairy.com
+.wearn.com
+||wearn.com
+|http://hkcoc.weather.com.hk
+||hudatoriq.web.id
+||web2project.net
+webbang.net
+.webevader.org
+.webfreer.com
+weblagu.com
+.webjb.org
+.webrush.net
+webs-tv.net
+.websitepulse.com/help/testtools.china-test
+|http://www.websnapr.com
+.webwarper.net
+|http://webwarper.net
+webworkerdaily.com
+||wechatlawsuit.com
+.weekmag.info
+||wefightcensorship.org
+.wefong.com
+weiboleak.com
+.weihuo.org
+||weijingsheng.org
+.weiming.info
+||weiming.info
+weiquanwang.org
+|http://weisuo.ws
+.welovecock.com
+||welt.de
+.wemigrate.org
+|http://wemigrate.org
+wengewang.com
+||wengewang.org
+.wenhui.ch
+|http://trans.wenweipo.com/gb/
+.wenxuecity.com
+||wenxuecity.com
+.wenyunchao.com
+||wenyunchao.com
+.westca.com
+||westca.com
+||westernwolves.com
+.westkit.net
+||westpoint.edu
+.westernshugdensociety.org
+wetpussygames.com
+.wetplace.com
+wexiaobo.org
+||wexiaobo.org
+wezhiyong.org
+||wezone.net
+.wforum.com
+||wforum.com/
+.whatblocked.com
+||whatblocked.com
+.wheatseeds.org
+||wheelockslatin.com
+.whippedass.com
+!--|http://who.is/
+.whoer.net
+||whoer.net
+whotalking.com
+whylover.com
+||whyx.org
+||wikileaks.ch
+||wikileaks.com
+||wikileaks.de
+||wikileaks.eu
+||wikileaks.lu
+.wikileaks.org
+||wikileaks.org
+||wikileaks.pl
+.wikileaks-forum.com
+wildammo.com
+.williamhill.com
+||collateralmurder.com
+||collateralmurder.org
+wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
+||wikimapia.org
+.wikiwand.com
+||wikiwand.com
+||wikiwiki.jp
+||casino.williamhill.com
+||sports.williamhill.com
+||vegas.williamhill.com
+||willw.net
+||windowsphoneme.com
+.windscribe.com
+||windscribe.com
+||community.windy.com
+||wingy.site
+.winning11.com
+winwhispers.info
+||wionews.com
+||wiredbytes.com
+||wiredpen.com
+||wireguard.com
+!--||wireshark.org
+.wisdompubs.org
+.wisevid.com
+||wisevid.com
+||whispersystems.org
+.witnessleeteaching.com
+.witopia.net
+.wjbk.org
+||wjbk.org
+||wmflabs.org
+||wn.com
+.wnacg.com
+.wnacg.org
+.wo.tc
+||woeser.com
+.wokar.org
+||wokar.org
+wolfax.com
+||wolfax.com
+||wombo.ai
+||woolyss.com
+woopie.jp
+||woopie.jp
+woopie.tv
+||woopie.tv
+||workatruna.com
+.workerdemo.org.hk
+.workerempowerment.org
+||workers.dev
+||workersthebig.net
+.worldcat.org
+worldjournal.com
+.worldvpn.net
+||worldvpn.net
+
+||videopress.com
+.wordpress.com
+|http://*.wordpress.com
+||chenshan20042005.wordpress.com
+||chinaview.wordpress.com
+||cnbbnews.wordpress.com
+||freedominfonetweb.wordpress.com
+||hka8964.wordpress.com
+||hkanews.wordpress.com
+||hqsbnet.wordpress.com
+||hqsbonline.wordpress.com
+||investigating.wordpress.com
+||jobnewera.wordpress.com
+||matthewdgreen.wordpress.com
+||minghuiyw.wordpress.com
+||wo3ttt.wordpress.com
+||sujiatun.wordpress.com
+||xijie.wordpress.com
+||wp.com
+
+!-||wormsculptor.com
+.wow.com
+.wow-life.net
+||wowlegacy.ml
+||wowporn.com
+||wowgirls.com
+.wowrk.com
+woxinghuiguo.com
+.woyaolian.org
+|http://woyaolian.org
+.wpoforum.com
+||wpoforum.com
+.wqyd.org
+||wqyd.org
+wrchina.org
+wretch.cc
+||writesonic.com
+.wsj.com
+||wsj.com
+.wsj.net
+||wsj.net
+.wsjhk.com
+.wtbn.org
+.wtfpeople.com
+wuerkaixi.com
+||wufafangwen.com
+||wufi.org.tw
+||wuguoguang.com
+wujie.net
+wujieliulan.com
+||wujieliulan.com
+wukangrui.net
+||wuw.red
+||wuyanblog.com
+.wwitv.com
+||wwitv.com
+wzyboy.im/post/160
+
+!--------------------XX-------------------------
+||x.co
+.x-berry.com
+||x-berry.com
+||x-art.com
+||x-wall.org
+x1949x.com
+x365x.com
+xanga.com
+||xbabe.com
+.xbookcn.com
+||xbookcn.com
+||xcafe.in
+||xcity.jp
+.xcritic.com
+|http://cdn*.xda-developers.com
+.xerotica.com
+destiny.xfiles.to/ubbthreads
+.xfm.pp.ru
+.xgmyd.com
+||xgmyd.com
+xhamster.com
+||xhamster.com
+.xianba.net
+.xianchawang.net
+.xianjian.tw
+|http://xianjian.tw
+.xianqiao.net
+.xiaobaiwu.com
+.xiaochuncnjp.com
+.xiaod.in
+.xiaohexie.com
+||xiaolan.me
+||xiaoma.org
+||xiaohexie.com
+||xiaxiaoqiang.net
+xiezhua.com
+.xihua.es
+forum.xinbao.de/forum
+.xing.com
+|http://xing.com
+||xinjiangpolicefiles.org
+.xinmiao.com.hk
+||xinmiao.com.hk
+xinsheng.net
+xinshijue.com
+xinhuanet.org
+|http://xinyubbs.net
+.xiongpian.com
+.xiuren.org
+||xixicui.icu
+xizang-zhiye.org
+xjp.cc
+||xjp.cc
+||xjtravelguide.com
+xlfmtalk.com
+||xlfmwz.info
+||xml-training-guide.com
+xmovies.com
+||xnxx.com
+!--||xnxx-cdn.com
+xpdo.net
+||xpud.org
+.xrentdvd.com
+.xskywalker.net
+||xtube.com
+blog.xuite.net
+vlog.xuite.net
+xuzhiyong.net
+||xuchao.org
+xuchao.net
+||xuchao.net
+xvideo.cc
+.xvideos.com
+||xvideos.com
+||xvideos-cdn.com
+||xvideos.es
+||xvbelink.com
+||xvinlink.com
+.xkiwi.tk/
+||xsden.info
+.xxbbx.com
+.xxlmovies.com
+||xxx.com
+.xxx.xxx
+|http://xxx.xxx
+.xxxfuckmom.com
+||xxxx.com.au
+.xxxymovies.com
+|http://xxxymovies.com
+xys.org
+xysblogs.org
+xyy69.com
+xyy69.info
+
+!--------------------YY-------------------------
+||y2mate.com
+||yadi.sk
+||yakbutterblues.com
+||yam.com
+||yam.org.tw
+||yande.re
+||disk.yandex.com
+||disk.yandex.ru
+.yanghengjun.com
+yangjianli.com
+.yasni.co.uk
+||yasni.co.uk
+!--||yasukuni.or.jp
+.yayabay.com/forum
+||news.ycombinator.com
+.ydy.com
+.yeahteentube.com
+||yeahteentube.com
+||yecl.net
+||yeelou.com
+||yeeyi.com
+yegle.net
+||yegle.net
+.yes.xxx
+||yes123.com.tw
+||yesasia.com
+||yesasia.com.hk
+.yes-news.com
+|http://yes-news.com
+.yespornplease.com
+||yespornplease.com
+|http://yeyeclub.com
+!--yfrog.com
+||yhcw.net
+.yibada.com
+.yibaochina.com
+.yidio.com
+||yidio.com
+||yigeni.com
+yilubbs.com
+||s.yimg.com
+||xa.yimg.com
+.yingsuoss.com
+.yipub.com
+||yipub.com
+yinlei.org/mt
+.yizhihongxing.com
+||yizhihongxing.com
+.yobt.com
+.yobt.tv
+||yobt.tv
+.yogichen.org
+||yogichen.org
+.yolasite.com
+.yomiuri.co.jp
+yong.hu
+.yorkbbs.ca
+||you.com
+||youxu.info
+.youjizz.com
+||youjizz.com
+.youmaker.com
+||youmaker.com
+.youngpornvideos.com
+youngspiration.hk
+.youpai.org
+||youpai.org
+.your-freedom.net
+||yourepeat.com
+.yourprivatevpn.com
+||yourprivatevpn.com
+.yousendit.com
+||yousendit.com
+||youthforfreechina.org
+.youthnetradio.org/tmit/forum
+blog.youthwant.com.tw
+me.youthwant.com.tw
+share.youthwant.com.tw
+topic.youthwant.com.tw
+.youporn.com
+||youporn.com
+.youporngay.com
+||youporngay.com
+.yourlisten.com
+||yourlisten.com
+.yourlust.com
+||yourlust.com
+youshun12.com
+.youtubecn.com
+youversion.com
+||youversion.com
+ytht.net
+yuanming.net
+.yuanzhengtang.org
+.yulghun.com
+||yulghun.com
+||yunchao.net
+.yuvutu.com
+||yvesgeleyn.com
+.ywpw.com/forums/history/post/A0/p0/html/227
+yx51.net
+.yyii.org
+||yyii.org
+||yyjlymb.xyz
+||yysub.net
+.yzzk.com
+||yzzk.com
+
+!--------------------ZZ-------------------------
+||z-lib.org
+zacebook.com
+.zalmos.com
+||zalmos.com
+||zannel.com
+.zaobao.com
+||zaobao.com
+|http://zaobao.com.sg
+||zaobao.com.sg
+.zaozon.com
+||zdnet.com.tw
+.zello.com
+||zello.com
+.zengjinyan.org
+.zenmate.com
+||zenmate.com
+||zenmate.com.ru
+||zerohedge.com
+||zeronet.io
+||zeutch.com
+!--www.zfreet.com/post/usejump-browns.html
+.zfreet.com
+.zgsddh.com
+zgzcjj.net
+.zhanbin.net
+||zhanbin.net
+.zhangboli.net
+||zhangtianliang.com
+||zhanlve.org
+zhenghui.org
+.zhengjian.org
+||zhengjian.org
+zhengwunet.org
+zhenlibu.info
+||zhenlibu.info
+.zhenlibu1984.com
+||zhenlibu1984.com
+|http://zhenxiang.biz
+.zhinengluyou.com
+zhongguo.ca
+|http://zhongguorenquan.org
+zhongguotese.net
+||zhongguotese.net
+||zhongmeng.org
+.zhoushuguang.com
+||zhreader.com
+.zhuangbi.me
+||zhuangbi.me
+.zhuanxing.cn
+||zhuatieba.com
+zhuichaguoji.org
+||zhuichaguoji.org
+||zi.media
+|http://book.zi5.me
+.ziddu.com/download
+||zillionk.com
+.zinio.com
+||zinio.com
+.ziporn.com
+.zippyshare.com
+.zkaip.com
+||zkaip.com
+realforum.zkiz.com
+!--||zlib.net
+||zmw.cn
+.zodgame.us
+zomobo.net
+.zonaeuropa.com
+||zonaeuropa.com
+||zonghexinwen.com
+.zonghexinwen.net
+||zoogvpn.com
+||zootool.com
+.zoozle.net
+||zophar.net
+writer.zoho.com
+||zorrovpn.com
+||zpn.im
+||zspeeder.me
+.zsrhao.com
+.zuo.la
+||zuo.la
+||zuobiao.me
+.zuola.com
+||zuola.com
+||zvereff.com
+||zyxel.com
+.zynaima.com
+zyzc9.com
+.zzcartoon.com
+!##############General List End#################
+
+!###########Supplemental List Start#############
+!-----------------URL Keywords------------------
+64memo
+aHR0cHM6Ly95ZWNsLm5ldA
+freenet
+.google.*/falun
+phobos.apple.com*/video
+q=freedom
+q%3Dfreedom
+remembering_tiananmen_20_years
+search*safeweb
+q=triangle
+q%3DTriangle
+ultrareach
+ultrasurf
+!#############Supplemental List End#############
+
+!################Whitelist Start################
+@@||aliyun.com
+@@||baidu.com
+!--@@||bing.com
+@@||chinaso.com
+@@||chinaz.com
+@@|http://nrch.culture.tw/
+
+!---Some are powered by GuXiang (BGP), please comment off if
+!---you encounter connectivity issues.
+@@||adservice.google.com
+!--ISP cache works sometimes, verified at drpeng + gehua.
+@@||dl.google.com
+!--@@||kh.google.com
+!--@@||khm.google.com
+!--@@||khm0.google.com
+!--@@||khm1.google.com
+!--@@||khm2.google.com
+!--@@||khm3.google.com
+!--@@||khmdb.google.com
+@@||tools.google.com
+@@||clientservices.googleapis.com
+@@||fonts.googleapis.com
+!--@@||khm.googleapis.com
+!--@@||khm0.googleapis.com
+!--@@||khm1.googleapis.com
+!--@@||khm2.googleapis.com
+!--@@||khm3.googleapis.com
+!--@@||khmdb.googleapis.com
+@@||storage.googleapis.com
+!--@@||translate.googleapis.com
+@@||update.googleapis.com
+@@||safebrowsing.googleapis.com
+@@||cn.gravatar.com
+!--@@||connectivitycheck.gstatic.com
+!--@@||csi.gstatic.com
+!--@@||fonts.gstatic.com
+!--@@||ssl.gstatic.com
+@@||haosou.com
+@@||ip.cn
+@@||jike.com
+@@|http://translate.google.cn
+@@|http://www.google.cn/maps
+@@||http2.golang.org
+@@||gov.cn
+@@||ocsp.pki.goog
+@@||qq.com
+@@||sina.cn
+@@||sina.com.cn
+@@||sogou.com
+@@||so.com
+@@||soso.com
+@@||uluai.com.cn
+@@||weibo.com
+@@||yahoo.cn
+@@||youdao.com
+@@||zhongsou.com
+@@|http://ime.baidu.jp
+!################Whitelist End##################
+!---------------------EOF-----------------------
