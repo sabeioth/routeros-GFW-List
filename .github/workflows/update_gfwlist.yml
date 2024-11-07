@@ -2,7 +2,7 @@ name: Update GFW List
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # 每天凌晨2点运行
+    - cron: '0 2 * * *'  # 每周凌晨2点运行
   workflow_dispatch:  # 允许手动触发
 
 jobs:
@@ -11,10 +11,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
