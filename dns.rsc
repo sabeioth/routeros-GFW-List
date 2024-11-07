@@ -1,4 +1,12 @@
 /ip dns static
+add comment=Google forward-to=198.18.0.1 regexp="^(abc\.xyz|ampproject\.org|android\.com|androidify\.com|appspot\.com|autodraw\.com|certificate\-transparency\.org|chrome\.com|chromeexperiments\.com|chromestatus\.com|chromium\.org|creativelab5\.com|debug\.com|deepmind\.com|firebaseio\.com|getmdl\.io|getoutline\.org|ggpht\.com|gmail\.com|gmodules\.com|godoc\.org|golang\.org|google\.dev|gstatic\.com|gvt0\.com|gvt1\.com|gvt3\.com|gwtproject\.org|itasoftware\.com|madewithcode\.com|material\.io|polymer\-project\.org|shattered\.io|synergyse\.com|tensorflow\.org|tiltbrush\.com|waveprotocol\.org|waymo\.com|webmproject\.org|webrtc\.org|whatbrowser\.org|youtube\.com|ytimg\.com|blogger\.com)$" type=FWD
+add comment=Facebook forward-to=198.18.0.1 regexp="^(cdninstagram\.com|cdninstagram\.com|fb\.com|fb\.me|fbcdn\.net|instagram\.com|messenger\.com|oculus\.com|oculuscdn\.com|whatsapp\.com|whatsapp\.net)$" type=FWD
+add comment=Twitter forward-to=198.18.0.1 regexp="^(twimg\.com|twitpic\.com|twitter\.com)$" type=FWD
+add comment=Apple forward-to=198.18.0.1 regexp="^(appsto\.re)$" type=FWD
+add comment=Netflix forward-to=198.18.0.1 regexp="^(netflix\.com|netflix\.net)$" type=FWD
+add comment=Spotify forward-to=198.18.0.1 regexp="^(spotify\.com)$" type=FWD
+add comment=Telegram forward-to=198.18.0.1 regexp="^(telegram\.org)$" type=FWD
+add comment=Other forward-to=198.18.0.1 regexp="^(deezer\.com|kkbox\.com|pandora\.com|hbo\.com|quora\.com|quoracdn\.net|bbc\.com|bbc\.co\.uk|bbci\.co\.uk|ttvnw\.net|twitch\.tv|dropbox\.com|viu\.com)$" type=FWD
 add comment=GFW forward-to=198.18.0.1 regexp="^[AutoProxy 0.2.9]$" type=FWD
 add comment=GFW forward-to=198.18.0.1 regexp="^|http://85.17.73.31/$" type=FWD
 add comment=GFW forward-to=198.18.0.1 regexp="^afreecatv.com$" type=FWD
@@ -7232,11 +7240,3 @@ add comment=GFW forward-to=198.18.0.1 regexp="^@@||yahoo.cn$" type=FWD
 add comment=GFW forward-to=198.18.0.1 regexp="^@@||youdao.com$" type=FWD
 add comment=GFW forward-to=198.18.0.1 regexp="^@@||zhongsou.com$" type=FWD
 add comment=GFW forward-to=198.18.0.1 regexp="^@@|http://ime.baidu.jp$" type=FWD
-add comment=Google forward-to=198.18.0.1 regexp="^(abc.xyz|ampproject.org|android.com|androidify.com|appspot.com|autodraw.com|certificate-transparency.org|chrome.com|chromeexperiments.com|chromestatus.com|chromium.org|creativelab5.com|debug.com|deepmind.com|firebaseio.com|getmdl.io|getoutline.org|ggpht.com|gmail.com|gmodules.com|godoc.org|golang.org|google.dev|gstatic.com|gvt0.com|gvt1.com|gvt3.com|gwtproject.org|itasoftware.com|madewithcode.com|material.io|polymer-project.org|shattered.io|synergyse.com|tensorflow.org|tiltbrush.com|waveprotocol.org|waymo.com|webmproject.org|webrtc.org|whatbrowser.org|youtube.com|ytimg.com|blogger.com)$" type=FWD
-add comment=Facebook forward-to=198.18.0.1 regexp="^(cdninstagram.com|cdninstagram.com|fb.com|fb.me|fbcdn.net|instagram.com|messenger.com|oculus.com|oculuscdn.com|whatsapp.com|whatsapp.net)$" type=FWD
-add comment=Twitter forward-to=198.18.0.1 regexp="^(twimg.com|twitpic.com|twitter.com)$" type=FWD
-add comment=Apple forward-to=198.18.0.1 regexp="^(appsto.re)$" type=FWD
-add comment=Netflix forward-to=198.18.0.1 regexp="^(netflix.com|netflix.net)$" type=FWD
-add comment=Spotify forward-to=198.18.0.1 regexp="^(spotify.com)$" type=FWD
-add comment=Telegram forward-to=198.18.0.1 regexp="^(telegram.org)$" type=FWD
-add comment=Other forward-to=198.18.0.1 regexp="^(deezer.com|kkbox.com|pandora.com|hbo.com|quora.com|quoracdn.net|bbc.com|bbc.co.uk|bbci.co.uk|ttvnw.net|twitch.tv|dropbox.com|viu.com)$" type=FWD
