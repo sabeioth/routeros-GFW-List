@@ -16,10 +16,9 @@ if response.status_code == 200:
     with open('dns.rsc', 'w') as f:
         f.write('/ip dns static\n')
         for domain in domains:
-            if domain and not domain.startswith('#'):  # 跳过注释行和空行
+            if domain and not domain.startswith('#') and domain.strip():  # 跳过注释行和空行
                 # 写入 RouterOS 兼容的命令
-                f.write(f'add forward-to=198.18.0.1 regexp=\\\n')
-                f.write(f'    "^{domain}$" type=FWD\n')
+                f.write(f'add forward-to=198.18.0.1 regexp="{domain}" type=FWD\n')
     
     print("gfwlist.rsc 和 dns.rsc 文件已创建。")
 else:
