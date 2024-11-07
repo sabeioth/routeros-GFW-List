@@ -1,5 +1,5 @@
 /ip dns static
-add comment="GFW" forward-to=198.18.0.1 regexp="AutoProxy 0\.2\.9" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="AutoProxy\ 0\.2\.9" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="http://85\.17\.73\.31/" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="afreecatv\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="agnesb\.fr" type=FWD
@@ -98,13 +98,13 @@ add comment="GFW" forward-to=198.18.0.1 regexp="http://secure\.hustler\.com" typ
 add comment="GFW" forward-to=198.18.0.1 regexp="http://hustlercash\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="http://www\.hustlercash\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="hybrid-analysis\.com" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="cdn.*\.i-scmp\.com" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="cdn*\.i-scmp\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="ilbe\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="ilovelongtoes\.com" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="http://imgmega\.com/.*\.gif\.html" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="http://imgmega\.com/.*\.jpg\.html" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="http://imgmega\.com/.*\.jpeg\.html" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="http://imgmega\.com/.*\.png\.html" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="http://imgmega\.com/*\.gif\.html" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="http://imgmega\.com/*\.jpg\.html" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="http://imgmega\.com/*\.jpeg\.html" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="http://imgmega\.com/*\.png\.html" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="imlive\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="tw\.iqiyi\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="javhub\.net" type=FWD
@@ -180,7 +180,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="pandora\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.pandora\.tv" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="parkansky\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="phmsociety\.org" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="http://.*\.pimg\.tw/" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="http://*\.pimg\.tw/" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="podcast\.co" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="pure18\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="pytorch\.org" type=FWD
@@ -194,7 +194,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="rdio\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="https://riseup\.net" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="sadistic-v\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="isc\.sans\.edu" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="http://cdn.*\.search\.xxx/" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="http://cdn*\.search\.xxx/" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="shiksha\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="slacker\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="sm-miracle\.com" type=FWD
@@ -258,7 +258,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="xn--oiq\.cc" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="xn--p8j9a0d9c9a\.xn--q9jyb4c" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="xn--9pr62r24a\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="abebooks\.com" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="https://.*\.s3\.amazonaws\.com" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="https://*\.s3\.amazonaws\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="s3-ap-southeast-2\.amazonaws\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="43110\.cf" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="9cache\.com" type=FWD
@@ -796,7 +796,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="autodraw\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="blog\.google" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="blogblog\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="blogspot\.com" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="/^https?:\/\/^\/+blogspot\\.(\..*)/" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="/^https?:\/\/^\/+blogspot\\.(\.*)/" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.blogspot\.hk" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.blogspot\.jp" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.blogspot\.tw" type=FWD
@@ -896,7 +896,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="\.google\.to" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.google\.tt" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.google\.vu" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.google\.ws" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="/^https?:\/\/(^\/+\\.).*google\\.(acadaeafaialamasatazbabebfbgbibjbsbtbycacatcdcfcgchciclcmco\.aoco\.bwco\.ckco\.crco\.idco\.ilco\.inco\.jpco\.keco\.krco\.lsco\.macomcom\.afcom\.agcom\.aicom\.arcom\.aucom\.bdcom\.bhcom\.bncom\.bocom\.brcom\.bzcom\.cocom\.cucom\.cycom\.docom\.eccom\.egcom\.etcom\.fjcom\.ghcom\.gicom\.gtcom\.hkcom\.jmcom\.khcom\.kwcom\.lbcom\.lycom\.mmcom\.mtcom\.mxcom\.mycom\.nacom\.nfcom\.ngcom\.nicom\.npcom\.omcom\.pacom\.pecom\.pgcom\.phcom\.pkcom\.prcom\.pycom\.qacom\.sacom\.sbcom\.sgcom\.slcom\.svcom\.tjcom\.trcom\.twcom\.uacom\.uycom\.vccom\.vnco\.mzco\.nzco\.thco\.tzco\.ugco\.ukco\.uzco\.veco\.vico\.zaco\.zmco\.zwcvczdedjdkdmdzeeeseufifmfrgageggglgmgpgrgyhkhnhrhthuieimiqisitit\.aojejokgkikzlalilkltlulvmdmemgmkmlmnmsmumvmwmxnenlnonrnuorgplpnpsptrorsrurwscseshsisksmsnsosrsttdtgtktltmtntottusvgvnvuws)\/\..*/" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="/^https?:\/\/(^\/+\\.)*google\\.(acadaeafaialamasatazbabebfbgbibjbsbtbycacatcdcfcgchciclcmco\.aoco\.bwco\.ckco\.crco\.idco\.ilco\.inco\.jpco\.keco\.krco\.lsco\.macomcom\.afcom\.agcom\.aicom\.arcom\.aucom\.bdcom\.bhcom\.bncom\.bocom\.brcom\.bzcom\.cocom\.cucom\.cycom\.docom\.eccom\.egcom\.etcom\.fjcom\.ghcom\.gicom\.gtcom\.hkcom\.jmcom\.khcom\.kwcom\.lbcom\.lycom\.mmcom\.mtcom\.mxcom\.mycom\.nacom\.nfcom\.ngcom\.nicom\.npcom\.omcom\.pacom\.pecom\.pgcom\.phcom\.pkcom\.prcom\.pycom\.qacom\.sacom\.sbcom\.sgcom\.slcom\.svcom\.tjcom\.trcom\.twcom\.uacom\.uycom\.vccom\.vnco\.mzco\.nzco\.thco\.tzco\.ugco\.ukco\.uzco\.veco\.vico\.zaco\.zmco\.zwcvczdedjdkdmdzeeeseufifmfrgageggglgmgpgrgyhkhnhrhthuieimiqisitit\.aojejokgkikzlalilkltlulvmdmemgmkmlmnmsmumvmwmxnenlnonrnuorgplpnpsptrorsrurwscseshsisksmsnsosrsttdtgtktltmtntottusvgvnvuws)\/\.*/" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="googleapis\.cn" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="googleapis\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="googleapps\.com" type=FWD
@@ -1205,7 +1205,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="\.1bao\.org" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="http://1bao\.org" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.1eew\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.1mobile\.com" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="http://.*\.1mobile\.tw" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="http://*\.1mobile\.tw" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="1pondo\.tv" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.2-hand\.info" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.2000fun\.com/bbs" type=FWD
@@ -1372,7 +1372,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="voa-11\.akacast\.akamaistream\.n
 add comment="GFW" forward-to=198.18.0.1 regexp="abematv\.akamaized\.net" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="linear-abematv\.akamaized\.net" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="vod-abematv\.akamaized\.net" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="https://fbcdn.*\.akamaihd\.net/" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="https://fbcdn*\.akamaihd\.net/" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="rthklive2-lh\.akamaihd\.net" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.akademiye\.org/ug" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="http://akademiye\.org/ug" type=FWD
@@ -1584,8 +1584,8 @@ add comment="GFW" forward-to=198.18.0.1 regexp="axureformac\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.azerbaycan\.tv" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="azerimix\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="azirevpn\.com" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="boxun.*\.azurewebsites\.net" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="boxun.*\.azurewebsites\.net" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="boxun*\.azurewebsites\.net" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="boxun*\.azurewebsites\.net" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="b-ok\.cc" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="forum\.baby-kingdom\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="babylonbee\.com" type=FWD
@@ -1599,7 +1599,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="\.badiucao\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="badiucao\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.badjojo\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="badoo\.com" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="http://.*2\.bahamut\.com\.tw" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="http://*2\.bahamut\.com\.tw" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="baidu\.jp" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.baijie\.org" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="baijie\.org" type=FWD
@@ -1870,7 +1870,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="\.businessinsider\.com/iphone-6-
 add comment="GFW" forward-to=198.18.0.1 regexp="\.businessinsider\.com/nfl-announcers-surface-tablets-2014" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.businessinsider\.com/panama-papers" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.businessinsider\.com/umbrella-man-hong-kong-2014" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="http://www\.businessinsider\.com\.au/.*" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="http://www\.businessinsider\.com\.au/*" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.businesstoday\.com\.tw" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="businesstoday\.com\.tw" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.busu\.org/news" type=FWD
@@ -2892,7 +2892,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="blog\.foolsmountain\.com" type=F
 add comment="GFW" forward-to=198.18.0.1 regexp="\.forum4hk\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="fangong\.forums-free\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="pioneer-worker\.forums-free\.com" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="https://ss.*\.4sqi\.net" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="https://ss*\.4sqi\.net" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="video\.foxbusiness\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="http://foxgay\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="fringenetwork\.com" type=FWD
@@ -3469,7 +3469,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="m\.hkgalden\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="https://m\.hkgalden\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.hkgreenradio\.org/home" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="hkgpao\.com" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="\.hkheadline\.com.*blog" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="\.hkheadline\.com*blog" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.hkheadline\.com/instantnews" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="hkhkhk\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="hkhrc\.org\.hk" type=FWD
@@ -4217,7 +4217,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="http://lyfhk\.net" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="lzjscript\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.lzmtnews\.org" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="lzmtnews\.org" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="http://.*\.m-team\.cc" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="http://*\.m-team\.cc" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.macrovpn\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="macts\.com\.tw" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="mad-ar\.ch" type=FWD
@@ -4936,7 +4936,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="photofocus\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="phuquocservices\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="picacomiccn\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.picidae\.net" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="img.*\.picturedip\.com" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="img*\.picturedip\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="picturesocial\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="pin-cong\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.pin6\.com" type=FWD
@@ -5321,7 +5321,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="\.rti\.org\.tw" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="rti\.org\.tw" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="rti\.tw" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.rtycminnesota\.org" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="\.ruanyifeng\.com/blog.*some_ways_to_break_the_great_firewall" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="\.ruanyifeng\.com/blog*some_ways_to_break_the_great_firewall" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="rukor\.org" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="rule34\.xxx" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="rumble\.com" type=FWD
@@ -5440,7 +5440,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="\.sextvx\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="67\.220\.91\.15" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="67\.220\.91\.18" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="67\.220\.91\.23" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="http://.*\.sf\.net" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="http://*\.sf\.net" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.sfileydy\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="sfshibao\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.sftindia\.org" type=FWD
@@ -5659,7 +5659,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="\.soundofhope\.kr" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="soundofhope\.org" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="soundofhope\.org" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="soupofmedia\.com" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="http://sourceforge\.net/p.*/shadowsocksgui/" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="http://sourceforge\.net/p*/shadowsocksgui/" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.sourcewadio\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="south-plus\.org" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="southnews\.com\.tw" type=FWD
@@ -6243,7 +6243,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="app\.tutanota\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.tuvpn\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="tuvpn\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="http://tuzaijidi\.com" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="http://.*\.tuzaijidi\.com" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="http://*\.tuzaijidi\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.tw01\.org" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="http://tw01\.org" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.tumblr\.com" type=FWD
@@ -6411,7 +6411,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="uc-japan\.org" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.srcf\.ucam\.org/salon/" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="http://china\.ucanews\.com/" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="ucdc1998\.org" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="http://hum.*\.uchicago\.edu/faculty/ywang/history" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="http://hum*\.uchicago\.edu/faculty/ywang/history" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="uderzo\.it" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.udn\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="udn\.com" type=FWD
@@ -6840,7 +6840,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="\.worldvpn\.net" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="worldvpn\.net" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="videopress\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.wordpress\.com" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="http://.*\.wordpress\.com" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="http://*\.wordpress\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="chenshan20042005\.wordpress\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="chinaview\.wordpress\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="cnbbnews\.wordpress\.com" type=FWD
@@ -6907,7 +6907,7 @@ add comment="GFW" forward-to=198.18.0.1 regexp="xbookcn\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="xcafe\.in" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="xcity\.jp" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.xcritic\.com" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="http://cdn.*\.xda-developers\.com" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="http://cdn*\.xda-developers\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.xerotica\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="destiny\.xfiles\.to/ubbthreads" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="\.xfm\.pp\.ru" type=FWD
@@ -7181,12 +7181,12 @@ add comment="GFW" forward-to=198.18.0.1 regexp="\.zzcartoon\.com" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="64memo" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="aHR0cHM6Ly95ZWNsLm5ldA" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="freenet" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="\.google\..*/falun" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="phobos\.apple\.com.*/video" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="\.google\.*/falun" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="phobos\.apple\.com*/video" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="q=freedom" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="q%3Dfreedom" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="remembering_tiananmen_20_years" type=FWD
-add comment="GFW" forward-to=198.18.0.1 regexp="search.*safeweb" type=FWD
+add comment="GFW" forward-to=198.18.0.1 regexp="search*safeweb" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="q=triangle" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="q%3DTriangle" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="ultrareach" type=FWD
