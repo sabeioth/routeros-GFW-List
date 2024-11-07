@@ -5,24 +5,20 @@ url = 'https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gf
 response = requests.get(url)
 
 if response.status_code == 200:
+    # 将响应内容保存到 gfwlist.rsc 文件
+    with open('gfwlist.rsc', 'w') as f:
+        f.write(response.text)
+    
     # 将响应内容分割成列表
     domains = response.text.splitlines()
     
-    # 创建输出文件
-    with open('gfwlist.rsc', 'w') as f:
+    # 创建输出文件 dns.rsc
+    with open('dns.rsc', 'w') as f:
         for domain in domains:
             if domain and not domain.startswith('#'):  # 跳过注释行和空行
                 # 写入 RouterOS 兼容的命令
-                f.write(f"/ip dns static add regexp=\"^.{domain}$\" type=FWD address=198.18.0.1\n")
+                f.write(f"/ip dns static add regexp=\"^{domain}$\" type=FWD address=198.18.0.1\n")
     
-    print("gfwlist.rsc 文件已创建。")
+    print("gfwlist.rsc 和 dns.rsc 文件已创建。")
 else:
     print("无法从服务器下载 gfw.txt。")
-
-# 另外创建一个 dns.rsc 文件
-with open('dns.rsc', 'w') as f:
-    for domain in domains:
-        if domain and not domain.startswith('#'):  # 同样跳过注释行和空行
-            f.write(f"/ip dns static add regexp=\"^.{domain}$\" type=FWD address=198.18.0.1\n")
-    
-print("dns.rsc 文件已创建。")
