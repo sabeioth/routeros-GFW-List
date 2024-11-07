@@ -15,8 +15,8 @@ def fetch_gfwlist():
 def decode_gfwlist(encoded_content):
     return base64.b64decode(encoded_content).decode('utf-8')
 
-# 过滤规则
-def filter_rules(decoded_content):
+# 过滤和优化规则
+def optimize_rules(decoded_content):
     # 定义要过滤掉的正则表达式模式
     filter_patterns = [
         r'^!.*$',  # 注释行
@@ -66,14 +66,46 @@ def filter_rules(decoded_content):
     
     return filtered_lines
 
+# 提取特定的正则表达式模式
+def extract_specific_patterns(filtered_lines):
+    specific_patterns = {
+        r'(upgrade|download)\.mikrotik\.com$': "MikroTik",
+        r'.*\.(cu|at|ca|nz|br|jp|in|tw|hk|mo|ph|vn|tr|my|sg|it|uk|us|kr|ru)$': "County",
+        r'.*\.(fr|de)$': "County",
+        r'.*(.*|\\.).*(ms|be|fi)$': "Company",
+        r'.*(\\.)\?(google|facebook|blogspot|jav|pinterest|pron|github|bbcfmt|uk-live|hbo).*': "KEYWORD",
+        r'.*(\\.)\?(dropbox|hbo).*': "KEYWORD",
+        r'.*(\\.)\?(aa|akamai*|cloudfront|tiqcdn|akstat|go-mpulse|2o7).*': "Public CDN",
+        r'.*(\\.)\?(cloudflareinsights).*': "Public CDN",
+        r'.*\.(icloud|me)\.com$': "Apple Services",
+        r'.*(\\.)\?(appsto|appstore|aaplimg|crashlytics|mzstatic).*(\\.com|\\.co|.re)': "Apple Services"
+    }
+    
+    extracted_patterns = {}
+    for line in filtered_lines:
+        for pattern, comment in specific_patterns.items():
+            if re.match(pattern, line):
+                if comment not in extracted_patterns:
+                    extracted_patterns[comment] = []
+                extracted_patterns[comment].append(line)
+    
+    return extracted_patterns
+
 # 生成 .rsc 文件内容
-def generate_rsc_content(filtered_lines):
+def generate_rsc_content(filtered_lines, extracted_patterns):
     rsc_content = "/ip dns static\n"
     
     def add_rule(comment, domain_pattern):
         nonlocal rsc_content
         rsc_content += f'add comment="{comment}" forward-to=198.18.0.1 regexp="{domain_pattern}" type=FWD\n'
     
+    # 添加特定的正则表达式模式
+    for comment, patterns in extracted_patterns.items():
+        for pattern in patterns:
+            domain_pattern = pattern.replace('.', '\\.').replace('*', '.*')
+            add_rule(comment, domain_pattern)
+    
+    # 添加剩余的规则
     for line in filtered_lines:
         if line and not line.startswith('!') and not line.startswith('@@'):
             # 假设每行都是一个需要添加到 DNS 静态记录中的域名模式
@@ -83,23 +115,26 @@ def generate_rsc_content(filtered_lines):
     return rsc_content
 
 # 写入 .rsc 文件
-def write_rsc_file(rsc_content, filename):
+def write_rsc_file(content, filename):
     with open(filename, 'w') as file:
-        file.write(rsc_content)
+        file.write(content)
 
 def main():
     try:
         encoded_content = fetch_gfwlist()
         decoded_content = decode_gfwlist(encoded_content)
         
-        # 过滤规则
-        filtered_lines = filter_rules(decoded_content)
-        
         # 保存解码后的 gfwlist.rsc 文件
-        write_rsc_file('\n'.join(filtered_lines), 'gfwlist.rsc')
+        write_rsc_file(decoded_content, 'gfwlist.rsc')
+        
+        # 过滤规则
+        filtered_lines = optimize_rules(decoded_content)
+        
+        # 提取特定的正则表达式模式
+        extracted_patterns = extract_specific_patterns(filtered_lines)
         
         # 生成并保存转换后的 dns.rsc 文件
-        rsc_content = generate_rsc_content(filtered_lines)
+        rsc_content = generate_rsc_content(filtered_lines, extracted_patterns)
         write_rsc_file(rsc_content, 'dns.rsc')
         
         print("转换完成，已生成 gfwlist.rsc 和 dns.rsc 文件。")
