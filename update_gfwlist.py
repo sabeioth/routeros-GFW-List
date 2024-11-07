@@ -2,6 +2,7 @@ import requests
 import base64
 import re
 import os
+from collections import defaultdict
 
 # 配置
 DNS_FORWARD_IP = "198.18.0.1"
@@ -11,36 +12,21 @@ OUTPUT_FILE = "dns.rsc"
 # 定义公司及其对应的正则表达式
 COMPANY_REGEX_MAP = {
     "Google": [
-        r"(youtube|ytimg)\.com$",
-        r"(android|androidify|appspot|autodraw|blogger)\.com$",
-        r"(capitalg|chrome|chromeexperiments|chromestatus|creativelab5)\.com$",
-        r"(debug|deepmind|dialogflow|firebaseio|googletagmanager)\.com$",
-        r"(ggpht|gmail|gmail|gmodules|gstatic|gv|gvt0|gvt1|gvt2|gvt3)\.com$",
-        r"(itasoftware|madewithcode|synergyse|tiltbrush|waymo)\.com$",
-        r"(ampproject|certificate-transparency|chromium)\.org$",
-        r"(getoutline|godoc|golang|gwtproject)\.org$",
-        r"(polymer-project|tensorflow)\.org$",
-        r"(waveprotocol|webmproject|webrtc|whatbrowser)\.org$",
-        r"(material|shattered|recaptcha)\.(net|io)$",
-        r"(abc|admin|getmdl)\.(xyz|net|io)$",
+        r"(youtube|ytimg|android|androidify|appspot|autodraw|blogger|capitalg|chrome|chromeexperiments|chromestatus|creativelab5|debug|deepmind|dialogflow|firebaseio|googletagmanager|ggpht|gmail|gmodules|gstatic|gv|gvt0|gvt1|gvt2|gvt3|itasoftware|madewithcode|synergyse|tiltbrush|waymo|ampproject|certificate-transparency|chromium|getoutline|godoc|golang|gwtproject|polymer-project|tensorflow|waveprotocol|webmproject|webrtc|whatbrowser|material|shattered|recaptcha|abc|admin|getmdl)\.(com|net|org|xyz|io)$",
         r"google\.[a-z]+\.[a-z]+$",  # 匹配所有 google 子域名
         r"google\.[a-z]+$"           # 匹配所有 google 顶级域名
     ],
     "Microsoft": [
-        r"(azure|bing|live|outlook|msn|surface|1drv|microsoft)\.(net|com|org)$",
-        r"(azureedge|msauth|[a-z]-msedge|cd20|office)\.(net|com|org)$",
-        r"(microsoftonline|msecnd|msftauth|skype|onedrive|modpim)\.(net|com|org)$"
+        r"(azure|bing|live|outlook|msn|surface|1drv|microsoft|azureedge|msauth|[a-z]-msedge|cd20|office|microsoftonline|msecnd|msftauth|skype|onedrive|modpim)\.(com|net|org)$"
     ],
     "Facebook": [
-        r"(messenger|whatsapp|oculus|oculuscdn)\.(com|net)$",
-        r"(cdninstagram|fb|fbcdn|instagram)\.(com|net|me)$"
+        r"(messenger|whatsapp|oculus|oculuscdn|cdninstagram|fb|fbcdn|instagram)\.(com|net|me)$"
     ],
     "Twitter": [
         r"(twimg|twitpic|twitter)\.(co|com)$"
     ],
     "Apple": [
-        r"(icloud|me)\.com$",
-        r"(appsto|appstore|aaplimg|crashlytics|mzstatic)\.(com|co|re)$"
+        r"(icloud|me|appsto|appstore|aaplimg|crashlytics|mzstatic)\.(com|co|re)$"
     ],
     "Amazon": [
         r"(amazon|amazonaws|kindle|primevideo)\.com$"
@@ -55,26 +41,7 @@ COMPANY_REGEX_MAP = {
         r"telegram\.org$"
     ],
     "Other": [
-        r"(dropbox|hbo)\.com$",
-        r"(quora|quoracdn)\.(com|net)$",
-        r"(yahoo|ytimg|scorecardresearch)\.com$",
-        r"(dazn|happyon)\.(com|jp)$",
-        r"(itv|itvstatic)\.com$",
-        r"(pandora|pbs)\.(com|org)$",
-        r"(4gtv|kktv)\.(tv|com|me)$",
-        r"(kfs|kkbox)\.(io|com)$",
-        r"(twitch|ttvnw)\.(net|tv)$",
-        r"(viu|my5|channel5|litv)\.(tv|com)$",
-        r"boltdns\.net$",
-        r"encoretvb\.com$",
-        r"(mytvsuper|tvb|joox)\.com$",
-        r"(deezer|dzcdn)\.(com|net)$",
-        r"(bbc|bbci)\.(co\.uk|com)$",
-        r"(c4assets|channel4)\.com$",
-        r"(abema|ameba|hayabusa)\.(jp|io)$",
-        r"(fdcservers|yoshis|extride|chinaunicomglobal)\.(net|com)$",
-        r"(ipinfo|ip)\.(io|sb)$",
-        r"(edge\.api\.brightcove|videos-f\.jwpsrv|content\.jwplatform)\.(com|net)$"
+        r"(dropbox|hbo|quora|quoracdn|yahoo|ytimg|scorecardresearch|dazn|happyon|itv|itvstatic|pandora|pbs|4gtv|kktv|kfs|kkbox|twitch|ttvnw|viu|my5|channel5|litv|boltdns|encoretvb|mytvsuper|tvb|joox|deezer|dzcdn|bbc|bbci|c4assets|channel4|abema|ameba|hayabusa|fdcservers|yoshis|extride|chinaunicomglobal|ipinfo|ip|edge\.api\.brightcove|videos-f\.jwpsrv|content\.jwplatform)\.(com|net|org|io|tv|jp|co\.uk|me|re|sb)$"
     ]
 }
 
@@ -90,13 +57,28 @@ def process_gfwlist(gfwlist):
     company_domains = {company: [] for company in COMPANY_REGEX_MAP.keys()}
     unmatched_domains = []
 
+    # 存储已处理的域名以去重
+    seen_domains = set()
+
     for line in gfwlist.splitlines():
         if line.startswith('!') or not line.strip():
             continue
         
         domain = line[2:].strip('^') if line.startswith('||') else line
+        if domain in seen_domains:
+            continue
+
+        # 处理子域名合并
+        parts = domain.split('.')
+        if len(parts) > 2:
+            parent_domain = '.'.join(parts[-2:])
+            if parent_domain in seen_domains:
+                continue
+            domain = parent_domain
+
+        seen_domains.add(domain)
+
         matched_company = None
-        
         for company, regex_list in COMPANY_REGEX_MAP.items():
             for regex in regex_list:
                 if re.match(regex, domain):
@@ -117,7 +99,7 @@ def process_gfwlist(gfwlist):
             processed_rules.append(company_rule)
     
     for domain in unmatched_domains:
-        rule = f'add comment=GFW forward-to={DNS_FORWARD_IP} regexp="^{domain}$" type=FWD'
+        rule = f'add comment=GFW forward-to={DNS_FORWARD_IP} regexp="^{domain}$" type=FWD"'
         processed_rules.append(rule)
     
     return "\n".join(processed_rules)
