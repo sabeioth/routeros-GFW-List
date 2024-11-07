@@ -2,37 +2,43 @@ name: Update GFW List Rules
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # 每周日凌晨0点运行
-  workflow_dispatch:  # 允许手动触发
+    - cron: '0 0 * * *'  # 每天午夜运行
+  push:
+    branches:
+      - main
 
 jobs:
   update_gfwlist:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-        with:
-          ref: main
-          token: ${{ secrets.TOKEN }}
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        ref: main
+        token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.8'
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
 
-      - name: Run update script
-        run: python update_gfwlist.py
+    - name: Run update_gfwlist.py
+      run: python update_gfwlist.py
 
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add gfwlist_rules.rsc
-          git commit -m "Update GFW list rules" || echo "No changes to commit"
-          git push https://${{ secrets.TOKEN }}@github.com/${{ github.repository }}.git main
+    - name: Add and commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add dns.rsc
+        git commit -m "Update GFW list rules" || echo "No changes to commit"
+
+    - name: Push changes
+      run: git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
