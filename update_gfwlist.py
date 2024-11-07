@@ -58,9 +58,11 @@ def main():
     # 写入 gfwlist.rsc 和 dns.rsc 文件
     with open('gfwlist.rsc', 'w') as f:
         f.write(decoded_data)
-    
+        print("gfwlist.rsc 文件已生成")
+
     with open('dns.rsc', 'w') as f:
         f.write(routeros_data)
+        print("dns.rsc 文件已生成")
 
 if __name__ == '__main__':
     main()
