@@ -24,6 +24,26 @@ add comment="Country de" forward-to=198.18.0.1 regexp="\.de$" type=FWD
 add comment="Country ms" forward-to=198.18.0.1 regexp="\.ms$" type=FWD
 add comment="Country be" forward-to=198.18.0.1 regexp="\.be$" type=FWD
 add comment="Country fi" forward-to=198.18.0.1 regexp="\.fi$" type=FWD
+add comment="Domain .google.ae" forward-to=198.18.0.1 regexp="\.google\.ae" type=FWD
+add comment="Domain .google.com.hk" forward-to=198.18.0.1 regexp="\.google\.com\.hk" type=FWD
+add comment="Domain .google.co.jp" forward-to=198.18.0.1 regexp="\.google\.co\.jp" type=FWD
+add comment="Domain .google.co.kr" forward-to=198.18.0.1 regexp="\.google\.co\.kr" type=FWD
+add comment="Domain .google.com.tw" forward-to=198.18.0.1 regexp="\.google\.com\.tw" type=FWD
+add comment="Domain .google.com.sg" forward-to=198.18.0.1 regexp="\.google\.com\.sg" type=FWD
+add comment="Domain .google.de" forward-to=198.18.0.1 regexp="\.google\.de" type=FWD
+add comment="Domain .google.fr" forward-to=198.18.0.1 regexp="\.google\.fr" type=FWD
+add comment="Domain .google.it" forward-to=198.18.0.1 regexp="\.google\.it" type=FWD
+add comment="Domain .google.nl" forward-to=198.18.0.1 regexp="\.google\.nl" type=FWD
+add comment="Domain .google.pl" forward-to=198.18.0.1 regexp="\.google\.pl" type=FWD
+add comment="Domain .google.pt" forward-to=198.18.0.1 regexp="\.google\.pt" type=FWD
+add comment="Domain .google.se" forward-to=198.18.0.1 regexp="\.google\.se" type=FWD
+add comment="Domain .google.es" forward-to=198.18.0.1 regexp="\.google\.es" type=FWD
+add comment="Domain .google.ch" forward-to=198.18.0.1 regexp="\.google\.ch" type=FWD
+add comment="Domain .google.com.tr" forward-to=198.18.0.1 regexp="\.google\.com\.tr" type=FWD
+add comment="Domain .google.co.uk" forward-to=198.18.0.1 regexp="\.google\.co\.uk" type=FWD
+add comment="Domain .google.com.vn" forward-to=198.18.0.1 regexp="\.google\.com\.vn" type=FWD
+add comment="Domain .google.co.th" forward-to=198.18.0.1 regexp="\.google\.co\.th" type=FWD
+add comment="Domain .google.com.au" forward-to=198.18.0.1 regexp="\.google\.com\.au" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="[AutoProxy 0\.2\.9]" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="|http://85\.17\.73\.31/" type=FWD
 add comment="GFW" forward-to=198.18.0.1 regexp="|afreecatv\.com" type=FWD
