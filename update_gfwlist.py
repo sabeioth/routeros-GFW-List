@@ -70,7 +70,7 @@ DOMESTIC_DOMAINS = [
 def fetch_gfwlist(url):
     response = requests.get(url)
     if response.status_code == 200:
-        return base64.b64decode(response.content).decode('utf-8')
+        return response.content.decode('utf-8')
     else:
         raise Exception(f"Failed to fetch GFW list: {response.status_code}")
 
