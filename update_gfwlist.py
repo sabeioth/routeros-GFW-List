@@ -19,8 +19,10 @@ if response.status_code == 200:
             if domain and not domain.startswith('#'):  # 跳过注释行和空行
                 # 对域名进行正则表达式转义
                 escaped_domain = re.escape(domain)
-                # 写入 RouterOS 兼容的命令
-                f.write(f"/ip dns static add regexp=\"^{escaped_domain}$\" type=FWD address=198.18.0.1\n")
+                # 确保正则表达式字符串正确格式化
+                f.write(f'/ip dns static\n')
+                f.write(f'add forward-to=198.18.0.1 regexp=\\\n')
+                f.write(f'    "{escaped_domain}" type=FWD\n')
     
     print("gfwlist.rsc 和 dns.rsc 文件已创建。")
 else:
