@@ -26,7 +26,7 @@ jobs:
       - name: Run update script
         run: python update_gfwlist.py
 
-      - name: Commit and push changes
+      - name: Commit and push changes to GitHub
         env:
           TOKEN: ${{ secrets.TOKEN }}
         run: |
@@ -38,4 +38,4 @@ jobs:
           else
             git commit -m 'Update gfwlist.rsc and dns.rsc'
             git push https://${{ secrets.TOKEN }}@github.com/${{ github.repository }}.git main
-          fi
+          fi 
