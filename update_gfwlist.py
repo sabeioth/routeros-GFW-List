@@ -40,13 +40,13 @@ def download_gfwlist(url, output_file):
         with open(output_file, 'w') as f:
             f.write(content)
         log_info("Decoded content saved to gfwlist.txt")
-        return True
+        return content
     else:
         log_error("Failed to download or decode gfwlist")
-        return False
+        return None
 
 # 处理 GFWList 文件
-def process_gfwlist(input_file, output_file):
+def process_gfwlist(content, output_file):
     log_info("Processing gfwlist...")
     ignore_pattern = re.compile(r'^\!|\[|^@@|(https?://){0,1}[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+')
     head_filter_pattern = re.compile(r'^(\|\|?)?(https?://)?')
@@ -54,8 +54,7 @@ def process_gfwlist(input_file, output_file):
     domain_pattern = re.compile(r'([a-zA-Z0-9][-a-zA-Z0-9]*(\.[a-zA-Z0-9][-a-zA-Z0-9]*)+)')
     handle_wildcard_pattern = re.compile(r'^(([a-zA-Z0-9]*\*[-a-zA-Z0-9]*)?(\.))?([a-zA-Z0-9][-a-zA-Z0-9]*(\.[a-zA-Z0-9][-a-zA-Z0-9]*)+)(\*[a-zA-Z0-9]*)?$')
 
-    with open(input_file, 'r') as f:
-        lines = f.readlines()
+    lines = content.splitlines()
 
     domains = []
     for line in lines:
@@ -70,43 +69,54 @@ def process_gfwlist(input_file, output_file):
     with open(output_file, 'w') as f:
         f.write('\n'.join(domains))
 
-# 创建 GFWList RSC 文件
-def create_gfwlist_rsc(input_file, output_file):
-    log_info("Creating gfwlist.rsc...")
-    with open(input_file, 'r') as f:
-        domains = f.read().splitlines()
+# 获取现有的 DNS 静态记录
+def get_existing_records():
+    log_info("Fetching existing DNS static records...")
+    # 假设你有一个方法可以从 RouterOS 设备获取现有的 DNS 静态记录
+    # 这里只是一个示例，实际情况下你可能需要通过 API 或其他方式获取
+    existing_records = [
+        "85.17.73.31",
+        "afreecatv.com",
+        "agnesb.fr",
+        "example.com"
+    ]
+    return existing_records
 
-    with open(output_file, 'w') as f:
-        f.write(':global dnsserver\n')
-        f.write('/ip dns static remove [/ip dns static find forward-to=$dnsserver]\n')
-        f.write('/ip dns static\n')
-        f.write(':local domainList {\n')
-        for domain in domains:
-            f.write(f'    "{domain}";\n')
-        f.write('}\n')
-        f.write(':foreach domain in=$domainList do={\n')
-        f.write('    /ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name=$domain\n')
-        f.write('}\n')
-        f.write('/ip dns cache flush\n')
-
-# 创建 DNS RSC 文件
+# 生成新的 DNS RSC 文件
 def create_dns_rsc(input_file, output_file, dns_server):
     log_info("Creating dns.rsc...")
     with open(input_file, 'r') as f:
-        domains = f.read().splitlines()
+        new_domains = set(f.read().splitlines())
+
+    existing_records = set(get_existing_records())
+
+    # 找出需要添加、删除和保留的记录
+    to_add = new_domains - existing_records
+    to_remove = existing_records - new_domains
+    to_keep = existing_records & new_domains
 
     with open(output_file, 'w') as f:
-        f.write('/ip dns static\n')
-        for domain in domains:
-            if domain and not domain.startswith('#') and domain.strip():
-                f.write(f'add forward-to={dns_server} regexp="{domain}" type=FWD\n')
+        f.write(':global dnsserver "{}"\n'.format(dns_server))
+
+        # 删除需要删除的记录
+        for domain in to_remove:
+            f.write('/ip dns static remove [/ip dns static find name="{}"]\n'.format(domain))
+
+        # 添加需要添加的记录
+        for domain in to_add:
+            f.write('/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="{}"\n'.format(domain))
+
+        # 保留现有的记录
+        for domain in to_keep:
+            f.write('/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="{}"\n'.format(domain))
+
+        f.write('/ip dns cache flush\n')
 
 # 主函数
 def main():
     url = 'https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt'
     gfwlist_txt = 'gfwlist.txt'
     processed_domains_file = 'processed_domains.txt'
-    gfwlist_rsc = 'gfwlist.rsc'
     dns_rsc = 'dns.rsc'
     dns_server = '198.18.0.1'
     include_list = 'include_list.txt'
@@ -117,22 +127,20 @@ def main():
     log_info(f"Temporary directory created: {tmp_dir}")
 
     # 下载并解码 GFWList 文件
-    if not download_gfwlist(url, os.path.join(tmp_dir, gfwlist_txt)):
+    content = download_gfwlist(url, os.path.join(tmp_dir, gfwlist_txt))
+    if content is None:
         return
 
     # 处理 GFWList 文件
-    process_gfwlist(os.path.join(tmp_dir, gfwlist_txt), os.path.join(tmp_dir, processed_domains_file))
+    process_gfwlist(content, os.path.join(tmp_dir, processed_domains_file))
 
     # 排序包含和排除的域名列表
     sort_files(include_list, exclude_list)
 
-    # 创建 GFWList RSC 文件
-    create_gfwlist_rsc(os.path.join(tmp_dir, processed_domains_file), gfwlist_rsc)
-
     # 创建 DNS RSC 文件
     create_dns_rsc(os.path.join(tmp_dir, processed_domains_file), dns_rsc, dns_server)
 
-    log_info("gfwlist.rsc 和 dns.rsc 文件已创建。")
+    log_info("dns.rsc 文件已创建。")
 
 if __name__ == "__main__":
     main()
