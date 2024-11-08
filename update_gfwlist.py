@@ -14,6 +14,14 @@ def log_error(message):
 # 排序包含和排除的域名列表
 def sort_files(include_file, exclude_file):
     log_info("Sorting include and exclude domain lists...")
+    # 如果文件不存在，创建空文件
+    if not os.path.exists(include_file):
+        with open(include_file, 'w') as f:
+            pass
+    if not os.path.exists(exclude_file):
+        with open(exclude_file, 'w') as f:
+            pass
+
     with open(include_file, 'r') as f:
         include_domains = sorted(set(f.read().splitlines()))
     with open(exclude_file, 'r') as f:
