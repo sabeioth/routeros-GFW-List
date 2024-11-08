@@ -4,50 +4,23 @@ import base64
 import tempfile
 import re
 
-# 颜色输出函数
-def log_info(message):
-    print(f"[INFO] {message}")
-
-def log_error(message):
-    print(f"[ERROR] {message}")
-
-# 排序包含和排除的域名列表
-def sort_files(include_file, exclude_file):
-    log_info("Sorting include and exclude domain lists...")
-    # 如果文件不存在，创建空文件
-    if not os.path.exists(include_file):
-        with open(include_file, 'w') as f:
-            pass
-    if not os.path.exists(exclude_file):
-        with open(exclude_file, 'w') as f:
-            pass
-
-    with open(include_file, 'r') as f:
-        include_domains = sorted(set(f.read().splitlines()))
-    with open(exclude_file, 'r') as f:
-        exclude_domains = sorted(set(f.read().splitlines()))
-    with open(include_file, 'w') as f:
-        f.write('\n'.join(include_domains))
-    with open(exclude_file, 'w') as f:
-        f.write('\n'.join(exclude_domains))
-
 # 下载并解码 GFWList 文件
 def download_gfwlist(url, output_file):
-    log_info("Downloading and decoding gfwlist...")
+    print("Downloading and decoding gfwlist...")
     response = requests.get(url)
     if response.status_code == 200:
         content = base64.b64decode(response.content).decode('utf-8')
         with open(output_file, 'w') as f:
             f.write(content)
-        log_info("Decoded content saved to gfwlist.txt")
+        print("Decoded content saved to gfwlist.txt")
         return content
     else:
-        log_error("Failed to download or decode gfwlist")
+        print("Failed to download or decode gfwlist")
         return None
 
 # 处理 GFWList 文件
 def process_gfwlist(content, output_file):
-    log_info("Processing gfwlist...")
+    print("Processing gfwlist...")
     ignore_pattern = re.compile(r'^\!|\[|^@@|(https?://){0,1}[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+')
     head_filter_pattern = re.compile(r'^(\|\|?)?(https?://)?')
     tail_filter_pattern = re.compile(r'/.*$|%2F.*$')
@@ -56,7 +29,7 @@ def process_gfwlist(content, output_file):
 
     lines = content.splitlines()
 
-    domains = []
+    domains = set()  # 使用集合去重
     for line in lines:
         if not ignore_pattern.match(line):
             line = head_filter_pattern.sub('', line)
@@ -65,14 +38,17 @@ def process_gfwlist(content, output_file):
             if domain_pattern.match(line):
                 domain = line.strip()
                 if domain:
-                    domains.append(domain)
+                    domains.add(domain)
+
+    # 将集合转换为列表并排序
+    domains = sorted(domains)
 
     with open(output_file, 'w') as f:
         f.write('\n'.join(domains))
 
 # 创建 GFWList RSC 文件
 def create_gfwlist_rsc(input_file, output_file, dnsserver):
-    log_info("Creating gfwlist.rsc...")
+    print("Creating gfwlist.rsc...")
     with open(input_file, 'r') as f:
         domains = f.read().splitlines()
 
@@ -91,7 +67,7 @@ def create_gfwlist_rsc(input_file, output_file, dnsserver):
 
 # 比较新旧 gfwlist.rsc 文件
 def compare_rsc_files(old_file, new_file):
-    log_info("Comparing old and new gfwlist.rsc files...")
+    print("Comparing old and new gfwlist.rsc files...")
 
     with open(old_file, 'r') as f:
         old_content = f.read()
@@ -108,7 +84,7 @@ def compare_rsc_files(old_file, new_file):
 
 # 生成差异化的 DNS RSC 文件
 def create_diff_dns_rsc(to_add, to_remove, output_file, dnsserver):
-    log_info("Creating diff dns.rsc...")
+    print("Creating diff dns.rsc...")
     with open(output_file, 'w') as f:
         if to_add or to_remove:
             f.write(f':global dnsserver "{dnsserver}"\n')
@@ -139,13 +115,11 @@ def main():
     processed_domains_file = 'processed_domains.txt'
     gfwlist_rsc = 'gfwlist.rsc'
     dns_rsc = 'dns.rsc'
-    include_list = 'include_list.txt'
-    exclude_list = 'exclude_list.txt'
     dnsserver = '192.18.0.1'  # 在这里定义 DNS 服务器地址
 
     # 创建临时目录
     tmp_dir = tempfile.mkdtemp()
-    log_info(f"Temporary directory created: {tmp_dir}")
+    print(f"Temporary directory created: {tmp_dir}")
 
     # 下载并解码 GFWList 文件
     content = download_gfwlist(url, os.path.join(tmp_dir, gfwlist_txt))
@@ -174,7 +148,7 @@ def main():
     # 将 gfwlist.txt 文件移动到当前目录
     os.replace(os.path.join(tmp_dir, gfwlist_txt), gfwlist_txt)
 
-    log_info("dns.rsc 文件已创建。")
+    print("dns.rsc 文件已创建。")
 
 if __name__ == "__main__":
     main()
