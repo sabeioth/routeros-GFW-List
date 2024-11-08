@@ -2,7 +2,7 @@ name: Update GFW List
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # 每周凌晨2点运行
+    - cron: '0 3 1 * *'  # 每月1日凌晨3点运行
   workflow_dispatch:  # 允许手动触发
 
 jobs:
