@@ -106,14 +106,15 @@ def compare_rsc_files(old_file, new_file):
     return to_add, to_remove
 
 # 生成差异化的 DNS RSC 文件
-def create_diff_dns_rsc(to_add, to_remove, output_file, dns_server):
+def create_diff_dns_rsc(to_add, to_remove, output_file):
     log_info("Creating diff dns.rsc...")
     with open(output_file, 'w') as f:
-        f.write(':global dnsserver "{}"\n'.format(dns_server))
+        f.write(':global dnsserver\n')
 
         # 删除需要删除的记录
-        for domain in to_remove:
-            f.write('/ip dns static remove [/ip dns static find name="{}"]\n'.format(domain))
+        if to_remove:
+            for domain in to_remove:
+                f.write('/ip dns static remove [/ip dns static find name="{}"]\n'.format(domain))
 
         # 添加需要添加的记录
         if to_add:
@@ -126,7 +127,9 @@ def create_diff_dns_rsc(to_add, to_remove, output_file, dns_server):
             f.write('    /ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name=$domain\n')
             f.write('}\n')
 
-        f.write('/ip dns cache flush\n')
+        # 只有在有需要添加或删除的条目时才刷新缓存
+        if to_add or to_remove:
+            f.write('/ip dns cache flush\n')
 
 # 主函数
 def main():
@@ -135,7 +138,6 @@ def main():
     processed_domains_file = 'processed_domains.txt'
     gfwlist_rsc = 'gfwlist.rsc'
     dns_rsc = 'dns.rsc'
-    dns_server = '198.18.0.1'
     include_list = 'include_list.txt'
     exclude_list = 'exclude_list.txt'
 
@@ -162,7 +164,7 @@ def main():
         to_add, to_remove = set(), set()
 
     # 生成差异化的 dns.rsc 文件
-    create_diff_dns_rsc(to_add, to_remove, dns_rsc, dns_server)
+    create_diff_dns_rsc(to_add, to_remove, dns_rsc)
 
     # 将新的 gfwlist.rsc 文件移动到当前目录
     os.replace(os.path.join(tmp_dir, gfwlist_rsc), gfwlist_rsc)
