@@ -1,4 +1,4 @@
-:global dnsserver
+:global dnsserver "192.18.0.1"
 /ip dns static remove [/ip dns static find forward-to=$dnsserver]
 /ip dns static
 :local domainList {
@@ -4789,6 +4789,6 @@
     "phobos.apple.com*";
 }
 :foreach domain in=$domainList do={
-    /ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=no name=GFW regexp=$domain
+    /ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=no regexp=$domain
 }
 /ip dns cache flush
