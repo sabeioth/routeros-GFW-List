@@ -1,4786 +1,4575 @@
-/ip dns static
-add forward-to=198.18.0.1 regexp="85.17.73.31" type=FWD
-add forward-to=198.18.0.1 regexp="afreecatv.com" type=FWD
-add forward-to=198.18.0.1 regexp="agnesb.fr" type=FWD
-add forward-to=198.18.0.1 regexp="akiba-web.com" type=FWD
-add forward-to=198.18.0.1 regexp="altrec.com" type=FWD
-add forward-to=198.18.0.1 regexp="angela-merkel.de" type=FWD
-add forward-to=198.18.0.1 regexp="angola.org" type=FWD
-add forward-to=198.18.0.1 regexp="anthropic.com" type=FWD
-add forward-to=198.18.0.1 regexp="apartmentratings.com" type=FWD
-add forward-to=198.18.0.1 regexp="apartments.com" type=FWD
-add forward-to=198.18.0.1 regexp="arena.taipei" type=FWD
-add forward-to=198.18.0.1 regexp="asianspiss.com" type=FWD
-add forward-to=198.18.0.1 regexp="assimp.org" type=FWD
-add forward-to=198.18.0.1 regexp="athenaeizou.com" type=FWD
-add forward-to=198.18.0.1 regexp="azubu.tv" type=FWD
-add forward-to=198.18.0.1 regexp="bankmobilevibe.com" type=FWD
-add forward-to=198.18.0.1 regexp="banorte.com" type=FWD
-add forward-to=198.18.0.1 regexp="beeg.com" type=FWD
-add forward-to=198.18.0.1 regexp="global.bing.com" type=FWD
-add forward-to=198.18.0.1 regexp="booktopia.com.au" type=FWD
-add forward-to=198.18.0.1 regexp="boysmaster.com" type=FWD
-add forward-to=198.18.0.1 regexp="bynet.co.il" type=FWD
-add forward-to=198.18.0.1 regexp="byrut.org" type=FWD
-add forward-to=198.18.0.1 regexp="carfax.com" type=FWD
-add forward-to=198.18.0.1 regexp="casinobellini.com" type=FWD
-add forward-to=198.18.0.1 regexp="centauro.com.br" type=FWD
-add forward-to=198.18.0.1 regexp="chobit.cc" type=FWD
-add forward-to=198.18.0.1 regexp="ciciai.com" type=FWD
-add forward-to=198.18.0.1 regexp="claude.ai" type=FWD
-add forward-to=198.18.0.1 regexp="clearsurance.com" type=FWD
-add forward-to=198.18.0.1 regexp="images.comico.tw" type=FWD
-add forward-to=198.18.0.1 regexp="static.comico.tw" type=FWD
-add forward-to=198.18.0.1 regexp="counter.social" type=FWD
-add forward-to=198.18.0.1 regexp="costco.com" type=FWD
-add forward-to=198.18.0.1 regexp="coze.com" type=FWD
-add forward-to=198.18.0.1 regexp="crossfire.co.kr" type=FWD
-add forward-to=198.18.0.1 regexp="crunchyroll.com" type=FWD
-add forward-to=198.18.0.1 regexp="d2pass.com" type=FWD
-add forward-to=198.18.0.1 regexp="darpa.mil" type=FWD
-add forward-to=198.18.0.1 regexp="dawangidc.com" type=FWD
-add forward-to=198.18.0.1 regexp="deezer.com" type=FWD
-add forward-to=198.18.0.1 regexp="desipro.de" type=FWD
-add forward-to=198.18.0.1 regexp="dingchin.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="discord.com" type=FWD
-add forward-to=198.18.0.1 regexp="discord.gg" type=FWD
-add forward-to=198.18.0.1 regexp="discordapp.com" type=FWD
-add forward-to=198.18.0.1 regexp="discordapp.net" type=FWD
-add forward-to=198.18.0.1 regexp="dish.com" type=FWD
-add forward-to=198.18.0.1 regexp="img.dlsite.jp" type=FWD
-add forward-to=198.18.0.1 regexp="dm530.net" type=FWD
-add forward-to=198.18.0.1 regexp="share.dmhy.org" type=FWD
-add forward-to=198.18.0.1 regexp="dmhy.org" type=FWD
-add forward-to=198.18.0.1 regexp="dmm.co.jp" type=FWD
-add forward-to=198.18.0.1 regexp="www.dmm.com" type=FWD
-add forward-to=198.18.0.1 regexp="dnvod.tv" type=FWD
-add forward-to=198.18.0.1 regexp="dubox.com" type=FWD
-add forward-to=198.18.0.1 regexp="dvdpac.com" type=FWD
-add forward-to=198.18.0.1 regexp="eesti.ee" type=FWD
-add forward-to=198.18.0.1 regexp="esurance.com" type=FWD
-add forward-to=198.18.0.1 regexp="expekt.com" type=FWD
-add forward-to=198.18.0.1 regexp="extmatrix.com" type=FWD
-add forward-to=198.18.0.1 regexp="fakku.net" type=FWD
-add forward-to=198.18.0.1 regexp="fastpic.ru" type=FWD
-add forward-to=198.18.0.1 regexp="filesor.com" type=FWD
-add forward-to=198.18.0.1 regexp="financetwitter.com" type=FWD
-add forward-to=198.18.0.1 regexp="flipboard.com" type=FWD
-add forward-to=198.18.0.1 regexp="flitto.com" type=FWD
-add forward-to=198.18.0.1 regexp="fnac.be" type=FWD
-add forward-to=198.18.0.1 regexp="fnac.com" type=FWD
-add forward-to=198.18.0.1 regexp="funkyimg.com" type=FWD
-add forward-to=198.18.0.1 regexp="fxnetworks.com" type=FWD
-add forward-to=198.18.0.1 regexp="g-area.org" type=FWD
-add forward-to=198.18.0.1 regexp="gettyimages.com" type=FWD
-add forward-to=198.18.0.1 regexp="getuploader.com" type=FWD
-add forward-to=198.18.0.1 regexp="ghidra-sre.org" type=FWD
-add forward-to=198.18.0.1 regexp="glass8.eu" type=FWD
-add forward-to=198.18.0.1 regexp="glype.com" type=FWD
-add forward-to=198.18.0.1 regexp="go141.com" type=FWD
-add forward-to=198.18.0.1 regexp="guo.media" type=FWD
-add forward-to=198.18.0.1 regexp="hautelook.com" type=FWD
-add forward-to=198.18.0.1 regexp="hautelookcdn.com" type=FWD
-add forward-to=198.18.0.1 regexp="wego.here.com" type=FWD
-add forward-to=198.18.0.1 regexp="gamer-cds.cdn.hinet.net" type=FWD
-add forward-to=198.18.0.1 regexp="gamer2-cds.cdn.hinet.net" type=FWD
-add forward-to=198.18.0.1 regexp="hmoegirl.com" type=FWD
-add forward-to=198.18.0.1 regexp="hmvdigital.ca" type=FWD
-add forward-to=198.18.0.1 regexp="hmvdigital.com" type=FWD
-add forward-to=198.18.0.1 regexp="homedepot.com" type=FWD
-add forward-to=198.18.0.1 regexp="hoovers.com" type=FWD
-add forward-to=198.18.0.1 regexp="hulu.com" type=FWD
-add forward-to=198.18.0.1 regexp="huluim.com" type=FWD
-add forward-to=198.18.0.1 regexp="secure.hustler.com" type=FWD
-add forward-to=198.18.0.1 regexp="hustlercash.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.hustlercash.com" type=FWD
-add forward-to=198.18.0.1 regexp="hybrid-analysis.com" type=FWD
-add forward-to=198.18.0.1 regexp="ilbe.com" type=FWD
-add forward-to=198.18.0.1 regexp="ilovelongtoes.com" type=FWD
-add forward-to=198.18.0.1 regexp="imgmega.com" type=FWD
-add forward-to=198.18.0.1 regexp="imgmega.com" type=FWD
-add forward-to=198.18.0.1 regexp="imgmega.com" type=FWD
-add forward-to=198.18.0.1 regexp="imgmega.com" type=FWD
-add forward-to=198.18.0.1 regexp="imlive.com" type=FWD
-add forward-to=198.18.0.1 regexp="tw.iqiyi.com" type=FWD
-add forward-to=198.18.0.1 regexp="javhub.net" type=FWD
-add forward-to=198.18.0.1 regexp="javhuge.com" type=FWD
-add forward-to=198.18.0.1 regexp="javlibrary.com" type=FWD
-add forward-to=198.18.0.1 regexp="jcpenney.com" type=FWD
-add forward-to=198.18.0.1 regexp="jims.net" type=FWD
-add forward-to=198.18.0.1 regexp="tv.jtbc.joins.com" type=FWD
-add forward-to=198.18.0.1 regexp="jukujo-club.com" type=FWD
-add forward-to=198.18.0.1 regexp="juliepost.com" type=FWD
-add forward-to=198.18.0.1 regexp="kawaiikawaii.jp" type=FWD
-add forward-to=198.18.0.1 regexp="kendatire.com" type=FWD
-add forward-to=198.18.0.1 regexp="khatrimaza.org" type=FWD
-add forward-to=198.18.0.1 regexp="kkbox.com" type=FWD
-add forward-to=198.18.0.1 regexp="leisurepro.com" type=FWD
-add forward-to=198.18.0.1 regexp="lifemiles.com" type=FWD
-add forward-to=198.18.0.1 regexp="longtoes.com" type=FWD
-add forward-to=198.18.0.1 regexp="lovetvshow.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.m-sport.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="macgamestore.com" type=FWD
-add forward-to=198.18.0.1 regexp="madonna-av.com" type=FWD
-add forward-to=198.18.0.1 regexp="mandiant.com" type=FWD
-add forward-to=198.18.0.1 regexp="mangafox.com" type=FWD
-add forward-to=198.18.0.1 regexp="mangafox.me" type=FWD
-add forward-to=198.18.0.1 regexp="manta.com" type=FWD
-add forward-to=198.18.0.1 regexp="matome-plus.com" type=FWD
-add forward-to=198.18.0.1 regexp="matome-plus.net" type=FWD
-add forward-to=198.18.0.1 regexp="mattwilcox.net" type=FWD
-add forward-to=198.18.0.1 regexp="metarthunter.com" type=FWD
-add forward-to=198.18.0.1 regexp="mfxmedia.com" type=FWD
-add forward-to=198.18.0.1 regexp="mojim.com" type=FWD
-add forward-to=198.18.0.1 regexp="kb.monitorware.com" type=FWD
-add forward-to=198.18.0.1 regexp="monster.com" type=FWD
-add forward-to=198.18.0.1 regexp="moodyz.com" type=FWD
-add forward-to=198.18.0.1 regexp="moonbingo.com" type=FWD
-add forward-to=198.18.0.1 regexp="mos.ru" type=FWD
-add forward-to=198.18.0.1 regexp="msha.gov" type=FWD
-add forward-to=198.18.0.1 regexp="muzu.tv" type=FWD
-add forward-to=198.18.0.1 regexp="mvg.jp" type=FWD
-add forward-to=198.18.0.1 regexp="mybet.com" type=FWD
-add forward-to=198.18.0.1 regexp="mypikpak.com" type=FWD
-add forward-to=198.18.0.1 regexp="nationwide.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.nbc.com" type=FWD
-add forward-to=198.18.0.1 regexp="neo-miracle.com" type=FWD
-add forward-to=198.18.0.1 regexp="netflix.com" type=FWD
-add forward-to=198.18.0.1 regexp="netflix.net" type=FWD
-add forward-to=198.18.0.1 regexp="nflximg.com" type=FWD
-add forward-to=198.18.0.1 regexp="nflximg.net" type=FWD
-add forward-to=198.18.0.1 regexp="nflxext.com" type=FWD
-add forward-to=198.18.0.1 regexp="nflxso.net" type=FWD
-add forward-to=198.18.0.1 regexp="nflxvideo.net" type=FWD
-add forward-to=198.18.0.1 regexp="nic.gov" type=FWD
-add forward-to=198.18.0.1 regexp="mo.nightlife141.com" type=FWD
-add forward-to=198.18.0.1 regexp="purpose.nike.com" type=FWD
-add forward-to=198.18.0.1 regexp="noxinfluencer.com" type=FWD
-add forward-to=198.18.0.1 regexp="nordstrom.com" type=FWD
-add forward-to=198.18.0.1 regexp="nordstromimage.com" type=FWD
-add forward-to=198.18.0.1 regexp="nordstromrack.com" type=FWD
-add forward-to=198.18.0.1 regexp="nottinghampost.com" type=FWD
-add forward-to=198.18.0.1 regexp="npsboost.com" type=FWD
-add forward-to=198.18.0.1 regexp="ntdtv.cz" type=FWD
-add forward-to=198.18.0.1 regexp="s1.nudezz.com" type=FWD
-add forward-to=198.18.0.1 regexp="nusatrip.com" type=FWD
-add forward-to=198.18.0.1 regexp="nuuvem.com" type=FWD
-add forward-to=198.18.0.1 regexp="olehdtv.com" type=FWD
-add forward-to=198.18.0.1 regexp="omni7.jp" type=FWD
-add forward-to=198.18.0.1 regexp="onapp.com" type=FWD
-add forward-to=198.18.0.1 regexp="ontrac.com" type=FWD
-add forward-to=198.18.0.1 regexp="openai.com" type=FWD
-add forward-to=198.18.0.1 regexp="pandora.com" type=FWD
-add forward-to=198.18.0.1 regexp="parkansky.com" type=FWD
-add forward-to=198.18.0.1 regexp="phmsociety.org" type=FWD
-add forward-to=198.18.0.1 regexp="podcast.co" type=FWD
-add forward-to=198.18.0.1 regexp="pure18.com" type=FWD
-add forward-to=198.18.0.1 regexp="pytorch.org" type=FWD
-add forward-to=198.18.0.1 regexp="qq.co.za" type=FWD
-add forward-to=198.18.0.1 regexp="r18.com" type=FWD
-add forward-to=198.18.0.1 regexp="radiko.jp" type=FWD
-add forward-to=198.18.0.1 regexp="ramcity.com.au" type=FWD
-add forward-to=198.18.0.1 regexp="rateyourmusic.com" type=FWD
-add forward-to=198.18.0.1 regexp="rd.com" type=FWD
-add forward-to=198.18.0.1 regexp="rdio.com" type=FWD
-add forward-to=198.18.0.1 regexp="riseup.net" type=FWD
-add forward-to=198.18.0.1 regexp="sadistic-v.com" type=FWD
-add forward-to=198.18.0.1 regexp="isc.sans.edu" type=FWD
-add forward-to=198.18.0.1 regexp="shiksha.com" type=FWD
-add forward-to=198.18.0.1 regexp="slacker.com" type=FWD
-add forward-to=198.18.0.1 regexp="sm-miracle.com" type=FWD
-add forward-to=198.18.0.1 regexp="softnology.biz" type=FWD
-add forward-to=198.18.0.1 regexp="soylentnews.org" type=FWD
-add forward-to=198.18.0.1 regexp="spotify.com" type=FWD
-add forward-to=198.18.0.1 regexp="spreadshirt.es" type=FWD
-add forward-to=198.18.0.1 regexp="springboardplatform.com" type=FWD
-add forward-to=198.18.0.1 regexp="sprite.org" type=FWD
-add forward-to=198.18.0.1 regexp="superokayama.com" type=FWD
-add forward-to=198.18.0.1 regexp="superpages.com" type=FWD
-add forward-to=198.18.0.1 regexp="swagbucks.com" type=FWD
-add forward-to=198.18.0.1 regexp="switch1.jp" type=FWD
-add forward-to=198.18.0.1 regexp="tapanwap.com" type=FWD
-add forward-to=198.18.0.1 regexp="gsp.target.com" type=FWD
-add forward-to=198.18.0.1 regexp="login.target.com" type=FWD
-add forward-to=198.18.0.1 regexp="rcam.target.com" type=FWD
-add forward-to=198.18.0.1 regexp="technews.tw" type=FWD
-add forward-to=198.18.0.1 regexp="terabox.com" type=FWD
-add forward-to=198.18.0.1 regexp="thinkgeek.com" type=FWD
-add forward-to=198.18.0.1 regexp="thebodyshop-usa.com" type=FWD
-add forward-to=198.18.0.1 regexp="tiktok.com" type=FWD
-add forward-to=198.18.0.1 regexp="tma.co.jp" type=FWD
-add forward-to=198.18.0.1 regexp="tracfone.com" type=FWD
-add forward-to=198.18.0.1 regexp="tryheart.jp" type=FWD
-add forward-to=198.18.0.1 regexp="turntable.fm" type=FWD
-add forward-to=198.18.0.1 regexp="twerkingbutt.com" type=FWD
-add forward-to=198.18.0.1 regexp="ulop.net" type=FWD
-add forward-to=198.18.0.1 regexp="uukanshu.com" type=FWD
-add forward-to=198.18.0.1 regexp="vegasred.com" type=FWD
-add forward-to=198.18.0.1 regexp="vevo.com" type=FWD
-add forward-to=198.18.0.1 regexp="vip-enterprise.com" type=FWD
-add forward-to=198.18.0.1 regexp="viu.tv" type=FWD
-add forward-to=198.18.0.1 regexp="viu.tv" type=FWD
-add forward-to=198.18.0.1 regexp="vmpsoft.com" type=FWD
-add forward-to=198.18.0.1 regexp="ecsm.vs.com" type=FWD
-add forward-to=198.18.0.1 regexp="wanz-factory.com" type=FWD
-add forward-to=198.18.0.1 regexp="ssl.webpack.de" type=FWD
-add forward-to=198.18.0.1 regexp="wheretowatch.com" type=FWD
-add forward-to=198.18.0.1 regexp="wingamestore.com" type=FWD
-add forward-to=198.18.0.1 regexp="wizcrafts.net" type=FWD
-add forward-to=198.18.0.1 regexp="wowhead.com" type=FWD
-add forward-to=198.18.0.1 regexp="vod.wwe.com" type=FWD
-add forward-to=198.18.0.1 regexp="xfinity.com" type=FWD
-add forward-to=198.18.0.1 regexp="xiaomi.eu" type=FWD
-add forward-to=198.18.0.1 regexp="youwin.com" type=FWD
-add forward-to=198.18.0.1 regexp="ytn.co.kr" type=FWD
-add forward-to=198.18.0.1 regexp="zamimg.com" type=FWD
-add forward-to=198.18.0.1 regexp="zattoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="zim.vn" type=FWD
-add forward-to=198.18.0.1 regexp="zozotown.com" type=FWD
-add forward-to=198.18.0.1 regexp="xn--4gq171p.com" type=FWD
-add forward-to=198.18.0.1 regexp="xn--czq75pvv1aj5c.org" type=FWD
-add forward-to=198.18.0.1 regexp="xn--i2ru8q2qg.com" type=FWD
-add forward-to=198.18.0.1 regexp="xn--oiq.cc" type=FWD
-add forward-to=198.18.0.1 regexp="xn--p8j9a0d9c9a.xn--q9jyb4c" type=FWD
-add forward-to=198.18.0.1 regexp="xn--9pr62r24a.com" type=FWD
-add forward-to=198.18.0.1 regexp="abebooks.com" type=FWD
-add forward-to=198.18.0.1 regexp="s3-ap-southeast-2.amazonaws.com" type=FWD
-add forward-to=198.18.0.1 regexp="43110.cf" type=FWD
-add forward-to=198.18.0.1 regexp="9cache.com" type=FWD
-add forward-to=198.18.0.1 regexp="9gag.com" type=FWD
-add forward-to=198.18.0.1 regexp="agro.hk" type=FWD
-add forward-to=198.18.0.1 regexp="share.america.gov" type=FWD
-add forward-to=198.18.0.1 regexp="apkmirror.com" type=FWD
-add forward-to=198.18.0.1 regexp="arte.tv" type=FWD
-add forward-to=198.18.0.1 regexp="artstation.com" type=FWD
-add forward-to=198.18.0.1 regexp="bangdream.space" type=FWD
-add forward-to=198.18.0.1 regexp="behance.net" type=FWD
-add forward-to=198.18.0.1 regexp="bird.so" type=FWD
-add forward-to=198.18.0.1 regexp="bitterwinter.org" type=FWD
-add forward-to=198.18.0.1 regexp="bnn.co" type=FWD
-add forward-to=198.18.0.1 regexp="businessinsider.com" type=FWD
-add forward-to=198.18.0.1 regexp="boomssr.com" type=FWD
-add forward-to=198.18.0.1 regexp="bwgyhw.com" type=FWD
-add forward-to=198.18.0.1 regexp="castbox.fm" type=FWD
-add forward-to=198.18.0.1 regexp="chinatimes.com" type=FWD
-add forward-to=198.18.0.1 regexp="clyp.it" type=FWD
-add forward-to=198.18.0.1 regexp="cmcn.org" type=FWD
-add forward-to=198.18.0.1 regexp="cmx.im" type=FWD
-add forward-to=198.18.0.1 regexp="dailyview.tw" type=FWD
-add forward-to=198.18.0.1 regexp="daum.net" type=FWD
-add forward-to=198.18.0.1 regexp="depositphotos.com" type=FWD
-add forward-to=198.18.0.1 regexp="disconnect.me" type=FWD
-add forward-to=198.18.0.1 regexp="documentingreality.com" type=FWD
-add forward-to=198.18.0.1 regexp="doubibackup.com" type=FWD
-add forward-to=198.18.0.1 regexp="doubmirror.cf" type=FWD
-add forward-to=198.18.0.1 regexp="encyclopedia.com" type=FWD
-add forward-to=198.18.0.1 regexp="fangeqiang.com" type=FWD
-add forward-to=198.18.0.1 regexp="fanqiangdang.com" type=FWD
-add forward-to=198.18.0.1 regexp="feedly.com" type=FWD
-add forward-to=198.18.0.1 regexp="feedx.net" type=FWD
-add forward-to=198.18.0.1 regexp="flyzy2005.com" type=FWD
-add forward-to=198.18.0.1 regexp="foreignpolicy.com" type=FWD
-add forward-to=198.18.0.1 regexp="free-ss.site" type=FWD
-add forward-to=198.18.0.1 regexp="freehongkong.org" type=FWD
-add forward-to=198.18.0.1 regexp="blog.fuckgfw233.org" type=FWD
-add forward-to=198.18.0.1 regexp="g0v.social" type=FWD
-add forward-to=198.18.0.1 regexp="globalvoices.org" type=FWD
-add forward-to=198.18.0.1 regexp="glorystar.me" type=FWD
-add forward-to=198.18.0.1 regexp="goregrish.com" type=FWD
-add forward-to=198.18.0.1 regexp="guangnianvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="hanime.tv" type=FWD
-add forward-to=198.18.0.1 regexp="hbo.com" type=FWD
-add forward-to=198.18.0.1 regexp="spaces.hightail.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkgalden.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkgolden.com" type=FWD
-add forward-to=198.18.0.1 regexp="hudson.org" type=FWD
-add forward-to=198.18.0.1 regexp="ipfs.io" type=FWD
-add forward-to=198.18.0.1 regexp="japantimes.co.jp" type=FWD
-add forward-to=198.18.0.1 regexp="jiji.com" type=FWD
-add forward-to=198.18.0.1 regexp="jintian.net" type=FWD
-add forward-to=198.18.0.1 regexp="jinx.com" type=FWD
-add forward-to=198.18.0.1 regexp="joinmastodon.org" type=FWD
-add forward-to=198.18.0.1 regexp="liangzhichuanmei.com" type=FWD
-add forward-to=198.18.0.1 regexp="lighti.me" type=FWD
-add forward-to=198.18.0.1 regexp="lightyearvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="lihkg.com" type=FWD
-add forward-to=198.18.0.1 regexp="line-scdn.net" type=FWD
-add forward-to=198.18.0.1 regexp="i.lithium.com" type=FWD
-add forward-to=198.18.0.1 regexp="cloud.mail.ru" type=FWD
-add forward-to=198.18.0.1 regexp="cdn-images.mailchimp.com" type=FWD
-add forward-to=198.18.0.1 regexp="mastodon.cloud" type=FWD
-add forward-to=198.18.0.1 regexp="mastodon.host" type=FWD
-add forward-to=198.18.0.1 regexp="mastodon.social" type=FWD
-add forward-to=198.18.0.1 regexp="mastodon.xyz" type=FWD
-add forward-to=198.18.0.1 regexp="matters.news" type=FWD
-add forward-to=198.18.0.1 regexp="me.me" type=FWD
-add forward-to=198.18.0.1 regexp="metart.com" type=FWD
-add forward-to=198.18.0.1 regexp="mohu.club" type=FWD
-add forward-to=198.18.0.1 regexp="mohu.ml" type=FWD
-add forward-to=198.18.0.1 regexp="motiyun.com" type=FWD
-add forward-to=198.18.0.1 regexp="msa-it.org" type=FWD
-add forward-to=198.18.0.1 regexp="goo.ne.jp" type=FWD
-add forward-to=198.18.0.1 regexp="go.nesnode.com" type=FWD
-add forward-to=198.18.0.1 regexp="international-news.newsmagazine.asia" type=FWD
-add forward-to=198.18.0.1 regexp="nikkei.com" type=FWD
-add forward-to=198.18.0.1 regexp="nitter.cc" type=FWD
-add forward-to=198.18.0.1 regexp="nitter.net" type=FWD
-add forward-to=198.18.0.1 regexp="niu.moe" type=FWD
-add forward-to=198.18.0.1 regexp="nofile.io" type=FWD
-add forward-to=198.18.0.1 regexp="now.com" type=FWD
-add forward-to=198.18.0.1 regexp="openvpn.org" type=FWD
-add forward-to=198.18.0.1 regexp="onejav.com" type=FWD
-add forward-to=198.18.0.1 regexp="paste.ee" type=FWD
-add forward-to=198.18.0.1 regexp="my.pcloud.com" type=FWD
-add forward-to=198.18.0.1 regexp="picacomic.com" type=FWD
-add forward-to=198.18.0.1 regexp="pincong.rocks" type=FWD
-add forward-to=198.18.0.1 regexp="pixiv.net" type=FWD
-add forward-to=198.18.0.1 regexp="potato.im" type=FWD
-add forward-to=198.18.0.1 regexp="premproxy.com" type=FWD
-add forward-to=198.18.0.1 regexp="prism-break.org" type=FWD
-add forward-to=198.18.0.1 regexp="proton.me" type=FWD
-add forward-to=198.18.0.1 regexp="protonvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="api.pureapk.com" type=FWD
-add forward-to=198.18.0.1 regexp="quora.com" type=FWD
-add forward-to=198.18.0.1 regexp="quoracdn.net" type=FWD
-add forward-to=198.18.0.1 regexp="qz.com" type=FWD
-add forward-to=198.18.0.1 regexp="cdn.seatguru.com" type=FWD
-add forward-to=198.18.0.1 regexp="secure.raxcdn.com" type=FWD
-add forward-to=198.18.0.1 regexp="redd.it" type=FWD
-add forward-to=198.18.0.1 regexp="reddit.com" type=FWD
-add forward-to=198.18.0.1 regexp="redditlist.com" type=FWD
-add forward-to=198.18.0.1 regexp="redditmedia.com" type=FWD
-add forward-to=198.18.0.1 regexp="redditstatic.com" type=FWD
-add forward-to=198.18.0.1 regexp="rixcloud.com" type=FWD
-add forward-to=198.18.0.1 regexp="rixcloud.us" type=FWD
-add forward-to=198.18.0.1 regexp="rsdlmonitor.com" type=FWD
-add forward-to=198.18.0.1 regexp="shadowsocks.be" type=FWD
-add forward-to=198.18.0.1 regexp="shadowsocks9.com" type=FWD
-add forward-to=198.18.0.1 regexp="tn1.shemalez.com" type=FWD
-add forward-to=198.18.0.1 regexp="tn2.shemalez.com" type=FWD
-add forward-to=198.18.0.1 regexp="tn3.shemalez.com" type=FWD
-add forward-to=198.18.0.1 regexp="static.shemalez.com" type=FWD
-add forward-to=198.18.0.1 regexp="six-degrees.io" type=FWD
-add forward-to=198.18.0.1 regexp="softfamous.com" type=FWD
-add forward-to=198.18.0.1 regexp="softsmirror.cf" type=FWD
-add forward-to=198.18.0.1 regexp="sosreader.com" type=FWD
-add forward-to=198.18.0.1 regexp="sspanel.net" type=FWD
-add forward-to=198.18.0.1 regexp="sulian.me" type=FWD
-add forward-to=198.18.0.1 regexp="supchina.com" type=FWD
-add forward-to=198.18.0.1 regexp="teddysun.com" type=FWD
-add forward-to=198.18.0.1 regexp="textnow.me" type=FWD
-add forward-to=198.18.0.1 regexp="tineye.com" type=FWD
-add forward-to=198.18.0.1 regexp="top10vpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="tubepornclassic.com" type=FWD
-add forward-to=198.18.0.1 regexp="uku.im" type=FWD
-add forward-to=198.18.0.1 regexp="unseen.is" type=FWD
-add forward-to=198.18.0.1 regexp="cn.uptodown.com" type=FWD
-add forward-to=198.18.0.1 regexp="uraban.me" type=FWD
-add forward-to=198.18.0.1 regexp="vrsmash.com" type=FWD
-add forward-to=198.18.0.1 regexp="vultryhw.com" type=FWD
-add forward-to=198.18.0.1 regexp="scache.vzw.com" type=FWD
-add forward-to=198.18.0.1 regexp="scache1.vzw.com" type=FWD
-add forward-to=198.18.0.1 regexp="scache2.vzw.com" type=FWD
-add forward-to=198.18.0.1 regexp="ss7.vzw.com" type=FWD
-add forward-to=198.18.0.1 regexp="ssr.tools" type=FWD
-add forward-to=198.18.0.1 regexp="steemit.com" type=FWD
-add forward-to=198.18.0.1 regexp="taiwanjustice.net" type=FWD
-add forward-to=198.18.0.1 regexp="tinc-vpn.org" type=FWD
-add forward-to=198.18.0.1 regexp="u15.info" type=FWD
-add forward-to=198.18.0.1 regexp="washingtonpost.com" type=FWD
-add forward-to=198.18.0.1 regexp="wenzhao.ca" type=FWD
-add forward-to=198.18.0.1 regexp="whatsonweibo.com" type=FWD
-add forward-to=198.18.0.1 regexp="wire.com" type=FWD
-add forward-to=198.18.0.1 regexp="blog.workflow.is" type=FWD
-add forward-to=198.18.0.1 regexp="xm.com" type=FWD
-add forward-to=198.18.0.1 regexp="xuehua.us" type=FWD
-add forward-to=198.18.0.1 regexp="yes-news.com" type=FWD
-add forward-to=198.18.0.1 regexp="yigeni.com" type=FWD
-add forward-to=198.18.0.1 regexp="you-get.org" type=FWD
-add forward-to=198.18.0.1 regexp="zzcloud.me" type=FWD
-add forward-to=198.18.0.1 regexp="aex.com" type=FWD
-add forward-to=198.18.0.1 regexp="allcoin.com" type=FWD
-add forward-to=198.18.0.1 regexp="adcex.com" type=FWD
-add forward-to=198.18.0.1 regexp="bcex.ca" type=FWD
-add forward-to=198.18.0.1 regexp="bibox.com" type=FWD
-add forward-to=198.18.0.1 regexp="big.one" type=FWD
-add forward-to=198.18.0.1 regexp="bigone.com" type=FWD
-add forward-to=198.18.0.1 regexp="binance.com" type=FWD
-add forward-to=198.18.0.1 regexp="bit-z.com" type=FWD
-add forward-to=198.18.0.1 regexp="bitz.ai" type=FWD
-add forward-to=198.18.0.1 regexp="bitbay.net" type=FWD
-add forward-to=198.18.0.1 regexp="bitcoinworld.com" type=FWD
-add forward-to=198.18.0.1 regexp="bitfinex.com" type=FWD
-add forward-to=198.18.0.1 regexp="bithumb.com" type=FWD
-add forward-to=198.18.0.1 regexp="bitinka.com.ar" type=FWD
-add forward-to=198.18.0.1 regexp="bitmex.com" type=FWD
-add forward-to=198.18.0.1 regexp="bnbstatic.com" type=FWD
-add forward-to=198.18.0.1 regexp="btc98.com" type=FWD
-add forward-to=198.18.0.1 regexp="btcbank.bank" type=FWD
-add forward-to=198.18.0.1 regexp="btctrade.im" type=FWD
-add forward-to=198.18.0.1 regexp="bybit.com" type=FWD
-add forward-to=198.18.0.1 regexp="c2cx.com" type=FWD
-add forward-to=198.18.0.1 regexp="chaoex.com" type=FWD
-add forward-to=198.18.0.1 regexp="cobinhood.com" type=FWD
-add forward-to=198.18.0.1 regexp="coin2co.in" type=FWD
-add forward-to=198.18.0.1 regexp="coinbene.com" type=FWD
-add forward-to=198.18.0.1 regexp="coinegg.com" type=FWD
-add forward-to=198.18.0.1 regexp="coinex.com" type=FWD
-add forward-to=198.18.0.1 regexp="coingecko.com" type=FWD
-add forward-to=198.18.0.1 regexp="coingi.com" type=FWD
-add forward-to=198.18.0.1 regexp="coinmarketcap.com" type=FWD
-add forward-to=198.18.0.1 regexp="coinrail.co.kr" type=FWD
-add forward-to=198.18.0.1 regexp="cointiger.com" type=FWD
-add forward-to=198.18.0.1 regexp="cointobe.com" type=FWD
-add forward-to=198.18.0.1 regexp="coinut.com" type=FWD
-add forward-to=198.18.0.1 regexp="discoins.com" type=FWD
-add forward-to=198.18.0.1 regexp="dragonex.io" type=FWD
-add forward-to=198.18.0.1 regexp="ebtcbank.com" type=FWD
-add forward-to=198.18.0.1 regexp="etherdelta.com" type=FWD
-add forward-to=198.18.0.1 regexp="ethermine.org" type=FWD
-add forward-to=198.18.0.1 regexp="etherscan.io" type=FWD
-add forward-to=198.18.0.1 regexp="exmo.com" type=FWD
-add forward-to=198.18.0.1 regexp="exrates.me" type=FWD
-add forward-to=198.18.0.1 regexp="exx.com" type=FWD
-add forward-to=198.18.0.1 regexp="f2pool.com" type=FWD
-add forward-to=198.18.0.1 regexp="fatbtc.com" type=FWD
-add forward-to=198.18.0.1 regexp="ftx.com" type=FWD
-add forward-to=198.18.0.1 regexp="gate.io" type=FWD
-add forward-to=198.18.0.1 regexp="gatecoin.com" type=FWD
-add forward-to=198.18.0.1 regexp="hbg.com" type=FWD
-add forward-to=198.18.0.1 regexp="hitbtc.com" type=FWD
-add forward-to=198.18.0.1 regexp="hotcoin.com" type=FWD
-add forward-to=198.18.0.1 regexp="huobi.co" type=FWD
-add forward-to=198.18.0.1 regexp="huobi.com" type=FWD
-add forward-to=198.18.0.1 regexp="huobi.me" type=FWD
-add forward-to=198.18.0.1 regexp="huobi.pro" type=FWD
-add forward-to=198.18.0.1 regexp="huobi.sc" type=FWD
-add forward-to=198.18.0.1 regexp="huobipro.com" type=FWD
-add forward-to=198.18.0.1 regexp="bx.in.th" type=FWD
-add forward-to=198.18.0.1 regexp="jex.com" type=FWD
-add forward-to=198.18.0.1 regexp="kex.com" type=FWD
-add forward-to=198.18.0.1 regexp="kraken.com" type=FWD
-add forward-to=198.18.0.1 regexp="kspcoin.com" type=FWD
-add forward-to=198.18.0.1 regexp="kucoin.com" type=FWD
-add forward-to=198.18.0.1 regexp="lbank.info" type=FWD
-add forward-to=198.18.0.1 regexp="liquiditytp.com" type=FWD
-add forward-to=198.18.0.1 regexp="livecoin.net" type=FWD
-add forward-to=198.18.0.1 regexp="localbitcoins.com" type=FWD
-add forward-to=198.18.0.1 regexp="mercatox.com" type=FWD
-add forward-to=198.18.0.1 regexp="oanda.com" type=FWD
-add forward-to=198.18.0.1 regexp="obyte.org" type=FWD
-add forward-to=198.18.0.1 regexp="oex.com" type=FWD
-add forward-to=198.18.0.1 regexp="okex.com" type=FWD
-add forward-to=198.18.0.1 regexp="okx.com" type=FWD
-add forward-to=198.18.0.1 regexp="opensea.io" type=FWD
-add forward-to=198.18.0.1 regexp="otcbtc.com" type=FWD
-add forward-to=198.18.0.1 regexp="paxful.com" type=FWD
-add forward-to=198.18.0.1 regexp="poolin.com" type=FWD
-add forward-to=198.18.0.1 regexp="rightbtc.com" type=FWD
-add forward-to=198.18.0.1 regexp="solv.finance" type=FWD
-add forward-to=198.18.0.1 regexp="topbtc.com" type=FWD
-add forward-to=198.18.0.1 regexp="tronscan.org" type=FWD
-add forward-to=198.18.0.1 regexp="xbtce.com" type=FWD
-add forward-to=198.18.0.1 regexp="yobit.net" type=FWD
-add forward-to=198.18.0.1 regexp="zb.com" type=FWD
-add forward-to=198.18.0.1 regexp="read01.com" type=FWD
-add forward-to=198.18.0.1 regexp="kknews.cc" type=FWD
-add forward-to=198.18.0.1 regexp="china-mmm.jp.net" type=FWD
-add forward-to=198.18.0.1 regexp="china-mmm.net" type=FWD
-add forward-to=198.18.0.1 regexp="china-mmm.sa.com" type=FWD
-add forward-to=198.18.0.1 regexp="amazon.co.jp" type=FWD
-add forward-to=198.18.0.1 regexp="amazon.com" type=FWD
-add forward-to=198.18.0.1 regexp="s3-ap-northeast-1.amazonaws.com" type=FWD
-add forward-to=198.18.0.1 regexp="aolchannels.aol.com" type=FWD
-add forward-to=198.18.0.1 regexp="video.aol.ca" type=FWD
-add forward-to=198.18.0.1 regexp="video.aol.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="video.aol.com" type=FWD
-add forward-to=198.18.0.1 regexp="video.aol.com" type=FWD
-add forward-to=198.18.0.1 regexp="search.aol.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.aolnews.com" type=FWD
-add forward-to=198.18.0.1 regexp="avmoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="avmoo.net" type=FWD
-add forward-to=198.18.0.1 regexp="avmoo.pw" type=FWD
-add forward-to=198.18.0.1 regexp="javmoo.xyz" type=FWD
-add forward-to=198.18.0.1 regexp="javtag.com" type=FWD
-add forward-to=198.18.0.1 regexp="javzoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="bbc.com" type=FWD
-add forward-to=198.18.0.1 regexp="bbc.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="bbci.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="bbcchinese.com" type=FWD
-add forward-to=198.18.0.1 regexp="bbc.in" type=FWD
-add forward-to=198.18.0.1 regexp="bloomberg.cn" type=FWD
-add forward-to=198.18.0.1 regexp="bloomberg.com" type=FWD
-add forward-to=198.18.0.1 regexp="bloomberg.de" type=FWD
-add forward-to=198.18.0.1 regexp="bloomberg.de" type=FWD
-add forward-to=198.18.0.1 regexp="bloombergview.com" type=FWD
-add forward-to=198.18.0.1 regexp="d1b183sg0nvnuh.cloudfront.net" type=FWD
-add forward-to=198.18.0.1 regexp="d1b183sg0nvnuh.cloudfront.net" type=FWD
-add forward-to=198.18.0.1 regexp="d1c37gjwa26taa.cloudfront.net" type=FWD
-add forward-to=198.18.0.1 regexp="d1c37gjwa26taa.cloudfront.net" type=FWD
-add forward-to=198.18.0.1 regexp="d3c33hcgiwev3.cloudfront.net" type=FWD
-add forward-to=198.18.0.1 regexp="d3c33hcgiwev3.cloudfront.net" type=FWD
-add forward-to=198.18.0.1 regexp="d3rhr7kgmtrq1v.cloudfront.net" type=FWD
-add forward-to=198.18.0.1 regexp="dynu.com" type=FWD
-add forward-to=198.18.0.1 regexp="accountkit.com" type=FWD
-add forward-to=198.18.0.1 regexp="cdninstagram.com" type=FWD
-add forward-to=198.18.0.1 regexp="cdninstagram.com" type=FWD
-add forward-to=198.18.0.1 regexp="f8.com" type=FWD
-add forward-to=198.18.0.1 regexp="facebook.br" type=FWD
-add forward-to=198.18.0.1 regexp="facebook.com" type=FWD
-add forward-to=198.18.0.1 regexp="facebook.de" type=FWD
-add forward-to=198.18.0.1 regexp="facebook.design" type=FWD
-add forward-to=198.18.0.1 regexp="connect.facebook.net" type=FWD
-add forward-to=198.18.0.1 regexp="facebook.hu" type=FWD
-add forward-to=198.18.0.1 regexp="facebook.in" type=FWD
-add forward-to=198.18.0.1 regexp="facebook.nl" type=FWD
-add forward-to=198.18.0.1 regexp="facebook.se" type=FWD
-add forward-to=198.18.0.1 regexp="facebookmail.com" type=FWD
-add forward-to=198.18.0.1 regexp="fb.com" type=FWD
-add forward-to=198.18.0.1 regexp="fb.me" type=FWD
-add forward-to=198.18.0.1 regexp="fb.watch" type=FWD
-add forward-to=198.18.0.1 regexp="fbcdn.net" type=FWD
-add forward-to=198.18.0.1 regexp="fbsbx.com" type=FWD
-add forward-to=198.18.0.1 regexp="fbaddins.com" type=FWD
-add forward-to=198.18.0.1 regexp="fbworkmail.com" type=FWD
-add forward-to=198.18.0.1 regexp="instagram.com" type=FWD
-add forward-to=198.18.0.1 regexp="m.me" type=FWD
-add forward-to=198.18.0.1 regexp="messenger.com" type=FWD
-add forward-to=198.18.0.1 regexp="meta.com" type=FWD
-add forward-to=198.18.0.1 regexp="oculus.com" type=FWD
-add forward-to=198.18.0.1 regexp="oculuscdn.com" type=FWD
-add forward-to=198.18.0.1 regexp="rocksdb.org" type=FWD
-add forward-to=198.18.0.1 regexp="parse.com" type=FWD
-add forward-to=198.18.0.1 regexp="thefacebook.com" type=FWD
-add forward-to=198.18.0.1 regexp="threads.net" type=FWD
-add forward-to=198.18.0.1 regexp="whatsapp.com" type=FWD
-add forward-to=198.18.0.1 regexp="whatsapp.net" type=FWD
-add forward-to=198.18.0.1 regexp="auntology.fandom.com" type=FWD
-add forward-to=198.18.0.1 regexp="hongkong.fandom.com" type=FWD
-add forward-to=198.18.0.1 regexp="ftchinese.com" type=FWD
-add forward-to=198.18.0.1 regexp="1e100.net" type=FWD
-add forward-to=198.18.0.1 regexp="466453.com" type=FWD
-add forward-to=198.18.0.1 regexp="abc.xyz" type=FWD
-add forward-to=198.18.0.1 regexp="about.google" type=FWD
-add forward-to=198.18.0.1 regexp="admob.com" type=FWD
-add forward-to=198.18.0.1 regexp="adsense.com" type=FWD
-add forward-to=198.18.0.1 regexp="advertisercommunity.com" type=FWD
-add forward-to=198.18.0.1 regexp="agoogleaday.com" type=FWD
-add forward-to=198.18.0.1 regexp="ai.google" type=FWD
-add forward-to=198.18.0.1 regexp="ampproject.org" type=FWD
-add forward-to=198.18.0.1 regexp="android.com" type=FWD
-add forward-to=198.18.0.1 regexp="androidify.com" type=FWD
-add forward-to=198.18.0.1 regexp="androidtv.com" type=FWD
-add forward-to=198.18.0.1 regexp="api.ai" type=FWD
-add forward-to=198.18.0.1 regexp="appspot.com" type=FWD
-add forward-to=198.18.0.1 regexp="autodraw.com" type=FWD
-add forward-to=198.18.0.1 regexp="blog.google" type=FWD
-add forward-to=198.18.0.1 regexp="blogblog.com" type=FWD
-add forward-to=198.18.0.1 regexp="blogspot.com" type=FWD
-add forward-to=198.18.0.1 regexp="business.page" type=FWD
-add forward-to=198.18.0.1 regexp="certificate-transparency.org" type=FWD
-add forward-to=198.18.0.1 regexp="chrome.com" type=FWD
-add forward-to=198.18.0.1 regexp="chromecast.com" type=FWD
-add forward-to=198.18.0.1 regexp="chromeenterprise.google" type=FWD
-add forward-to=198.18.0.1 regexp="chromeexperiments.com" type=FWD
-add forward-to=198.18.0.1 regexp="chromercise.com" type=FWD
-add forward-to=198.18.0.1 regexp="chromestatus.com" type=FWD
-add forward-to=198.18.0.1 regexp="chromium.org" type=FWD
-add forward-to=198.18.0.1 regexp="cloudfunctions.net" type=FWD
-add forward-to=198.18.0.1 regexp="com.google" type=FWD
-add forward-to=198.18.0.1 regexp="crbug.com" type=FWD
-add forward-to=198.18.0.1 regexp="creativelab5.com" type=FWD
-add forward-to=198.18.0.1 regexp="crisisresponse.google" type=FWD
-add forward-to=198.18.0.1 regexp="crrev.com" type=FWD
-add forward-to=198.18.0.1 regexp="data-vocabulary.org" type=FWD
-add forward-to=198.18.0.1 regexp="debug.com" type=FWD
-add forward-to=198.18.0.1 regexp="deepmind.com" type=FWD
-add forward-to=198.18.0.1 regexp="deja.com" type=FWD
-add forward-to=198.18.0.1 regexp="design.google" type=FWD
-add forward-to=198.18.0.1 regexp="digisfera.com" type=FWD
-add forward-to=198.18.0.1 regexp="dns.google" type=FWD
-add forward-to=198.18.0.1 regexp="hub.docker.com" type=FWD
-add forward-to=198.18.0.1 regexp="domains.google" type=FWD
-add forward-to=198.18.0.1 regexp="duck.com" type=FWD
-add forward-to=198.18.0.1 regexp="environment.google" type=FWD
-add forward-to=198.18.0.1 regexp="feedburner.com" type=FWD
-add forward-to=198.18.0.1 regexp="firebaseio.com" type=FWD
-add forward-to=198.18.0.1 regexp="g.co" type=FWD
-add forward-to=198.18.0.1 regexp="gcr.io" type=FWD
-add forward-to=198.18.0.1 regexp="get.app" type=FWD
-add forward-to=198.18.0.1 regexp="get.dev" type=FWD
-add forward-to=198.18.0.1 regexp="get.how" type=FWD
-add forward-to=198.18.0.1 regexp="get.page" type=FWD
-add forward-to=198.18.0.1 regexp="getmdl.io" type=FWD
-add forward-to=198.18.0.1 regexp="getoutline.org" type=FWD
-add forward-to=198.18.0.1 regexp="ggpht.com" type=FWD
-add forward-to=198.18.0.1 regexp="gmail.com" type=FWD
-add forward-to=198.18.0.1 regexp="gmodules.com" type=FWD
-add forward-to=198.18.0.1 regexp="godoc.org" type=FWD
-add forward-to=198.18.0.1 regexp="golang.org" type=FWD
-add forward-to=198.18.0.1 regexp="goo.gl" type=FWD
-add forward-to=198.18.0.1 regexp="goo.gle" type=FWD
-add forward-to=198.18.0.1 regexp="google.dev" type=FWD
-add forward-to=198.18.0.1 regexp="googleapis.cn" type=FWD
-add forward-to=198.18.0.1 regexp="googleapis.com" type=FWD
-add forward-to=198.18.0.1 regexp="googleapps.com" type=FWD
-add forward-to=198.18.0.1 regexp="googleartproject.com" type=FWD
-add forward-to=198.18.0.1 regexp="googleblog.com" type=FWD
-add forward-to=198.18.0.1 regexp="googlebot.com" type=FWD
-add forward-to=198.18.0.1 regexp="googlechinawebmaster.com" type=FWD
-add forward-to=198.18.0.1 regexp="googlecode.com" type=FWD
-add forward-to=198.18.0.1 regexp="googlecommerce.com" type=FWD
-add forward-to=198.18.0.1 regexp="googledomains.com" type=FWD
-add forward-to=198.18.0.1 regexp="googlearth.com" type=FWD
-add forward-to=198.18.0.1 regexp="googleearth.com" type=FWD
-add forward-to=198.18.0.1 regexp="googledrive.com" type=FWD
-add forward-to=198.18.0.1 regexp="googlefiber.net" type=FWD
-add forward-to=198.18.0.1 regexp="googlegroups.com" type=FWD
-add forward-to=198.18.0.1 regexp="googlehosted.com" type=FWD
-add forward-to=198.18.0.1 regexp="googleideas.com" type=FWD
-add forward-to=198.18.0.1 regexp="googleinsidesearch.com" type=FWD
-add forward-to=198.18.0.1 regexp="googlelabs.com" type=FWD
-add forward-to=198.18.0.1 regexp="googlemail.com" type=FWD
-add forward-to=198.18.0.1 regexp="googlemashups.com" type=FWD
-add forward-to=198.18.0.1 regexp="googlepagecreator.com" type=FWD
-add forward-to=198.18.0.1 regexp="googleplay.com" type=FWD
-add forward-to=198.18.0.1 regexp="googleplus.com" type=FWD
-add forward-to=198.18.0.1 regexp="googlescholar.comUSA" type=FWD
-add forward-to=198.18.0.1 regexp="googlesource.com" type=FWD
-add forward-to=198.18.0.1 regexp="googleusercontent.com" type=FWD
-add forward-to=198.18.0.1 regexp="googlevideo.com" type=FWD
-add forward-to=198.18.0.1 regexp="googleweblight.com" type=FWD
-add forward-to=198.18.0.1 regexp="googlezip.net" type=FWD
-add forward-to=198.18.0.1 regexp="groups.google.cn" type=FWD
-add forward-to=198.18.0.1 regexp="grow.google" type=FWD
-add forward-to=198.18.0.1 regexp="gstatic.com" type=FWD
-add forward-to=198.18.0.1 regexp="gvt0.com" type=FWD
-add forward-to=198.18.0.1 regexp="gvt1.com" type=FWD
-add forward-to=198.18.0.1 regexp="gvt3.com" type=FWD
-add forward-to=198.18.0.1 regexp="gwtproject.org" type=FWD
-add forward-to=198.18.0.1 regexp="html5rocks.com" type=FWD
-add forward-to=198.18.0.1 regexp="iam.soy" type=FWD
-add forward-to=198.18.0.1 regexp="igoogle.com" type=FWD
-add forward-to=198.18.0.1 regexp="itasoftware.com" type=FWD
-add forward-to=198.18.0.1 regexp="lers.google" type=FWD
-add forward-to=198.18.0.1 regexp="like.com" type=FWD
-add forward-to=198.18.0.1 regexp="madewithcode.com" type=FWD
-add forward-to=198.18.0.1 regexp="material.io" type=FWD
-add forward-to=198.18.0.1 regexp="nic.google" type=FWD
-add forward-to=198.18.0.1 regexp="on2.com" type=FWD
-add forward-to=198.18.0.1 regexp="opensource.google" type=FWD
-add forward-to=198.18.0.1 regexp="panoramio.com" type=FWD
-add forward-to=198.18.0.1 regexp="passwords.google" type=FWD
-add forward-to=198.18.0.1 regexp="picasaweb.com" type=FWD
-add forward-to=198.18.0.1 regexp="pki.goog" type=FWD
-add forward-to=198.18.0.1 regexp="plus.codes" type=FWD
-add forward-to=198.18.0.1 regexp="polymer-project.org" type=FWD
-add forward-to=198.18.0.1 regexp="pride.google" type=FWD
-add forward-to=198.18.0.1 regexp="questvisual.com" type=FWD
-add forward-to=198.18.0.1 regexp="admin.recaptcha.net" type=FWD
-add forward-to=198.18.0.1 regexp="api.recaptcha.net" type=FWD
-add forward-to=198.18.0.1 regexp="api-secure.recaptcha.net" type=FWD
-add forward-to=198.18.0.1 regexp="api-verify.recaptcha.net" type=FWD
-add forward-to=198.18.0.1 regexp="redhotlabs.com" type=FWD
-add forward-to=198.18.0.1 regexp="registry.google" type=FWD
-add forward-to=198.18.0.1 regexp="research.google" type=FWD
-add forward-to=198.18.0.1 regexp="safety.google" type=FWD
-add forward-to=198.18.0.1 regexp="savethedate.foo" type=FWD
-add forward-to=198.18.0.1 regexp="schema.org" type=FWD
-add forward-to=198.18.0.1 regexp="shattered.io" type=FWD
-add forward-to=198.18.0.1 regexp="sipml5.org" type=FWD
-add forward-to=198.18.0.1 regexp="stories.google" type=FWD
-add forward-to=198.18.0.1 regexp="sustainability.google" type=FWD
-add forward-to=198.18.0.1 regexp="synergyse.com" type=FWD
-add forward-to=198.18.0.1 regexp="teachparentstech.org" type=FWD
-add forward-to=198.18.0.1 regexp="tensorflow.org" type=FWD
-add forward-to=198.18.0.1 regexp="tfhub.dev" type=FWD
-add forward-to=198.18.0.1 regexp="thinkwithgoogle.com" type=FWD
-add forward-to=198.18.0.1 regexp="tiltbrush.com" type=FWD
-add forward-to=198.18.0.1 regexp="translate.goog" type=FWD
-add forward-to=198.18.0.1 regexp="tv.google" type=FWD
-add forward-to=198.18.0.1 regexp="urchin.com" type=FWD
-add forward-to=198.18.0.1 regexp="waveprotocol.org" type=FWD
-add forward-to=198.18.0.1 regexp="waymo.com" type=FWD
-add forward-to=198.18.0.1 regexp="web.dev" type=FWD
-add forward-to=198.18.0.1 regexp="webmproject.org" type=FWD
-add forward-to=198.18.0.1 regexp="webpkgcache.com" type=FWD
-add forward-to=198.18.0.1 regexp="webrtc.org" type=FWD
-add forward-to=198.18.0.1 regexp="whatbrowser.org" type=FWD
-add forward-to=198.18.0.1 regexp="widevine.com" type=FWD
-add forward-to=198.18.0.1 regexp="withgoogle.com" type=FWD
-add forward-to=198.18.0.1 regexp="withyoutube.com" type=FWD
-add forward-to=198.18.0.1 regexp="x.company" type=FWD
-add forward-to=198.18.0.1 regexp="xn--ngstr-lra8j.com" type=FWD
-add forward-to=198.18.0.1 regexp="youtu.be" type=FWD
-add forward-to=198.18.0.1 regexp="youtube.com" type=FWD
-add forward-to=198.18.0.1 regexp="youtube-nocookie.com" type=FWD
-add forward-to=198.18.0.1 regexp="youtubeeducation.com" type=FWD
-add forward-to=198.18.0.1 regexp="youtubegaming.com" type=FWD
-add forward-to=198.18.0.1 regexp="youtubekids.com" type=FWD
-add forward-to=198.18.0.1 regexp="yt.be" type=FWD
-add forward-to=198.18.0.1 regexp="ytimg.com" type=FWD
-add forward-to=198.18.0.1 regexp="zynamics.com" type=FWD
-add forward-to=198.18.0.1 regexp="naughtyamerica.com" type=FWD
-add forward-to=198.18.0.1 regexp="static01.nyt.com" type=FWD
-add forward-to=198.18.0.1 regexp="nyt.com" type=FWD
-add forward-to=198.18.0.1 regexp="nytchina.com" type=FWD
-add forward-to=198.18.0.1 regexp="nytcn.me" type=FWD
-add forward-to=198.18.0.1 regexp="nytcn.me" type=FWD
-add forward-to=198.18.0.1 regexp="nytco.com" type=FWD
-add forward-to=198.18.0.1 regexp="nyti.ms" type=FWD
-add forward-to=198.18.0.1 regexp="nytimes.com" type=FWD
-add forward-to=198.18.0.1 regexp="nytimg.com" type=FWD
-add forward-to=198.18.0.1 regexp="userapi.nytlog.com" type=FWD
-add forward-to=198.18.0.1 regexp="cn.nytstyle.com" type=FWD
-add forward-to=198.18.0.1 regexp="nytstyle.com" type=FWD
-add forward-to=198.18.0.1 regexp="steamcommunity.com" type=FWD
-add forward-to=198.18.0.1 regexp="store.steampowered.com" type=FWD
-add forward-to=198.18.0.1 regexp="cdn-telegram.org" type=FWD
-add forward-to=198.18.0.1 regexp="comments.app" type=FWD
-add forward-to=198.18.0.1 regexp="graph.org" type=FWD
-add forward-to=198.18.0.1 regexp="quiz.directory" type=FWD
-add forward-to=198.18.0.1 regexp="t.me" type=FWD
-add forward-to=198.18.0.1 regexp="updates.tdesktop.com" type=FWD
-add forward-to=198.18.0.1 regexp="telegram.dog" type=FWD
-add forward-to=198.18.0.1 regexp="telegram.me" type=FWD
-add forward-to=198.18.0.1 regexp="telegram.org" type=FWD
-add forward-to=198.18.0.1 regexp="telegram.space" type=FWD
-add forward-to=198.18.0.1 regexp="telegram-cdn.org" type=FWD
-add forward-to=198.18.0.1 regexp="telegramdownload.com" type=FWD
-add forward-to=198.18.0.1 regexp="telegra.ph" type=FWD
-add forward-to=198.18.0.1 regexp="telesco.pe" type=FWD
-add forward-to=198.18.0.1 regexp="jtvnw.net" type=FWD
-add forward-to=198.18.0.1 regexp="ttvnw.net" type=FWD
-add forward-to=198.18.0.1 regexp="twitch.tv" type=FWD
-add forward-to=198.18.0.1 regexp="twitchcdn.net" type=FWD
-add forward-to=198.18.0.1 regexp="periscope.tv" type=FWD
-add forward-to=198.18.0.1 regexp="pscp.tv" type=FWD
-add forward-to=198.18.0.1 regexp="t.co" type=FWD
-add forward-to=198.18.0.1 regexp="tweetdeck.com" type=FWD
-add forward-to=198.18.0.1 regexp="twimg.com" type=FWD
-add forward-to=198.18.0.1 regexp="twitpic.com" type=FWD
-add forward-to=198.18.0.1 regexp="twitter.com" type=FWD
-add forward-to=198.18.0.1 regexp="twitter.jp" type=FWD
-add forward-to=198.18.0.1 regexp="vine.co" type=FWD
-add forward-to=198.18.0.1 regexp="x.com" type=FWD
-add forward-to=198.18.0.1 regexp="gov.taipei" type=FWD
-add forward-to=198.18.0.1 regexp="aiss.anws.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="archives.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="tacc.cwb.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="data.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="epa.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="fa.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="fda.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="hpa.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="immigration.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="itaiwan.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="li.taipei" type=FWD
-add forward-to=198.18.0.1 regexp="mjib.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="moeaic.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="mofa.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="mol.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="mvdis.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="nat.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="nhi.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="npa.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="nsc.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="ntbk.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="ntbna.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="ntbt.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="ntsna.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="pcc.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="stat.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="taipei.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="taiwanjobs.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="thb.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="tipo.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="wda.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="teco-hk.org" type=FWD
-add forward-to=198.18.0.1 regexp="teco-mo.org" type=FWD
-add forward-to=198.18.0.1 regexp="npm.gov.tw" type=FWD
-add forward-to=198.18.0.1 regexp="kinmen.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="www.americorps.gov" type=FWD
-add forward-to=198.18.0.1 regexp="jpl.nasa.gov" type=FWD
-add forward-to=198.18.0.1 regexp="pds.nasa.gov" type=FWD
-add forward-to=198.18.0.1 regexp="solarsystem.nasa.gov" type=FWD
-add forward-to=198.18.0.1 regexp="iipdigital.usembassy.gov" type=FWD
-add forward-to=198.18.0.1 regexp="usfk.mil" type=FWD
-add forward-to=198.18.0.1 regexp="usmc.mil" type=FWD
-add forward-to=198.18.0.1 regexp="tarr.uspto.gov" type=FWD
-add forward-to=198.18.0.1 regexp="tsdr.uspto.gov" type=FWD
-add forward-to=198.18.0.1 regexp="v2ex.com" type=FWD
-add forward-to=198.18.0.1 regexp="cn.voa.mobi" type=FWD
-add forward-to=198.18.0.1 regexp="tw.voa.mobi" type=FWD
-add forward-to=198.18.0.1 regexp="voacambodia.com" type=FWD
-add forward-to=198.18.0.1 regexp="voachineseblog.com" type=FWD
-add forward-to=198.18.0.1 regexp="voacantonese.com" type=FWD
-add forward-to=198.18.0.1 regexp="voachinese.com" type=FWD
-add forward-to=198.18.0.1 regexp="voachinese.com" type=FWD
-add forward-to=198.18.0.1 regexp="voagd.com" type=FWD
-add forward-to=198.18.0.1 regexp="voaindonesia.com" type=FWD
-add forward-to=198.18.0.1 regexp="voanews.com" type=FWD
-add forward-to=198.18.0.1 regexp="voatibetan.com" type=FWD
-add forward-to=198.18.0.1 regexp="voatibetan.com" type=FWD
-add forward-to=198.18.0.1 regexp="voatibetanenglish.com" type=FWD
-add forward-to=198.18.0.1 regexp="zh.ecdm.wikia.com" type=FWD
-add forward-to=198.18.0.1 regexp="evchk.wikia.com" type=FWD
-add forward-to=198.18.0.1 regexp="fq.wikia.com" type=FWD
-add forward-to=198.18.0.1 regexp="zh.pttpedia.wikia.com" type=FWD
-add forward-to=198.18.0.1 regexp="cn.uncyclopedia.wikia.com" type=FWD
-add forward-to=198.18.0.1 regexp="zh.uncyclopedia.wikia.com" type=FWD
-add forward-to=198.18.0.1 regexp="wikimedia.org" type=FWD
-add forward-to=198.18.0.1 regexp="zh.wikisource.org" type=FWD
-add forward-to=198.18.0.1 regexp="zh.wikiquote.org" type=FWD
-add forward-to=198.18.0.1 regexp="zh.wikinews.org" type=FWD
-add forward-to=198.18.0.1 regexp="ja.wikipedia.org" type=FWD
-add forward-to=198.18.0.1 regexp="wikipedia.org" type=FWD
-add forward-to=198.18.0.1 regexp="data.flurry.com" type=FWD
-add forward-to=198.18.0.1 regexp="page.bid.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="tw.bid.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="auctions.yahoo.co.jp" type=FWD
-add forward-to=198.18.0.1 regexp="blogs.yahoo.co.jp" type=FWD
-add forward-to=198.18.0.1 regexp="search.yahoo.co.jp" type=FWD
-add forward-to=198.18.0.1 regexp="buy.yahoo.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="hk.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="hk.knowledge.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="tw.money.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="hk.myblog.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="news.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="hk.news.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="hk.rd.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="hk.search.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="hk.video.news.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="meme.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="tw.answers.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="tw.answers.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="tw.knowledge.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="tw.mall.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="tw.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="tw.mobi.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="tw.myblog.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="tw.news.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="pulse.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="search.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="upcoming.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="video.yahoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="yahoo.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="duckduckgo-owned-server.yahoo.net" type=FWD
-add forward-to=198.18.0.1 regexp="000webhost.com" type=FWD
-add forward-to=198.18.0.1 regexp="0rz.tw" type=FWD
-add forward-to=198.18.0.1 regexp="1-apple.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="1-apple.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="1000giri.net" type=FWD
-add forward-to=198.18.0.1 regexp="10beasts.net" type=FWD
-add forward-to=198.18.0.1 regexp="10musume.com" type=FWD
-add forward-to=198.18.0.1 regexp="123rf.com" type=FWD
-add forward-to=198.18.0.1 regexp="12bet.com" type=FWD
-add forward-to=198.18.0.1 regexp="12vpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="12vpn.net" type=FWD
-add forward-to=198.18.0.1 regexp="1337x.to" type=FWD
-add forward-to=198.18.0.1 regexp="141hongkong.com" type=FWD
-add forward-to=198.18.0.1 regexp="141jj.com" type=FWD
-add forward-to=198.18.0.1 regexp="1688.com.au" type=FWD
-add forward-to=198.18.0.1 regexp="173ng.com" type=FWD
-add forward-to=198.18.0.1 regexp="18board.com" type=FWD
-add forward-to=198.18.0.1 regexp="18board.info" type=FWD
-add forward-to=198.18.0.1 regexp="18onlygirls.com" type=FWD
-add forward-to=198.18.0.1 regexp="zhao.1984.city" type=FWD
-add forward-to=198.18.0.1 regexp="zhao.1984.city" type=FWD
-add forward-to=198.18.0.1 regexp="1984bbs.com" type=FWD
-add forward-to=198.18.0.1 regexp="1984bbs.com" type=FWD
-add forward-to=198.18.0.1 regexp="1984bbs.org" type=FWD
-add forward-to=198.18.0.1 regexp="1991way.com" type=FWD
-add forward-to=198.18.0.1 regexp="1bao.org" type=FWD
-add forward-to=198.18.0.1 regexp="1pondo.tv" type=FWD
-add forward-to=198.18.0.1 regexp="2008xianzhang.info" type=FWD
-add forward-to=198.18.0.1 regexp="2017.hk" type=FWD
-add forward-to=198.18.0.1 regexp="2021hkcharter.com" type=FWD
-add forward-to=198.18.0.1 regexp="2047.name" type=FWD
-add forward-to=198.18.0.1 regexp="21andy.com" type=FWD
-add forward-to=198.18.0.1 regexp="21sextury.com" type=FWD
-add forward-to=198.18.0.1 regexp="233abc.com" type=FWD
-add forward-to=198.18.0.1 regexp="24hrs.ca" type=FWD
-add forward-to=198.18.0.1 regexp="24smile.org" type=FWD
-add forward-to=198.18.0.1 regexp="2lipstube.com" type=FWD
-add forward-to=198.18.0.1 regexp="30boxes.com" type=FWD
-add forward-to=198.18.0.1 regexp="32red.com" type=FWD
-add forward-to=198.18.0.1 regexp="36rain.com" type=FWD
-add forward-to=198.18.0.1 regexp="3arabtv.com" type=FWD
-add forward-to=198.18.0.1 regexp="404museum.com" type=FWD
-add forward-to=198.18.0.1 regexp="4bluestones.biz" type=FWD
-add forward-to=198.18.0.1 regexp="4everproxy.com" type=FWD
-add forward-to=198.18.0.1 regexp="4rbtv.com" type=FWD
-add forward-to=198.18.0.1 regexp="4shared.com" type=FWD
-add forward-to=198.18.0.1 regexp="taiwannation.50webs.com" type=FWD
-add forward-to=198.18.0.1 regexp="51.ca" type=FWD
-add forward-to=198.18.0.1 regexp="51jav.org" type=FWD
-add forward-to=198.18.0.1 regexp="51luoben.com" type=FWD
-add forward-to=198.18.0.1 regexp="5278.cc" type=FWD
-add forward-to=198.18.0.1 regexp="5aimiku.com" type=FWD
-add forward-to=198.18.0.1 regexp="5i01.com" type=FWD
-add forward-to=198.18.0.1 regexp="63i.com" type=FWD
-add forward-to=198.18.0.1 regexp="64tianwang.com" type=FWD
-add forward-to=198.18.0.1 regexp="64wiki.com" type=FWD
-add forward-to=198.18.0.1 regexp="666kb.com" type=FWD
-add forward-to=198.18.0.1 regexp="6do.news" type=FWD
-add forward-to=198.18.0.1 regexp="6park.com" type=FWD
-add forward-to=198.18.0.1 regexp="6parkbbs.com" type=FWD
-add forward-to=198.18.0.1 regexp="6parker.com" type=FWD
-add forward-to=198.18.0.1 regexp="6parknews.com" type=FWD
-add forward-to=198.18.0.1 regexp="7capture.com" type=FWD
-add forward-to=198.18.0.1 regexp="8-d.com" type=FWD
-add forward-to=198.18.0.1 regexp="85cc.net" type=FWD
-add forward-to=198.18.0.1 regexp="85cc.us" type=FWD
-add forward-to=198.18.0.1 regexp="85st.com" type=FWD
-add forward-to=198.18.0.1 regexp="881903.com" type=FWD
-add forward-to=198.18.0.1 regexp="89.64.charter.constitutionalism.solutions" type=FWD
-add forward-to=198.18.0.1 regexp="89-64.org" type=FWD
-add forward-to=198.18.0.1 regexp="89-64.org" type=FWD
-add forward-to=198.18.0.1 regexp="8964museum.com" type=FWD
-add forward-to=198.18.0.1 regexp="8z1.net" type=FWD
-add forward-to=198.18.0.1 regexp="908taiwan.org" type=FWD
-add forward-to=198.18.0.1 regexp="91porn.com" type=FWD
-add forward-to=198.18.0.1 regexp="91vps.club" type=FWD
-add forward-to=198.18.0.1 regexp="991.com" type=FWD
-add forward-to=198.18.0.1 regexp="99btgc01.com" type=FWD
-add forward-to=198.18.0.1 regexp="99cn.info" type=FWD
-add forward-to=198.18.0.1 regexp="9bis.com" type=FWD
-add forward-to=198.18.0.1 regexp="9bis.net" type=FWD
-add forward-to=198.18.0.1 regexp="9news.com.au" type=FWD
-add forward-to=198.18.0.1 regexp="tibet.a.se" type=FWD
-add forward-to=198.18.0.1 regexp="a-normal-day.com" type=FWD
-add forward-to=198.18.0.1 regexp="a5.com.ru" type=FWD
-add forward-to=198.18.0.1 regexp="aamacau.com" type=FWD
-add forward-to=198.18.0.1 regexp="abc.net.au" type=FWD
-add forward-to=198.18.0.1 regexp="abclite.net" type=FWD
-add forward-to=198.18.0.1 regexp="www.abclite.net" type=FWD
-add forward-to=198.18.0.1 regexp="aboluowang.com" type=FWD
-add forward-to=198.18.0.1 regexp="about.me" type=FWD
-add forward-to=198.18.0.1 regexp="acast.com" type=FWD
-add forward-to=198.18.0.1 regexp="acevpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="acg18.me" type=FWD
-add forward-to=198.18.0.1 regexp="acgbox.org" type=FWD
-add forward-to=198.18.0.1 regexp="acgkj.com" type=FWD
-add forward-to=198.18.0.1 regexp="acgnx.se" type=FWD
-add forward-to=198.18.0.1 regexp="actfortibet.org" type=FWD
-add forward-to=198.18.0.1 regexp="actimes.com.au" type=FWD
-add forward-to=198.18.0.1 regexp="activpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="activpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="aculo.us" type=FWD
-add forward-to=198.18.0.1 regexp="addictedtocoffee.de" type=FWD
-add forward-to=198.18.0.1 regexp="addyoutube.com" type=FWD
-add forward-to=198.18.0.1 regexp="adpl.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="adult-sex-games.com" type=FWD
-add forward-to=198.18.0.1 regexp="adultfriendfinder.com" type=FWD
-add forward-to=198.18.0.1 regexp="adultkeep.net" type=FWD
-add forward-to=198.18.0.1 regexp="advanscene.com" type=FWD
-add forward-to=198.18.0.1 regexp="advertfan.com" type=FWD
-add forward-to=198.18.0.1 regexp="aei.org" type=FWD
-add forward-to=198.18.0.1 regexp="aenhancers.com" type=FWD
-add forward-to=198.18.0.1 regexp="af.mil" type=FWD
-add forward-to=198.18.0.1 regexp="afantibbs.com" type=FWD
-add forward-to=198.18.0.1 regexp="afr.com" type=FWD
-add forward-to=198.18.0.1 regexp="ai-kan.net" type=FWD
-add forward-to=198.18.0.1 regexp="ai-wen.net" type=FWD
-add forward-to=198.18.0.1 regexp="aiph.net" type=FWD
-add forward-to=198.18.0.1 regexp="airconsole.com" type=FWD
-add forward-to=198.18.0.1 regexp="download.aircrack-ng.org" type=FWD
-add forward-to=198.18.0.1 regexp="airvpn.org" type=FWD
-add forward-to=198.18.0.1 regexp="ait.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="aiweiwei.com" type=FWD
-add forward-to=198.18.0.1 regexp="aiweiweiblog.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.ajsands.com" type=FWD
-add forward-to=198.18.0.1 regexp="a248.e.akamai.net" type=FWD
-add forward-to=198.18.0.1 regexp="a248.e.akamai.net" type=FWD
-add forward-to=198.18.0.1 regexp="rfalive1.akacast.akamaistream.net" type=FWD
-add forward-to=198.18.0.1 regexp="voa-11.akacast.akamaistream.net" type=FWD
-add forward-to=198.18.0.1 regexp="abematv.akamaized.net" type=FWD
-add forward-to=198.18.0.1 regexp="linear-abematv.akamaized.net" type=FWD
-add forward-to=198.18.0.1 regexp="vod-abematv.akamaized.net" type=FWD
-add forward-to=198.18.0.1 regexp="rthklive2-lh.akamaihd.net" type=FWD
-add forward-to=198.18.0.1 regexp="akademiye.org" type=FWD
-add forward-to=198.18.0.1 regexp="akiba-online.com" type=FWD
-add forward-to=198.18.0.1 regexp="akow.org" type=FWD
-add forward-to=198.18.0.1 regexp="al-qimmah.net" type=FWD
-add forward-to=198.18.0.1 regexp="alabout.com" type=FWD
-add forward-to=198.18.0.1 regexp="alanhou.com" type=FWD
-add forward-to=198.18.0.1 regexp="alasbarricadas.org" type=FWD
-add forward-to=198.18.0.1 regexp="alexlur.org" type=FWD
-add forward-to=198.18.0.1 regexp="alforattv.net" type=FWD
-add forward-to=198.18.0.1 regexp="aliengu.com" type=FWD
-add forward-to=198.18.0.1 regexp="alive.bar" type=FWD
-add forward-to=198.18.0.1 regexp="alkasir.com" type=FWD
-add forward-to=198.18.0.1 regexp="all4mom.org" type=FWD
-add forward-to=198.18.0.1 regexp="allconnected.co" type=FWD
-add forward-to=198.18.0.1 regexp="alldrawnsex.com" type=FWD
-add forward-to=198.18.0.1 regexp="allfinegirls.com" type=FWD
-add forward-to=198.18.0.1 regexp="allgirlsallowed.org" type=FWD
-add forward-to=198.18.0.1 regexp="alliance.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="allinfa.com" type=FWD
-add forward-to=198.18.0.1 regexp="allmovie.com" type=FWD
-add forward-to=198.18.0.1 regexp="almasdarnews.com" type=FWD
-add forward-to=198.18.0.1 regexp="alternate-tools.com" type=FWD
-add forward-to=198.18.0.1 regexp="alternativeto.net" type=FWD
-add forward-to=198.18.0.1 regexp="alvinalexander.com" type=FWD
-add forward-to=198.18.0.1 regexp="alwaysdata.com" type=FWD
-add forward-to=198.18.0.1 regexp="alwaysdata.com" type=FWD
-add forward-to=198.18.0.1 regexp="alwaysdata.net" type=FWD
-add forward-to=198.18.0.1 regexp="alwaysvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="am730.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="ameblo.jp" type=FWD
-add forward-to=198.18.0.1 regexp="ameblo.jp" type=FWD
-add forward-to=198.18.0.1 regexp="www1.american.edu" type=FWD
-add forward-to=198.18.0.1 regexp="americangreencard.com" type=FWD
-add forward-to=198.18.0.1 regexp="amiblockedornot.com" type=FWD
-add forward-to=198.18.0.1 regexp="amitabhafoundation.us" type=FWD
-add forward-to=198.18.0.1 regexp="amnesty.org" type=FWD
-add forward-to=198.18.0.1 regexp="amnesty.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="amnestyusa.org" type=FWD
-add forward-to=198.18.0.1 regexp="androidplus.co" type=FWD
-add forward-to=198.18.0.1 regexp="andygod.com" type=FWD
-add forward-to=198.18.0.1 regexp="annatam.com" type=FWD
-add forward-to=198.18.0.1 regexp="anchor.fm" type=FWD
-add forward-to=198.18.0.1 regexp="anchorfree.com" type=FWD
-add forward-to=198.18.0.1 regexp="ancsconf.org" type=FWD
-add forward-to=198.18.0.1 regexp="andfaraway.net" type=FWD
-add forward-to=198.18.0.1 regexp="android-x86.org" type=FWD
-add forward-to=198.18.0.1 regexp="angelfire.com" type=FWD
-add forward-to=198.18.0.1 regexp="angularjs.org" type=FWD
-add forward-to=198.18.0.1 regexp="animecrazy.net" type=FWD
-add forward-to=198.18.0.1 regexp="aniscartujo.com" type=FWD
-add forward-to=198.18.0.1 regexp="aniscartujo.com" type=FWD
-add forward-to=198.18.0.1 regexp="anobii.com" type=FWD
-add forward-to=198.18.0.1 regexp="anonfiles.com" type=FWD
-add forward-to=198.18.0.1 regexp="anonymouse.org" type=FWD
-add forward-to=198.18.0.1 regexp="anontext.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.antd.org" type=FWD
-add forward-to=198.18.0.1 regexp="anthonycalzadilla.com" type=FWD
-add forward-to=198.18.0.1 regexp="antichristendom.com" type=FWD
-add forward-to=198.18.0.1 regexp="antiwave.net" type=FWD
-add forward-to=198.18.0.1 regexp="anysex.com" type=FWD
-add forward-to=198.18.0.1 regexp="ao3.org" type=FWD
-add forward-to=198.18.0.1 regexp="aobo.com.au" type=FWD
-add forward-to=198.18.0.1 regexp="aofriend.com" type=FWD
-add forward-to=198.18.0.1 regexp="aomiwang.com" type=FWD
-add forward-to=198.18.0.1 regexp="video.ap.org" type=FWD
-add forward-to=198.18.0.1 regexp="apat1989.org" type=FWD
-add forward-to=198.18.0.1 regexp="apiary.io" type=FWD
-add forward-to=198.18.0.1 regexp="apigee.com" type=FWD
-add forward-to=198.18.0.1 regexp="apk.support" type=FWD
-add forward-to=198.18.0.1 regexp="apk-dl.com" type=FWD
-add forward-to=198.18.0.1 regexp="apkcombo.com" type=FWD
-add forward-to=198.18.0.1 regexp="apkmonk.com" type=FWD
-add forward-to=198.18.0.1 regexp="apkplz.com" type=FWD
-add forward-to=198.18.0.1 regexp="apkpure.com" type=FWD
-add forward-to=198.18.0.1 regexp="apkpure.net" type=FWD
-add forward-to=198.18.0.1 regexp="appbrain.com" type=FWD
-add forward-to=198.18.0.1 regexp="appledaily.com" type=FWD
-add forward-to=198.18.0.1 regexp="appledaily.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="appledaily.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="appledaily.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="appledaily.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="appshopper.com" type=FWD
-add forward-to=198.18.0.1 regexp="appsocks.net" type=FWD
-add forward-to=198.18.0.1 regexp="appsto.re" type=FWD
-add forward-to=198.18.0.1 regexp="aptoide.com" type=FWD
-add forward-to=198.18.0.1 regexp="archives.gov" type=FWD
-add forward-to=198.18.0.1 regexp="archive.fo" type=FWD
-add forward-to=198.18.0.1 regexp="archive.is" type=FWD
-add forward-to=198.18.0.1 regexp="archive.li" type=FWD
-add forward-to=198.18.0.1 regexp="archive.md" type=FWD
-add forward-to=198.18.0.1 regexp="archive.org" type=FWD
-add forward-to=198.18.0.1 regexp="archive.ph" type=FWD
-add forward-to=198.18.0.1 regexp="archive.today" type=FWD
-add forward-to=198.18.0.1 regexp="archive.today" type=FWD
-add forward-to=198.18.0.1 regexp="archiveofourown.com" type=FWD
-add forward-to=198.18.0.1 regexp="archiveofourown.org" type=FWD
-add forward-to=198.18.0.1 regexp="arctosia.com" type=FWD
-add forward-to=198.18.0.1 regexp="areca-backup.org" type=FWD
-add forward-to=198.18.0.1 regexp="arethusa.su" type=FWD
-add forward-to=198.18.0.1 regexp="arlingtoncemetery.mil" type=FWD
-add forward-to=198.18.0.1 regexp="army.mil" type=FWD
-add forward-to=198.18.0.1 regexp="artofpeacefoundation.org" type=FWD
-add forward-to=198.18.0.1 regexp="artsy.net" type=FWD
-add forward-to=198.18.0.1 regexp="asacp.org" type=FWD
-add forward-to=198.18.0.1 regexp="asdfg.jp" type=FWD
-add forward-to=198.18.0.1 regexp="asg.to" type=FWD
-add forward-to=198.18.0.1 regexp="asiaharvest.org" type=FWD
-add forward-to=198.18.0.1 regexp="asianage.com" type=FWD
-add forward-to=198.18.0.1 regexp="asianews.it" type=FWD
-add forward-to=198.18.0.1 regexp="japanfirst.asianfreeforum.com" type=FWD
-add forward-to=198.18.0.1 regexp="asiansexdiary.com" type=FWD
-add forward-to=198.18.0.1 regexp="asianwomensfilm.de" type=FWD
-add forward-to=198.18.0.1 regexp="asiaone.com" type=FWD
-add forward-to=198.18.0.1 regexp="askstudent.com" type=FWD
-add forward-to=198.18.0.1 regexp="askynz.net" type=FWD
-add forward-to=198.18.0.1 regexp="aspi.org.au" type=FWD
-add forward-to=198.18.0.1 regexp="aspistrategist.org.au" type=FWD
-add forward-to=198.18.0.1 regexp="assembla.com" type=FWD
-add forward-to=198.18.0.1 regexp="astrill.com" type=FWD
-add forward-to=198.18.0.1 regexp="atc.org.au" type=FWD
-add forward-to=198.18.0.1 regexp="atchinese.com" type=FWD
-add forward-to=198.18.0.1 regexp="atgfw.org" type=FWD
-add forward-to=198.18.0.1 regexp="atlaspost.com" type=FWD
-add forward-to=198.18.0.1 regexp="atdmt.com" type=FWD
-add forward-to=198.18.0.1 regexp="atlanta168.com" type=FWD
-add forward-to=198.18.0.1 regexp="atnext.com" type=FWD
-add forward-to=198.18.0.1 regexp="ice.audionow.com" type=FWD
-add forward-to=198.18.0.1 regexp="av.movie" type=FWD
-add forward-to=198.18.0.1 regexp="avaaz.org" type=FWD
-add forward-to=198.18.0.1 regexp="avaaz.org" type=FWD
-add forward-to=198.18.0.1 regexp="avdb.in" type=FWD
-add forward-to=198.18.0.1 regexp="avdb.tv" type=FWD
-add forward-to=198.18.0.1 regexp="avg.com" type=FWD
-add forward-to=198.18.0.1 regexp="avgle.com" type=FWD
-add forward-to=198.18.0.1 regexp="avidemux.org" type=FWD
-add forward-to=198.18.0.1 regexp="avoision.com" type=FWD
-add forward-to=198.18.0.1 regexp="axios.com" type=FWD
-add forward-to=198.18.0.1 regexp="axureformac.com" type=FWD
-add forward-to=198.18.0.1 regexp="azerimix.com" type=FWD
-add forward-to=198.18.0.1 regexp="azirevpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="b-ok.cc" type=FWD
-add forward-to=198.18.0.1 regexp="forum.baby-kingdom.com" type=FWD
-add forward-to=198.18.0.1 regexp="babylonbee.com" type=FWD
-add forward-to=198.18.0.1 regexp="babynet.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="backchina.com" type=FWD
-add forward-to=198.18.0.1 regexp="backchina.com" type=FWD
-add forward-to=198.18.0.1 regexp="backtotiananmen.com" type=FWD
-add forward-to=198.18.0.1 regexp="bad.news" type=FWD
-add forward-to=198.18.0.1 regexp="badiucao.com" type=FWD
-add forward-to=198.18.0.1 regexp="badoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="baidu.jp" type=FWD
-add forward-to=198.18.0.1 regexp="baijie.org" type=FWD
-add forward-to=198.18.0.1 regexp="bailandaily.com" type=FWD
-add forward-to=198.18.0.1 regexp="baixing.me" type=FWD
-add forward-to=198.18.0.1 regexp="baizhi.org" type=FWD
-add forward-to=198.18.0.1 regexp="bakgeekhome.tk" type=FWD
-add forward-to=198.18.0.1 regexp="banana-vpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="bandcamp.com" type=FWD
-add forward-to=198.18.0.1 regexp="bandwagonhost.com" type=FWD
-add forward-to=198.18.0.1 regexp="bangchen.net" type=FWD
-add forward-to=198.18.0.1 regexp="bangkokpost.com" type=FWD
-add forward-to=198.18.0.1 regexp="bangyoulater.com" type=FWD
-add forward-to=198.18.0.1 regexp="bannedbook.org" type=FWD
-add forward-to=198.18.0.1 regexp="bannedbook.org" type=FWD
-add forward-to=198.18.0.1 regexp="baramangaonline.com" type=FWD
-add forward-to=198.18.0.1 regexp="barnabu.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="barton.de" type=FWD
-add forward-to=198.18.0.1 regexp="bastillepost.com" type=FWD
-add forward-to=198.18.0.1 regexp="bayvoice.net" type=FWD
-add forward-to=198.18.0.1 regexp="bayvoice.net" type=FWD
-add forward-to=198.18.0.1 regexp="dajusha.baywords.com" type=FWD
-add forward-to=198.18.0.1 regexp="bbchat.tv" type=FWD
-add forward-to=198.18.0.1 regexp="bb-chat.tv" type=FWD
-add forward-to=198.18.0.1 regexp="bbs-tw.com" type=FWD
-add forward-to=198.18.0.1 regexp="bbsfeed.com" type=FWD
-add forward-to=198.18.0.1 regexp="bbsland.com" type=FWD
-add forward-to=198.18.0.1 regexp="bbtoystore.com" type=FWD
-add forward-to=198.18.0.1 regexp="bdsmvideos.net" type=FWD
-add forward-to=198.18.0.1 regexp="bebo.com" type=FWD
-add forward-to=198.18.0.1 regexp="beevpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="beijing1989.com" type=FWD
-add forward-to=198.18.0.1 regexp="beijing2022.art" type=FWD
-add forward-to=198.18.0.1 regexp="beijingspring.com" type=FWD
-add forward-to=198.18.0.1 regexp="beijingspring.com" type=FWD
-add forward-to=198.18.0.1 regexp="beijingzx.org" type=FWD
-add forward-to=198.18.0.1 regexp="bell.wiki" type=FWD
-add forward-to=198.18.0.1 regexp="bemywife.cc" type=FWD
-add forward-to=198.18.0.1 regexp="beric.me" type=FWD
-add forward-to=198.18.0.1 regexp="berlinerbericht.de" type=FWD
-add forward-to=198.18.0.1 regexp="berlintwitterwall.com" type=FWD
-add forward-to=198.18.0.1 regexp="bestforchina.org" type=FWD
-add forward-to=198.18.0.1 regexp="bestvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="bet365.com" type=FWD
-add forward-to=198.18.0.1 regexp="betternet.co" type=FWD
-add forward-to=198.18.0.1 regexp="bettervpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="bettween.com" type=FWD
-add forward-to=198.18.0.1 regexp="betvictor.com" type=FWD
-add forward-to=198.18.0.1 regexp="bfnn.org" type=FWD
-add forward-to=198.18.0.1 regexp="bfsh.hk" type=FWD
-add forward-to=198.18.0.1 regexp="bgvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="biantailajiao.com" type=FWD
-add forward-to=198.18.0.1 regexp="biantailajiao.in" type=FWD
-add forward-to=198.18.0.1 regexp="biblesforamerica.org" type=FWD
-add forward-to=198.18.0.1 regexp="biedian.me" type=FWD
-add forward-to=198.18.0.1 regexp="bigfools.com" type=FWD
-add forward-to=198.18.0.1 regexp="bigjapanesesex.com" type=FWD
-add forward-to=198.18.0.1 regexp="bignews.org" type=FWD
-add forward-to=198.18.0.1 regexp="bild.de" type=FWD
-add forward-to=198.18.0.1 regexp="biliworld.com" type=FWD
-add forward-to=198.18.0.1 regexp="billypan.com" type=FWD
-add forward-to=198.18.0.1 regexp="ai.binwang.me" type=FWD
-add forward-to=198.18.0.1 regexp="bit.do" type=FWD
-add forward-to=198.18.0.1 regexp="bit.ly" type=FWD
-add forward-to=198.18.0.1 regexp="bitchute.com" type=FWD
-add forward-to=198.18.0.1 regexp="bitcointalk.org" type=FWD
-add forward-to=198.18.0.1 regexp="bitshare.com" type=FWD
-add forward-to=198.18.0.1 regexp="bitsnoop.com" type=FWD
-add forward-to=198.18.0.1 regexp="bitvise.com" type=FWD
-add forward-to=198.18.0.1 regexp="bizhat.com" type=FWD
-add forward-to=198.18.0.1 regexp="bl-doujinsouko.com" type=FWD
-add forward-to=198.18.0.1 regexp="bjzc.org" type=FWD
-add forward-to=198.18.0.1 regexp="bjzc.org" type=FWD
-add forward-to=198.18.0.1 regexp="blackvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="blewpass.com" type=FWD
-add forward-to=198.18.0.1 regexp="tor.blingblingsquad.net" type=FWD
-add forward-to=198.18.0.1 regexp="blinkx.com" type=FWD
-add forward-to=198.18.0.1 regexp="blinw.com" type=FWD
-add forward-to=198.18.0.1 regexp="blip.tv" type=FWD
-add forward-to=198.18.0.1 regexp="blockcast.it" type=FWD
-add forward-to=198.18.0.1 regexp="blockcn.com" type=FWD
-add forward-to=198.18.0.1 regexp="blockedbyhk.com" type=FWD
-add forward-to=198.18.0.1 regexp="blockless.com" type=FWD
-add forward-to=198.18.0.1 regexp="blog.de" type=FWD
-add forward-to=198.18.0.1 regexp="blog.jp" type=FWD
-add forward-to=198.18.0.1 regexp="blogcatalog.com" type=FWD
-add forward-to=198.18.0.1 regexp="blogcity.me" type=FWD
-add forward-to=198.18.0.1 regexp="blogger.com" type=FWD
-add forward-to=198.18.0.1 regexp="blogimg.jp" type=FWD
-add forward-to=198.18.0.1 regexp="blog.kangye.org" type=FWD
-add forward-to=198.18.0.1 regexp="bloglines.com" type=FWD
-add forward-to=198.18.0.1 regexp="bloglovin.com" type=FWD
-add forward-to=198.18.0.1 regexp="rconversation.blogs.com" type=FWD
-add forward-to=198.18.0.1 regexp="blogtd.net" type=FWD
-add forward-to=198.18.0.1 regexp="blogtd.org" type=FWD
-add forward-to=198.18.0.1 regexp="bloodshed.net" type=FWD
-add forward-to=198.18.0.1 regexp="assets.bwbx.io" type=FWD
-add forward-to=198.18.0.1 regexp="bloomfortune.com" type=FWD
-add forward-to=198.18.0.1 regexp="blueangellive.com" type=FWD
-add forward-to=198.18.0.1 regexp="blubrry.com" type=FWD
-add forward-to=198.18.0.1 regexp="bnews.co" type=FWD
-add forward-to=198.18.0.1 regexp="bnext.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="bnrmetal.com" type=FWD
-add forward-to=198.18.0.1 regexp="boardreader.com" type=FWD
-add forward-to=198.18.0.1 regexp="boardreader.com" type=FWD
-add forward-to=198.18.0.1 regexp="bod.asia" type=FWD
-add forward-to=198.18.0.1 regexp="bolehvpn.net" type=FWD
-add forward-to=198.18.0.1 regexp="bonbonme.com" type=FWD
-add forward-to=198.18.0.1 regexp="boobstagram.com" type=FWD
-add forward-to=198.18.0.1 regexp="book.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="bookdepository.com" type=FWD
-add forward-to=198.18.0.1 regexp="bookepub.com" type=FWD
-add forward-to=198.18.0.1 regexp="books.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="borgenmagazine.com" type=FWD
-add forward-to=198.18.0.1 regexp="botanwang.com" type=FWD
-add forward-to=198.18.0.1 regexp="bowenpress.com" type=FWD
-add forward-to=198.18.0.1 regexp="app.box.com" type=FWD
-add forward-to=198.18.0.1 regexp="dl.box.net" type=FWD
-add forward-to=198.18.0.1 regexp="dl.box.net" type=FWD
-add forward-to=198.18.0.1 regexp="boxpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="boxun.com" type=FWD
-add forward-to=198.18.0.1 regexp="boxun.com" type=FWD
-add forward-to=198.18.0.1 regexp="boxun.tv" type=FWD
-add forward-to=198.18.0.1 regexp="boxunblog.com" type=FWD
-add forward-to=198.18.0.1 regexp="boxunblog.com" type=FWD
-add forward-to=198.18.0.1 regexp="boyangu.com" type=FWD
-add forward-to=198.18.0.1 regexp="br.st" type=FWD
-add forward-to=198.18.0.1 regexp="brandonhutchinson.com" type=FWD
-add forward-to=198.18.0.1 regexp="braumeister.org" type=FWD
-add forward-to=198.18.0.1 regexp="brave.com" type=FWD
-add forward-to=198.18.0.1 regexp="bravotube.net" type=FWD
-add forward-to=198.18.0.1 regexp="brazzers.com" type=FWD
-add forward-to=198.18.0.1 regexp="breached.to" type=FWD
-add forward-to=198.18.0.1 regexp="break.com" type=FWD
-add forward-to=198.18.0.1 regexp="breakgfw.com" type=FWD
-add forward-to=198.18.0.1 regexp="breakgfw.com" type=FWD
-add forward-to=198.18.0.1 regexp="breaking911.com" type=FWD
-add forward-to=198.18.0.1 regexp="breakingtweets.com" type=FWD
-add forward-to=198.18.0.1 regexp="breakwall.net" type=FWD
-add forward-to=198.18.0.1 regexp="briian.com" type=FWD
-add forward-to=198.18.0.1 regexp="brill.com" type=FWD
-add forward-to=198.18.0.1 regexp="brizzly.com" type=FWD
-add forward-to=198.18.0.1 regexp="brizzly.com" type=FWD
-add forward-to=198.18.0.1 regexp="brkmd.com" type=FWD
-add forward-to=198.18.0.1 regexp="broadbook.com" type=FWD
-add forward-to=198.18.0.1 regexp="broadpressinc.com" type=FWD
-add forward-to=198.18.0.1 regexp="bbs.brockbbs.com" type=FWD
-add forward-to=198.18.0.1 regexp="brookings.edu" type=FWD
-add forward-to=198.18.0.1 regexp="brucewang.net" type=FWD
-add forward-to=198.18.0.1 regexp="brutaltgp.com" type=FWD
-add forward-to=198.18.0.1 regexp="bt95.com" type=FWD
-add forward-to=198.18.0.1 regexp="btdig.com" type=FWD
-add forward-to=198.18.0.1 regexp="btdigg.org" type=FWD
-add forward-to=198.18.0.1 regexp="btku.me" type=FWD
-add forward-to=198.18.0.1 regexp="btku.org" type=FWD
-add forward-to=198.18.0.1 regexp="budaedu.org" type=FWD
-add forward-to=198.18.0.1 regexp="buffered.com" type=FWD
-add forward-to=198.18.0.1 regexp="bullguard.com" type=FWD
-add forward-to=198.18.0.1 regexp="bullog.org" type=FWD
-add forward-to=198.18.0.1 regexp="bullogger.com" type=FWD
-add forward-to=198.18.0.1 regexp="bumingbai.net" type=FWD
-add forward-to=198.18.0.1 regexp="bunbunhk.com" type=FWD
-add forward-to=198.18.0.1 regexp="busayari.com" type=FWD
-add forward-to=198.18.0.1 regexp="business-humanrights.org" type=FWD
-add forward-to=198.18.0.1 regexp="www.businessinsider.com.au" type=FWD
-add forward-to=198.18.0.1 regexp="businesstoday.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="busu.org" type=FWD
-add forward-to=198.18.0.1 regexp="busytrade.com" type=FWD
-add forward-to=198.18.0.1 regexp="buzzorange.com" type=FWD
-add forward-to=198.18.0.1 regexp="buzzsprout.com" type=FWD
-add forward-to=198.18.0.1 regexp="bvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="bwh1.net" type=FWD
-add forward-to=198.18.0.1 regexp="bwsj.hk" type=FWD
-add forward-to=198.18.0.1 regexp="bx.tl" type=FWD
-add forward-to=198.18.0.1 regexp="bypasscensorship.org" type=FWD
-add forward-to=198.18.0.1 regexp="c-span.org" type=FWD
-add forward-to=198.18.0.1 regexp="c-spanvideo.org" type=FWD
-add forward-to=198.18.0.1 regexp="c-est-simple.com" type=FWD
-add forward-to=198.18.0.1 regexp="cableav.tv" type=FWD
-add forward-to=198.18.0.1 regexp="cablegatesearch.net" type=FWD
-add forward-to=198.18.0.1 regexp="cacnw.com" type=FWD
-add forward-to=198.18.0.1 regexp="cactusvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="caijinglengyan.com" type=FWD
-add forward-to=198.18.0.1 regexp="calendarz.com" type=FWD
-add forward-to=198.18.0.1 regexp="blog.calibre-ebook.com" type=FWD
-add forward-to=198.18.0.1 regexp="falun.caltech.edu" type=FWD
-add forward-to=198.18.0.1 regexp="camfrog.com" type=FWD
-add forward-to=198.18.0.1 regexp="campaignforuyghurs.org" type=FWD
-add forward-to=198.18.0.1 regexp="cams.com" type=FWD
-add forward-to=198.18.0.1 regexp="canadameet.com" type=FWD
-add forward-to=198.18.0.1 regexp="bbs.cantonese.asia" type=FWD
-add forward-to=198.18.0.1 regexp="canyu.org" type=FWD
-add forward-to=198.18.0.1 regexp="caobian.info" type=FWD
-add forward-to=198.18.0.1 regexp="caochangqing.com" type=FWD
-add forward-to=198.18.0.1 regexp="caochangqing.com" type=FWD
-add forward-to=198.18.0.1 regexp="cap.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="cardinalkungfoundation.org" type=FWD
-add forward-to=198.18.0.1 regexp="posts.careerengine.us" type=FWD
-add forward-to=198.18.0.1 regexp="carmotorshow.com" type=FWD
-add forward-to=198.18.0.1 regexp="carrd.co" type=FWD
-add forward-to=198.18.0.1 regexp="ss.carryzhou.com" type=FWD
-add forward-to=198.18.0.1 regexp="cartoonmovement.com" type=FWD
-add forward-to=198.18.0.1 regexp="casatibet.org.mx" type=FWD
-add forward-to=198.18.0.1 regexp="cari.com.my" type=FWD
-add forward-to=198.18.0.1 regexp="caribbeancom.com" type=FWD
-add forward-to=198.18.0.1 regexp="catch22.net" type=FWD
-add forward-to=198.18.0.1 regexp="catchgod.com" type=FWD
-add forward-to=198.18.0.1 regexp="catfightpayperview.xxx" type=FWD
-add forward-to=198.18.0.1 regexp="catholic.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="catholic.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="catholic.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="cato.org" type=FWD
-add forward-to=198.18.0.1 regexp="cattt.com" type=FWD
-add forward-to=198.18.0.1 regexp="cbc.ca" type=FWD
-add forward-to=198.18.0.1 regexp="southpark.cc.com" type=FWD
-add forward-to=198.18.0.1 regexp="cccat.cc" type=FWD
-add forward-to=198.18.0.1 regexp="cccat.co" type=FWD
-add forward-to=198.18.0.1 regexp="ccdtr.org" type=FWD
-add forward-to=198.18.0.1 regexp="cchere.com" type=FWD
-add forward-to=198.18.0.1 regexp="cclife.org" type=FWD
-add forward-to=198.18.0.1 regexp="cclife.org" type=FWD
-add forward-to=198.18.0.1 regexp="cclifefl.org" type=FWD
-add forward-to=198.18.0.1 regexp="cclifefl.org" type=FWD
-add forward-to=198.18.0.1 regexp="ccthere.com" type=FWD
-add forward-to=198.18.0.1 regexp="ccthere.net" type=FWD
-add forward-to=198.18.0.1 regexp="ccue.ca" type=FWD
-add forward-to=198.18.0.1 regexp="ccue.com" type=FWD
-add forward-to=198.18.0.1 regexp="cgdepot.org" type=FWD
-add forward-to=198.18.0.1 regexp="cdbook.org" type=FWD
-add forward-to=198.18.0.1 regexp="cdef.org" type=FWD
-add forward-to=198.18.0.1 regexp="cdig.info" type=FWD
-add forward-to=198.18.0.1 regexp="cdjp.org" type=FWD
-add forward-to=198.18.0.1 regexp="cdjp.org" type=FWD
-add forward-to=198.18.0.1 regexp="cdp1989.org" type=FWD
-add forward-to=198.18.0.1 regexp="cdp1998.org" type=FWD
-add forward-to=198.18.0.1 regexp="cdp1998.org" type=FWD
-add forward-to=198.18.0.1 regexp="cdp2006.org" type=FWD
-add forward-to=198.18.0.1 regexp="cdp2006.org" type=FWD
-add forward-to=198.18.0.1 regexp="cdpeu.org" type=FWD
-add forward-to=198.18.0.1 regexp="cdpusa.org" type=FWD
-add forward-to=198.18.0.1 regexp="cdpweb.org" type=FWD
-add forward-to=198.18.0.1 regexp="cdpweb.org" type=FWD
-add forward-to=198.18.0.1 regexp="cdpwu.org" type=FWD
-add forward-to=198.18.0.1 regexp="cdpwu.org" type=FWD
-add forward-to=198.18.0.1 regexp="cdw.com" type=FWD
-add forward-to=198.18.0.1 regexp="cecc.gov" type=FWD
-add forward-to=198.18.0.1 regexp="cellulo.info" type=FWD
-add forward-to=198.18.0.1 regexp="cenews.eu" type=FWD
-add forward-to=198.18.0.1 regexp="centerforhumanreprod.com" type=FWD
-add forward-to=198.18.0.1 regexp="centralnation.com" type=FWD
-add forward-to=198.18.0.1 regexp="centurys.net" type=FWD
-add forward-to=198.18.0.1 regexp="cfr.org" type=FWD
-add forward-to=198.18.0.1 regexp="change.org" type=FWD
-add forward-to=198.18.0.1 regexp="changp.com" type=FWD
-add forward-to=198.18.0.1 regexp="changsa.net" type=FWD
-add forward-to=198.18.0.1 regexp="channelnewsasia.com" type=FWD
-add forward-to=198.18.0.1 regexp="chatgpt.com" type=FWD
-add forward-to=198.18.0.1 regexp="chaturbate.com" type=FWD
-add forward-to=198.18.0.1 regexp="checkgfw.com" type=FWD
-add forward-to=198.18.0.1 regexp="chengmingmag.com" type=FWD
-add forward-to=198.18.0.1 regexp="chenguangcheng.com" type=FWD
-add forward-to=198.18.0.1 regexp="chenpokong.com" type=FWD
-add forward-to=198.18.0.1 regexp="chenpokong.net" type=FWD
-add forward-to=198.18.0.1 regexp="chenpokongvip.com" type=FWD
-add forward-to=198.18.0.1 regexp="cherrysave.com" type=FWD
-add forward-to=198.18.0.1 regexp="chicagoncmtv.com" type=FWD
-add forward-to=198.18.0.1 regexp="chicagoncmtv.com" type=FWD
-add forward-to=198.18.0.1 regexp="china101.com" type=FWD
-add forward-to=198.18.0.1 regexp="china101.com" type=FWD
-add forward-to=198.18.0.1 regexp="china18.org" type=FWD
-add forward-to=198.18.0.1 regexp="china21.com" type=FWD
-add forward-to=198.18.0.1 regexp="china21.org" type=FWD
-add forward-to=198.18.0.1 regexp="china21.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinaaffairs.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinaaffairs.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinaaid.me" type=FWD
-add forward-to=198.18.0.1 regexp="chinaaid.us" type=FWD
-add forward-to=198.18.0.1 regexp="chinaaid.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinaaid.net" type=FWD
-add forward-to=198.18.0.1 regexp="chinaaid.net" type=FWD
-add forward-to=198.18.0.1 regexp="chinacomments.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinacomments.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinachange.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinachannel.hk" type=FWD
-add forward-to=198.18.0.1 regexp="chinachannel.hk" type=FWD
-add forward-to=198.18.0.1 regexp="chinadigitaltimes.net" type=FWD
-add forward-to=198.18.0.1 regexp="chinaelections.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinaeweekly.com" type=FWD
-add forward-to=198.18.0.1 regexp="chinafile.com" type=FWD
-add forward-to=198.18.0.1 regexp="chinafreepress.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinageeks.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinagfw.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinagfw.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinagreenparty.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinahorizon.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinainterimgov.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinalaborwatch.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinalawtranslate.com" type=FWD
-add forward-to=198.18.0.1 regexp="chinaxchina.com" type=FWD
-add forward-to=198.18.0.1 regexp="chinalawandpolicy.com" type=FWD
-add forward-to=198.18.0.1 regexp="chinamule.com" type=FWD
-add forward-to=198.18.0.1 regexp="chinamz.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinanewscenter.com" type=FWD
-add forward-to=198.18.0.1 regexp="chinapress.com.my" type=FWD
-add forward-to=198.18.0.1 regexp="china-review.com.ua" type=FWD
-add forward-to=198.18.0.1 regexp="chinasmile.net" type=FWD
-add forward-to=198.18.0.1 regexp="chinasocialdemocraticparty.com" type=FWD
-add forward-to=198.18.0.1 regexp="chinasocialdemocraticparty.com" type=FWD
-add forward-to=198.18.0.1 regexp="chinasoul.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinasoul.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinatopsex.com" type=FWD
-add forward-to=198.18.0.1 regexp="chinatweeps.com" type=FWD
-add forward-to=198.18.0.1 regexp="chinaway.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinaworker.info" type=FWD
-add forward-to=198.18.0.1 regexp="chinayouth.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="chinayuanmin.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinayuanmin.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinese-leaders.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinese-memorial.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinesedailynews.com" type=FWD
-add forward-to=198.18.0.1 regexp="chinesedemocracy.com" type=FWD
-add forward-to=198.18.0.1 regexp="chinesegay.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinesen.de" type=FWD
-add forward-to=198.18.0.1 regexp="chineseradioseattle.com" type=FWD
-add forward-to=198.18.0.1 regexp="chineseupress.com" type=FWD
-add forward-to=198.18.0.1 regexp="chingcheong.com" type=FWD
-add forward-to=198.18.0.1 regexp="chinman.net" type=FWD
-add forward-to=198.18.0.1 regexp="chithu.org" type=FWD
-add forward-to=198.18.0.1 regexp="cnnews.chosun.com" type=FWD
-add forward-to=198.18.0.1 regexp="chrdnet.com" type=FWD
-add forward-to=198.18.0.1 regexp="christianfreedom.org" type=FWD
-add forward-to=198.18.0.1 regexp="christianstudy.com" type=FWD
-add forward-to=198.18.0.1 regexp="christianstudy.com" type=FWD
-add forward-to=198.18.0.1 regexp="christusrex.org" type=FWD
-add forward-to=198.18.0.1 regexp="chubun.com" type=FWD
-add forward-to=198.18.0.1 regexp="christiantimes.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="chrlawyers.hk" type=FWD
-add forward-to=198.18.0.1 regexp="churchinhongkong.org" type=FWD
-add forward-to=198.18.0.1 regexp="circlethebayfortibet.org" type=FWD
-add forward-to=198.18.0.1 regexp="cirosantilli.com" type=FWD
-add forward-to=198.18.0.1 regexp="citizencn.com" type=FWD
-add forward-to=198.18.0.1 regexp="citizenlab.ca" type=FWD
-add forward-to=198.18.0.1 regexp="citizenlab.org" type=FWD
-add forward-to=198.18.0.1 regexp="citizenscommission.hk" type=FWD
-add forward-to=198.18.0.1 regexp="citizensradio.org" type=FWD
-add forward-to=198.18.0.1 regexp="city365.ca" type=FWD
-add forward-to=198.18.0.1 regexp="city9x.com" type=FWD
-add forward-to=198.18.0.1 regexp="citypopulation.de" type=FWD
-add forward-to=198.18.0.1 regexp="civicparty.hk" type=FWD
-add forward-to=198.18.0.1 regexp="civilhrfront.org" type=FWD
-add forward-to=198.18.0.1 regexp="civilhrfront.org" type=FWD
-add forward-to=198.18.0.1 regexp="civilmedia.tw" type=FWD
-add forward-to=198.18.0.1 regexp="psiphon.civisec.org" type=FWD
-add forward-to=198.18.0.1 regexp="civitai.com" type=FWD
-add forward-to=198.18.0.1 regexp="ck101.com" type=FWD
-add forward-to=198.18.0.1 regexp="classicalguitarblog.net" type=FWD
-add forward-to=198.18.0.1 regexp="clearharmony.net" type=FWD
-add forward-to=198.18.0.1 regexp="clearwisdom.net" type=FWD
-add forward-to=198.18.0.1 regexp="clinica-tibet.ru" type=FWD
-add forward-to=198.18.0.1 regexp="cloakpoint.com" type=FWD
-add forward-to=198.18.0.1 regexp="app.cloudcone.com" type=FWD
-add forward-to=198.18.0.1 regexp="cloudflare-ipfs.com" type=FWD
-add forward-to=198.18.0.1 regexp="club1069.com" type=FWD
-add forward-to=198.18.0.1 regexp="clubhouseapi.com" type=FWD
-add forward-to=198.18.0.1 regexp="cmegroup.com" type=FWD
-add forward-to=198.18.0.1 regexp="cmi.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="www.cmoinc.org" type=FWD
-add forward-to=198.18.0.1 regexp="cmp.hku.hk" type=FWD
-add forward-to=198.18.0.1 regexp="hkupop.hku.hk" type=FWD
-add forward-to=198.18.0.1 regexp="cmule.com" type=FWD
-add forward-to=198.18.0.1 regexp="cmule.org" type=FWD
-add forward-to=198.18.0.1 regexp="cms.gov" type=FWD
-add forward-to=198.18.0.1 regexp="vpn.cmu.edu" type=FWD
-add forward-to=198.18.0.1 regexp="vpn.sv.cmu.edu" type=FWD
-add forward-to=198.18.0.1 regexp="cna.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="cnd.org" type=FWD
-add forward-to=198.18.0.1 regexp="download.cnet.com" type=FWD
-add forward-to=198.18.0.1 regexp="wiki.cnitter.com" type=FWD
-add forward-to=198.18.0.1 regexp="cnpolitics.org" type=FWD
-add forward-to=198.18.0.1 regexp="cn-proxy.com" type=FWD
-add forward-to=198.18.0.1 regexp="blog.cnyes.com" type=FWD
-add forward-to=198.18.0.1 regexp="news.cnyes.com" type=FWD
-add forward-to=198.18.0.1 regexp="coat.co.jp" type=FWD
-add forward-to=198.18.0.1 regexp="cochina.co" type=FWD
-add forward-to=198.18.0.1 regexp="cochina.org" type=FWD
-add forward-to=198.18.0.1 regexp="goagent.codeplex.com" type=FWD
-add forward-to=198.18.0.1 regexp="codeshare.io" type=FWD
-add forward-to=198.18.0.1 regexp="codeskulptor.org" type=FWD
-add forward-to=198.18.0.1 regexp="conoha.jp" type=FWD
-add forward-to=198.18.0.1 regexp="tosh.comedycentral.com" type=FWD
-add forward-to=198.18.0.1 regexp="comefromchina.com" type=FWD
-add forward-to=198.18.0.1 regexp="comefromchina.com" type=FWD
-add forward-to=198.18.0.1 regexp="commandarms.com" type=FWD
-add forward-to=198.18.0.1 regexp="commentshk.com" type=FWD
-add forward-to=198.18.0.1 regexp="communistcrimes.org" type=FWD
-add forward-to=198.18.0.1 regexp="communitychoicecu.com" type=FWD
-add forward-to=198.18.0.1 regexp="comparitech.com" type=FWD
-add forward-to=198.18.0.1 regexp="compileheart.com" type=FWD
-add forward-to=198.18.0.1 regexp="conoha.jp" type=FWD
-add forward-to=198.18.0.1 regexp="cool18.com" type=FWD
-add forward-to=198.18.0.1 regexp="coolaler.com" type=FWD
-add forward-to=198.18.0.1 regexp="coolder.com" type=FWD
-add forward-to=198.18.0.1 regexp="coolder.com" type=FWD
-add forward-to=198.18.0.1 regexp="coolloud.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="coolstuffinc.com" type=FWD
-add forward-to=198.18.0.1 regexp="corumcollege.com" type=FWD
-add forward-to=198.18.0.1 regexp="cos-moe.com" type=FWD
-add forward-to=198.18.0.1 regexp="cosplayjav.pl" type=FWD
-add forward-to=198.18.0.1 regexp="cotweet.com" type=FWD
-add forward-to=198.18.0.1 regexp="coursehero.com" type=FWD
-add forward-to=198.18.0.1 regexp="cpj.org" type=FWD
-add forward-to=198.18.0.1 regexp="cpj.org" type=FWD
-add forward-to=198.18.0.1 regexp="cq99.us" type=FWD
-add forward-to=198.18.0.1 regexp="crackle.com" type=FWD
-add forward-to=198.18.0.1 regexp="crackle.com" type=FWD
-add forward-to=198.18.0.1 regexp="crazyshit.com" type=FWD
-add forward-to=198.18.0.1 regexp="crchina.org" type=FWD
-add forward-to=198.18.0.1 regexp="crd-net.org" type=FWD
-add forward-to=198.18.0.1 regexp="creaders.net" type=FWD
-add forward-to=198.18.0.1 regexp="creaders.net" type=FWD
-add forward-to=198.18.0.1 regexp="cristyli.com" type=FWD
-add forward-to=198.18.0.1 regexp="croxyproxy.com" type=FWD
-add forward-to=198.18.0.1 regexp="crocotube.com" type=FWD
-add forward-to=198.18.0.1 regexp="crossthewall.net" type=FWD
-add forward-to=198.18.0.1 regexp="crossvpn.net" type=FWD
-add forward-to=198.18.0.1 regexp="crucial.com" type=FWD
-add forward-to=198.18.0.1 regexp="blog.cryptographyengineering.com" type=FWD
-add forward-to=198.18.0.1 regexp="csdparty.com" type=FWD
-add forward-to=198.18.0.1 regexp="csdparty.com" type=FWD
-add forward-to=198.18.0.1 regexp="csis.org" type=FWD
-add forward-to=198.18.0.1 regexp="csmonitor.com" type=FWD
-add forward-to=198.18.0.1 regexp="csuchen.de" type=FWD
-add forward-to=198.18.0.1 regexp="ct.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="ctowc.org" type=FWD
-add forward-to=198.18.0.1 regexp="cts.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="ctwant.com" type=FWD
-add forward-to=198.18.0.1 regexp="library.usc.cuhk.edu.hk" type=FWD
-add forward-to=198.18.0.1 regexp="mjlsh.usc.cuhk.edu.hk" type=FWD
-add forward-to=198.18.0.1 regexp="cuihua.org" type=FWD
-add forward-to=198.18.0.1 regexp="cuiweiping.net" type=FWD
-add forward-to=198.18.0.1 regexp="culture.tw" type=FWD
-add forward-to=198.18.0.1 regexp="cumlouder.com" type=FWD
-add forward-to=198.18.0.1 regexp="curvefish.com" type=FWD
-add forward-to=198.18.0.1 regexp="cusp.hk" type=FWD
-add forward-to=198.18.0.1 regexp="cusu.hk" type=FWD
-add forward-to=198.18.0.1 regexp="cutscenes.net" type=FWD
-add forward-to=198.18.0.1 regexp="cw.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="forum.cyberctm.com" type=FWD
-add forward-to=198.18.0.1 regexp="cyberghostvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="cyberghostvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="cynscribe.com" type=FWD
-add forward-to=198.18.0.1 regexp="cytode.us" type=FWD
-add forward-to=198.18.0.1 regexp="ifan.cz.cc" type=FWD
-add forward-to=198.18.0.1 regexp="mike.cz.cc" type=FWD
-add forward-to=198.18.0.1 regexp="nic.cz.cc" type=FWD
-add forward-to=198.18.0.1 regexp="d-fukyu.com" type=FWD
-add forward-to=198.18.0.1 regexp="cl.d0z.net" type=FWD
-add forward-to=198.18.0.1 regexp="d100.net" type=FWD
-add forward-to=198.18.0.1 regexp="d2bay.com" type=FWD
-add forward-to=198.18.0.1 regexp="dabr.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="dabr.eu" type=FWD
-add forward-to=198.18.0.1 regexp="dabr.mobi" type=FWD
-add forward-to=198.18.0.1 regexp="dabr.mobi" type=FWD
-add forward-to=198.18.0.1 regexp="dabr.me" type=FWD
-add forward-to=198.18.0.1 regexp="dadazim.com" type=FWD
-add forward-to=198.18.0.1 regexp="dadazim.com" type=FWD
-add forward-to=198.18.0.1 regexp="dafagood.com" type=FWD
-add forward-to=198.18.0.1 regexp="dafahao.com" type=FWD
-add forward-to=198.18.0.1 regexp="daidostup.ru" type=FWD
-add forward-to=198.18.0.1 regexp="dailidaili.com" type=FWD
-add forward-to=198.18.0.1 regexp="dailymail.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="dailymotion.com" type=FWD
-add forward-to=198.18.0.1 regexp="dailysabah.com" type=FWD
-add forward-to=198.18.0.1 regexp="daiphapinfo.net" type=FWD
-add forward-to=198.18.0.1 regexp="dajiyuan.de" type=FWD
-add forward-to=198.18.0.1 regexp="dajiyuan.eu" type=FWD
-add forward-to=198.18.0.1 regexp="dalailama.com" type=FWD
-add forward-to=198.18.0.1 regexp="dalailama.mn" type=FWD
-add forward-to=198.18.0.1 regexp="dalailama.ru" type=FWD
-add forward-to=198.18.0.1 regexp="dalailama80.org" type=FWD
-add forward-to=198.18.0.1 regexp="dalailamacenter.org" type=FWD
-add forward-to=198.18.0.1 regexp="dalailamafellows.org" type=FWD
-add forward-to=198.18.0.1 regexp="dalailamaworld.com" type=FWD
-add forward-to=198.18.0.1 regexp="dalianmeng.org" type=FWD
-add forward-to=198.18.0.1 regexp="dalianmeng.org" type=FWD
-add forward-to=198.18.0.1 regexp="daliulian.org" type=FWD
-add forward-to=198.18.0.1 regexp="danke4china.net" type=FWD
-add forward-to=198.18.0.1 regexp="daolan.net" type=FWD
-add forward-to=198.18.0.1 regexp="darktoy.net" type=FWD
-add forward-to=198.18.0.1 regexp="darrenliuwei.com" type=FWD
-add forward-to=198.18.0.1 regexp="dastrassi.org" type=FWD
-add forward-to=198.18.0.1 regexp="daum.net" type=FWD
-add forward-to=198.18.0.1 regexp="david-kilgour.com" type=FWD
-add forward-to=198.18.0.1 regexp="daxa.cn" type=FWD
-add forward-to=198.18.0.1 regexp="daxa.cn" type=FWD
-add forward-to=198.18.0.1 regexp="cn.dayabook.com" type=FWD
-add forward-to=198.18.0.1 regexp="db.tt" type=FWD
-add forward-to=198.18.0.1 regexp="dbgjd.com" type=FWD
-add forward-to=198.18.0.1 regexp="dcard.tw" type=FWD
-add forward-to=198.18.0.1 regexp="dcmilitary.com" type=FWD
-add forward-to=198.18.0.1 regexp="de-sci.org" type=FWD
-add forward-to=198.18.0.1 regexp="deadline.com" type=FWD
-add forward-to=198.18.0.1 regexp="decodet.co" type=FWD
-add forward-to=198.18.0.1 regexp="delcamp.net" type=FWD
-add forward-to=198.18.0.1 regexp="delicious.com" type=FWD
-add forward-to=198.18.0.1 regexp="democrats.org" type=FWD
-add forward-to=198.18.0.1 regexp="demosisto.hk" type=FWD
-add forward-to=198.18.0.1 regexp="desc.se" type=FWD
-add forward-to=198.18.0.1 regexp="dessci.com" type=FWD
-add forward-to=198.18.0.1 regexp="deutsche-welle.de" type=FWD
-add forward-to=198.18.0.1 regexp="deviantart.com" type=FWD
-add forward-to=198.18.0.1 regexp="deviantart.net" type=FWD
-add forward-to=198.18.0.1 regexp="devio.us" type=FWD
-add forward-to=198.18.0.1 regexp="devpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="devv.ai" type=FWD
-add forward-to=198.18.0.1 regexp="dfas.mil" type=FWD
-add forward-to=198.18.0.1 regexp="dfn.org" type=FWD
-add forward-to=198.18.0.1 regexp="dharmakara.net" type=FWD
-add forward-to=198.18.0.1 regexp="diaoyuislands.org" type=FWD
-add forward-to=198.18.0.1 regexp="digiland.tw" type=FWD
-add forward-to=198.18.0.1 regexp="digitalnomadsproject.org" type=FWD
-add forward-to=198.18.0.1 regexp="diigo.com" type=FWD
-add forward-to=198.18.0.1 regexp="dilber.se" type=FWD
-add forward-to=198.18.0.1 regexp="furl.net" type=FWD
-add forward-to=198.18.0.1 regexp="directcreative.com" type=FWD
-add forward-to=198.18.0.1 regexp="discuss.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="disp.cc" type=FWD
-add forward-to=198.18.0.1 regexp="disqus.com" type=FWD
-add forward-to=198.18.0.1 regexp="dit-inc.us" type=FWD
-add forward-to=198.18.0.1 regexp="dizhuzhishang.com" type=FWD
-add forward-to=198.18.0.1 regexp="djangosnippets.org" type=FWD
-add forward-to=198.18.0.1 regexp="djorz.com" type=FWD
-add forward-to=198.18.0.1 regexp="dl-laby.jp" type=FWD
-add forward-to=198.18.0.1 regexp="dlive.tv" type=FWD
-add forward-to=198.18.0.1 regexp="dlsite.com" type=FWD
-add forward-to=198.18.0.1 regexp="dlyoutube.com" type=FWD
-add forward-to=198.18.0.1 regexp="dmc.nico" type=FWD
-add forward-to=198.18.0.1 regexp="dmcdn.net" type=FWD
-add forward-to=198.18.0.1 regexp="dnscrypt.org" type=FWD
-add forward-to=198.18.0.1 regexp="dns2go.com" type=FWD
-add forward-to=198.18.0.1 regexp="dnssec.net" type=FWD
-add forward-to=198.18.0.1 regexp="doctorvoice.org" type=FWD
-add forward-to=198.18.0.1 regexp="gloryhole.com" type=FWD
-add forward-to=198.18.0.1 regexp="dolc.de" type=FWD
-add forward-to=198.18.0.1 regexp="dolf.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="dollf.com" type=FWD
-add forward-to=198.18.0.1 regexp="chinese.donga.com" type=FWD
-add forward-to=198.18.0.1 regexp="dongtaiwang.com" type=FWD
-add forward-to=198.18.0.1 regexp="dongtaiwang.com" type=FWD
-add forward-to=198.18.0.1 regexp="dongtaiwang.net" type=FWD
-add forward-to=198.18.0.1 regexp="danbooru.donmai.us" type=FWD
-add forward-to=198.18.0.1 regexp="dontmovetochina.com" type=FWD
-add forward-to=198.18.0.1 regexp="dotplane.com" type=FWD
-add forward-to=198.18.0.1 regexp="dotsub.com" type=FWD
-add forward-to=198.18.0.1 regexp="dotvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="doub.io" type=FWD
-add forward-to=198.18.0.1 regexp="doublethinklab.org" type=FWD
-add forward-to=198.18.0.1 regexp="dougscripts.com" type=FWD
-add forward-to=198.18.0.1 regexp="douhokanko.net" type=FWD
-add forward-to=198.18.0.1 regexp="doujincafe.com" type=FWD
-add forward-to=198.18.0.1 regexp="dowei.org" type=FWD
-add forward-to=198.18.0.1 regexp="bartender.dowjones.com" type=FWD
-add forward-to=198.18.0.1 regexp="dphk.org" type=FWD
-add forward-to=198.18.0.1 regexp="dpp.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="dpp.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="dpr.info" type=FWD
-add forward-to=198.18.0.1 regexp="dragonsprings.org" type=FWD
-add forward-to=198.18.0.1 regexp="drgan.net" type=FWD
-add forward-to=198.18.0.1 regexp="drmingxia.org" type=FWD
-add forward-to=198.18.0.1 regexp="dropbooks.tv" type=FWD
-add forward-to=198.18.0.1 regexp="dropbox.com" type=FWD
-add forward-to=198.18.0.1 regexp="api.dropboxapi.com" type=FWD
-add forward-to=198.18.0.1 regexp="notify.dropboxapi.com" type=FWD
-add forward-to=198.18.0.1 regexp="dropboxusercontent.com" type=FWD
-add forward-to=198.18.0.1 regexp="drsunacademy.com" type=FWD
-add forward-to=198.18.0.1 regexp="dscn.info" type=FWD
-add forward-to=198.18.0.1 regexp="dstk.dk" type=FWD
-add forward-to=198.18.0.1 regexp="dtiblog.com" type=FWD
-add forward-to=198.18.0.1 regexp="dtic.mil" type=FWD
-add forward-to=198.18.0.1 regexp="duckdns.org" type=FWD
-add forward-to=198.18.0.1 regexp="duckduckgo.com" type=FWD
-add forward-to=198.18.0.1 regexp="duckmylife.com" type=FWD
-add forward-to=198.18.0.1 regexp="duga.jp" type=FWD
-add forward-to=198.18.0.1 regexp="duihua.org" type=FWD
-add forward-to=198.18.0.1 regexp="duihuahrjournal.org" type=FWD
-add forward-to=198.18.0.1 regexp="duoweitimes.com" type=FWD
-add forward-to=198.18.0.1 regexp="duping.net" type=FWD
-add forward-to=198.18.0.1 regexp="duplicati.com" type=FWD
-add forward-to=198.18.0.1 regexp="dupola.com" type=FWD
-add forward-to=198.18.0.1 regexp="dupola.net" type=FWD
-add forward-to=198.18.0.1 regexp="duyaoss.com" type=FWD
-add forward-to=198.18.0.1 regexp="dvorak.org" type=FWD
-add forward-to=198.18.0.1 regexp="dw.com" type=FWD
-add forward-to=198.18.0.1 regexp="dw.de" type=FWD
-add forward-to=198.18.0.1 regexp="dw-world.com" type=FWD
-add forward-to=198.18.0.1 regexp="dw-world.de" type=FWD
-add forward-to=198.18.0.1 regexp="www.dwheeler.com" type=FWD
-add forward-to=198.18.0.1 regexp="dwnews.com" type=FWD
-add forward-to=198.18.0.1 regexp="dwnews.com" type=FWD
-add forward-to=198.18.0.1 regexp="dwnews.net" type=FWD
-add forward-to=198.18.0.1 regexp="dwnews.net" type=FWD
-add forward-to=198.18.0.1 regexp="xys.dxiong.com" type=FWD
-add forward-to=198.18.0.1 regexp="dynawebinc.com" type=FWD
-add forward-to=198.18.0.1 regexp="dysfz.cc" type=FWD
-add forward-to=198.18.0.1 regexp="e-classical.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="e-gold.com" type=FWD
-add forward-to=198.18.0.1 regexp="e-hentai.org" type=FWD
-add forward-to=198.18.0.1 regexp="e-hentaidb.com" type=FWD
-add forward-to=198.18.0.1 regexp="e-info.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="e-zone.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="e123.hk" type=FWD
-add forward-to=198.18.0.1 regexp="earlytibet.com" type=FWD
-add forward-to=198.18.0.1 regexp="earthvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="eastern-ark.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.eastturkistan.net" type=FWD
-add forward-to=198.18.0.1 regexp="eastturkistangovernmentinexile.us" type=FWD
-add forward-to=198.18.0.1 regexp="fnc.ebc.net.tw" type=FWD
-add forward-to=198.18.0.1 regexp="news.ebc.net.tw" type=FWD
-add forward-to=198.18.0.1 regexp="ebookbrowse.com" type=FWD
-add forward-to=198.18.0.1 regexp="ebookee.com" type=FWD
-add forward-to=198.18.0.1 regexp="ecfa.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="ushuarencity.echainhost.com" type=FWD
-add forward-to=198.18.0.1 regexp="ecimg.tw" type=FWD
-add forward-to=198.18.0.1 regexp="ecministry.net" type=FWD
-add forward-to=198.18.0.1 regexp="bbs.ecstart.com" type=FWD
-add forward-to=198.18.0.1 regexp="edgecastcdn.net" type=FWD
-add forward-to=198.18.0.1 regexp="edgecastcdn.net" type=FWD
-add forward-to=198.18.0.1 regexp="edicypages.com" type=FWD
-add forward-to=198.18.0.1 regexp="edoors.com" type=FWD
-add forward-to=198.18.0.1 regexp="edubridge.com" type=FWD
-add forward-to=198.18.0.1 regexp="eevpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="efcc.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="efukt.com" type=FWD
-add forward-to=198.18.0.1 regexp="eic-av.com" type=FWD
-add forward-to=198.18.0.1 regexp="eireinikotaerukai.com" type=FWD
-add forward-to=198.18.0.1 regexp="eksisozluk.com" type=FWD
-add forward-to=198.18.0.1 regexp="electionsmeter.com" type=FWD
-add forward-to=198.18.0.1 regexp="elgoog.im" type=FWD
-add forward-to=198.18.0.1 regexp="elpais.com" type=FWD
-add forward-to=198.18.0.1 regexp="emilylau.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="bitc.bme.emory.edu" type=FWD
-add forward-to=198.18.0.1 regexp="emule-ed2k.com" type=FWD
-add forward-to=198.18.0.1 regexp="emulefans.com" type=FWD
-add forward-to=198.18.0.1 regexp="encrypt.me" type=FWD
-add forward-to=198.18.0.1 regexp="enewstree.com" type=FWD
-add forward-to=198.18.0.1 regexp="chinese.engadget.com" type=FWD
-add forward-to=198.18.0.1 regexp="engagedaily.org" type=FWD
-add forward-to=198.18.0.1 regexp="englishforeveryone.org" type=FWD
-add forward-to=198.18.0.1 regexp="englishfromengland.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="englishpen.org" type=FWD
-add forward-to=198.18.0.1 regexp="entermap.com" type=FWD
-add forward-to=198.18.0.1 regexp="app.evozi.com" type=FWD
-add forward-to=198.18.0.1 regexp="epochhk.com" type=FWD
-add forward-to=198.18.0.1 regexp="epochtimes-bg.com" type=FWD
-add forward-to=198.18.0.1 regexp="epochtimes-bg.com" type=FWD
-add forward-to=198.18.0.1 regexp="epochtimes-romania.com" type=FWD
-add forward-to=198.18.0.1 regexp="epochtimes-romania.com" type=FWD
-add forward-to=198.18.0.1 regexp="epochtimes.co.il" type=FWD
-add forward-to=198.18.0.1 regexp="epochtimes.co.il" type=FWD
-add forward-to=198.18.0.1 regexp="epochtimes.co.kr" type=FWD
-add forward-to=198.18.0.1 regexp="epochtimes.co.kr" type=FWD
-add forward-to=198.18.0.1 regexp="epochtimes.com" type=FWD
-add forward-to=198.18.0.1 regexp="epochtimes.com" type=FWD
-add forward-to=198.18.0.1 regexp="epochtimes.de" type=FWD
-add forward-to=198.18.0.1 regexp="epochtimes.fr" type=FWD
-add forward-to=198.18.0.1 regexp="epochtimes.ie" type=FWD
-add forward-to=198.18.0.1 regexp="epochtimes.it" type=FWD
-add forward-to=198.18.0.1 regexp="epochtimes.jp" type=FWD
-add forward-to=198.18.0.1 regexp="epochtimes.ru" type=FWD
-add forward-to=198.18.0.1 regexp="epochtimes.se" type=FWD
-add forward-to=198.18.0.1 regexp="epochtimestr.com" type=FWD
-add forward-to=198.18.0.1 regexp="epochweek.com" type=FWD
-add forward-to=198.18.0.1 regexp="epochweekly.com" type=FWD
-add forward-to=198.18.0.1 regexp="erabaru.net" type=FWD
-add forward-to=198.18.0.1 regexp="erights.net" type=FWD
-add forward-to=198.18.0.1 regexp="erktv.com" type=FWD
-add forward-to=198.18.0.1 regexp="ernestmandel.org" type=FWD
-add forward-to=198.18.0.1 regexp="erodaizensyu.com" type=FWD
-add forward-to=198.18.0.1 regexp="erodoujinlog.com" type=FWD
-add forward-to=198.18.0.1 regexp="erodoujinworld.com" type=FWD
-add forward-to=198.18.0.1 regexp="eromanga-kingdom.com" type=FWD
-add forward-to=198.18.0.1 regexp="eromangadouzin.com" type=FWD
-add forward-to=198.18.0.1 regexp="eromon.net" type=FWD
-add forward-to=198.18.0.1 regexp="eslite.com" type=FWD
-add forward-to=198.18.0.1 regexp="wiki.esu.im" type=FWD
-add forward-to=198.18.0.1 regexp="esu.dog" type=FWD
-add forward-to=198.18.0.1 regexp="etaiwannews.com" type=FWD
-add forward-to=198.18.0.1 regexp="etizer.org" type=FWD
-add forward-to=198.18.0.1 regexp="etokki.com" type=FWD
-add forward-to=198.18.0.1 regexp="etsy.com" type=FWD
-add forward-to=198.18.0.1 regexp="etvonline.hk" type=FWD
-add forward-to=198.18.0.1 regexp="eu.org" type=FWD
-add forward-to=198.18.0.1 regexp="eurekavpt.com" type=FWD
-add forward-to=198.18.0.1 regexp="euronews.com" type=FWD
-add forward-to=198.18.0.1 regexp="eeas.europa.eu" type=FWD
-add forward-to=198.18.0.1 regexp="eeas.europa.eu" type=FWD
-add forward-to=198.18.0.1 regexp="apps.evozi.com" type=FWD
-add forward-to=198.18.0.1 regexp="evschool.net" type=FWD
-add forward-to=198.18.0.1 regexp="exblog.jp" type=FWD
-add forward-to=198.18.0.1 regexp="blog.exblog.co.jp" type=FWD
-add forward-to=198.18.0.1 regexp="exchristian.hk" type=FWD
-add forward-to=198.18.0.1 regexp="blog.excite.co.jp" type=FWD
-add forward-to=198.18.0.1 regexp="exhentai.org" type=FWD
-add forward-to=198.18.0.1 regexp="exmormon.org" type=FWD
-add forward-to=198.18.0.1 regexp="expatshield.com" type=FWD
-add forward-to=198.18.0.1 regexp="expecthim.com" type=FWD
-add forward-to=198.18.0.1 regexp="experts-univers.com" type=FWD
-add forward-to=198.18.0.1 regexp="exploader.net" type=FWD
-add forward-to=198.18.0.1 regexp="expressvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="eyevio.jp" type=FWD
-add forward-to=198.18.0.1 regexp="eyevio.jp" type=FWD
-add forward-to=198.18.0.1 regexp="eyny.com" type=FWD
-add forward-to=198.18.0.1 regexp="facebookquotes4u.com" type=FWD
-add forward-to=198.18.0.1 regexp="faceless.me" type=FWD
-add forward-to=198.18.0.1 regexp="facesoftibetanselfimmolators.info" type=FWD
-add forward-to=198.18.0.1 regexp="facesofnyfw.com" type=FWD
-add forward-to=198.18.0.1 regexp="factpedia.org" type=FWD
-add forward-to=198.18.0.1 regexp="faith100.org" type=FWD
-add forward-to=198.18.0.1 regexp="faiththedog.info" type=FWD
-add forward-to=198.18.0.1 regexp="fallenark.com" type=FWD
-add forward-to=198.18.0.1 regexp="falsefire.com" type=FWD
-add forward-to=198.18.0.1 regexp="falun-co.org" type=FWD
-add forward-to=198.18.0.1 regexp="falunart.org" type=FWD
-add forward-to=198.18.0.1 regexp="falunasia.info" type=FWD
-add forward-to=198.18.0.1 regexp="falunau.org" type=FWD
-add forward-to=198.18.0.1 regexp="falundafa.org" type=FWD
-add forward-to=198.18.0.1 regexp="falundafa-dc.org" type=FWD
-add forward-to=198.18.0.1 regexp="falundafa-florida.org" type=FWD
-add forward-to=198.18.0.1 regexp="falundafa-nc.org" type=FWD
-add forward-to=198.18.0.1 regexp="falundafa-pa.net" type=FWD
-add forward-to=198.18.0.1 regexp="falundafa-sacramento.org" type=FWD
-add forward-to=198.18.0.1 regexp="falun-ny.net" type=FWD
-add forward-to=198.18.0.1 regexp="falundafaindia.org" type=FWD
-add forward-to=198.18.0.1 regexp="falundafamuseum.org" type=FWD
-add forward-to=198.18.0.1 regexp="falungong.org.uk" type=FWD
-add forward-to=198.18.0.1 regexp="falunhr.org" type=FWD
-add forward-to=198.18.0.1 regexp="faluninfo.de" type=FWD
-add forward-to=198.18.0.1 regexp="faluninfo.net" type=FWD
-add forward-to=198.18.0.1 regexp="falunworld.net" type=FWD
-add forward-to=198.18.0.1 regexp="familyfed.org" type=FWD
-add forward-to=198.18.0.1 regexp="fanglizhi.info" type=FWD
-add forward-to=198.18.0.1 regexp="fangong.org" type=FWD
-add forward-to=198.18.0.1 regexp="fangongheike.com" type=FWD
-add forward-to=198.18.0.1 regexp="fanhaolou.com" type=FWD
-add forward-to=198.18.0.1 regexp="fanqianghou.com" type=FWD
-add forward-to=198.18.0.1 regexp="fanqianghou.com" type=FWD
-add forward-to=198.18.0.1 regexp="fanqiangzhe.com" type=FWD
-add forward-to=198.18.0.1 regexp="fantv.hk" type=FWD
-add forward-to=198.18.0.1 regexp="fapdu.com" type=FWD
-add forward-to=198.18.0.1 regexp="faproxy.com" type=FWD
-add forward-to=198.18.0.1 regexp="fanqiangyakexi.net" type=FWD
-add forward-to=198.18.0.1 regexp="fail.hk" type=FWD
-add forward-to=198.18.0.1 regexp="famunion.com" type=FWD
-add forward-to=198.18.0.1 regexp="fangbinxing.com" type=FWD
-add forward-to=198.18.0.1 regexp="fangeming.com" type=FWD
-add forward-to=198.18.0.1 regexp="fangmincn.org" type=FWD
-add forward-to=198.18.0.1 regexp="fanqiang.network" type=FWD
-add forward-to=198.18.0.1 regexp="fanswong.com" type=FWD
-add forward-to=198.18.0.1 regexp="en.favotter.net" type=FWD
-add forward-to=198.18.0.1 regexp="nytimes.map.fastly.net" type=FWD
-add forward-to=198.18.0.1 regexp="nytimes.map.fastly.net" type=FWD
-add forward-to=198.18.0.1 regexp="fast.wistia.com" type=FWD
-add forward-to=198.18.0.1 regexp="fastestvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="fastssh.com" type=FWD
-add forward-to=198.18.0.1 regexp="faststone.org" type=FWD
-add forward-to=198.18.0.1 regexp="favstar.fm" type=FWD
-add forward-to=198.18.0.1 regexp="favstar.fm" type=FWD
-add forward-to=198.18.0.1 regexp="faydao.com" type=FWD
-add forward-to=198.18.0.1 regexp="faz.net" type=FWD
-add forward-to=198.18.0.1 regexp="fc2cn.com" type=FWD
-add forward-to=198.18.0.1 regexp="fc2blog.net" type=FWD
-add forward-to=198.18.0.1 regexp="uygur.fc2web.com" type=FWD
-add forward-to=198.18.0.1 regexp="video.fdbox.com" type=FWD
-add forward-to=198.18.0.1 regexp="fourface.nodesnoop.com" type=FWD
-add forward-to=198.18.0.1 regexp="feeder.co" type=FWD
-add forward-to=198.18.0.1 regexp="feelssh.com" type=FWD
-add forward-to=198.18.0.1 regexp="feer.com" type=FWD
-add forward-to=198.18.0.1 regexp="feitianacademy.org" type=FWD
-add forward-to=198.18.0.1 regexp="feixiaohao.com" type=FWD
-add forward-to=198.18.0.1 regexp="feministteacher.com" type=FWD
-add forward-to=198.18.0.1 regexp="fengzhenghu.com" type=FWD
-add forward-to=198.18.0.1 regexp="fengzhenghu.net" type=FWD
-add forward-to=198.18.0.1 regexp="ff.im" type=FWD
-add forward-to=198.18.0.1 regexp="fffff.at" type=FWD
-add forward-to=198.18.0.1 regexp="fflick.com" type=FWD
-add forward-to=198.18.0.1 regexp="fgmtv.net" type=FWD
-add forward-to=198.18.0.1 regexp="fhreports.net" type=FWD
-add forward-to=198.18.0.1 regexp="figprayer.com" type=FWD
-add forward-to=198.18.0.1 regexp="fileflyer.com" type=FWD
-add forward-to=198.18.0.1 regexp="feeds.fileforum.com" type=FWD
-add forward-to=198.18.0.1 regexp="fillthesquare.org" type=FWD
-add forward-to=198.18.0.1 regexp="filmingfortibet.org" type=FWD
-add forward-to=198.18.0.1 regexp="finchvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="findmespot.com" type=FWD
-add forward-to=198.18.0.1 regexp="findyoutube.com" type=FWD
-add forward-to=198.18.0.1 regexp="findyoutube.net" type=FWD
-add forward-to=198.18.0.1 regexp="finler.net" type=FWD
-add forward-to=198.18.0.1 regexp="firearmsworld.net" type=FWD
-add forward-to=198.18.0.1 regexp="relay.firefox.com" type=FWD
-add forward-to=198.18.0.1 regexp="fireofliberty.org" type=FWD
-add forward-to=198.18.0.1 regexp="firetweet.io" type=FWD
-add forward-to=198.18.0.1 regexp="firstpost.com" type=FWD
-add forward-to=198.18.0.1 regexp="firstrade.com" type=FWD
-add forward-to=198.18.0.1 regexp="fleshbot.com" type=FWD
-add forward-to=198.18.0.1 regexp="fleursdeslettres.com" type=FWD
-add forward-to=198.18.0.1 regexp="flgg.us" type=FWD
-add forward-to=198.18.0.1 regexp="flgjustice.org" type=FWD
-add forward-to=198.18.0.1 regexp="flickr.com" type=FWD
-add forward-to=198.18.0.1 regexp="staticflickr.com" type=FWD
-add forward-to=198.18.0.1 regexp="flickrhivemind.net" type=FWD
-add forward-to=198.18.0.1 regexp="flipkart.com" type=FWD
-add forward-to=198.18.0.1 regexp="flog.tw" type=FWD
-add forward-to=198.18.0.1 regexp="flyvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="cn.fmnnow.com" type=FWD
-add forward-to=198.18.0.1 regexp="fofldfradio.org" type=FWD
-add forward-to=198.18.0.1 regexp="blog.foolsmountain.com" type=FWD
-add forward-to=198.18.0.1 regexp="fangong.forums-free.com" type=FWD
-add forward-to=198.18.0.1 regexp="pioneer-worker.forums-free.com" type=FWD
-add forward-to=198.18.0.1 regexp="video.foxbusiness.com" type=FWD
-add forward-to=198.18.0.1 regexp="foxgay.com" type=FWD
-add forward-to=198.18.0.1 regexp="fringenetwork.com" type=FWD
-add forward-to=198.18.0.1 regexp="flecheinthepeche.fr" type=FWD
-add forward-to=198.18.0.1 regexp="fochk.org" type=FWD
-add forward-to=198.18.0.1 regexp="focustaiwan.tw" type=FWD
-add forward-to=198.18.0.1 regexp="fofg.org" type=FWD
-add forward-to=198.18.0.1 regexp="fooooo.com" type=FWD
-add forward-to=198.18.0.1 regexp="foreignaffairs.com" type=FWD
-add forward-to=198.18.0.1 regexp="fourthinternational.org" type=FWD
-add forward-to=198.18.0.1 regexp="foxdie.us" type=FWD
-add forward-to=198.18.0.1 regexp="foxsub.com" type=FWD
-add forward-to=198.18.0.1 regexp="foxtang.com" type=FWD
-add forward-to=198.18.0.1 regexp="fpmt.org" type=FWD
-add forward-to=198.18.0.1 regexp="fpmtmexico.org" type=FWD
-add forward-to=198.18.0.1 regexp="fqok.org" type=FWD
-add forward-to=198.18.0.1 regexp="fqrouter.com" type=FWD
-add forward-to=198.18.0.1 regexp="franklc.com" type=FWD
-add forward-to=198.18.0.1 regexp="freakshare.com" type=FWD
-add forward-to=198.18.0.1 regexp="free4u.com.ar" type=FWD
-add forward-to=198.18.0.1 regexp="free-gate.org" type=FWD
-add forward-to=198.18.0.1 regexp="free-proxy.cz" type=FWD
-add forward-to=198.18.0.1 regexp="kineox.free.fr" type=FWD
-add forward-to=198.18.0.1 regexp="tibetlibre.free.fr" type=FWD
-add forward-to=198.18.0.1 regexp="freealim.com" type=FWD
-add forward-to=198.18.0.1 regexp="whitebear.freebearblog.org" type=FWD
-add forward-to=198.18.0.1 regexp="freebrowser.org" type=FWD
-add forward-to=198.18.0.1 regexp="freedomchina.info" type=FWD
-add forward-to=198.18.0.1 regexp="freedomhouse.org" type=FWD
-add forward-to=198.18.0.1 regexp="freedomsherald.org" type=FWD
-add forward-to=198.18.0.1 regexp="freegao.com" type=FWD
-add forward-to=198.18.0.1 regexp="freeilhamtohti.org" type=FWD
-add forward-to=198.18.0.1 regexp="freekazakhs.org" type=FWD
-add forward-to=198.18.0.1 regexp="saveliuxiaobo.com" type=FWD
-add forward-to=198.18.0.1 regexp="freelotto.com" type=FWD
-add forward-to=198.18.0.1 regexp="freeman2.com" type=FWD
-add forward-to=198.18.0.1 regexp="freemoren.com" type=FWD
-add forward-to=198.18.0.1 regexp="freemorenews.com" type=FWD
-add forward-to=198.18.0.1 regexp="freemuse.org" type=FWD
-add forward-to=198.18.0.1 regexp="freenet-china.org" type=FWD
-add forward-to=198.18.0.1 regexp="freenewscn.com" type=FWD
-add forward-to=198.18.0.1 regexp="cn.freeones.com" type=FWD
-add forward-to=198.18.0.1 regexp="freeoz.org" type=FWD
-add forward-to=198.18.0.1 regexp="freessh.us" type=FWD
-add forward-to=198.18.0.1 regexp="free4u.com.ar" type=FWD
-add forward-to=198.18.0.1 regexp="free-ssh.com" type=FWD
-add forward-to=198.18.0.1 regexp="freebeacon.com" type=FWD
-add forward-to=198.18.0.1 regexp="freechinaforum.org" type=FWD
-add forward-to=198.18.0.1 regexp="freechinaweibo.com" type=FWD
-add forward-to=198.18.0.1 regexp="freenetproject.org" type=FWD
-add forward-to=198.18.0.1 regexp="freetibet.org" type=FWD
-add forward-to=198.18.0.1 regexp="freetibetanheroes.org" type=FWD
-add forward-to=198.18.0.1 regexp="freetribe.me" type=FWD
-add forward-to=198.18.0.1 regexp="freevpn.me" type=FWD
-add forward-to=198.18.0.1 regexp="freewallpaper4.me" type=FWD
-add forward-to=198.18.0.1 regexp="freewechat.com" type=FWD
-add forward-to=198.18.0.1 regexp="freeweibo.com" type=FWD
-add forward-to=198.18.0.1 regexp="freeweibo.com" type=FWD
-add forward-to=198.18.0.1 regexp="freeyoutubeproxy.net" type=FWD
-add forward-to=198.18.0.1 regexp="friendfeed.com" type=FWD
-add forward-to=198.18.0.1 regexp="friendfeed-media.com" type=FWD
-add forward-to=198.18.0.1 regexp="friends-of-tibet.org" type=FWD
-add forward-to=198.18.0.1 regexp="friendsoftibet.org" type=FWD
-add forward-to=198.18.0.1 regexp="freechina.net" type=FWD
-add forward-to=198.18.0.1 regexp="www.zensur.freerk.com" type=FWD
-add forward-to=198.18.0.1 regexp="freevpn.nl" type=FWD
-add forward-to=198.18.0.1 regexp="freeyellow.com" type=FWD
-add forward-to=198.18.0.1 regexp="hk.frienddy.com" type=FWD
-add forward-to=198.18.0.1 regexp="adult.friendfinder.com" type=FWD
-add forward-to=198.18.0.1 regexp="fring.com" type=FWD
-add forward-to=198.18.0.1 regexp="frommel.net" type=FWD
-add forward-to=198.18.0.1 regexp="frontlinedefenders.org" type=FWD
-add forward-to=198.18.0.1 regexp="frootvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="fscked.org" type=FWD
-add forward-to=198.18.0.1 regexp="ftv.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="ftvnews.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="fucd.com" type=FWD
-add forward-to=198.18.0.1 regexp="fuckcnnic.net" type=FWD
-add forward-to=198.18.0.1 regexp="fuckgfw.org" type=FWD
-add forward-to=198.18.0.1 regexp="fulione.com" type=FWD
-add forward-to=198.18.0.1 regexp="fullerconsideration.com" type=FWD
-add forward-to=198.18.0.1 regexp="fulue.com" type=FWD
-add forward-to=198.18.0.1 regexp="funp.com" type=FWD
-add forward-to=198.18.0.1 regexp="furinkan.com" type=FWD
-add forward-to=198.18.0.1 regexp="futuremessage.org" type=FWD
-add forward-to=198.18.0.1 regexp="fw.cm" type=FWD
-add forward-to=198.18.0.1 regexp="fxcm-chinese.com" type=FWD
-add forward-to=198.18.0.1 regexp="fzh999.com" type=FWD
-add forward-to=198.18.0.1 regexp="fzh999.net" type=FWD
-add forward-to=198.18.0.1 regexp="fzlm.com" type=FWD
-add forward-to=198.18.0.1 regexp="g6hentai.com" type=FWD
-add forward-to=198.18.0.1 regexp="g-queen.com" type=FWD
-add forward-to=198.18.0.1 regexp="gab.com" type=FWD
-add forward-to=198.18.0.1 regexp="gabocorp.com" type=FWD
-add forward-to=198.18.0.1 regexp="gagaoolala.com" type=FWD
-add forward-to=198.18.0.1 regexp="galenwu.com" type=FWD
-add forward-to=198.18.0.1 regexp="game735.com" type=FWD
-add forward-to=198.18.0.1 regexp="gamebase.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="gamejolt.com" type=FWD
-add forward-to=198.18.0.1 regexp="wiki.gamerp.jp" type=FWD
-add forward-to=198.18.0.1 regexp="gamer.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="gamez.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="gaoming.net" type=FWD
-add forward-to=198.18.0.1 regexp="ganges.com" type=FWD
-add forward-to=198.18.0.1 regexp="ganjing.com" type=FWD
-add forward-to=198.18.0.1 regexp="ganjingworld.com" type=FWD
-add forward-to=198.18.0.1 regexp="gaopi.net" type=FWD
-add forward-to=198.18.0.1 regexp="gardennetworks.com" type=FWD
-add forward-to=198.18.0.1 regexp="gardennetworks.org" type=FWD
-add forward-to=198.18.0.1 regexp="gartlive.com" type=FWD
-add forward-to=198.18.0.1 regexp="gate-project.com" type=FWD
-add forward-to=198.18.0.1 regexp="gather.com" type=FWD
-add forward-to=198.18.0.1 regexp="gati.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="gaymap.cc" type=FWD
-add forward-to=198.18.0.1 regexp="images-gaytube.com" type=FWD
-add forward-to=198.18.0.1 regexp="gaywatch.com" type=FWD
-add forward-to=198.18.0.1 regexp="gazotube.com" type=FWD
-add forward-to=198.18.0.1 regexp="gcc.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="gclooney.com" type=FWD
-add forward-to=198.18.0.1 regexp="gclubs.com" type=FWD
-add forward-to=198.18.0.1 regexp="gcmasia.com" type=FWD
-add forward-to=198.18.0.1 regexp="gcpnews.com" type=FWD
-add forward-to=198.18.0.1 regexp="gdzf.org" type=FWD
-add forward-to=198.18.0.1 regexp="geek-art.net" type=FWD
-add forward-to=198.18.0.1 regexp="geekerhome.com" type=FWD
-add forward-to=198.18.0.1 regexp="geekheart.info" type=FWD
-add forward-to=198.18.0.1 regexp="gekikame.com" type=FWD
-add forward-to=198.18.0.1 regexp="gelbooru.com" type=FWD
-add forward-to=198.18.0.1 regexp="generated.photos" type=FWD
-add forward-to=198.18.0.1 regexp="genius.com" type=FWD
-add forward-to=198.18.0.1 regexp="hk.geocities.com" type=FWD
-add forward-to=198.18.0.1 regexp="geocities.jp" type=FWD
-add forward-to=198.18.0.1 regexp="geph.io" type=FWD
-add forward-to=198.18.0.1 regexp="getastrill.com" type=FWD
-add forward-to=198.18.0.1 regexp="getcloak.com" type=FWD
-add forward-to=198.18.0.1 regexp="getfoxyproxy.org" type=FWD
-add forward-to=198.18.0.1 regexp="getgom.com" type=FWD
-add forward-to=198.18.0.1 regexp="geti2p.net" type=FWD
-add forward-to=198.18.0.1 regexp="getiton.com" type=FWD
-add forward-to=198.18.0.1 regexp="getlantern.org" type=FWD
-add forward-to=198.18.0.1 regexp="getmalus.com" type=FWD
-add forward-to=198.18.0.1 regexp="getsync.com" type=FWD
-add forward-to=198.18.0.1 regexp="gettr.com" type=FWD
-add forward-to=198.18.0.1 regexp="gfbv.de" type=FWD
-add forward-to=198.18.0.1 regexp="gfsale.com" type=FWD
-add forward-to=198.18.0.1 regexp="gfw.org.ua" type=FWD
-add forward-to=198.18.0.1 regexp="gfw.press" type=FWD
-add forward-to=198.18.0.1 regexp="gfw.report" type=FWD
-add forward-to=198.18.0.1 regexp="ggssl.com" type=FWD
-add forward-to=198.18.0.1 regexp="ghostpath.com" type=FWD
-add forward-to=198.18.0.1 regexp="ghut.org" type=FWD
-add forward-to=198.18.0.1 regexp="giantessnight.com" type=FWD
-add forward-to=198.18.0.1 regexp="giga-web.jp" type=FWD
-add forward-to=198.18.0.1 regexp="tw.gigacircle.com" type=FWD
-add forward-to=198.18.0.1 regexp="cn.giganews.com" type=FWD
-add forward-to=198.18.0.1 regexp="gigporno.ru" type=FWD
-add forward-to=198.18.0.1 regexp="girlbanker.com" type=FWD
-add forward-to=198.18.0.1 regexp="git.io" type=FWD
-add forward-to=198.18.0.1 regexp="softwaredownload.gitbooks.io" type=FWD
-add forward-to=198.18.0.1 regexp="raw.githack.com" type=FWD
-add forward-to=198.18.0.1 regexp="github.blog" type=FWD
-add forward-to=198.18.0.1 regexp="github.com" type=FWD
-add forward-to=198.18.0.1 regexp="github.io" type=FWD
-add forward-to=198.18.0.1 regexp="githubusercontent.com" type=FWD
-add forward-to=198.18.0.1 regexp="githubassets.com" type=FWD
-add forward-to=198.18.0.1 regexp="gizlen.net" type=FWD
-add forward-to=198.18.0.1 regexp="gjczz.com" type=FWD
-add forward-to=198.18.0.1 regexp="globaljihad.net" type=FWD
-add forward-to=198.18.0.1 regexp="globalmediaoutreach.com" type=FWD
-add forward-to=198.18.0.1 regexp="globalmuseumoncommunism.org" type=FWD
-add forward-to=198.18.0.1 regexp="globalrescue.net" type=FWD
-add forward-to=198.18.0.1 regexp="globalvoicesonline.org" type=FWD
-add forward-to=198.18.0.1 regexp="globalvpn.net" type=FWD
-add forward-to=198.18.0.1 regexp="gluckman.com" type=FWD
-add forward-to=198.18.0.1 regexp="gmgard.com" type=FWD
-add forward-to=198.18.0.1 regexp="gmhz.org" type=FWD
-add forward-to=198.18.0.1 regexp="www.gmiddle.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.gmiddle.net" type=FWD
-add forward-to=198.18.0.1 regexp="suche.gmx.net" type=FWD
-add forward-to=198.18.0.1 regexp="gnci.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="gnews.org" type=FWD
-add forward-to=198.18.0.1 regexp="go-pki.com" type=FWD
-add forward-to=198.18.0.1 regexp="goagent.biz" type=FWD
-add forward-to=198.18.0.1 regexp="goagentplus.com" type=FWD
-add forward-to=198.18.0.1 regexp="gobet.cc" type=FWD
-add forward-to=198.18.0.1 regexp="godaddy.com" type=FWD
-add forward-to=198.18.0.1 regexp="godfootsteps.org" type=FWD
-add forward-to=198.18.0.1 regexp="godfootsteps.org" type=FWD
-add forward-to=198.18.0.1 regexp="godns.work" type=FWD
-add forward-to=198.18.0.1 regexp="godsdirectcontact.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="godsdirectcontact.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="gofundme.com" type=FWD
-add forward-to=198.18.0.1 regexp="gohappy.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="goldbetsports.com" type=FWD
-add forward-to=198.18.0.1 regexp="golden-ages.org" type=FWD
-add forward-to=198.18.0.1 regexp="goldeneyevault.com" type=FWD
-add forward-to=198.18.0.1 regexp="goldenfrog.com" type=FWD
-add forward-to=198.18.0.1 regexp="goldjizz.com" type=FWD
-add forward-to=198.18.0.1 regexp="goldwave.com" type=FWD
-add forward-to=198.18.0.1 regexp="gongmeng.info" type=FWD
-add forward-to=198.18.0.1 regexp="gongm.in" type=FWD
-add forward-to=198.18.0.1 regexp="gongminliliang.com" type=FWD
-add forward-to=198.18.0.1 regexp="gongwt.com" type=FWD
-add forward-to=198.18.0.1 regexp="blog.goo.ne.jp" type=FWD
-add forward-to=198.18.0.1 regexp="gooday.xyz" type=FWD
-add forward-to=198.18.0.1 regexp="goodhope.school" type=FWD
-add forward-to=198.18.0.1 regexp="goodreads.com" type=FWD
-add forward-to=198.18.0.1 regexp="goodreaders.com" type=FWD
-add forward-to=198.18.0.1 regexp="goofind.com" type=FWD
-add forward-to=198.18.0.1 regexp="gopetition.com" type=FWD
-add forward-to=198.18.0.1 regexp="goreforum.com" type=FWD
-add forward-to=198.18.0.1 regexp="gotrusted.com" type=FWD
-add forward-to=198.18.0.1 regexp="gotw.ca" type=FWD
-add forward-to=198.18.0.1 regexp="grammaly.com" type=FWD
-add forward-to=198.18.0.1 regexp="grandtrial.org" type=FWD
-add forward-to=198.18.0.1 regexp="graphis.ne.jp" type=FWD
-add forward-to=198.18.0.1 regexp="graphql.org" type=FWD
-add forward-to=198.18.0.1 regexp="gravatar.com" type=FWD
-add forward-to=198.18.0.1 regexp="greatfirewall.biz" type=FWD
-add forward-to=198.18.0.1 regexp="greatfirewallofchina.net" type=FWD
-add forward-to=198.18.0.1 regexp="greatfirewallofchina.org" type=FWD
-add forward-to=198.18.0.1 regexp="greenfieldbookstore.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="greenpeace.org" type=FWD
-add forward-to=198.18.0.1 regexp="great-firewall.com" type=FWD
-add forward-to=198.18.0.1 regexp="great-roc.org" type=FWD
-add forward-to=198.18.0.1 regexp="greatroc.org" type=FWD
-add forward-to=198.18.0.1 regexp="greatzhonghua.org" type=FWD
-add forward-to=198.18.0.1 regexp="greenvpn.net" type=FWD
-add forward-to=198.18.0.1 regexp="grindr.com" type=FWD
-add forward-to=198.18.0.1 regexp="grotty-monday.com" type=FWD
-add forward-to=198.18.0.1 regexp="gs-discuss.com" type=FWD
-add forward-to=198.18.0.1 regexp="gsearch.media" type=FWD
-add forward-to=198.18.0.1 regexp="gtricks.com" type=FWD
-add forward-to=198.18.0.1 regexp="guancha.org" type=FWD
-add forward-to=198.18.0.1 regexp="guaneryu.com" type=FWD
-add forward-to=198.18.0.1 regexp="gunsandammo.com" type=FWD
-add forward-to=198.18.0.1 regexp="gutteruncensored.com" type=FWD
-add forward-to=198.18.0.1 regexp="gvm.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="gwins.org" type=FWD
-add forward-to=198.18.0.1 regexp="gzone-anime.info" type=FWD
-add forward-to=198.18.0.1 regexp="clementine-player.org" type=FWD
-add forward-to=198.18.0.1 regexp="echofon.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.klip.me" type=FWD
-add forward-to=198.18.0.1 regexp="stephaniered.com" type=FWD
-add forward-to=198.18.0.1 regexp="ub0.cc" type=FWD
-add forward-to=198.18.0.1 regexp="wozy.in" type=FWD
-add forward-to=198.18.0.1 regexp="gospelherald.com" type=FWD
-add forward-to=198.18.0.1 regexp="gospelherald.com" type=FWD
-add forward-to=198.18.0.1 regexp="hk.gradconnection.com" type=FWD
-add forward-to=198.18.0.1 regexp="grangorz.org" type=FWD
-add forward-to=198.18.0.1 regexp="greatfire.org" type=FWD
-add forward-to=198.18.0.1 regexp="greatfire.org" type=FWD
-add forward-to=198.18.0.1 regexp="greatfirewallofchina.org" type=FWD
-add forward-to=198.18.0.1 regexp="greatroc.tw" type=FWD
-add forward-to=198.18.0.1 regexp="gts-vpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="gtv.org" type=FWD
-add forward-to=198.18.0.1 regexp="gtv1.org" type=FWD
-add forward-to=198.18.0.1 regexp="gu-chu-sum.org" type=FWD
-add forward-to=198.18.0.1 regexp="guaguass.com" type=FWD
-add forward-to=198.18.0.1 regexp="guaguass.org" type=FWD
-add forward-to=198.18.0.1 regexp="guishan.org" type=FWD
-add forward-to=198.18.0.1 regexp="guishan.org" type=FWD
-add forward-to=198.18.0.1 regexp="gumroad.com" type=FWD
-add forward-to=198.18.0.1 regexp="gunsamerica.com" type=FWD
-add forward-to=198.18.0.1 regexp="guruonline.hk" type=FWD
-add forward-to=198.18.0.1 regexp="gvlib.com" type=FWD
-add forward-to=198.18.0.1 regexp="h-china.org" type=FWD
-add forward-to=198.18.0.1 regexp="h-moe.com" type=FWD
-add forward-to=198.18.0.1 regexp="h1n1china.org" type=FWD
-add forward-to=198.18.0.1 regexp="hacg.club" type=FWD
-add forward-to=198.18.0.1 regexp="hacg.in" type=FWD
-add forward-to=198.18.0.1 regexp="hacg.li" type=FWD
-add forward-to=198.18.0.1 regexp="hacg.me" type=FWD
-add forward-to=198.18.0.1 regexp="hacg.red" type=FWD
-add forward-to=198.18.0.1 regexp="hackmd.io" type=FWD
-add forward-to=198.18.0.1 regexp="hackthatphone.net" type=FWD
-add forward-to=198.18.0.1 regexp="hahlo.com" type=FWD
-add forward-to=198.18.0.1 regexp="hakkatv.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="bbs.hanminzu.org" type=FWD
-add forward-to=198.18.0.1 regexp="ae.hao123.com" type=FWD
-add forward-to=198.18.0.1 regexp="ar.hao123.com" type=FWD
-add forward-to=198.18.0.1 regexp="br.hao123.com" type=FWD
-add forward-to=198.18.0.1 regexp="en.hao123.com" type=FWD
-add forward-to=198.18.0.1 regexp="id.hao123.com" type=FWD
-add forward-to=198.18.0.1 regexp="jp.hao123.com" type=FWD
-add forward-to=198.18.0.1 regexp="ma.hao123.com" type=FWD
-add forward-to=198.18.0.1 regexp="mx.hao123.com" type=FWD
-add forward-to=198.18.0.1 regexp="sa.hao123.com" type=FWD
-add forward-to=198.18.0.1 regexp="th.hao123.com" type=FWD
-add forward-to=198.18.0.1 regexp="tw.hao123.com" type=FWD
-add forward-to=198.18.0.1 regexp="vn.hao123.com" type=FWD
-add forward-to=198.18.0.1 regexp="hk.hao123img.com" type=FWD
-add forward-to=198.18.0.1 regexp="ld.hao123img.com" type=FWD
-add forward-to=198.18.0.1 regexp="happy-vpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="hardsextube.com" type=FWD
-add forward-to=198.18.0.1 regexp="harunyahya.com" type=FWD
-add forward-to=198.18.0.1 regexp="bbs.hasi.wang" type=FWD
-add forward-to=198.18.0.1 regexp="have8.com" type=FWD
-add forward-to=198.18.0.1 regexp="hdlt.me" type=FWD
-add forward-to=198.18.0.1 regexp="hdtvb.net" type=FWD
-add forward-to=198.18.0.1 regexp="hdzog.com" type=FWD
-add forward-to=198.18.0.1 regexp="ordns.he.net" type=FWD
-add forward-to=198.18.0.1 regexp="heartyit.com" type=FWD
-add forward-to=198.18.0.1 regexp="hec.su" type=FWD
-add forward-to=198.18.0.1 regexp="hecaitou.net" type=FWD
-add forward-to=198.18.0.1 regexp="hechaji.com" type=FWD
-add forward-to=198.18.0.1 regexp="heeact.edu.tw" type=FWD
-add forward-to=198.18.0.1 regexp="hegre-art.com" type=FWD
-add forward-to=198.18.0.1 regexp="cdn.helixstudios.net" type=FWD
-add forward-to=198.18.0.1 regexp="helplinfen.com" type=FWD
-add forward-to=198.18.0.1 regexp="helpuyghursnow.org" type=FWD
-add forward-to=198.18.0.1 regexp="helloandroid.com" type=FWD
-add forward-to=198.18.0.1 regexp="helloqueer.com" type=FWD
-add forward-to=198.18.0.1 regexp="hellotxt.com" type=FWD
-add forward-to=198.18.0.1 regexp="hellotxt.com" type=FWD
-add forward-to=198.18.0.1 regexp="helpeachpeople.com" type=FWD
-add forward-to=198.18.0.1 regexp="helpster.de" type=FWD
-add forward-to=198.18.0.1 regexp="hentaitube.tv" type=FWD
-add forward-to=198.18.0.1 regexp="id.heroku.com" type=FWD
-add forward-to=198.18.0.1 regexp="heqinglian.net" type=FWD
-add forward-to=198.18.0.1 regexp="heqinglian.net" type=FWD
-add forward-to=198.18.0.1 regexp="heritage.org" type=FWD
-add forward-to=198.18.0.1 regexp="heungkongdiscuss.com" type=FWD
-add forward-to=198.18.0.1 regexp="hexieshe.com" type=FWD
-add forward-to=198.18.0.1 regexp="hexieshe.xyz" type=FWD
-add forward-to=198.18.0.1 regexp="hexxeh.net" type=FWD
-add forward-to=198.18.0.1 regexp="heyuedi.com" type=FWD
-add forward-to=198.18.0.1 regexp="app.heywire.com" type=FWD
-add forward-to=198.18.0.1 regexp="hi-on.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="hiccears.com" type=FWD
-add forward-to=198.18.0.1 regexp="hidden-advent.org" type=FWD
-add forward-to=198.18.0.1 regexp="hidden-advent.org" type=FWD
-add forward-to=198.18.0.1 regexp="hidecloud.com" type=FWD
-add forward-to=198.18.0.1 regexp="hide.me" type=FWD
-add forward-to=198.18.0.1 regexp="hideipvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="hideman.net" type=FWD
-add forward-to=198.18.0.1 regexp="hideme.nl" type=FWD
-add forward-to=198.18.0.1 regexp="hidemy.name" type=FWD
-add forward-to=198.18.0.1 regexp="hidemyass.com" type=FWD
-add forward-to=198.18.0.1 regexp="hidemycomp.com" type=FWD
-add forward-to=198.18.0.1 regexp="hidemycomp.com" type=FWD
-add forward-to=198.18.0.1 regexp="hihistory.net" type=FWD
-add forward-to=198.18.0.1 regexp="highpeakspureearth.com" type=FWD
-add forward-to=198.18.0.1 regexp="highrockmedia.com" type=FWD
-add forward-to=198.18.0.1 regexp="hiitch.com" type=FWD
-add forward-to=198.18.0.1 regexp="hikinggfw.org" type=FWD
-add forward-to=198.18.0.1 regexp="himalayan-foundation.org" type=FWD
-add forward-to=198.18.0.1 regexp="himalayanglacier.com" type=FWD
-add forward-to=198.18.0.1 regexp="himemix.com" type=FWD
-add forward-to=198.18.0.1 regexp="times.hinet.net" type=FWD
-add forward-to=198.18.0.1 regexp="hitomi.la" type=FWD
-add forward-to=198.18.0.1 regexp="hizbuttahrir.org" type=FWD
-add forward-to=198.18.0.1 regexp="hizb-ut-tahrir.info" type=FWD
-add forward-to=198.18.0.1 regexp="hizb-ut-tahrir.org" type=FWD
-add forward-to=198.18.0.1 regexp="hk-pub.com" type=FWD
-add forward-to=198.18.0.1 regexp="hk01.com" type=FWD
-add forward-to=198.18.0.1 regexp="hk32168.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkacg.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkacg.net" type=FWD
-add forward-to=198.18.0.1 regexp="hkbc.net" type=FWD
-add forward-to=198.18.0.1 regexp="hkbookcity.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkchronicles.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkci.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="hkcnews.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkcoc.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkctu.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="hkday.net" type=FWD
-add forward-to=198.18.0.1 regexp="hkdc.us" type=FWD
-add forward-to=198.18.0.1 regexp="hkdf.org" type=FWD
-add forward-to=198.18.0.1 regexp="hket.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkfaa.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkfreezone.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkfront.org" type=FWD
-add forward-to=198.18.0.1 regexp="m.hkgalden.com" type=FWD
-add forward-to=198.18.0.1 regexp="m.hkgalden.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkgpao.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkhkhk.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkhrc.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="hkhrm.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="hkip.org.uk" type=FWD
-add forward-to=198.18.0.1 regexp="1989report.hkja.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="hkjc.com" type=FWD
-add forward-to=198.18.0.1 regexp="hklts.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="hkmap.live" type=FWD
-add forward-to=198.18.0.1 regexp="hkopentv.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkpeanut.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkptu.org" type=FWD
-add forward-to=198.18.0.1 regexp="hkreporter.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkupop.hku.hk" type=FWD
-add forward-to=198.18.0.1 regexp="hkusu.net" type=FWD
-add forward-to=198.18.0.1 regexp="hkzone.org" type=FWD
-add forward-to=198.18.0.1 regexp="hmonghot.com" type=FWD
-add forward-to=198.18.0.1 regexp="hnjhj.com" type=FWD
-add forward-to=198.18.0.1 regexp="hnjhj.com" type=FWD
-add forward-to=198.18.0.1 regexp="hojemacau.com.mo" type=FWD
-add forward-to=198.18.0.1 regexp="hola.com" type=FWD
-add forward-to=198.18.0.1 regexp="hola.org" type=FWD
-add forward-to=198.18.0.1 regexp="holymountaincn.com" type=FWD
-add forward-to=198.18.0.1 regexp="holyspiritspeaks.org" type=FWD
-add forward-to=198.18.0.1 regexp="holyspiritspeaks.org" type=FWD
-add forward-to=198.18.0.1 regexp="derekhsu.homeip.net" type=FWD
-add forward-to=198.18.0.1 regexp="homeservershow.com" type=FWD
-add forward-to=198.18.0.1 regexp="old.honeynet.org" type=FWD
-add forward-to=198.18.0.1 regexp="hongkongfp.com" type=FWD
-add forward-to=198.18.0.1 regexp="hongmeimei.com" type=FWD
-add forward-to=198.18.0.1 regexp="hongzhi.li" type=FWD
-add forward-to=198.18.0.1 regexp="honven.xyz" type=FWD
-add forward-to=198.18.0.1 regexp="hootsuite.com" type=FWD
-add forward-to=198.18.0.1 regexp="hoover.org" type=FWD
-add forward-to=198.18.0.1 regexp="hopedialogue.org" type=FWD
-add forward-to=198.18.0.1 regexp="hornytrip.com" type=FWD
-add forward-to=198.18.0.1 regexp="horrorporn.com" type=FWD
-add forward-to=198.18.0.1 regexp="hostloc.com" type=FWD
-add forward-to=198.18.0.1 regexp="hotair.com" type=FWD
-add forward-to=198.18.0.1 regexp="hotfrog.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="hotgoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="hotpot.hk" type=FWD
-add forward-to=198.18.0.1 regexp="hotspotshield.com" type=FWD
-add forward-to=198.18.0.1 regexp="hottg.com" type=FWD
-add forward-to=198.18.0.1 regexp="hotvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="hougaige.com" type=FWD
-add forward-to=198.18.0.1 regexp="howtoforge.com" type=FWD
-add forward-to=198.18.0.1 regexp="hoxx.com" type=FWD
-add forward-to=198.18.0.1 regexp="hqcdp.org" type=FWD
-add forward-to=198.18.0.1 regexp="hqjapanesesex.com" type=FWD
-add forward-to=198.18.0.1 regexp="hqmovies.com" type=FWD
-add forward-to=198.18.0.1 regexp="hrichina.org" type=FWD
-add forward-to=198.18.0.1 regexp="hrntt.org" type=FWD
-add forward-to=198.18.0.1 regexp="hrw.org" type=FWD
-add forward-to=198.18.0.1 regexp="hrweb.org" type=FWD
-add forward-to=198.18.0.1 regexp="hsjp.net" type=FWD
-add forward-to=198.18.0.1 regexp="hsselite.com" type=FWD
-add forward-to=198.18.0.1 regexp="hst.net.tw" type=FWD
-add forward-to=198.18.0.1 regexp="htkou.net" type=FWD
-add forward-to=198.18.0.1 regexp="huaglad.com" type=FWD
-add forward-to=198.18.0.1 regexp="huanghuagang.org" type=FWD
-add forward-to=198.18.0.1 regexp="huaren.us" type=FWD
-add forward-to=198.18.0.1 regexp="huashangnews.com" type=FWD
-add forward-to=198.18.0.1 regexp="bbs.huasing.org" type=FWD
-add forward-to=198.18.0.1 regexp="huaxia-news.com" type=FWD
-add forward-to=198.18.0.1 regexp="huaxiabao.org" type=FWD
-add forward-to=198.18.0.1 regexp="huaxin.ph" type=FWD
-add forward-to=198.18.0.1 regexp="huayuworld.org" type=FWD
-add forward-to=198.18.0.1 regexp="huffingtonpost.com" type=FWD
-add forward-to=198.18.0.1 regexp="huffpost.com" type=FWD
-add forward-to=198.18.0.1 regexp="huggingface.co" type=FWD
-add forward-to=198.18.0.1 regexp="hugoroy.eu" type=FWD
-add forward-to=198.18.0.1 regexp="huhaitai.com" type=FWD
-add forward-to=198.18.0.1 regexp="huhamhire.com" type=FWD
-add forward-to=198.18.0.1 regexp="huhangfei.com" type=FWD
-add forward-to=198.18.0.1 regexp="huiyi.in" type=FWD
-add forward-to=198.18.0.1 regexp="humanparty.me" type=FWD
-add forward-to=198.18.0.1 regexp="humanrightspressawards.org" type=FWD
-add forward-to=198.18.0.1 regexp="hung-ya.com" type=FWD
-add forward-to=198.18.0.1 regexp="hungerstrikeforaids.org" type=FWD
-add forward-to=198.18.0.1 regexp="huping.net" type=FWD
-add forward-to=198.18.0.1 regexp="hurgokbayrak.com" type=FWD
-add forward-to=198.18.0.1 regexp="hutianyi.net" type=FWD
-add forward-to=198.18.0.1 regexp="hutong9.net" type=FWD
-add forward-to=198.18.0.1 regexp="huyandex.com" type=FWD
-add forward-to=198.18.0.1 regexp="hwayue.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="hwinfo.com" type=FWD
-add forward-to=198.18.0.1 regexp="hxwk.org" type=FWD
-add forward-to=198.18.0.1 regexp="hxwq.org" type=FWD
-add forward-to=198.18.0.1 regexp="hyperrate.com" type=FWD
-add forward-to=198.18.0.1 regexp="ebook.hyread.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="ebook.hyread.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="i1.hk" type=FWD
-add forward-to=198.18.0.1 regexp="i2p2.de" type=FWD
-add forward-to=198.18.0.1 regexp="i2runner.com" type=FWD
-add forward-to=198.18.0.1 regexp="i818hk.com" type=FWD
-add forward-to=198.18.0.1 regexp="iask.ca" type=FWD
-add forward-to=198.18.0.1 regexp="iask.ca" type=FWD
-add forward-to=198.18.0.1 regexp="iask.bz" type=FWD
-add forward-to=198.18.0.1 regexp="iask.bz" type=FWD
-add forward-to=198.18.0.1 regexp="ibiblio.org" type=FWD
-add forward-to=198.18.0.1 regexp="ibit.am" type=FWD
-add forward-to=198.18.0.1 regexp="iblogserv-f.net" type=FWD
-add forward-to=198.18.0.1 regexp="ibros.org" type=FWD
-add forward-to=198.18.0.1 regexp="cn.ibtimes.com" type=FWD
-add forward-to=198.18.0.1 regexp="ibvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="icams.com" type=FWD
-add forward-to=198.18.0.1 regexp="icedrive.net" type=FWD
-add forward-to=198.18.0.1 regexp="icij.org" type=FWD
-add forward-to=198.18.0.1 regexp="icl-fi.org" type=FWD
-add forward-to=198.18.0.1 regexp="icoco.com" type=FWD
-add forward-to=198.18.0.1 regexp="furbo.org" type=FWD
-add forward-to=198.18.0.1 regexp="warbler.iconfactory.net" type=FWD
-add forward-to=198.18.0.1 regexp="iconpaper.org" type=FWD
-add forward-to=198.18.0.1 regexp="icu-project.org" type=FWD
-add forward-to=198.18.0.1 regexp="w.idaiwan.com" type=FWD
-add forward-to=198.18.0.1 regexp="idemocracy.asia" type=FWD
-add forward-to=198.18.0.1 regexp="identi.ca" type=FWD
-add forward-to=198.18.0.1 regexp="idiomconnection.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.idlcoyote.com" type=FWD
-add forward-to=198.18.0.1 regexp="forum.idsam.com" type=FWD
-add forward-to=198.18.0.1 regexp="ieasy5.com" type=FWD
-add forward-to=198.18.0.1 regexp="iepl.us" type=FWD
-add forward-to=198.18.0.1 regexp="ift.tt" type=FWD
-add forward-to=198.18.0.1 regexp="ifanqiang.com" type=FWD
-add forward-to=198.18.0.1 regexp="ifcss.org" type=FWD
-add forward-to=198.18.0.1 regexp="ifjc.org" type=FWD
-add forward-to=198.18.0.1 regexp="ift.tt" type=FWD
-add forward-to=198.18.0.1 regexp="ifreewares.com" type=FWD
-add forward-to=198.18.0.1 regexp="igcd.net" type=FWD
-add forward-to=198.18.0.1 regexp="igfw.net" type=FWD
-add forward-to=198.18.0.1 regexp="igfw.tech" type=FWD
-add forward-to=198.18.0.1 regexp="ignitedetroit.net" type=FWD
-add forward-to=198.18.0.1 regexp="igvita.com" type=FWD
-add forward-to=198.18.0.1 regexp="ihakka.net" type=FWD
-add forward-to=198.18.0.1 regexp="iicns.com" type=FWD
-add forward-to=198.18.0.1 regexp="ilhamtohtiinstitute.org" type=FWD
-add forward-to=198.18.0.1 regexp="illusionfactory.com" type=FWD
-add forward-to=198.18.0.1 regexp="ilove80.be" type=FWD
-add forward-to=198.18.0.1 regexp="im.tv" type=FWD
-add forward-to=198.18.0.1 regexp="im88.tw" type=FWD
-add forward-to=198.18.0.1 regexp="imgchili.net" type=FWD
-add forward-to=198.18.0.1 regexp="imagefap.com" type=FWD
-add forward-to=198.18.0.1 regexp="imageflea.com" type=FWD
-add forward-to=198.18.0.1 regexp="imageglass.org" type=FWD
-add forward-to=198.18.0.1 regexp="imageshack.us" type=FWD
-add forward-to=198.18.0.1 regexp="imagevenue.com" type=FWD
-add forward-to=198.18.0.1 regexp="imagezilla.net" type=FWD
-add forward-to=198.18.0.1 regexp="imb.org" type=FWD
-add forward-to=198.18.0.1 regexp="www.imdb.com" type=FWD
-add forward-to=198.18.0.1 regexp="img.ly" type=FWD
-add forward-to=198.18.0.1 regexp="imgasd.com" type=FWD
-add forward-to=198.18.0.1 regexp="imgur.com" type=FWD
-add forward-to=198.18.0.1 regexp="imkev.com" type=FWD
-add forward-to=198.18.0.1 regexp="impact.org.au" type=FWD
-add forward-to=198.18.0.1 regexp="impp.mn" type=FWD
-add forward-to=198.18.0.1 regexp="tech2.in.com" type=FWD
-add forward-to=198.18.0.1 regexp="in99.org" type=FWD
-add forward-to=198.18.0.1 regexp="in-disguise.com" type=FWD
-add forward-to=198.18.0.1 regexp="incloak.com" type=FWD
-add forward-to=198.18.0.1 regexp="incredibox.fr" type=FWD
-add forward-to=198.18.0.1 regexp="independent.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="indiablooms.com" type=FWD
-add forward-to=198.18.0.1 regexp="indiandefensenews.in" type=FWD
-add forward-to=198.18.0.1 regexp="indianarrative.com" type=FWD
-add forward-to=198.18.0.1 regexp="timesofindia.indiatimes.com" type=FWD
-add forward-to=198.18.0.1 regexp="indiemerch.com" type=FWD
-add forward-to=198.18.0.1 regexp="info-graf.fr" type=FWD
-add forward-to=198.18.0.1 regexp="website.informer.com" type=FWD
-add forward-to=198.18.0.1 regexp="initiativesforchina.org" type=FWD
-add forward-to=198.18.0.1 regexp="inkbunny.net" type=FWD
-add forward-to=198.18.0.1 regexp="inkui.com" type=FWD
-add forward-to=198.18.0.1 regexp="inmediahk.net" type=FWD
-add forward-to=198.18.0.1 regexp="inmediahk.net" type=FWD
-add forward-to=198.18.0.1 regexp="innermongolia.org" type=FWD
-add forward-to=198.18.0.1 regexp="inoreader.com" type=FWD
-add forward-to=198.18.0.1 regexp="inote.tw" type=FWD
-add forward-to=198.18.0.1 regexp="insecam.org" type=FWD
-add forward-to=198.18.0.1 regexp="insecam.org" type=FWD
-add forward-to=198.18.0.1 regexp="inside.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="insidevoa.com" type=FWD
-add forward-to=198.18.0.1 regexp="institut-tibetain.org" type=FWD
-add forward-to=198.18.0.1 regexp="interactivebrokers.com" type=FWD
-add forward-to=198.18.0.1 regexp="internet.org" type=FWD
-add forward-to=198.18.0.1 regexp="internetdefenseleague.org" type=FWD
-add forward-to=198.18.0.1 regexp="internetfreedom.org" type=FWD
-add forward-to=198.18.0.1 regexp="internetpopculture.com" type=FWD
-add forward-to=198.18.0.1 regexp="inthenameofconfuciusmovie.com" type=FWD
-add forward-to=198.18.0.1 regexp="inxian.com" type=FWD
-add forward-to=198.18.0.1 regexp="inxian.com" type=FWD
-add forward-to=198.18.0.1 regexp="ipalter.com" type=FWD
-add forward-to=198.18.0.1 regexp="ipfire.org" type=FWD
-add forward-to=198.18.0.1 regexp="iphone4hongkong.com" type=FWD
-add forward-to=198.18.0.1 regexp="iphonehacks.com" type=FWD
-add forward-to=198.18.0.1 regexp="iphonetaiwan.org" type=FWD
-add forward-to=198.18.0.1 regexp="iphonix.fr" type=FWD
-add forward-to=198.18.0.1 regexp="ipicture.ru" type=FWD
-add forward-to=198.18.0.1 regexp="ipjetable.net" type=FWD
-add forward-to=198.18.0.1 regexp="ipoock.com" type=FWD
-add forward-to=198.18.0.1 regexp="iportal.me" type=FWD
-add forward-to=198.18.0.1 regexp="ippotv.com" type=FWD
-add forward-to=198.18.0.1 regexp="ipredator.se" type=FWD
-add forward-to=198.18.0.1 regexp="iptvbin.com" type=FWD
-add forward-to=198.18.0.1 regexp="ipvanish.com" type=FWD
-add forward-to=198.18.0.1 regexp="iredmail.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinese.irib.ir" type=FWD
-add forward-to=198.18.0.1 regexp="ironbigfools.compython.net" type=FWD
-add forward-to=198.18.0.1 regexp="ironpython.net" type=FWD
-add forward-to=198.18.0.1 regexp="ironsocket.com" type=FWD
-add forward-to=198.18.0.1 regexp="islam.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="islamhouse.com" type=FWD
-add forward-to=198.18.0.1 regexp="isaacmao.com" type=FWD
-add forward-to=198.18.0.1 regexp="isgreat.org" type=FWD
-add forward-to=198.18.0.1 regexp="ismaelan.com" type=FWD
-add forward-to=198.18.0.1 regexp="ismprofessional.net" type=FWD
-add forward-to=198.18.0.1 regexp="isohunt.com" type=FWD
-add forward-to=198.18.0.1 regexp="israbox.com" type=FWD
-add forward-to=198.18.0.1 regexp="issuu.com" type=FWD
-add forward-to=198.18.0.1 regexp="oversea.istarshine.com" type=FWD
-add forward-to=198.18.0.1 regexp="oversea.istarshine.com" type=FWD
-add forward-to=198.18.0.1 regexp="blog.istef.info" type=FWD
-add forward-to=198.18.0.1 regexp="isunaffairs.com" type=FWD
-add forward-to=198.18.0.1 regexp="isuntv.com" type=FWD
-add forward-to=198.18.0.1 regexp="isupportuyghurs.org" type=FWD
-add forward-to=198.18.0.1 regexp="itaboo.info" type=FWD
-add forward-to=198.18.0.1 regexp="itaboo.info" type=FWD
-add forward-to=198.18.0.1 regexp="italiatibet.org" type=FWD
-add forward-to=198.18.0.1 regexp="itemfix.com" type=FWD
-add forward-to=198.18.0.1 regexp="ithelp.ithome.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="itshidden.com" type=FWD
-add forward-to=198.18.0.1 regexp="itweet.net" type=FWD
-add forward-to=198.18.0.1 regexp="iuhrdf.org" type=FWD
-add forward-to=198.18.0.1 regexp="ivacy.com" type=FWD
-add forward-to=198.18.0.1 regexp="ivonblog.com" type=FWD
-add forward-to=198.18.0.1 regexp="ivpn.net" type=FWD
-add forward-to=198.18.0.1 regexp="iwara.tv" type=FWD
-add forward-to=198.18.0.1 regexp="ixquick.com" type=FWD
-add forward-to=198.18.0.1 regexp="iyouport.com" type=FWD
-add forward-to=198.18.0.1 regexp="iyouport.org" type=FWD
-add forward-to=198.18.0.1 regexp="gmozomg.izihost.org" type=FWD
-add forward-to=198.18.0.1 regexp="j.mp" type=FWD
-add forward-to=198.18.0.1 regexp="jable.tv" type=FWD
-add forward-to=198.18.0.1 regexp="blog.jackjia.com" type=FWD
-add forward-to=198.18.0.1 regexp="jamaat.org" type=FWD
-add forward-to=198.18.0.1 regexp="jamestown.org" type=FWD
-add forward-to=198.18.0.1 regexp="jamyangnorbu.com" type=FWD
-add forward-to=198.18.0.1 regexp="jan.ai" type=FWD
-add forward-to=198.18.0.1 regexp="janwongphoto.com" type=FWD
-add forward-to=198.18.0.1 regexp="japan-whores.com" type=FWD
-add forward-to=198.18.0.1 regexp="jav2be.com" type=FWD
-add forward-to=198.18.0.1 regexp="javakiba.org" type=FWD
-add forward-to=198.18.0.1 regexp="javbus.com" type=FWD
-add forward-to=198.18.0.1 regexp="javfor.me" type=FWD
-add forward-to=198.18.0.1 regexp="javmobile.net" type=FWD
-add forward-to=198.18.0.1 regexp="javseen.com" type=FWD
-add forward-to=198.18.0.1 regexp="jbtalks.cc" type=FWD
-add forward-to=198.18.0.1 regexp="jbtalks.com" type=FWD
-add forward-to=198.18.0.1 regexp="jbtalks.my" type=FWD
-add forward-to=198.18.0.1 regexp="jeanyim.com" type=FWD
-add forward-to=198.18.0.1 regexp="jfqu36.club" type=FWD
-add forward-to=198.18.0.1 regexp="jfqu37.xyz" type=FWD
-add forward-to=198.18.0.1 regexp="jgoodies.com" type=FWD
-add forward-to=198.18.0.1 regexp="jiangweiping.com" type=FWD
-add forward-to=198.18.0.1 regexp="jiaoyou8.com" type=FWD
-add forward-to=198.18.0.1 regexp="jichangtj.com" type=FWD
-add forward-to=198.18.0.1 regexp="hk.jiepang.com" type=FWD
-add forward-to=198.18.0.1 regexp="tw.jiepang.com" type=FWD
-add forward-to=198.18.0.1 regexp="jieshibaobao.com" type=FWD
-add forward-to=198.18.0.1 regexp="56cun04.jigsy.com" type=FWD
-add forward-to=198.18.0.1 regexp="jigong1024.com" type=FWD
-add forward-to=198.18.0.1 regexp="daodu14.jigsy.com" type=FWD
-add forward-to=198.18.0.1 regexp="specxinzl.jigsy.com" type=FWD
-add forward-to=198.18.0.1 regexp="wlcnew.jigsy.com" type=FWD
-add forward-to=198.18.0.1 regexp="jihadology.net" type=FWD
-add forward-to=198.18.0.1 regexp="jinbushe.org" type=FWD
-add forward-to=198.18.0.1 regexp="jinbushe.org" type=FWD
-add forward-to=198.18.0.1 regexp="zhao.jinhai.de" type=FWD
-add forward-to=198.18.0.1 regexp="jingpin.org" type=FWD
-add forward-to=198.18.0.1 regexp="jingpin.org" type=FWD
-add forward-to=198.18.0.1 regexp="jinpianwang.com" type=FWD
-add forward-to=198.18.0.1 regexp="ac.jiruan.net" type=FWD
-add forward-to=198.18.0.1 regexp="jitouch.com" type=FWD
-add forward-to=198.18.0.1 regexp="jjgirls.com" type=FWD
-add forward-to=198.18.0.1 regexp="jkb.cc" type=FWD
-add forward-to=198.18.0.1 regexp="jkforum.net" type=FWD
-add forward-to=198.18.0.1 regexp="jma.go.jp" type=FWD
-add forward-to=198.18.0.1 regexp="research.jmsc.hku.hk" type=FWD
-add forward-to=198.18.0.1 regexp="weiboscope.jmsc.hku.hk" type=FWD
-add forward-to=198.18.0.1 regexp="jmscult.com" type=FWD
-add forward-to=198.18.0.1 regexp="joachims.org" type=FWD
-add forward-to=198.18.0.1 regexp="jobso.tv" type=FWD
-add forward-to=198.18.0.1 regexp="joinclubhouse.com" type=FWD
-add forward-to=198.18.0.1 regexp="jornaldacidadeonline.com.br" type=FWD
-add forward-to=198.18.0.1 regexp="journalofdemocracy.org" type=FWD
-add forward-to=198.18.0.1 regexp="jpopforum.net" type=FWD
-add forward-to=198.18.0.1 regexp="jsdelivr.net" type=FWD
-add forward-to=198.18.0.1 regexp="fiddle.jshell.net" type=FWD
-add forward-to=198.18.0.1 regexp="jubushoushen.com" type=FWD
-add forward-to=198.18.0.1 regexp="juliereyc.com" type=FWD
-add forward-to=198.18.0.1 regexp="junauza.com" type=FWD
-add forward-to=198.18.0.1 regexp="junefourth-20.net" type=FWD
-add forward-to=198.18.0.1 regexp="bbs.junglobal.net" type=FWD
-add forward-to=198.18.0.1 regexp="juoaa.com" type=FWD
-add forward-to=198.18.0.1 regexp="justfreevpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="justhost.ru" type=FWD
-add forward-to=198.18.0.1 regexp="justpaste.it" type=FWD
-add forward-to=198.18.0.1 regexp="justmysocks1.net" type=FWD
-add forward-to=198.18.0.1 regexp="justtristan.com" type=FWD
-add forward-to=198.18.0.1 regexp="juyuange.org" type=FWD
-add forward-to=198.18.0.1 regexp="juziyue.com" type=FWD
-add forward-to=198.18.0.1 regexp="juziyue.com" type=FWD
-add forward-to=198.18.0.1 regexp="jwmusic.org" type=FWD
-add forward-to=198.18.0.1 regexp="cdn.jwplayer.com" type=FWD
-add forward-to=198.18.0.1 regexp="k-doujin.net" type=FWD
-add forward-to=198.18.0.1 regexp="ka-wai.com" type=FWD
-add forward-to=198.18.0.1 regexp="kadokawa.co.jp" type=FWD
-add forward-to=198.18.0.1 regexp="kagyu.org.za" type=FWD
-add forward-to=198.18.0.1 regexp="kagyuoffice.org" type=FWD
-add forward-to=198.18.0.1 regexp="kagyuoffice.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="kakao.com" type=FWD
-add forward-to=198.18.0.1 regexp="kannewyork.com" type=FWD
-add forward-to=198.18.0.1 regexp="kanshifang.com" type=FWD
-add forward-to=198.18.0.1 regexp="kantie.org" type=FWD
-add forward-to=198.18.0.1 regexp="kanzhongguo.com" type=FWD
-add forward-to=198.18.0.1 regexp="kanzhongguo.eu" type=FWD
-add forward-to=198.18.0.1 regexp="kaotic.com" type=FWD
-add forward-to=198.18.0.1 regexp="karayou.com" type=FWD
-add forward-to=198.18.0.1 regexp="karkhung.com" type=FWD
-add forward-to=198.18.0.1 regexp="kawase.com" type=FWD
-add forward-to=198.18.0.1 regexp="kebrum.com" type=FWD
-add forward-to=198.18.0.1 regexp="kenengba.com" type=FWD
-add forward-to=198.18.0.1 regexp="keontech.net" type=FWD
-add forward-to=198.18.0.1 regexp="kepard.com" type=FWD
-add forward-to=198.18.0.1 regexp="wiki.keso.cn" type=FWD
-add forward-to=198.18.0.1 regexp="keycdn.com" type=FWD
-add forward-to=198.18.0.1 regexp="kichiku-doujinko.com" type=FWD
-add forward-to=198.18.0.1 regexp="kik.com" type=FWD
-add forward-to=198.18.0.1 regexp="bbs.kimy.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="kindleren.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.kindleren.com" type=FWD
-add forward-to=198.18.0.1 regexp="kingdomsalvation.org" type=FWD
-add forward-to=198.18.0.1 regexp="kinghost.com" type=FWD
-add forward-to=198.18.0.1 regexp="kingstone.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="kinokuniya.com" type=FWD
-add forward-to=198.18.0.1 regexp="killwall.com" type=FWD
-add forward-to=198.18.0.1 regexp="killwall.com" type=FWD
-add forward-to=198.18.0.1 regexp="kinmen.travel" type=FWD
-add forward-to=198.18.0.1 regexp="kiwi.kz" type=FWD
-add forward-to=198.18.0.1 regexp="kk-whys.co.jp" type=FWD
-add forward-to=198.18.0.1 regexp="knowyourmeme.com" type=FWD
-add forward-to=198.18.0.1 regexp="kobo.com" type=FWD
-add forward-to=198.18.0.1 regexp="kobobooks.com" type=FWD
-add forward-to=198.18.0.1 regexp="kodingen.com" type=FWD
-add forward-to=198.18.0.1 regexp="kompozer.net" type=FWD
-add forward-to=198.18.0.1 regexp="konachan.com" type=FWD
-add forward-to=198.18.0.1 regexp="koolsolutions.com" type=FWD
-add forward-to=198.18.0.1 regexp="koornk.com" type=FWD
-add forward-to=198.18.0.1 regexp="koranmandarin.com" type=FWD
-add forward-to=198.18.0.1 regexp="kqes.net" type=FWD
-add forward-to=198.18.0.1 regexp="gojet.krtco.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="ktzhk.com" type=FWD
-add forward-to=198.18.0.1 regexp="kukuku.uk" type=FWD
-add forward-to=198.18.0.1 regexp="kun.im" type=FWD
-add forward-to=198.18.0.1 regexp="kurtmunger.com" type=FWD
-add forward-to=198.18.0.1 regexp="kusocity.com" type=FWD
-add forward-to=198.18.0.1 regexp="kwcg.ca" type=FWD
-add forward-to=198.18.0.1 regexp="kwok7.com" type=FWD
-add forward-to=198.18.0.1 regexp="kwongwah.com.my" type=FWD
-add forward-to=198.18.0.1 regexp="kxsw.life" type=FWD
-add forward-to=198.18.0.1 regexp="kyohk.net" type=FWD
-add forward-to=198.18.0.1 regexp="kyoyue.com" type=FWD
-add forward-to=198.18.0.1 regexp="kyzyhello.com" type=FWD
-add forward-to=198.18.0.1 regexp="kzeng.info" type=FWD
-add forward-to=198.18.0.1 regexp="la-forum.org" type=FWD
-add forward-to=198.18.0.1 regexp="ladbrokes.com" type=FWD
-add forward-to=198.18.0.1 regexp="labiennale.org" type=FWD
-add forward-to=198.18.0.1 regexp="lagranepoca.com" type=FWD
-add forward-to=198.18.0.1 regexp="lala.im" type=FWD
-add forward-to=198.18.0.1 regexp="lama.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="lamayeshe.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.lamenhu.com" type=FWD
-add forward-to=198.18.0.1 regexp="lamnia.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="lamrim.com" type=FWD
-add forward-to=198.18.0.1 regexp="landofhope.tv" type=FWD
-add forward-to=198.18.0.1 regexp="lanterncn.cn" type=FWD
-add forward-to=198.18.0.1 regexp="laod.cn" type=FWD
-add forward-to=198.18.0.1 regexp="laogai.org" type=FWD
-add forward-to=198.18.0.1 regexp="laogai.org" type=FWD
-add forward-to=198.18.0.1 regexp="laogairesearch.org" type=FWD
-add forward-to=198.18.0.1 regexp="laomiu.com" type=FWD
-add forward-to=198.18.0.1 regexp="laoyang.info" type=FWD
-add forward-to=198.18.0.1 regexp="laptoplockdown.com" type=FWD
-add forward-to=198.18.0.1 regexp="laqingdan.net" type=FWD
-add forward-to=198.18.0.1 regexp="larsgeorge.com" type=FWD
-add forward-to=198.18.0.1 regexp="lastcombat.com" type=FWD
-add forward-to=198.18.0.1 regexp="lastfm.es" type=FWD
-add forward-to=198.18.0.1 regexp="latelinenews.com" type=FWD
-add forward-to=198.18.0.1 regexp="lausan.hk" type=FWD
-add forward-to=198.18.0.1 regexp="le-vpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="leafyvpn.net" type=FWD
-add forward-to=198.18.0.1 regexp="ledger.com" type=FWD
-add forward-to=198.18.0.1 regexp="leeao.com.cn" type=FWD
-add forward-to=198.18.0.1 regexp="lefora.com" type=FWD
-add forward-to=198.18.0.1 regexp="left21.hk" type=FWD
-add forward-to=198.18.0.1 regexp="leirentv.ca" type=FWD
-add forward-to=198.18.0.1 regexp="leisurecafe.ca" type=FWD
-add forward-to=198.18.0.1 regexp="lematin.ch" type=FWD
-add forward-to=198.18.0.1 regexp="lenwhite.com" type=FWD
-add forward-to=198.18.0.1 regexp="leorockwell.com" type=FWD
-add forward-to=198.18.0.1 regexp="lerosua.org" type=FWD
-add forward-to=198.18.0.1 regexp="lerosua.org" type=FWD
-add forward-to=198.18.0.1 regexp="blog.lester850.info" type=FWD
-add forward-to=198.18.0.1 regexp="lesoir.be" type=FWD
-add forward-to=198.18.0.1 regexp="letscorp.net" type=FWD
-add forward-to=198.18.0.1 regexp="letscorp.net" type=FWD
-add forward-to=198.18.0.1 regexp="ocsp.int-x3.letsencrypt.org" type=FWD
-add forward-to=198.18.0.1 regexp="ss.levyhsu.com" type=FWD
-add forward-to=198.18.0.1 regexp="cdn.assets.lfpcontent.com" type=FWD
-add forward-to=198.18.0.1 regexp="lhakar.org" type=FWD
-add forward-to=198.18.0.1 regexp="liangyou.net" type=FWD
-add forward-to=198.18.0.1 regexp="liaowangxizang.net" type=FWD
-add forward-to=198.18.0.1 regexp="liberal.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="libertysculpturepark.com" type=FWD
-add forward-to=198.18.0.1 regexp="libertytimes.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="blogs.libraryinformationtechnology.com" type=FWD
-add forward-to=198.18.0.1 regexp="libredd.it" type=FWD
-add forward-to=198.18.0.1 regexp="lighten.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="lightnovel.cn" type=FWD
-add forward-to=198.18.0.1 regexp="limiao.net" type=FWD
-add forward-to=198.18.0.1 regexp="linkuswell.com" type=FWD
-add forward-to=198.18.0.1 regexp="abitno.linpie.com" type=FWD
-add forward-to=198.18.0.1 regexp="line.me" type=FWD
-add forward-to=198.18.0.1 regexp="line-apps.com" type=FWD
-add forward-to=198.18.0.1 regexp="lingvodics.com" type=FWD
-add forward-to=198.18.0.1 regexp="link-o-rama.com" type=FWD
-add forward-to=198.18.0.1 regexp="linkedin.com" type=FWD
-add forward-to=198.18.0.1 regexp="api.linksalpha.com" type=FWD
-add forward-to=198.18.0.1 regexp="apidocs.linksalpha.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.linksalpha.com" type=FWD
-add forward-to=198.18.0.1 regexp="help.linksalpha.com" type=FWD
-add forward-to=198.18.0.1 regexp="linux.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="linuxtoy.org" type=FWD
-add forward-to=198.18.0.1 regexp="liquidvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="greatfire.us7.list-manage.com" type=FWD
-add forward-to=198.18.0.1 regexp="listennotes.com" type=FWD
-add forward-to=198.18.0.1 regexp="listentoyoutube.com" type=FWD
-add forward-to=198.18.0.1 regexp="listorious.com" type=FWD
-add forward-to=198.18.0.1 regexp="liudejun.com" type=FWD
-add forward-to=198.18.0.1 regexp="liujianshu.com" type=FWD
-add forward-to=198.18.0.1 regexp="liuxiaobo.net" type=FWD
-add forward-to=198.18.0.1 regexp="liuxiaotong.com" type=FWD
-add forward-to=198.18.0.1 regexp="liuxiaotong.com" type=FWD
-add forward-to=198.18.0.1 regexp="liveleak.com" type=FWD
-add forward-to=198.18.0.1 regexp="livemint.com" type=FWD
-add forward-to=198.18.0.1 regexp="livestream.com" type=FWD
-add forward-to=198.18.0.1 regexp="livestream.com" type=FWD
-add forward-to=198.18.0.1 regexp="livingonline.us" type=FWD
-add forward-to=198.18.0.1 regexp="livingstream.com" type=FWD
-add forward-to=198.18.0.1 regexp="livevideo.com" type=FWD
-add forward-to=198.18.0.1 regexp="lizhizhuangbi.com" type=FWD
-add forward-to=198.18.0.1 regexp="lkcn.net" type=FWD
-add forward-to=198.18.0.1 regexp="chat.lmsys.org" type=FWD
-add forward-to=198.18.0.1 regexp="lncn.org" type=FWD
-add forward-to=198.18.0.1 regexp="localdomain.ws" type=FWD
-add forward-to=198.18.0.1 regexp="localpresshk.com" type=FWD
-add forward-to=198.18.0.1 regexp="lockestek.com" type=FWD
-add forward-to=198.18.0.1 regexp="logbot.net" type=FWD
-add forward-to=198.18.0.1 regexp="logiqx.com" type=FWD
-add forward-to=198.18.0.1 regexp="secure.logmein.com" type=FWD
-add forward-to=198.18.0.1 regexp="secure.logmein.com" type=FWD
-add forward-to=198.18.0.1 regexp="logos.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="longmusic.com" type=FWD
-add forward-to=198.18.0.1 regexp="longtermly.net" type=FWD
-add forward-to=198.18.0.1 regexp="lookpic.com" type=FWD
-add forward-to=198.18.0.1 regexp="looktoronto.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkreporter.loved.hk" type=FWD
-add forward-to=198.18.0.1 regexp="lpsg.com" type=FWD
-add forward-to=198.18.0.1 regexp="lrfz.com" type=FWD
-add forward-to=198.18.0.1 regexp="lrip.org" type=FWD
-add forward-to=198.18.0.1 regexp="lsd.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="lsforum.net" type=FWD
-add forward-to=198.18.0.1 regexp="lsm.org" type=FWD
-add forward-to=198.18.0.1 regexp="lsmchinese.org" type=FWD
-add forward-to=198.18.0.1 regexp="lsmkorean.org" type=FWD
-add forward-to=198.18.0.1 regexp="ltn.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="luckydesigner.space" type=FWD
-add forward-to=198.18.0.1 regexp="lupm.org" type=FWD
-add forward-to=198.18.0.1 regexp="lushstories.com" type=FWD
-add forward-to=198.18.0.1 regexp="luxebc.com" type=FWD
-add forward-to=198.18.0.1 regexp="lvhai.org" type=FWD
-add forward-to=198.18.0.1 regexp="lvhai.org" type=FWD
-add forward-to=198.18.0.1 regexp="lvv2.com" type=FWD
-add forward-to=198.18.0.1 regexp="lyfhk.net" type=FWD
-add forward-to=198.18.0.1 regexp="lzjscript.com" type=FWD
-add forward-to=198.18.0.1 regexp="lzmtnews.org" type=FWD
-add forward-to=198.18.0.1 regexp="macts.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="mad-ar.ch" type=FWD
-add forward-to=198.18.0.1 regexp="madrau.com" type=FWD
-add forward-to=198.18.0.1 regexp="madthumbs.com" type=FWD
-add forward-to=198.18.0.1 regexp="magic-net.info" type=FWD
-add forward-to=198.18.0.1 regexp="mahabodhi.org" type=FWD
-add forward-to=198.18.0.1 regexp="my.mail.ru" type=FWD
-add forward-to=198.18.0.1 regexp="maiplus.com" type=FWD
-add forward-to=198.18.0.1 regexp="makkahnewspaper.com" type=FWD
-add forward-to=198.18.0.1 regexp="manicur4ik.ru" type=FWD
-add forward-to=198.18.0.1 regexp="manyvoices.news" type=FWD
-add forward-to=198.18.0.1 regexp="maplew.com" type=FWD
-add forward-to=198.18.0.1 regexp="marc.info" type=FWD
-add forward-to=198.18.0.1 regexp="marguerite.su" type=FWD
-add forward-to=198.18.0.1 regexp="martincartoons.com" type=FWD
-add forward-to=198.18.0.1 regexp="maskedip.com" type=FWD
-add forward-to=198.18.0.1 regexp="makemymood.com" type=FWD
-add forward-to=198.18.0.1 regexp="maniash.com" type=FWD
-add forward-to=198.18.0.1 regexp="martau.com" type=FWD
-add forward-to=198.18.0.1 regexp="blog.martinoei.com" type=FWD
-add forward-to=198.18.0.1 regexp="martsangkagyuofficial.org" type=FWD
-add forward-to=198.18.0.1 regexp="maruta.be" type=FWD
-add forward-to=198.18.0.1 regexp="marxist.net" type=FWD
-add forward-to=198.18.0.1 regexp="matainja.com" type=FWD
-add forward-to=198.18.0.1 regexp="mathable.io" type=FWD
-add forward-to=198.18.0.1 regexp="mathiew-badimon.com" type=FWD
-add forward-to=198.18.0.1 regexp="matrix.org" type=FWD
-add forward-to=198.18.0.1 regexp="matsushimakaede.com" type=FWD
-add forward-to=198.18.0.1 regexp="matters.town" type=FWD
-add forward-to=198.18.0.1 regexp="maturejp.com" type=FWD
-add forward-to=198.18.0.1 regexp="mayimayi.com" type=FWD
-add forward-to=198.18.0.1 regexp="mcaf.ee" type=FWD
-add forward-to=198.18.0.1 regexp="mcadforums.com" type=FWD
-add forward-to=198.18.0.1 regexp="mcfog.com" type=FWD
-add forward-to=198.18.0.1 regexp="mcreasite.com" type=FWD
-add forward-to=198.18.0.1 regexp="md-t.org" type=FWD
-add forward-to=198.18.0.1 regexp="meansys.com" type=FWD
-add forward-to=198.18.0.1 regexp="mediachinese.com" type=FWD
-add forward-to=198.18.0.1 regexp="mediafreakcity.com" type=FWD
-add forward-to=198.18.0.1 regexp="medium.com" type=FWD
-add forward-to=198.18.0.1 regexp="meetup.com" type=FWD
-add forward-to=198.18.0.1 regexp="mefeedia.com" type=FWD
-add forward-to=198.18.0.1 regexp="jihadintel.meforum.org" type=FWD
-add forward-to=198.18.0.1 regexp="mega.co.nz" type=FWD
-add forward-to=198.18.0.1 regexp="mega.io" type=FWD
-add forward-to=198.18.0.1 regexp="mega.nz" type=FWD
-add forward-to=198.18.0.1 regexp="megaproxy.com" type=FWD
-add forward-to=198.18.0.1 regexp="megarotic.com" type=FWD
-add forward-to=198.18.0.1 regexp="megavideo.com" type=FWD
-add forward-to=198.18.0.1 regexp="megurineluka.com" type=FWD
-add forward-to=198.18.0.1 regexp="meizhong.blog" type=FWD
-add forward-to=198.18.0.1 regexp="meizhong.report" type=FWD
-add forward-to=198.18.0.1 regexp="memehk.com" type=FWD
-add forward-to=198.18.0.1 regexp="memorybbs.com" type=FWD
-add forward-to=198.18.0.1 regexp="mercdn.net" type=FWD
-add forward-to=198.18.0.1 regexp="mercyprophet.org" type=FWD
-add forward-to=198.18.0.1 regexp="mergersandinquisitions.org" type=FWD
-add forward-to=198.18.0.1 regexp="meridian-trust.org" type=FWD
-add forward-to=198.18.0.1 regexp="meripet.biz" type=FWD
-add forward-to=198.18.0.1 regexp="meripet.com" type=FWD
-add forward-to=198.18.0.1 regexp="merit-times.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="meshrep.com" type=FWD
-add forward-to=198.18.0.1 regexp="metacafe.com" type=FWD
-add forward-to=198.18.0.1 regexp="metafilter.com" type=FWD
-add forward-to=198.18.0.1 regexp="meteorshowersonline.com" type=FWD
-add forward-to=198.18.0.1 regexp="metro.taipei" type=FWD
-add forward-to=198.18.0.1 regexp="metrolife.ca" type=FWD
-add forward-to=198.18.0.1 regexp="metroradio.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="mewe.com" type=FWD
-add forward-to=198.18.0.1 regexp="meyou.jp" type=FWD
-add forward-to=198.18.0.1 regexp="mgoon.com" type=FWD
-add forward-to=198.18.0.1 regexp="mgstage.com" type=FWD
-add forward-to=198.18.0.1 regexp="mh4u.org" type=FWD
-add forward-to=198.18.0.1 regexp="mhradio.org" type=FWD
-add forward-to=198.18.0.1 regexp="michaelanti.com" type=FWD
-add forward-to=198.18.0.1 regexp="michaelmarketl.com" type=FWD
-add forward-to=198.18.0.1 regexp="bbs.mikocon.com" type=FWD
-add forward-to=198.18.0.1 regexp="microvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="middle-way.net" type=FWD
-add forward-to=198.18.0.1 regexp="mihua.org" type=FWD
-add forward-to=198.18.0.1 regexp="mikesoltys.com" type=FWD
-add forward-to=198.18.0.1 regexp="milph.net" type=FWD
-add forward-to=198.18.0.1 regexp="mimiai.net" type=FWD
-add forward-to=198.18.0.1 regexp="mindrolling.org" type=FWD
-add forward-to=198.18.0.1 regexp="mingdemedia.org" type=FWD
-add forward-to=198.18.0.1 regexp="minghui.or.kr" type=FWD
-add forward-to=198.18.0.1 regexp="minghui.org" type=FWD
-add forward-to=198.18.0.1 regexp="minghui.org" type=FWD
-add forward-to=198.18.0.1 regexp="minghui-a.org" type=FWD
-add forward-to=198.18.0.1 regexp="minghui-b.org" type=FWD
-add forward-to=198.18.0.1 regexp="minghui-school.org" type=FWD
-add forward-to=198.18.0.1 regexp="mingjinglishi.com" type=FWD
-add forward-to=198.18.0.1 regexp="mingjingnews.com" type=FWD
-add forward-to=198.18.0.1 regexp="mingjingtimes.com" type=FWD
-add forward-to=198.18.0.1 regexp="mingpao.com" type=FWD
-add forward-to=198.18.0.1 regexp="mingpaomonthly.com" type=FWD
-add forward-to=198.18.0.1 regexp="mingpaonews.com" type=FWD
-add forward-to=198.18.0.1 regexp="minzhuhua.net" type=FWD
-add forward-to=198.18.0.1 regexp="minzhuzhanxian.com" type=FWD
-add forward-to=198.18.0.1 regexp="minzhuzhongguo.org" type=FWD
-add forward-to=198.18.0.1 regexp="miroguide.com" type=FWD
-add forward-to=198.18.0.1 regexp="mirrorbooks.com" type=FWD
-add forward-to=198.18.0.1 regexp="mirrormedia.mg" type=FWD
-add forward-to=198.18.0.1 regexp="thecenter.mit.edu" type=FWD
-add forward-to=198.18.0.1 regexp="scratch.mit.edu" type=FWD
-add forward-to=198.18.0.1 regexp="mitbbs.com" type=FWD
-add forward-to=198.18.0.1 regexp="mitbbsau.com" type=FWD
-add forward-to=198.18.0.1 regexp="mixero.com" type=FWD
-add forward-to=198.18.0.1 regexp="mixi.jp" type=FWD
-add forward-to=198.18.0.1 regexp="mixpod.com" type=FWD
-add forward-to=198.18.0.1 regexp="mixx.com" type=FWD
-add forward-to=198.18.0.1 regexp="mizzmona.com" type=FWD
-add forward-to=198.18.0.1 regexp="mlzs.work" type=FWD
-add forward-to=198.18.0.1 regexp="mmaaxx.com" type=FWD
-add forward-to=198.18.0.1 regexp="mnewstv.com" type=FWD
-add forward-to=198.18.0.1 regexp="mobatek.net" type=FWD
-add forward-to=198.18.0.1 regexp="mobile01.com" type=FWD
-add forward-to=198.18.0.1 regexp="mobileways.de" type=FWD
-add forward-to=198.18.0.1 regexp="moby.to" type=FWD
-add forward-to=198.18.0.1 regexp="mod.io" type=FWD
-add forward-to=198.18.0.1 regexp="modernchinastudies.org" type=FWD
-add forward-to=198.18.0.1 regexp="moeerolibrary.com" type=FWD
-add forward-to=198.18.0.1 regexp="wiki.moegirl.org" type=FWD
-add forward-to=198.18.0.1 regexp="mog.com" type=FWD
-add forward-to=198.18.0.1 regexp="mohu.rocks" type=FWD
-add forward-to=198.18.0.1 regexp="molihua.org" type=FWD
-add forward-to=198.18.0.1 regexp="mondex.org" type=FWD
-add forward-to=198.18.0.1 regexp="money-link.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="www.monlamit.org" type=FWD
-add forward-to=198.18.0.1 regexp="moon.fm" type=FWD
-add forward-to=198.18.0.1 regexp="moonbbs.com" type=FWD
-add forward-to=198.18.0.1 regexp="moptt.tw" type=FWD
-add forward-to=198.18.0.1 regexp="monica.im" type=FWD
-add forward-to=198.18.0.1 regexp="monitorchina.org" type=FWD
-add forward-to=198.18.0.1 regexp="monocloud.me" type=FWD
-add forward-to=198.18.0.1 regexp="bbs.morbell.com" type=FWD
-add forward-to=198.18.0.1 regexp="morningsun.org" type=FWD
-add forward-to=198.18.0.1 regexp="moroneta.com" type=FWD
-add forward-to=198.18.0.1 regexp="motherless.com" type=FWD
-add forward-to=198.18.0.1 regexp="motor4ik.ru" type=FWD
-add forward-to=198.18.0.1 regexp="movements.org" type=FWD
-add forward-to=198.18.0.1 regexp="moviefap.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.moztw.org" type=FWD
-add forward-to=198.18.0.1 regexp="mpettis.com" type=FWD
-add forward-to=198.18.0.1 regexp="mpfinance.com" type=FWD
-add forward-to=198.18.0.1 regexp="mpinews.com" type=FWD
-add forward-to=198.18.0.1 regexp="mponline.hk" type=FWD
-add forward-to=198.18.0.1 regexp="mqxd.org" type=FWD
-add forward-to=198.18.0.1 regexp="mrtweet.com" type=FWD
-add forward-to=198.18.0.1 regexp="mrtweet.com" type=FWD
-add forward-to=198.18.0.1 regexp="news.hk.msn.com" type=FWD
-add forward-to=198.18.0.1 regexp="news.msn.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="msguancha.com" type=FWD
-add forward-to=198.18.0.1 regexp="mswe1.org" type=FWD
-add forward-to=198.18.0.1 regexp="mthruf.com" type=FWD
-add forward-to=198.18.0.1 regexp="mubi.com" type=FWD
-add forward-to=198.18.0.1 regexp="muchosucko.com" type=FWD
-add forward-to=198.18.0.1 regexp="multiply.com" type=FWD
-add forward-to=198.18.0.1 regexp="multiproxy.org" type=FWD
-add forward-to=198.18.0.1 regexp="multiupload.com" type=FWD
-add forward-to=198.18.0.1 regexp="mullvad.net" type=FWD
-add forward-to=198.18.0.1 regexp="murmur.tw" type=FWD
-add forward-to=198.18.0.1 regexp="muzi.com" type=FWD
-add forward-to=198.18.0.1 regexp="muzi.net" type=FWD
-add forward-to=198.18.0.1 regexp="mx981.com" type=FWD
-add forward-to=198.18.0.1 regexp="my-private-network.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="forum.my903.com" type=FWD
-add forward-to=198.18.0.1 regexp="myanniu.com" type=FWD
-add forward-to=198.18.0.1 regexp="myaudiocast.com" type=FWD
-add forward-to=198.18.0.1 regexp="bbs.mychat.to" type=FWD
-add forward-to=198.18.0.1 regexp="mychinamyhome.com" type=FWD
-add forward-to=198.18.0.1 regexp="mychinanews.com" type=FWD
-add forward-to=198.18.0.1 regexp="mycnnews.com" type=FWD
-add forward-to=198.18.0.1 regexp="mykomica.org" type=FWD
-add forward-to=198.18.0.1 regexp="mycould.com" type=FWD
-add forward-to=198.18.0.1 regexp="myeclipseide.com" type=FWD
-add forward-to=198.18.0.1 regexp="myforum.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="myforum.com.uk" type=FWD
-add forward-to=198.18.0.1 regexp="myiphide.com" type=FWD
-add forward-to=198.18.0.1 regexp="forum.mymaji.com" type=FWD
-add forward-to=198.18.0.1 regexp="mymediarom.com" type=FWD
-add forward-to=198.18.0.1 regexp="mymoe.moe" type=FWD
-add forward-to=198.18.0.1 regexp="mymusic.net.tw" type=FWD
-add forward-to=198.18.0.1 regexp="myparagliding.com" type=FWD
-add forward-to=198.18.0.1 regexp="mypopescu.com" type=FWD
-add forward-to=198.18.0.1 regexp="myradio.hk" type=FWD
-add forward-to=198.18.0.1 regexp="mysinablog.com" type=FWD
-add forward-to=198.18.0.1 regexp="myspacecdn.com" type=FWD
-add forward-to=198.18.0.1 regexp="naacoalition.org" type=FWD
-add forward-to=198.18.0.1 regexp="old.nabble.com" type=FWD
-add forward-to=198.18.0.1 regexp="naitik.net" type=FWD
-add forward-to=198.18.0.1 regexp="nakido.com" type=FWD
-add forward-to=198.18.0.1 regexp="nalandabodhi.org" type=FWD
-add forward-to=198.18.0.1 regexp="nalandawest.org" type=FWD
-add forward-to=198.18.0.1 regexp="namgyalmonastery.org" type=FWD
-add forward-to=198.18.0.1 regexp="namsisi.com" type=FWD
-add forward-to=198.18.0.1 regexp="nanyang.com" type=FWD
-add forward-to=198.18.0.1 regexp="nanyangpost.com" type=FWD
-add forward-to=198.18.0.1 regexp="uighur.narod.ru" type=FWD
-add forward-to=198.18.0.1 regexp="nat.moe" type=FWD
-add forward-to=198.18.0.1 regexp="cyberghost.natado.com" type=FWD
-add forward-to=198.18.0.1 regexp="national-lottery.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="nationalawakening.org" type=FWD
-add forward-to=198.18.0.1 regexp="nationalinterest.org" type=FWD
-add forward-to=198.18.0.1 regexp="news.nationalgeographic.com" type=FWD
-add forward-to=198.18.0.1 regexp="nationalreview.com" type=FWD
-add forward-to=198.18.0.1 regexp="line.naver.jp" type=FWD
-add forward-to=198.18.0.1 regexp="navyfamily.navy.mil" type=FWD
-add forward-to=198.18.0.1 regexp="navyreserve.navy.mil" type=FWD
-add forward-to=198.18.0.1 regexp="nko.navy.mil" type=FWD
-add forward-to=198.18.0.1 regexp="usno.navy.mil" type=FWD
-add forward-to=198.18.0.1 regexp="naweeklytimes.com" type=FWD
-add forward-to=198.18.0.1 regexp="nbcnews.com" type=FWD
-add forward-to=198.18.0.1 regexp="nbtvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="nccwatch.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="nchrd.org" type=FWD
-add forward-to=198.18.0.1 regexp="ncn.org" type=FWD
-add forward-to=198.18.0.1 regexp="etools.ncol.com" type=FWD
-add forward-to=198.18.0.1 regexp="ndi.org" type=FWD
-add forward-to=198.18.0.1 regexp="nekoslovakia.net" type=FWD
-add forward-to=198.18.0.1 regexp="neowin.net" type=FWD
-add forward-to=198.18.0.1 regexp="nepusoku.com" type=FWD
-add forward-to=198.18.0.1 regexp="net-fits.pro" type=FWD
-add forward-to=198.18.0.1 regexp="netalert.me" type=FWD
-add forward-to=198.18.0.1 regexp="bbs.netbig.com" type=FWD
-add forward-to=198.18.0.1 regexp="netcolony.com" type=FWD
-add forward-to=198.18.0.1 regexp="bolin.netfirms.com" type=FWD
-add forward-to=198.18.0.1 regexp="netflav.com" type=FWD
-add forward-to=198.18.0.1 regexp="netme.cc" type=FWD
-add forward-to=198.18.0.1 regexp="netsarang.com" type=FWD
-add forward-to=198.18.0.1 regexp="netsneak.com" type=FWD
-add forward-to=198.18.0.1 regexp="networkedblogs.com" type=FWD
-add forward-to=198.18.0.1 regexp="neverforget8964.org" type=FWD
-add forward-to=198.18.0.1 regexp="new-3lunch.net" type=FWD
-add forward-to=198.18.0.1 regexp="newcenturymc.com" type=FWD
-add forward-to=198.18.0.1 regexp="newcenturynews.com" type=FWD
-add forward-to=198.18.0.1 regexp="newchen.com" type=FWD
-add forward-to=198.18.0.1 regexp="newhighlandvision.com" type=FWD
-add forward-to=198.18.0.1 regexp="newipnow.com" type=FWD
-add forward-to=198.18.0.1 regexp="newmitbbs.com" type=FWD
-add forward-to=198.18.0.1 regexp="news100.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="newschinacomment.org" type=FWD
-add forward-to=198.18.0.1 regexp="newscn.org" type=FWD
-add forward-to=198.18.0.1 regexp="newspeak.cc" type=FWD
-add forward-to=198.18.0.1 regexp="newsancai.com" type=FWD
-add forward-to=198.18.0.1 regexp="newsmax.com" type=FWD
-add forward-to=198.18.0.1 regexp="newstamago.com" type=FWD
-add forward-to=198.18.0.1 regexp="newstapa.org" type=FWD
-add forward-to=198.18.0.1 regexp="newstatesman.com" type=FWD
-add forward-to=198.18.0.1 regexp="newstarnet.com" type=FWD
-add forward-to=198.18.0.1 regexp="newsweek.com" type=FWD
-add forward-to=198.18.0.1 regexp="newtalk.tw" type=FWD
-add forward-to=198.18.0.1 regexp="newtalk.tw" type=FWD
-add forward-to=198.18.0.1 regexp="newyorker.com" type=FWD
-add forward-to=198.18.0.1 regexp="newyorktimes.com" type=FWD
-add forward-to=198.18.0.1 regexp="nexon.com" type=FWD
-add forward-to=198.18.0.1 regexp="nextdigital.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="nexton-net.jp" type=FWD
-add forward-to=198.18.0.1 regexp="nexttv.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="co.ng.mil" type=FWD
-add forward-to=198.18.0.1 regexp="nga.mil" type=FWD
-add forward-to=198.18.0.1 regexp="ngensis.com" type=FWD
-add forward-to=198.18.0.1 regexp="ngodupdongchung.com" type=FWD
-add forward-to=198.18.0.1 regexp="nhentai.net" type=FWD
-add forward-to=198.18.0.1 regexp="nicovideo.jp" type=FWD
-add forward-to=198.18.0.1 regexp="nighost.org" type=FWD
-add forward-to=198.18.0.1 regexp="av.nightlife141.com" type=FWD
-add forward-to=198.18.0.1 regexp="ninecommentaries.com" type=FWD
-add forward-to=198.18.0.1 regexp="ninjaproxy.ninja" type=FWD
-add forward-to=198.18.0.1 regexp="nintendium.com" type=FWD
-add forward-to=198.18.0.1 regexp="taiwanyes.ning.com" type=FWD
-add forward-to=198.18.0.1 regexp="usmgtcg.ning.com" type=FWD
-add forward-to=198.18.0.1 regexp="niusnews.com" type=FWD
-add forward-to=198.18.0.1 regexp="njactb.org" type=FWD
-add forward-to=198.18.0.1 regexp="njuice.com" type=FWD
-add forward-to=198.18.0.1 regexp="njuice.com" type=FWD
-add forward-to=198.18.0.1 regexp="nlfreevpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="nmsl.website" type=FWD
-add forward-to=198.18.0.1 regexp="nnews.eu" type=FWD
-add forward-to=198.18.0.1 regexp="gotdns.ch" type=FWD
-add forward-to=198.18.0.1 regexp="sytes.net" type=FWD
-add forward-to=198.18.0.1 regexp="dynupdate.no-ip.com" type=FWD
-add forward-to=198.18.0.1 regexp="nobel.se" type=FWD
-add forward-to=198.18.0.1 regexp="nobelprize.org" type=FWD
-add forward-to=198.18.0.1 regexp="nobelprize.org" type=FWD
-add forward-to=198.18.0.1 regexp="nobodycanstop.us" type=FWD
-add forward-to=198.18.0.1 regexp="nobodycanstop.us" type=FWD
-add forward-to=198.18.0.1 regexp="nokogiri.org" type=FWD
-add forward-to=198.18.0.1 regexp="nokola.com" type=FWD
-add forward-to=198.18.0.1 regexp="noodlevpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="nordvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="nordvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="notepad-plus-plus.org" type=FWD
-add forward-to=198.18.0.1 regexp="novelasia.com" type=FWD
-add forward-to=198.18.0.1 regexp="news.now.com" type=FWD
-add forward-to=198.18.0.1 regexp="news.now.com" type=FWD
-add forward-to=198.18.0.1 regexp="nownews.com" type=FWD
-add forward-to=198.18.0.1 regexp="noypf.com" type=FWD
-add forward-to=198.18.0.1 regexp="npa.go.jp" type=FWD
-add forward-to=198.18.0.1 regexp="npnt.me" type=FWD
-add forward-to=198.18.0.1 regexp="nradio.me" type=FWD
-add forward-to=198.18.0.1 regexp="nrk.no" type=FWD
-add forward-to=198.18.0.1 regexp="ntd.tv" type=FWD
-add forward-to=198.18.0.1 regexp="ntdtv.com" type=FWD
-add forward-to=198.18.0.1 regexp="ntdtv.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="ntdtv.ca" type=FWD
-add forward-to=198.18.0.1 regexp="ntdtv.org" type=FWD
-add forward-to=198.18.0.1 regexp="ntdtv.ru" type=FWD
-add forward-to=198.18.0.1 regexp="ntdtvla.com" type=FWD
-add forward-to=198.18.0.1 regexp="cbs.ntu.edu.tw" type=FWD
-add forward-to=198.18.0.1 regexp="media.nu.nl" type=FWD
-add forward-to=198.18.0.1 regexp="nuexpo.com" type=FWD
-add forward-to=198.18.0.1 regexp="nurgo-software.com" type=FWD
-add forward-to=198.18.0.1 regexp="nutaku.net" type=FWD
-add forward-to=198.18.0.1 regexp="nutsvpn.work" type=FWD
-add forward-to=198.18.0.1 regexp="nvdst.com" type=FWD
-add forward-to=198.18.0.1 regexp="nuzcom.com" type=FWD
-add forward-to=198.18.0.1 regexp="nvtongzhisheng.org" type=FWD
-add forward-to=198.18.0.1 regexp="nyaa.eu" type=FWD
-add forward-to=198.18.0.1 regexp="nyaa.si" type=FWD
-add forward-to=198.18.0.1 regexp="nybooks.com" type=FWD
-add forward-to=198.18.0.1 regexp="nylon-angel.com" type=FWD
-add forward-to=198.18.0.1 regexp="nylonstockingsonline.com" type=FWD
-add forward-to=198.18.0.1 regexp="nypost.com" type=FWD
-add forward-to=198.18.0.1 regexp="nzchinese.net.nz" type=FWD
-add forward-to=198.18.0.1 regexp="oann.com" type=FWD
-add forward-to=198.18.0.1 regexp="observechina.net" type=FWD
-add forward-to=198.18.0.1 regexp="ocaspro.com" type=FWD
-add forward-to=198.18.0.1 regexp="occupytiananmen.com" type=FWD
-add forward-to=198.18.0.1 regexp="oclp.hk" type=FWD
-add forward-to=198.18.0.1 regexp="october-review.org" type=FWD
-add forward-to=198.18.0.1 regexp="odysee.com" type=FWD
-add forward-to=198.18.0.1 regexp="offbeatchina.com" type=FWD
-add forward-to=198.18.0.1 regexp="officeoftibet.com" type=FWD
-add forward-to=198.18.0.1 regexp="ofile.org" type=FWD
-add forward-to=198.18.0.1 regexp="ogaoga.org" type=FWD
-add forward-to=198.18.0.1 regexp="twtr2src.ogaoga.org" type=FWD
-add forward-to=198.18.0.1 regexp="ogate.org" type=FWD
-add forward-to=198.18.0.1 regexp="www2.ohchr.org" type=FWD
-add forward-to=198.18.0.1 regexp="ohmyrss.com" type=FWD
-add forward-to=198.18.0.1 regexp="oizoblog.com" type=FWD
-add forward-to=198.18.0.1 regexp="ok.ru" type=FWD
-add forward-to=198.18.0.1 regexp="okayfreedom.com" type=FWD
-add forward-to=198.18.0.1 regexp="okk.tw" type=FWD
-add forward-to=198.18.0.1 regexp="filmy.olabloga.pl" type=FWD
-add forward-to=198.18.0.1 regexp="old-cat.net" type=FWD
-add forward-to=198.18.0.1 regexp="olevod.com" type=FWD
-add forward-to=198.18.0.1 regexp="olumpo.com" type=FWD
-add forward-to=198.18.0.1 regexp="omct.org" type=FWD
-add forward-to=198.18.0.1 regexp="omgili.com" type=FWD
-add forward-to=198.18.0.1 regexp="omnitalk.com" type=FWD
-add forward-to=198.18.0.1 regexp="omnitalk.org" type=FWD
-add forward-to=198.18.0.1 regexp="omny.fm" type=FWD
-add forward-to=198.18.0.1 regexp="cling.omy.sg" type=FWD
-add forward-to=198.18.0.1 regexp="forum.omy.sg" type=FWD
-add forward-to=198.18.0.1 regexp="news.omy.sg" type=FWD
-add forward-to=198.18.0.1 regexp="showbiz.omy.sg" type=FWD
-add forward-to=198.18.0.1 regexp="on.cc" type=FWD
-add forward-to=198.18.0.1 regexp="onedrive.live.com" type=FWD
-add forward-to=198.18.0.1 regexp="onion.city" type=FWD
-add forward-to=198.18.0.1 regexp="onion.ly" type=FWD
-add forward-to=198.18.0.1 regexp="onlineyoutube.com" type=FWD
-add forward-to=198.18.0.1 regexp="onlygayvideo.com" type=FWD
-add forward-to=198.18.0.1 regexp="onlytweets.com" type=FWD
-add forward-to=198.18.0.1 regexp="onmoon.net" type=FWD
-add forward-to=198.18.0.1 regexp="onmoon.com" type=FWD
-add forward-to=198.18.0.1 regexp="onthehunt.com" type=FWD
-add forward-to=198.18.0.1 regexp="open.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="openallweb.com" type=FWD
-add forward-to=198.18.0.1 regexp="opendemocracy.net" type=FWD
-add forward-to=198.18.0.1 regexp="opendemocracy.net" type=FWD
-add forward-to=198.18.0.1 regexp="openid.net" type=FWD
-add forward-to=198.18.0.1 regexp="openid.net" type=FWD
-add forward-to=198.18.0.1 regexp="openleaks.org" type=FWD
-add forward-to=198.18.0.1 regexp="openstreetmap.org" type=FWD
-add forward-to=198.18.0.1 regexp="opentech.fund" type=FWD
-add forward-to=198.18.0.1 regexp="openvpn.net" type=FWD
-add forward-to=198.18.0.1 regexp="openvpn.net" type=FWD
-add forward-to=198.18.0.1 regexp="openwebster.com" type=FWD
-add forward-to=198.18.0.1 regexp="my.opera.com" type=FWD
-add forward-to=198.18.0.1 regexp="demo.opera-mini.net" type=FWD
-add forward-to=198.18.0.1 regexp="opus-gaming.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.orchidbbs.com" type=FWD
-add forward-to=198.18.0.1 regexp="organharvestinvestigation.net" type=FWD
-add forward-to=198.18.0.1 regexp="oricon.co.jp" type=FWD
-add forward-to=198.18.0.1 regexp="orient-doll.com" type=FWD
-add forward-to=198.18.0.1 regexp="orientaldaily.com.my" type=FWD
-add forward-to=198.18.0.1 regexp="orientaldaily.com.my" type=FWD
-add forward-to=198.18.0.1 regexp="orn.jp" type=FWD
-add forward-to=198.18.0.1 regexp="t.orzdream.com" type=FWD
-add forward-to=198.18.0.1 regexp="t.orzdream.com" type=FWD
-add forward-to=198.18.0.1 regexp="tui.orzdream.com" type=FWD
-add forward-to=198.18.0.1 regexp="orzistic.org" type=FWD
-add forward-to=198.18.0.1 regexp="osfoora.com" type=FWD
-add forward-to=198.18.0.1 regexp="otnd.org" type=FWD
-add forward-to=198.18.0.1 regexp="otto.de" type=FWD
-add forward-to=198.18.0.1 regexp="ourdearamy.com" type=FWD
-add forward-to=198.18.0.1 regexp="oursogo.com" type=FWD
-add forward-to=198.18.0.1 regexp="oursteps.com.au" type=FWD
-add forward-to=198.18.0.1 regexp="ourtv.hk" type=FWD
-add forward-to=198.18.0.1 regexp="xinqimeng.over-blog.com" type=FWD
-add forward-to=198.18.0.1 regexp="overcast.fm" type=FWD
-add forward-to=198.18.0.1 regexp="overdaily.org" type=FWD
-add forward-to=198.18.0.1 regexp="overplay.net" type=FWD
-add forward-to=198.18.0.1 regexp="share.ovi.com" type=FWD
-add forward-to=198.18.0.1 regexp="ovpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="owl.li" type=FWD
-add forward-to=198.18.0.1 regexp="ht.ly" type=FWD
-add forward-to=198.18.0.1 regexp="htl.li" type=FWD
-add forward-to=198.18.0.1 regexp="mash.to" type=FWD
-add forward-to=198.18.0.1 regexp="www.owind.com" type=FWD
-add forward-to=198.18.0.1 regexp="owltail.com" type=FWD
-add forward-to=198.18.0.1 regexp="oxfordscholarship.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.oxid.it" type=FWD
-add forward-to=198.18.0.1 regexp="oyax.com" type=FWD
-add forward-to=198.18.0.1 regexp="oyghan.com" type=FWD
-add forward-to=198.18.0.1 regexp="ow.ly" type=FWD
-add forward-to=198.18.0.1 regexp="bbs.ozchinese.com" type=FWD
-add forward-to=198.18.0.1 regexp="ozvoice.org" type=FWD
-add forward-to=198.18.0.1 regexp="pachosting.com" type=FWD
-add forward-to=198.18.0.1 regexp="pacopacomama.com" type=FWD
-add forward-to=198.18.0.1 regexp="page.link" type=FWD
-add forward-to=198.18.0.1 regexp="page2rss.com" type=FWD
-add forward-to=198.18.0.1 regexp="pagodabox.com" type=FWD
-add forward-to=198.18.0.1 regexp="forum.palmislife.com" type=FWD
-add forward-to=198.18.0.1 regexp="eriversoft.com" type=FWD
-add forward-to=198.18.0.1 regexp="paljorpublications.com" type=FWD
-add forward-to=198.18.0.1 regexp="pandapow.co" type=FWD
-add forward-to=198.18.0.1 regexp="pandavpn-jp.com" type=FWD
-add forward-to=198.18.0.1 regexp="pandavpnpro.com" type=FWD
-add forward-to=198.18.0.1 regexp="panluan.net" type=FWD
-add forward-to=198.18.0.1 regexp="pao-pao.net" type=FWD
-add forward-to=198.18.0.1 regexp="paper.li" type=FWD
-add forward-to=198.18.0.1 regexp="paperb.us" type=FWD
-add forward-to=198.18.0.1 regexp="parler.com" type=FWD
-add forward-to=198.18.0.1 regexp="parsevideo.com" type=FWD
-add forward-to=198.18.0.1 regexp="passion.com" type=FWD
-add forward-to=198.18.0.1 regexp="pastebin.com" type=FWD
-add forward-to=198.18.0.1 regexp="pastie.org" type=FWD
-add forward-to=198.18.0.1 regexp="blog.pathtosharepoint.com" type=FWD
-add forward-to=198.18.0.1 regexp="patreon.com" type=FWD
-add forward-to=198.18.0.1 regexp="pawoo.net" type=FWD
-add forward-to=198.18.0.1 regexp="pbs.org" type=FWD
-add forward-to=198.18.0.1 regexp="pbs.org" type=FWD
-add forward-to=198.18.0.1 regexp="video.pbs.org" type=FWD
-add forward-to=198.18.0.1 regexp="pbwiki.com" type=FWD
-add forward-to=198.18.0.1 regexp="pbworks.com" type=FWD
-add forward-to=198.18.0.1 regexp="developers.box.net" type=FWD
-add forward-to=198.18.0.1 regexp="wiki.oauth.net" type=FWD
-add forward-to=198.18.0.1 regexp="wiki.phonegap.com" type=FWD
-add forward-to=198.18.0.1 regexp="wiki.jqueryui.com" type=FWD
-add forward-to=198.18.0.1 regexp="pbxes.com" type=FWD
-add forward-to=198.18.0.1 regexp="pbxes.org" type=FWD
-add forward-to=198.18.0.1 regexp="pcdvd.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="pcij.org" type=FWD
-add forward-to=198.18.0.1 regexp="pct.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="pdetails.com" type=FWD
-add forward-to=198.18.0.1 regexp="pdproxy.com" type=FWD
-add forward-to=198.18.0.1 regexp="peace.ca" type=FWD
-add forward-to=198.18.0.1 regexp="peacefire.org" type=FWD
-add forward-to=198.18.0.1 regexp="peacehall.com" type=FWD
-add forward-to=198.18.0.1 regexp="peacehall.com" type=FWD
-add forward-to=198.18.0.1 regexp="pearlher.org" type=FWD
-add forward-to=198.18.0.1 regexp="peing.net" type=FWD
-add forward-to=198.18.0.1 regexp="pekingduck.org" type=FWD
-add forward-to=198.18.0.1 regexp="pemulihan.or.id" type=FWD
-add forward-to=198.18.0.1 regexp="pen.io" type=FWD
-add forward-to=198.18.0.1 regexp="penchinese.com" type=FWD
-add forward-to=198.18.0.1 regexp="penchinese.net" type=FWD
-add forward-to=198.18.0.1 regexp="blog.pentalogic.net" type=FWD
-add forward-to=198.18.0.1 regexp="pentoy.hk" type=FWD
-add forward-to=198.18.0.1 regexp="peoplenews.tw" type=FWD
-add forward-to=198.18.0.1 regexp="peopo.org" type=FWD
-add forward-to=198.18.0.1 regexp="perfect-privacy.com" type=FWD
-add forward-to=198.18.0.1 regexp="perplexity.ai" type=FWD
-add forward-to=198.18.0.1 regexp="phapluan.org" type=FWD
-add forward-to=198.18.0.1 regexp="phayul.com" type=FWD
-add forward-to=198.18.0.1 regexp="philborges.com" type=FWD
-add forward-to=198.18.0.1 regexp="phncdn.com" type=FWD
-add forward-to=198.18.0.1 regexp="photodharma.net" type=FWD
-add forward-to=198.18.0.1 regexp="photofocus.com" type=FWD
-add forward-to=198.18.0.1 regexp="phuquocservices.com" type=FWD
-add forward-to=198.18.0.1 regexp="picacomiccn.com" type=FWD
-add forward-to=198.18.0.1 regexp="picturesocial.com" type=FWD
-add forward-to=198.18.0.1 regexp="pin-cong.com" type=FWD
-add forward-to=198.18.0.1 regexp="pin6.com" type=FWD
-add forward-to=198.18.0.1 regexp="ping.fm" type=FWD
-add forward-to=198.18.0.1 regexp="pinimg.com" type=FWD
-add forward-to=198.18.0.1 regexp="pinoy-n.com" type=FWD
-add forward-to=198.18.0.1 regexp="pinterest.at" type=FWD
-add forward-to=198.18.0.1 regexp="pinterest.ca" type=FWD
-add forward-to=198.18.0.1 regexp="pinterest.co.kr" type=FWD
-add forward-to=198.18.0.1 regexp="pinterest.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="pinterest.com" type=FWD
-add forward-to=198.18.0.1 regexp="pinterest.com.mx" type=FWD
-add forward-to=198.18.0.1 regexp="pinterest.de" type=FWD
-add forward-to=198.18.0.1 regexp="pinterest.dk" type=FWD
-add forward-to=198.18.0.1 regexp="pinterest.fr" type=FWD
-add forward-to=198.18.0.1 regexp="pinterest.jp" type=FWD
-add forward-to=198.18.0.1 regexp="pinterest.nl" type=FWD
-add forward-to=198.18.0.1 regexp="pinterest.se" type=FWD
-add forward-to=198.18.0.1 regexp="piraattilahti.org" type=FWD
-add forward-to=198.18.0.1 regexp="pixeldrain.com" type=FWD
-add forward-to=198.18.0.1 regexp="pixelqi.com" type=FWD
-add forward-to=198.18.0.1 regexp="css.pixnet.in" type=FWD
-add forward-to=198.18.0.1 regexp="pixnet.net" type=FWD
-add forward-to=198.18.0.1 regexp="placemix.com" type=FWD
-add forward-to=198.18.0.1 regexp="pictures.playboy.com" type=FWD
-add forward-to=198.18.0.1 regexp="playboy.com" type=FWD
-add forward-to=198.18.0.1 regexp="playboyplus.com" type=FWD
-add forward-to=198.18.0.1 regexp="player.fm" type=FWD
-add forward-to=198.18.0.1 regexp="playno1.com" type=FWD
-add forward-to=198.18.0.1 regexp="playpcesor.com" type=FWD
-add forward-to=198.18.0.1 regexp="plays.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="plexvpn.pro" type=FWD
-add forward-to=198.18.0.1 regexp="m.plixi.com" type=FWD
-add forward-to=198.18.0.1 regexp="plm.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="plunder.com" type=FWD
-add forward-to=198.18.0.1 regexp="plurk.com" type=FWD
-add forward-to=198.18.0.1 regexp="pmatehunter.com" type=FWD
-add forward-to=198.18.0.1 regexp="po2b.com" type=FWD
-add forward-to=198.18.0.1 regexp="pobieramy.top" type=FWD
-add forward-to=198.18.0.1 regexp="podbean.com" type=FWD
-add forward-to=198.18.0.1 regexp="podictionary.com" type=FWD
-add forward-to=198.18.0.1 regexp="poe.com" type=FWD
-add forward-to=198.18.0.1 regexp="pokerstars.com" type=FWD
-add forward-to=198.18.0.1 regexp="pokerstars.net" type=FWD
-add forward-to=198.18.0.1 regexp="zh.pokerstrategy.com" type=FWD
-add forward-to=198.18.0.1 regexp="politicalchina.org" type=FWD
-add forward-to=198.18.0.1 regexp="politicalconsultation.org" type=FWD
-add forward-to=198.18.0.1 regexp="poloniex.com" type=FWD
-add forward-to=198.18.0.1 regexp="polymerhk.com" type=FWD
-add forward-to=198.18.0.1 regexp="popvote.hk" type=FWD
-add forward-to=198.18.0.1 regexp="popxi.click" type=FWD
-add forward-to=198.18.0.1 regexp="popyard.org" type=FWD
-add forward-to=198.18.0.1 regexp="pornhd.com" type=FWD
-add forward-to=198.18.0.1 regexp="pornhub.com" type=FWD
-add forward-to=198.18.0.1 regexp="pornhubdeutsch.net" type=FWD
-add forward-to=198.18.0.1 regexp="pornmm.net" type=FWD
-add forward-to=198.18.0.1 regexp="pornrapidshare.com" type=FWD
-add forward-to=198.18.0.1 regexp="pornsharing.com" type=FWD
-add forward-to=198.18.0.1 regexp="pornstarclub.com" type=FWD
-add forward-to=198.18.0.1 regexp="porntvblog.com" type=FWD
-add forward-to=198.18.0.1 regexp="poskotanews.com" type=FWD
-add forward-to=198.18.0.1 regexp="post76.com" type=FWD
-add forward-to=198.18.0.1 regexp="post852.com" type=FWD
-add forward-to=198.18.0.1 regexp="postadult.com" type=FWD
-add forward-to=198.18.0.1 regexp="potvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="pourquoi.tw" type=FWD
-add forward-to=198.18.0.1 regexp="powercx.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.powerpointninja.com" type=FWD
-add forward-to=198.18.0.1 regexp="presidentlee.tw" type=FWD
-add forward-to=198.18.0.1 regexp="cdn.printfriendly.com" type=FWD
-add forward-to=198.18.0.1 regexp="provpnaccounts.com" type=FWD
-add forward-to=198.18.0.1 regexp="provpnaccounts.com" type=FWD
-add forward-to=198.18.0.1 regexp="proxfree.com" type=FWD
-add forward-to=198.18.0.1 regexp="proxyanonimo.es" type=FWD
-add forward-to=198.18.0.1 regexp="proxynetwork.org.uk" type=FWD
-add forward-to=198.18.0.1 regexp="pts.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="pubu.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="puffinbrowser.com" type=FWD
-add forward-to=198.18.0.1 regexp="pureinsight.org" type=FWD
-add forward-to=198.18.0.1 regexp="putty.org" type=FWD
-add forward-to=198.18.0.1 regexp="calebelston.com" type=FWD
-add forward-to=198.18.0.1 regexp="blog.fizzik.com" type=FWD
-add forward-to=198.18.0.1 regexp="nf.id.au" type=FWD
-add forward-to=198.18.0.1 regexp="sogrady.me" type=FWD
-add forward-to=198.18.0.1 regexp="vatn.org" type=FWD
-add forward-to=198.18.0.1 regexp="ventureswell.com" type=FWD
-add forward-to=198.18.0.1 regexp="whereiswerner.com" type=FWD
-add forward-to=198.18.0.1 regexp="power.com" type=FWD
-add forward-to=198.18.0.1 regexp="powerapple.com" type=FWD
-add forward-to=198.18.0.1 regexp="powerapple.com" type=FWD
-add forward-to=198.18.0.1 regexp="abc.pp.ru" type=FWD
-add forward-to=198.18.0.1 regexp="heix.pp.ru" type=FWD
-add forward-to=198.18.0.1 regexp="prayforchina.net" type=FWD
-add forward-to=198.18.0.1 regexp="premeforwindows7.com" type=FWD
-add forward-to=198.18.0.1 regexp="presentationzen.com" type=FWD
-add forward-to=198.18.0.1 regexp="prestige-av.com" type=FWD
-add forward-to=198.18.0.1 regexp="pritunl.com" type=FWD
-add forward-to=198.18.0.1 regexp="privacybox.de" type=FWD
-add forward-to=198.18.0.1 regexp="privateinternetaccess.com" type=FWD
-add forward-to=198.18.0.1 regexp="privatepaste.com" type=FWD
-add forward-to=198.18.0.1 regexp="privatepaste.com" type=FWD
-add forward-to=198.18.0.1 regexp="privatetunnel.com" type=FWD
-add forward-to=198.18.0.1 regexp="privatetunnel.com" type=FWD
-add forward-to=198.18.0.1 regexp="privatevpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="privoxy.org" type=FWD
-add forward-to=198.18.0.1 regexp="procopytips.com" type=FWD
-add forward-to=198.18.0.1 regexp="project-syndicate.org" type=FWD
-add forward-to=198.18.0.1 regexp="proton.me" type=FWD
-add forward-to=198.18.0.1 regexp="provideocoalition.com" type=FWD
-add forward-to=198.18.0.1 regexp="prosiben.de" type=FWD
-add forward-to=198.18.0.1 regexp="proxifier.com" type=FWD
-add forward-to=198.18.0.1 regexp="proxomitron.info" type=FWD
-add forward-to=198.18.0.1 regexp="proxpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="proxylist.org.uk" type=FWD
-add forward-to=198.18.0.1 regexp="proxypy.net" type=FWD
-add forward-to=198.18.0.1 regexp="proxyroad.com" type=FWD
-add forward-to=198.18.0.1 regexp="proyectoclubes.com" type=FWD
-add forward-to=198.18.0.1 regexp="prozz.net" type=FWD
-add forward-to=198.18.0.1 regexp="psblog.name" type=FWD
-add forward-to=198.18.0.1 regexp="psblog.name" type=FWD
-add forward-to=198.18.0.1 regexp="pshvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="psiphon.ca" type=FWD
-add forward-to=198.18.0.1 regexp="psiphon3.com" type=FWD
-add forward-to=198.18.0.1 regexp="pstatic.net" type=FWD
-add forward-to=198.18.0.1 regexp="pt.im" type=FWD
-add forward-to=198.18.0.1 regexp="ptt.cc" type=FWD
-add forward-to=198.18.0.1 regexp="pttgame.com" type=FWD
-add forward-to=198.18.0.1 regexp="pullfolio.com" type=FWD
-add forward-to=198.18.0.1 regexp="pureconcepts.net" type=FWD
-add forward-to=198.18.0.1 regexp="pureinsight.org" type=FWD
-add forward-to=198.18.0.1 regexp="purepdf.com" type=FWD
-add forward-to=198.18.0.1 regexp="purevpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="pursuestar.com" type=FWD
-add forward-to=198.18.0.1 regexp="nitter.pussthecat.org" type=FWD
-add forward-to=198.18.0.1 regexp="pwned.com" type=FWD
-add forward-to=198.18.0.1 regexp="pximg.net" type=FWD
-add forward-to=198.18.0.1 regexp="python.com" type=FWD
-add forward-to=198.18.0.1 regexp="python.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="pythonhackers.com" type=FWD
-add forward-to=198.18.0.1 regexp="ss.pythonic.life" type=FWD
-add forward-to=198.18.0.1 regexp="qanote.com" type=FWD
-add forward-to=198.18.0.1 regexp="qbittorrent.org" type=FWD
-add forward-to=198.18.0.1 regexp="qgirl.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="qianbai.tw" type=FWD
-add forward-to=198.18.0.1 regexp="qiandao.today" type=FWD
-add forward-to=198.18.0.1 regexp="qiangwaikan.com" type=FWD
-add forward-to=198.18.0.1 regexp="qi-gong.me" type=FWD
-add forward-to=198.18.0.1 regexp="qiangyou.org" type=FWD
-add forward-to=198.18.0.1 regexp="qienkuen.org" type=FWD
-add forward-to=198.18.0.1 regexp="qiwen.lu" type=FWD
-add forward-to=198.18.0.1 regexp="qixianglu.cn" type=FWD
-add forward-to=198.18.0.1 regexp="bbs.qmzdd.com" type=FWD
-add forward-to=198.18.0.1 regexp="qoos.com" type=FWD
-add forward-to=198.18.0.1 regexp="qoos.com" type=FWD
-add forward-to=198.18.0.1 regexp="efksoft.com" type=FWD
-add forward-to=198.18.0.1 regexp="qstatus.com" type=FWD
-add forward-to=198.18.0.1 regexp="qtweeter.com" type=FWD
-add forward-to=198.18.0.1 regexp="qtrac.eu" type=FWD
-add forward-to=198.18.0.1 regexp="quannengshen.org" type=FWD
-add forward-to=198.18.0.1 regexp="quantumbooter.net" type=FWD
-add forward-to=198.18.0.1 regexp="quitccp.net" type=FWD
-add forward-to=198.18.0.1 regexp="quitccp.org" type=FWD
-add forward-to=198.18.0.1 regexp="quran.com" type=FWD
-add forward-to=198.18.0.1 regexp="qusi8.net" type=FWD
-add forward-to=198.18.0.1 regexp="nemesis2.qx.net" type=FWD
-add forward-to=198.18.0.1 regexp="qxbbs.org" type=FWD
-add forward-to=198.18.0.1 regexp="r0.ru" type=FWD
-add forward-to=198.18.0.1 regexp="radio-canada.ca" type=FWD
-add forward-to=198.18.0.1 regexp="rael.org" type=FWD
-add forward-to=198.18.0.1 regexp="radicalparty.org" type=FWD
-add forward-to=198.18.0.1 regexp="radio.garden" type=FWD
-add forward-to=198.18.0.1 regexp="radioaustralia.net.au" type=FWD
-add forward-to=198.18.0.1 regexp="radiohilight.net" type=FWD
-add forward-to=198.18.0.1 regexp="radioline.co" type=FWD
-add forward-to=198.18.0.1 regexp="opml.radiotime.com" type=FWD
-add forward-to=198.18.0.1 regexp="radiovaticana.org" type=FWD
-add forward-to=198.18.0.1 regexp="radiovncr.com" type=FWD
-add forward-to=198.18.0.1 regexp="raggedbanner.com" type=FWD
-add forward-to=198.18.0.1 regexp="raidcall.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="raindrop.io" type=FWD
-add forward-to=198.18.0.1 regexp="raizoji.or.jp" type=FWD
-add forward-to=198.18.0.1 regexp="rangwang.biz" type=FWD
-add forward-to=198.18.0.1 regexp="rangzen.net" type=FWD
-add forward-to=198.18.0.1 regexp="rangzen.org" type=FWD
-add forward-to=198.18.0.1 regexp="blog.ranxiang.com" type=FWD
-add forward-to=198.18.0.1 regexp="ranyunfei.com" type=FWD
-add forward-to=198.18.0.1 regexp="ranyunfei.com" type=FWD
-add forward-to=198.18.0.1 regexp="rapidmoviez.com" type=FWD
-add forward-to=198.18.0.1 regexp="rapidvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="rapidvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="rarbgprx.org" type=FWD
-add forward-to=198.18.0.1 regexp="raremovie.cc" type=FWD
-add forward-to=198.18.0.1 regexp="raremovie.net" type=FWD
-add forward-to=198.18.0.1 regexp="rationalwiki.org" type=FWD
-add forward-to=198.18.0.1 regexp="rawgit.com" type=FWD
-add forward-to=198.18.0.1 regexp="rawgithub.com" type=FWD
-add forward-to=198.18.0.1 regexp="razyboard.com" type=FWD
-add forward-to=198.18.0.1 regexp="rcinet.ca" type=FWD
-add forward-to=198.18.0.1 regexp="readingtimes.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="readmoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="readydown.com" type=FWD
-add forward-to=198.18.0.1 regexp="realitykings.com" type=FWD
-add forward-to=198.18.0.1 regexp="reason.com" type=FWD
-add forward-to=198.18.0.1 regexp="online.recoveryversion.org" type=FWD
-add forward-to=198.18.0.1 regexp="recoveryversion.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="red-lang.org" type=FWD
-add forward-to=198.18.0.1 regexp="redballoonsolidarity.org" type=FWD
-add forward-to=198.18.0.1 regexp="redbubble.com" type=FWD
-add forward-to=198.18.0.1 regexp="redchinacn.net" type=FWD
-add forward-to=198.18.0.1 regexp="redchinacn.org" type=FWD
-add forward-to=198.18.0.1 regexp="redtube.com" type=FWD
-add forward-to=198.18.0.1 regexp="referer.us" type=FWD
-add forward-to=198.18.0.1 regexp="referer.us" type=FWD
-add forward-to=198.18.0.1 regexp="reflectivecode.com" type=FWD
-add forward-to=198.18.0.1 regexp="relaxbbs.com" type=FWD
-add forward-to=198.18.0.1 regexp="religionnews.com" type=FWD
-add forward-to=198.18.0.1 regexp="religioustolerance.org" type=FWD
-add forward-to=198.18.0.1 regexp="renminbao.com" type=FWD
-add forward-to=198.18.0.1 regexp="renminbao.com" type=FWD
-add forward-to=198.18.0.1 regexp="renyurenquan.org" type=FWD
-add forward-to=198.18.0.1 regexp="certificate.revocationcheck.com" type=FWD
-add forward-to=198.18.0.1 regexp="subacme.rerouted.org" type=FWD
-add forward-to=198.18.0.1 regexp="resilio.com" type=FWD
-add forward-to=198.18.0.1 regexp="reuters.com" type=FWD
-add forward-to=198.18.0.1 regexp="reutersmedia.net" type=FWD
-add forward-to=198.18.0.1 regexp="resistchina.org" type=FWD
-add forward-to=198.18.0.1 regexp="retweetist.com" type=FWD
-add forward-to=198.18.0.1 regexp="retweetrank.com" type=FWD
-add forward-to=198.18.0.1 regexp="revver.com" type=FWD
-add forward-to=198.18.0.1 regexp="rfa.org" type=FWD
-add forward-to=198.18.0.1 regexp="rfaweb.org" type=FWD
-add forward-to=198.18.0.1 regexp="rferl.org" type=FWD
-add forward-to=198.18.0.1 regexp="rfi.fr" type=FWD
-add forward-to=198.18.0.1 regexp="rfi.my" type=FWD
-add forward-to=198.18.0.1 regexp="vds.rightster.com" type=FWD
-add forward-to=198.18.0.1 regexp="riku.me" type=FWD
-add forward-to=198.18.0.1 regexp="ritter.vg" type=FWD
-add forward-to=198.18.0.1 regexp="rlwlw.com" type=FWD
-add forward-to=198.18.0.1 regexp="rmbl.ws" type=FWD
-add forward-to=198.18.0.1 regexp="robustnessiskey.com" type=FWD
-add forward-to=198.18.0.1 regexp="rocket-inc.net" type=FWD
-add forward-to=198.18.0.1 regexp="www2.rocketbbs.com" type=FWD
-add forward-to=198.18.0.1 regexp="www2.rocketbbs.com" type=FWD
-add forward-to=198.18.0.1 regexp="rojo.com" type=FWD
-add forward-to=198.18.0.1 regexp="ronjoneswriter.com" type=FWD
-add forward-to=198.18.0.1 regexp="rolfoundation.org" type=FWD
-add forward-to=198.18.0.1 regexp="rolia.net" type=FWD
-add forward-to=198.18.0.1 regexp="rolsociety.org" type=FWD
-add forward-to=198.18.0.1 regexp="rou.video" type=FWD
-add forward-to=198.18.0.1 regexp="rsf.org" type=FWD
-add forward-to=198.18.0.1 regexp="rsf-chinese.org" type=FWD
-add forward-to=198.18.0.1 regexp="rsshub.app" type=FWD
-add forward-to=198.18.0.1 regexp="phosphation13.rssing.com" type=FWD
-add forward-to=198.18.0.1 regexp="rssmeme.com" type=FWD
-add forward-to=198.18.0.1 regexp="rtalabel.org" type=FWD
-add forward-to=198.18.0.1 regexp="rthk.hk" type=FWD
-add forward-to=198.18.0.1 regexp="rthk.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="rti.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="rti.tw" type=FWD
-add forward-to=198.18.0.1 regexp="rukor.org" type=FWD
-add forward-to=198.18.0.1 regexp="rule34.xxx" type=FWD
-add forward-to=198.18.0.1 regexp="rumble.com" type=FWD
-add forward-to=198.18.0.1 regexp="rusvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="ruten.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="rutracker.net" type=FWD
-add forward-to=198.18.0.1 regexp="rutube.ru" type=FWD
-add forward-to=198.18.0.1 regexp="rxhj.net" type=FWD
-add forward-to=198.18.0.1 regexp="s-cute.com" type=FWD
-add forward-to=198.18.0.1 regexp="s1heng.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.s4miniarchive.com" type=FWD
-add forward-to=198.18.0.1 regexp="s8forum.com" type=FWD
-add forward-to=198.18.0.1 regexp="cdn1.lp.saboom.com" type=FWD
-add forward-to=198.18.0.1 regexp="sacks.com" type=FWD
-add forward-to=198.18.0.1 regexp="sacom.hk" type=FWD
-add forward-to=198.18.0.1 regexp="sacom.hk" type=FWD
-add forward-to=198.18.0.1 regexp="sadpanda.us" type=FWD
-add forward-to=198.18.0.1 regexp="safechat.com" type=FWD
-add forward-to=198.18.0.1 regexp="safeguarddefenders.com" type=FWD
-add forward-to=198.18.0.1 regexp="safervpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="saintyculture.com" type=FWD
-add forward-to=198.18.0.1 regexp="saiq.me" type=FWD
-add forward-to=198.18.0.1 regexp="sakuralive.com" type=FWD
-add forward-to=198.18.0.1 regexp="salvation.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="cn.sandscotaicentral.com" type=FWD
-add forward-to=198.18.0.1 regexp="sankakucomplex.com" type=FWD
-add forward-to=198.18.0.1 regexp="sankei.com" type=FWD
-add forward-to=198.18.0.1 regexp="sapikachu.net" type=FWD
-add forward-to=198.18.0.1 regexp="savemedia.com" type=FWD
-add forward-to=198.18.0.1 regexp="savethesounds.info" type=FWD
-add forward-to=198.18.0.1 regexp="savetibet.de" type=FWD
-add forward-to=198.18.0.1 regexp="savetibet.fr" type=FWD
-add forward-to=198.18.0.1 regexp="savetibet.nl" type=FWD
-add forward-to=198.18.0.1 regexp="savetibet.org" type=FWD
-add forward-to=198.18.0.1 regexp="savetibet.ru" type=FWD
-add forward-to=198.18.0.1 regexp="savetibetstore.org" type=FWD
-add forward-to=198.18.0.1 regexp="saveuighur.org" type=FWD
-add forward-to=198.18.0.1 regexp="savevid.com" type=FWD
-add forward-to=198.18.0.1 regexp="say2.info" type=FWD
-add forward-to=198.18.0.1 regexp="sbme.me" type=FWD
-add forward-to=198.18.0.1 regexp="www.sciencemag.org" type=FWD
-add forward-to=198.18.0.1 regexp="scmp.com" type=FWD
-add forward-to=198.18.0.1 regexp="scramble.io" type=FWD
-add forward-to=198.18.0.1 regexp="scribd.com" type=FWD
-add forward-to=198.18.0.1 regexp="scriptspot.com" type=FWD
-add forward-to=198.18.0.1 regexp="search.com" type=FWD
-add forward-to=198.18.0.1 regexp="searx.me" type=FWD
-add forward-to=198.18.0.1 regexp="seattlefdc.com" type=FWD
-add forward-to=198.18.0.1 regexp="secretchina.com" type=FWD
-add forward-to=198.18.0.1 regexp="secretgarden.no" type=FWD
-add forward-to=198.18.0.1 regexp="secretsline.biz" type=FWD
-add forward-to=198.18.0.1 regexp="secureservercdn.net" type=FWD
-add forward-to=198.18.0.1 regexp="securetunnel.com" type=FWD
-add forward-to=198.18.0.1 regexp="securityinabox.org" type=FWD
-add forward-to=198.18.0.1 regexp="securityinabox.org" type=FWD
-add forward-to=198.18.0.1 regexp="securitykiss.com" type=FWD
-add forward-to=198.18.0.1 regexp="seed4.me" type=FWD
-add forward-to=198.18.0.1 regexp="news.seehua.com" type=FWD
-add forward-to=198.18.0.1 regexp="seesmic.com" type=FWD
-add forward-to=198.18.0.1 regexp="seevpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="seezone.net" type=FWD
-add forward-to=198.18.0.1 regexp="sejie.com" type=FWD
-add forward-to=198.18.0.1 regexp="sensortower.com" type=FWD
-add forward-to=198.18.0.1 regexp="tweets.seraph.me" type=FWD
-add forward-to=198.18.0.1 regexp="sesawe.net" type=FWD
-add forward-to=198.18.0.1 regexp="sesawe.net" type=FWD
-add forward-to=198.18.0.1 regexp="sethwklein.net" type=FWD
-add forward-to=198.18.0.1 regexp="forum.setty.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="sevenload.com" type=FWD
-add forward-to=198.18.0.1 regexp="sex.com" type=FWD
-add forward-to=198.18.0.1 regexp="sex3.com" type=FWD
-add forward-to=198.18.0.1 regexp="sex8.cc" type=FWD
-add forward-to=198.18.0.1 regexp="sexinsex.net" type=FWD
-add forward-to=198.18.0.1 regexp="sexinsex.net" type=FWD
-add forward-to=198.18.0.1 regexp="sfshibao.com" type=FWD
-add forward-to=198.18.0.1 regexp="sftuk.org" type=FWD
-add forward-to=198.18.0.1 regexp="shadeyouvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="shadow.ma" type=FWD
-add forward-to=198.18.0.1 regexp="www.shadowsocks.com" type=FWD
-add forward-to=198.18.0.1 regexp="shadowsocks.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="shadowsocks.org" type=FWD
-add forward-to=198.18.0.1 regexp="shadowsocks-r.com" type=FWD
-add forward-to=198.18.0.1 regexp="cn.shafaqna.com" type=FWD
-add forward-to=198.18.0.1 regexp="shahit.biz" type=FWD
-add forward-to=198.18.0.1 regexp="shangfang.org" type=FWD
-add forward-to=198.18.0.1 regexp="shapeservices.com" type=FWD
-add forward-to=198.18.0.1 regexp="sharecool.org" type=FWD
-add forward-to=198.18.0.1 regexp="sharpdaily.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="sharpdaily.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="sheikyermami.com" type=FWD
-add forward-to=198.18.0.1 regexp="shellfire.de" type=FWD
-add forward-to=198.18.0.1 regexp="shenyun.com" type=FWD
-add forward-to=198.18.0.1 regexp="shenyunperformingarts.org" type=FWD
-add forward-to=198.18.0.1 regexp="shenyunperformingarts.org" type=FWD
-add forward-to=198.18.0.1 regexp="shenyunshop.com" type=FWD
-add forward-to=198.18.0.1 regexp="shenzhoufilm.com" type=FWD
-add forward-to=198.18.0.1 regexp="shenzhoufilm.com" type=FWD
-add forward-to=198.18.0.1 regexp="shenzhouzhengdao.org" type=FWD
-add forward-to=198.18.0.1 regexp="sherabgyaltsen.com" type=FWD
-add forward-to=198.18.0.1 regexp="shinychan.com" type=FWD
-add forward-to=198.18.0.1 regexp="shipcamouflage.com" type=FWD
-add forward-to=198.18.0.1 regexp="shixiao.org" type=FWD
-add forward-to=198.18.0.1 regexp="shizhao.org" type=FWD
-add forward-to=198.18.0.1 regexp="shizhao.org" type=FWD
-add forward-to=198.18.0.1 regexp="shkspr.mobi" type=FWD
-add forward-to=198.18.0.1 regexp="shodanhq.com" type=FWD
-add forward-to=198.18.0.1 regexp="shooshtime.com" type=FWD
-add forward-to=198.18.0.1 regexp="shopee.tw" type=FWD
-add forward-to=198.18.0.1 regexp="showwe.tw" type=FWD
-add forward-to=198.18.0.1 regexp="shutterstock.com" type=FWD
-add forward-to=198.18.0.1 regexp="ch.shvoong.com" type=FWD
-add forward-to=198.18.0.1 regexp="shwchurch.org" type=FWD
-add forward-to=198.18.0.1 regexp="shwchurch3.com" type=FWD
-add forward-to=198.18.0.1 regexp="sidelinesnews.com" type=FWD
-add forward-to=198.18.0.1 regexp="signal.org" type=FWD
-add forward-to=198.18.0.1 regexp="simbolostwitter.com" type=FWD
-add forward-to=198.18.0.1 regexp="simplecd.org" type=FWD
-add forward-to=198.18.0.1 regexp="simplecd.org" type=FWD
-add forward-to=198.18.0.1 regexp="simpleproductivityblog.com" type=FWD
-add forward-to=198.18.0.1 regexp="bbs.sina.com" type=FWD
-add forward-to=198.18.0.1 regexp="bbs.sina.com" type=FWD
-add forward-to=198.18.0.1 regexp="blog.sina.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="dailynews.sina.com" type=FWD
-add forward-to=198.18.0.1 regexp="dailynews.sina.com" type=FWD
-add forward-to=198.18.0.1 regexp="forum.sina.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="home.sina.com" type=FWD
-add forward-to=198.18.0.1 regexp="magazines.sina.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="news.sina.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="news.sina.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="news.sinchew.com.my" type=FWD
-add forward-to=198.18.0.1 regexp="singaporepools.com.sg" type=FWD
-add forward-to=198.18.0.1 regexp="singtao.com" type=FWD
-add forward-to=198.18.0.1 regexp="singtao.com" type=FWD
-add forward-to=198.18.0.1 regexp="news.singtao.ca" type=FWD
-add forward-to=198.18.0.1 regexp="singtaousa.com" type=FWD
-add forward-to=198.18.0.1 regexp="sino-monthly.com" type=FWD
-add forward-to=198.18.0.1 regexp="sinoca.com" type=FWD
-add forward-to=198.18.0.1 regexp="sinocast.com" type=FWD
-add forward-to=198.18.0.1 regexp="sinocism.com" type=FWD
-add forward-to=198.18.0.1 regexp="sinomontreal.ca" type=FWD
-add forward-to=198.18.0.1 regexp="sinoants.com" type=FWD
-add forward-to=198.18.0.1 regexp="sinoinsider.com" type=FWD
-add forward-to=198.18.0.1 regexp="sis.xxx" type=FWD
-add forward-to=198.18.0.1 regexp="sis001.com" type=FWD
-add forward-to=198.18.0.1 regexp="sis001.us" type=FWD
-add forward-to=198.18.0.1 regexp="site90.net" type=FWD
-add forward-to=198.18.0.1 regexp="sitekreator.com" type=FWD
-add forward-to=198.18.0.1 regexp="siteks.uk.to" type=FWD
-add forward-to=198.18.0.1 regexp="sitemaps.org" type=FWD
-add forward-to=198.18.0.1 regexp="sjrt.org" type=FWD
-add forward-to=198.18.0.1 regexp="sjum.cn" type=FWD
-add forward-to=198.18.0.1 regexp="sketchappsources.com" type=FWD
-add forward-to=198.18.0.1 regexp="skimtube.com" type=FWD
-add forward-to=198.18.0.1 regexp="lab.skk.moe" type=FWD
-add forward-to=198.18.0.1 regexp="skybet.com" type=FWD
-add forward-to=198.18.0.1 regexp="users.skynet.be" type=FWD
-add forward-to=198.18.0.1 regexp="bbs.skykiwi.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.skype.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.skype.com" type=FWD
-add forward-to=198.18.0.1 regexp="skyvegas.com" type=FWD
-add forward-to=198.18.0.1 regexp="xskywalker.com" type=FWD
-add forward-to=198.18.0.1 regexp="skyxvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="m.slandr.net" type=FWD
-add forward-to=198.18.0.1 regexp="slheng.com" type=FWD
-add forward-to=198.18.0.1 regexp="slideshare.net" type=FWD
-add forward-to=198.18.0.1 regexp="forum.slime.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="slickvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="smartdnsproxy.com" type=FWD
-add forward-to=198.18.0.1 regexp="app.smartmailcloud.com" type=FWD
-add forward-to=198.18.0.1 regexp="smchbooks.com" type=FWD
-add forward-to=198.18.0.1 regexp="smhric.org" type=FWD
-add forward-to=198.18.0.1 regexp="snapchat.com" type=FWD
-add forward-to=198.18.0.1 regexp="snaptu.com" type=FWD
-add forward-to=198.18.0.1 regexp="sndcdn.com" type=FWD
-add forward-to=198.18.0.1 regexp="sneakme.net" type=FWD
-add forward-to=198.18.0.1 regexp="snowlionpub.com" type=FWD
-add forward-to=198.18.0.1 regexp="home.so-net.net.tw" type=FWD
-add forward-to=198.18.0.1 regexp="soc.mil" type=FWD
-add forward-to=198.18.0.1 regexp="socialblade.com" type=FWD
-add forward-to=198.18.0.1 regexp="socks-proxy.net" type=FWD
-add forward-to=198.18.0.1 regexp="sockslist.net" type=FWD
-add forward-to=198.18.0.1 regexp="socrec.org" type=FWD
-add forward-to=198.18.0.1 regexp="softether.org" type=FWD
-add forward-to=198.18.0.1 regexp="softether-download.com" type=FWD
-add forward-to=198.18.0.1 regexp="cdn.softlayer.net" type=FWD
-add forward-to=198.18.0.1 regexp="sogclub.com" type=FWD
-add forward-to=198.18.0.1 regexp="sohcradio.com" type=FWD
-add forward-to=198.18.0.1 regexp="sohcradio.com" type=FWD
-add forward-to=198.18.0.1 regexp="sorting-algorithms.com" type=FWD
-add forward-to=198.18.0.1 regexp="soup.io" type=FWD
-add forward-to=198.18.0.1 regexp="sobees.com" type=FWD
-add forward-to=198.18.0.1 regexp="socialwhale.com" type=FWD
-add forward-to=198.18.0.1 regexp="softwarebychuck.com" type=FWD
-add forward-to=198.18.0.1 regexp="blog.sogoo.org" type=FWD
-add forward-to=198.18.0.1 regexp="soh.tw" type=FWD
-add forward-to=198.18.0.1 regexp="soh.tw" type=FWD
-add forward-to=198.18.0.1 regexp="sohfrance.org" type=FWD
-add forward-to=198.18.0.1 regexp="sohfrance.org" type=FWD
-add forward-to=198.18.0.1 regexp="chinese.soifind.com" type=FWD
-add forward-to=198.18.0.1 regexp="sokamonline.com" type=FWD
-add forward-to=198.18.0.1 regexp="solana.com" type=FWD
-add forward-to=198.18.0.1 regexp="somee.com" type=FWD
-add forward-to=198.18.0.1 regexp="songjianjun.com" type=FWD
-add forward-to=198.18.0.1 regexp="nakedsecurity.sophos.com" type=FWD
-add forward-to=198.18.0.1 regexp="sos.org" type=FWD
-add forward-to=198.18.0.1 regexp="bbs.sou-tong.org" type=FWD
-add forward-to=198.18.0.1 regexp="soubory.com" type=FWD
-add forward-to=198.18.0.1 regexp="soulcaliburhentai.net" type=FWD
-add forward-to=198.18.0.1 regexp="soundcloud.com" type=FWD
-add forward-to=198.18.0.1 regexp="soundofhope.org" type=FWD
-add forward-to=198.18.0.1 regexp="soundofhope.org" type=FWD
-add forward-to=198.18.0.1 regexp="soupofmedia.com" type=FWD
-add forward-to=198.18.0.1 regexp="sourceforge.net" type=FWD
-add forward-to=198.18.0.1 regexp="south-plus.org" type=FWD
-add forward-to=198.18.0.1 regexp="southnews.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="sowers.org.hk" type=FWD
-add forward-to=198.18.0.1 regexp="wlx.sowiki.net" type=FWD
-add forward-to=198.18.0.1 regexp="spankbang.com" type=FWD
-add forward-to=198.18.0.1 regexp="spb.com" type=FWD
-add forward-to=198.18.0.1 regexp="speakerdeck.com" type=FWD
-add forward-to=198.18.0.1 regexp="speedify.com" type=FWD
-add forward-to=198.18.0.1 regexp="spem.at" type=FWD
-add forward-to=198.18.0.1 regexp="spencertipping.com" type=FWD
-add forward-to=198.18.0.1 regexp="spendee.com" type=FWD
-add forward-to=198.18.0.1 regexp="spicevpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="spideroak.com" type=FWD
-add forward-to=198.18.0.1 regexp="spotflux.com" type=FWD
-add forward-to=198.18.0.1 regexp="spring4u.info" type=FWD
-add forward-to=198.18.0.1 regexp="springwood.me" type=FWD
-add forward-to=198.18.0.1 regexp="sproutcore.com" type=FWD
-add forward-to=198.18.0.1 regexp="sproxy.info" type=FWD
-add forward-to=198.18.0.1 regexp="squirrelvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="srocket.us" type=FWD
-add forward-to=198.18.0.1 regexp="ss-link.com" type=FWD
-add forward-to=198.18.0.1 regexp="ssglobal.co" type=FWD
-add forward-to=198.18.0.1 regexp="ssh91.com" type=FWD
-add forward-to=198.18.0.1 regexp="sspro.ml" type=FWD
-add forward-to=198.18.0.1 regexp="ssrshare.com" type=FWD
-add forward-to=198.18.0.1 regexp="sss.camp" type=FWD
-add forward-to=198.18.0.1 regexp="sstm.moe" type=FWD
-add forward-to=198.18.0.1 regexp="sstmlt.moe" type=FWD
-add forward-to=198.18.0.1 regexp="sstmlt.net" type=FWD
-add forward-to=198.18.0.1 regexp="sstmlt.net" type=FWD
-add forward-to=198.18.0.1 regexp="stackoverflow.com" type=FWD
-add forward-to=198.18.0.1 regexp="stage64.hk" type=FWD
-add forward-to=198.18.0.1 regexp="standupfortibet.org" type=FWD
-add forward-to=198.18.0.1 regexp="standwithhk.org" type=FWD
-add forward-to=198.18.0.1 regexp="stanford.edu" type=FWD
-add forward-to=198.18.0.1 regexp="usinfo.state.gov" type=FWD
-add forward-to=198.18.0.1 regexp="statueofdemocracy.org" type=FWD
-add forward-to=198.18.0.1 regexp="starp2p.com" type=FWD
-add forward-to=198.18.0.1 regexp="startpage.com" type=FWD
-add forward-to=198.18.0.1 regexp="startuplivingchina.com" type=FWD
-add forward-to=198.18.0.1 regexp="static-economist.com" type=FWD
-add forward-to=198.18.0.1 regexp="stboy.net" type=FWD
-add forward-to=198.18.0.1 regexp="stc.com.sa" type=FWD
-add forward-to=198.18.0.1 regexp="steel-storm.com" type=FWD
-add forward-to=198.18.0.1 regexp="steganos.com" type=FWD
-add forward-to=198.18.0.1 regexp="ny.stgloballink.com" type=FWD
-add forward-to=198.18.0.1 regexp="hd.stheadline.com" type=FWD
-add forward-to=198.18.0.1 regexp="sthoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="sthoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="stickeraction.com" type=FWD
-add forward-to=198.18.0.1 regexp="storagenewsletter.com" type=FWD
-add forward-to=198.18.0.1 regexp="storm.mg" type=FWD
-add forward-to=198.18.0.1 regexp="stoptibetcrisis.net" type=FWD
-add forward-to=198.18.0.1 regexp="storify.com" type=FWD
-add forward-to=198.18.0.1 regexp="storj.io" type=FWD
-add forward-to=198.18.0.1 regexp="stoweboyd.com" type=FWD
-add forward-to=198.18.0.1 regexp="straitstimes.com" type=FWD
-add forward-to=198.18.0.1 regexp="stranabg.com" type=FWD
-add forward-to=198.18.0.1 regexp="straplessdildo.com" type=FWD
-add forward-to=198.18.0.1 regexp="streamable.com" type=FWD
-add forward-to=198.18.0.1 regexp="streamate.com" type=FWD
-add forward-to=198.18.0.1 regexp="streamingthe.net" type=FWD
-add forward-to=198.18.0.1 regexp="streema.com" type=FWD
-add forward-to=198.18.0.1 regexp="cn.streetvoice.com" type=FWD
-add forward-to=198.18.0.1 regexp="cn.streetvoice.com" type=FWD
-add forward-to=198.18.0.1 regexp="cn2.streetvoice.com" type=FWD
-add forward-to=198.18.0.1 regexp="tw.streetvoice.com" type=FWD
-add forward-to=198.18.0.1 regexp="strongvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="studentsforafreetibet.org" type=FWD
-add forward-to=198.18.0.1 regexp="stumbleupon.com" type=FWD
-add forward-to=198.18.0.1 regexp="stupidvideos.com" type=FWD
-add forward-to=198.18.0.1 regexp="substack.com" type=FWD
-add forward-to=198.18.0.1 regexp="panamapapers.sueddeutsche.de" type=FWD
-add forward-to=198.18.0.1 regexp="sugarsync.com" type=FWD
-add forward-to=198.18.0.1 regexp="sugumiru18.com" type=FWD
-add forward-to=198.18.0.1 regexp="suissl.com" type=FWD
-add forward-to=198.18.0.1 regexp="summify.com" type=FWD
-add forward-to=198.18.0.1 regexp="sumrando.com" type=FWD
-add forward-to=198.18.0.1 regexp="sun1911.com" type=FWD
-add forward-to=198.18.0.1 regexp="sundayguardianlive.com" type=FWD
-add forward-to=198.18.0.1 regexp="sunmedia.ca" type=FWD
-add forward-to=198.18.0.1 regexp="sunporno.com" type=FWD
-add forward-to=198.18.0.1 regexp="supervpn.net" type=FWD
-add forward-to=198.18.0.1 regexp="superzooi.com" type=FWD
-add forward-to=198.18.0.1 regexp="suprememastertv.com" type=FWD
-add forward-to=198.18.0.1 regexp="surfeasy.com" type=FWD
-add forward-to=198.18.0.1 regexp="surfeasy.com.au" type=FWD
-add forward-to=198.18.0.1 regexp="surfshark.com" type=FWD
-add forward-to=198.18.0.1 regexp="surrenderat20.net" type=FWD
-add forward-to=198.18.0.1 regexp="swissinfo.ch" type=FWD
-add forward-to=198.18.0.1 regexp="swissvpn.net" type=FWD
-add forward-to=198.18.0.1 regexp="switchvpn.net" type=FWD
-add forward-to=198.18.0.1 regexp="switchvpn.net" type=FWD
-add forward-to=198.18.0.1 regexp="sydneytoday.com" type=FWD
-add forward-to=198.18.0.1 regexp="sylfoundation.org" type=FWD
-add forward-to=198.18.0.1 regexp="syncback.com" type=FWD
-add forward-to=198.18.0.1 regexp="sysresccd.org" type=FWD
-add forward-to=198.18.0.1 regexp="blog.syx86.com" type=FWD
-add forward-to=198.18.0.1 regexp="blog.syx86.cn" type=FWD
-add forward-to=198.18.0.1 regexp="t-g.com" type=FWD
-add forward-to=198.18.0.1 regexp="t66y.com" type=FWD
-add forward-to=198.18.0.1 regexp="esg.t91y.com" type=FWD
-add forward-to=198.18.0.1 regexp="taa-usa.org" type=FWD
-add forward-to=198.18.0.1 regexp="taaze.tw" type=FWD
-add forward-to=198.18.0.1 regexp="www.tablesgenerator.com" type=FWD
-add forward-to=198.18.0.1 regexp="tabtter.jp" type=FWD
-add forward-to=198.18.0.1 regexp="taedp.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="tagwalk.com" type=FWD
-add forward-to=198.18.0.1 regexp="tagwalk.com" type=FWD
-add forward-to=198.18.0.1 regexp="tahr.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="taipeisociety.org" type=FWD
-add forward-to=198.18.0.1 regexp="taipeitimes.com" type=FWD
-add forward-to=198.18.0.1 regexp="taisounds.com" type=FWD
-add forward-to=198.18.0.1 regexp="taiwandaily.net" type=FWD
-add forward-to=198.18.0.1 regexp="taiwanhot.net" type=FWD
-add forward-to=198.18.0.1 regexp="taiwankiss.com" type=FWD
-add forward-to=198.18.0.1 regexp="taiwannation.com" type=FWD
-add forward-to=198.18.0.1 regexp="taiwannation.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="taiwanncf.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="taiwannews.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="www.taiwanonline.cc" type=FWD
-add forward-to=198.18.0.1 regexp="taiwantp.net" type=FWD
-add forward-to=198.18.0.1 regexp="taiwantt.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="taiwanus.net" type=FWD
-add forward-to=198.18.0.1 regexp="taiwanyes.com" type=FWD
-add forward-to=198.18.0.1 regexp="taiwan-sex.com" type=FWD
-add forward-to=198.18.0.1 regexp="talkboxapp.com" type=FWD
-add forward-to=198.18.0.1 regexp="talkcc.com" type=FWD
-add forward-to=198.18.0.1 regexp="talkonly.net" type=FWD
-add forward-to=198.18.0.1 regexp="tamiaode.tk" type=FWD
-add forward-to=198.18.0.1 regexp="tanc.org" type=FWD
-add forward-to=198.18.0.1 regexp="tangben.com" type=FWD
-add forward-to=198.18.0.1 regexp="taoism.net" type=FWD
-add forward-to=198.18.0.1 regexp="taolun.info" type=FWD
-add forward-to=198.18.0.1 regexp="tapatalk.com" type=FWD
-add forward-to=198.18.0.1 regexp="blog.taragana.com" type=FWD
-add forward-to=198.18.0.1 regexp="taup.net" type=FWD
-add forward-to=198.18.0.1 regexp="www.taup.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="taweet.com" type=FWD
-add forward-to=198.18.0.1 regexp="tbcollege.org" type=FWD
-add forward-to=198.18.0.1 regexp="tbpic.info" type=FWD
-add forward-to=198.18.0.1 regexp="tbs-rainbow.org" type=FWD
-add forward-to=198.18.0.1 regexp="tbsec.org" type=FWD
-add forward-to=198.18.0.1 regexp="tbskkinabalu.page.tl" type=FWD
-add forward-to=198.18.0.1 regexp="tbsn.org" type=FWD
-add forward-to=198.18.0.1 regexp="tbssqh.org" type=FWD
-add forward-to=198.18.0.1 regexp="tbswd.org" type=FWD
-add forward-to=198.18.0.1 regexp="tchrd.org" type=FWD
-add forward-to=198.18.0.1 regexp="tcnynj.org" type=FWD
-add forward-to=198.18.0.1 regexp="tcpspeed.co" type=FWD
-add forward-to=198.18.0.1 regexp="tcpspeed.com" type=FWD
-add forward-to=198.18.0.1 regexp="teamamericany.com" type=FWD
-add forward-to=198.18.0.1 regexp="techspot.com" type=FWD
-add forward-to=198.18.0.1 regexp="techviz.net" type=FWD
-add forward-to=198.18.0.1 regexp="teck.in" type=FWD
-add forward-to=198.18.0.1 regexp="teensinasia.com" type=FWD
-add forward-to=198.18.0.1 regexp="tehrantimes.com" type=FWD
-add forward-to=198.18.0.1 regexp="telegraph.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="tenor.com" type=FWD
-add forward-to=198.18.0.1 regexp="tenzinpalmo.com" type=FWD
-add forward-to=198.18.0.1 regexp="tew.org" type=FWD
-add forward-to=198.18.0.1 regexp="tfiflve.com" type=FWD
-add forward-to=198.18.0.1 regexp="theatlantic.com" type=FWD
-add forward-to=198.18.0.1 regexp="theatrum-belli.com" type=FWD
-add forward-to=198.18.0.1 regexp="cn.theaustralian.com.au" type=FWD
-add forward-to=198.18.0.1 regexp="theblemish.com" type=FWD
-add forward-to=198.18.0.1 regexp="thebcomplex.com" type=FWD
-add forward-to=198.18.0.1 regexp="theblaze.com" type=FWD
-add forward-to=198.18.0.1 regexp="thebobs.com" type=FWD
-add forward-to=198.18.0.1 regexp="thechinacollection.org" type=FWD
-add forward-to=198.18.0.1 regexp="www.thechinastory.org" type=FWD
-add forward-to=198.18.0.1 regexp="theconversation.com" type=FWD
-add forward-to=198.18.0.1 regexp="thedalailamamovie.com" type=FWD
-add forward-to=198.18.0.1 regexp="thediplomat.com" type=FWD
-add forward-to=198.18.0.1 regexp="thedw.us" type=FWD
-add forward-to=198.18.0.1 regexp="theepochtimes.com" type=FWD
-add forward-to=198.18.0.1 regexp="thefrontier.hk" type=FWD
-add forward-to=198.18.0.1 regexp="theguardian.com" type=FWD
-add forward-to=198.18.0.1 regexp="thegay.com" type=FWD
-add forward-to=198.18.0.1 regexp="thegioitinhoc.vn" type=FWD
-add forward-to=198.18.0.1 regexp="thehousenews.com" type=FWD
-add forward-to=198.18.0.1 regexp="thehun.net" type=FWD
-add forward-to=198.18.0.1 regexp="theinitium.com" type=FWD
-add forward-to=198.18.0.1 regexp="themoviedb.org" type=FWD
-add forward-to=198.18.0.1 regexp="thenewslens.com" type=FWD
-add forward-to=198.18.0.1 regexp="thepiratebay.org" type=FWD
-add forward-to=198.18.0.1 regexp="theporndude.com" type=FWD
-add forward-to=198.18.0.1 regexp="theportalwiki.com" type=FWD
-add forward-to=198.18.0.1 regexp="theprint.in" type=FWD
-add forward-to=198.18.0.1 regexp="threadreaderapp.com" type=FWD
-add forward-to=198.18.0.1 regexp="thereallove.kr" type=FWD
-add forward-to=198.18.0.1 regexp="therock.net.nz" type=FWD
-add forward-to=198.18.0.1 regexp="thesaturdaypaper.com.au" type=FWD
-add forward-to=198.18.0.1 regexp="thestandnews.com" type=FWD
-add forward-to=198.18.0.1 regexp="thetibetcenter.org" type=FWD
-add forward-to=198.18.0.1 regexp="thetibetconnection.org" type=FWD
-add forward-to=198.18.0.1 regexp="thetibetpost.com" type=FWD
-add forward-to=198.18.0.1 regexp="thetinhat.com" type=FWD
-add forward-to=198.18.0.1 regexp="thetrotskymovie.com" type=FWD
-add forward-to=198.18.0.1 regexp="thetvdb.com" type=FWD
-add forward-to=198.18.0.1 regexp="thevivekspot.com" type=FWD
-add forward-to=198.18.0.1 regexp="thewgo.org" type=FWD
-add forward-to=198.18.0.1 regexp="theync.com" type=FWD
-add forward-to=198.18.0.1 regexp="thinkingtaiwan.com" type=FWD
-add forward-to=198.18.0.1 regexp="thisav.com" type=FWD
-add forward-to=198.18.0.1 regexp="thomasbernhard.org" type=FWD
-add forward-to=198.18.0.1 regexp="threatchaos.com" type=FWD
-add forward-to=198.18.0.1 regexp="throughnightsfire.com" type=FWD
-add forward-to=198.18.0.1 regexp="thywords.com" type=FWD
-add forward-to=198.18.0.1 regexp="tiananmenmother.org" type=FWD
-add forward-to=198.18.0.1 regexp="tiananmenduizhi.com" type=FWD
-add forward-to=198.18.0.1 regexp="tiananmenuniv.com" type=FWD
-add forward-to=198.18.0.1 regexp="tiananmenuniv.net" type=FWD
-add forward-to=198.18.0.1 regexp="tiandixing.org" type=FWD
-add forward-to=198.18.0.1 regexp="tianti.io" type=FWD
-add forward-to=198.18.0.1 regexp="tiantibooks.org" type=FWD
-add forward-to=198.18.0.1 regexp="tiantibooks.org" type=FWD
-add forward-to=198.18.0.1 regexp="tianyantong.org.cn" type=FWD
-add forward-to=198.18.0.1 regexp="tibet.ca" type=FWD
-add forward-to=198.18.0.1 regexp="tibet.com" type=FWD
-add forward-to=198.18.0.1 regexp="tibet.fr" type=FWD
-add forward-to=198.18.0.1 regexp="tibet.net" type=FWD
-add forward-to=198.18.0.1 regexp="tibet.nu" type=FWD
-add forward-to=198.18.0.1 regexp="tibet.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibet.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="tibet.to" type=FWD
-add forward-to=198.18.0.1 regexp="tibet-envoy.eu" type=FWD
-add forward-to=198.18.0.1 regexp="tibet-initiative.de" type=FWD
-add forward-to=198.18.0.1 regexp="tibet3rdpole.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibetaction.net" type=FWD
-add forward-to=198.18.0.1 regexp="tibetaction.net" type=FWD
-add forward-to=198.18.0.1 regexp="tibetalk.com" type=FWD
-add forward-to=198.18.0.1 regexp="tibetan-alliance.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibetanbuddhistinstitute.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibetancommunity.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibetanentrepreneurs.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibetanhealth.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibetanliberation.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibetancommunityuk.net" type=FWD
-add forward-to=198.18.0.1 regexp="tibetanculture.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibetanfeministcollective.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibetansports.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibetanwomen.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibetanyouthcongress.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibetcharity.in" type=FWD
-add forward-to=198.18.0.1 regexp="tibetcorps.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibetexpress.net" type=FWD
-add forward-to=198.18.0.1 regexp="tibetfocus.com" type=FWD
-add forward-to=198.18.0.1 regexp="tibetfund.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibetgermany.de" type=FWD
-add forward-to=198.18.0.1 regexp="tibethouse.jp" type=FWD
-add forward-to=198.18.0.1 regexp="tibethouse.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibethouse.us" type=FWD
-add forward-to=198.18.0.1 regexp="tibetmuseum.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibetnetwork.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibetoffice.ch" type=FWD
-add forward-to=198.18.0.1 regexp="tibetoffice.eu" type=FWD
-add forward-to=198.18.0.1 regexp="tibetoffice.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibetonline.com" type=FWD
-add forward-to=198.18.0.1 regexp="tibetoffice.com.au" type=FWD
-add forward-to=198.18.0.1 regexp="tibetonline.tv" type=FWD
-add forward-to=198.18.0.1 regexp="tibetoralhistory.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibetpolicy.eu" type=FWD
-add forward-to=198.18.0.1 regexp="tibetrelieffund.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="tibetsites.com" type=FWD
-add forward-to=198.18.0.1 regexp="tibetsociety.com" type=FWD
-add forward-to=198.18.0.1 regexp="tibetsun.com" type=FWD
-add forward-to=198.18.0.1 regexp="tibetsupportgroup.org" type=FWD
-add forward-to=198.18.0.1 regexp="tibetswiss.ch" type=FWD
-add forward-to=198.18.0.1 regexp="tibettelegraph.com" type=FWD
-add forward-to=198.18.0.1 regexp="tibettimes.net" type=FWD
-add forward-to=198.18.0.1 regexp="tibettruth.com" type=FWD
-add forward-to=198.18.0.1 regexp="tibetwrites.org" type=FWD
-add forward-to=198.18.0.1 regexp="tigervpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="tiktokv.com" type=FWD
-add forward-to=198.18.0.1 regexp="timdir.com" type=FWD
-add forward-to=198.18.0.1 regexp="time.com" type=FWD
-add forward-to=198.18.0.1 regexp="timesnownews.com" type=FWD
-add forward-to=198.18.0.1 regexp="timtales.com" type=FWD
-add forward-to=198.18.0.1 regexp="blog.tiney.com" type=FWD
-add forward-to=198.18.0.1 regexp="tintuc101.com" type=FWD
-add forward-to=198.18.0.1 regexp="tiny.cc" type=FWD
-add forward-to=198.18.0.1 regexp="tinychat.com" type=FWD
-add forward-to=198.18.0.1 regexp="tinypaste.com" type=FWD
-add forward-to=198.18.0.1 regexp="tipas.net" type=FWD
-add forward-to=198.18.0.1 regexp="tkcs-collins.com" type=FWD
-add forward-to=198.18.0.1 regexp="tmagazine.com" type=FWD
-add forward-to=198.18.0.1 regexp="tmi.me" type=FWD
-add forward-to=198.18.0.1 regexp="tmpp.org" type=FWD
-add forward-to=198.18.0.1 regexp="tnaflix.com" type=FWD
-add forward-to=198.18.0.1 regexp="tnp.org" type=FWD
-add forward-to=198.18.0.1 regexp="to-porno.com" type=FWD
-add forward-to=198.18.0.1 regexp="togetter.com" type=FWD
-add forward-to=198.18.0.1 regexp="tokyo-porn-tube.com" type=FWD
-add forward-to=198.18.0.1 regexp="tokyocn.com" type=FWD
-add forward-to=198.18.0.1 regexp="tw.tomonews.net" type=FWD
-add forward-to=198.18.0.1 regexp="tonyyan.net" type=FWD
-add forward-to=198.18.0.1 regexp="toonel.net" type=FWD
-add forward-to=198.18.0.1 regexp="top81.ws" type=FWD
-add forward-to=198.18.0.1 regexp="toppornsites.com" type=FWD
-add forward-to=198.18.0.1 regexp="torguard.net" type=FWD
-add forward-to=198.18.0.1 regexp="top.tv" type=FWD
-add forward-to=198.18.0.1 regexp="topsy.com" type=FWD
-add forward-to=198.18.0.1 regexp="toptip.ca" type=FWD
-add forward-to=198.18.0.1 regexp="tora.to" type=FWD
-add forward-to=198.18.0.1 regexp="torlock.com" type=FWD
-add forward-to=198.18.0.1 regexp="torproject.org" type=FWD
-add forward-to=198.18.0.1 regexp="torrentkitty.tv" type=FWD
-add forward-to=198.18.0.1 regexp="torrentprivacy.com" type=FWD
-add forward-to=198.18.0.1 regexp="torrentprivacy.com" type=FWD
-add forward-to=198.18.0.1 regexp="torrentproject.se" type=FWD
-add forward-to=198.18.0.1 regexp="torrenty.org" type=FWD
-add forward-to=198.18.0.1 regexp="torrentz.eu" type=FWD
-add forward-to=198.18.0.1 regexp="tortoisesvn.net" type=FWD
-add forward-to=198.18.0.1 regexp="torvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="totalvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="towngain.com" type=FWD
-add forward-to=198.18.0.1 regexp="toypark.in" type=FWD
-add forward-to=198.18.0.1 regexp="toytractorshow.com" type=FWD
-add forward-to=198.18.0.1 regexp="tpi.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="tradingview.com" type=FWD
-add forward-to=198.18.0.1 regexp="transparency.org" type=FWD
-add forward-to=198.18.0.1 regexp="treemall.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="trendsmap.com" type=FWD
-add forward-to=198.18.0.1 regexp="trendsmap.com" type=FWD
-add forward-to=198.18.0.1 regexp="trialofccp.org" type=FWD
-add forward-to=198.18.0.1 regexp="trouw.nl" type=FWD
-add forward-to=198.18.0.1 regexp="trt.net.tr" type=FWD
-add forward-to=198.18.0.1 regexp="trtc.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="truebuddha-md.org" type=FWD
-add forward-to=198.18.0.1 regexp="trulyergonomic.com" type=FWD
-add forward-to=198.18.0.1 regexp="truth101.co.tv" type=FWD
-add forward-to=198.18.0.1 regexp="truthontour.org" type=FWD
-add forward-to=198.18.0.1 regexp="truthsocial.com" type=FWD
-add forward-to=198.18.0.1 regexp="tsquare.tv" type=FWD
-add forward-to=198.18.0.1 regexp="tsunagarumon.com" type=FWD
-add forward-to=198.18.0.1 regexp="tt1069.com" type=FWD
-add forward-to=198.18.0.1 regexp="tttan.com" type=FWD
-add forward-to=198.18.0.1 regexp="ttv.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="tu8964.com" type=FWD
-add forward-to=198.18.0.1 regexp="tube8.com" type=FWD
-add forward-to=198.18.0.1 regexp="tube8.com" type=FWD
-add forward-to=198.18.0.1 regexp="tube911.com" type=FWD
-add forward-to=198.18.0.1 regexp="tubeislam.com" type=FWD
-add forward-to=198.18.0.1 regexp="tubewolf.com" type=FWD
-add forward-to=198.18.0.1 regexp="tuidang.net" type=FWD
-add forward-to=198.18.0.1 regexp="tuidang.org" type=FWD
-add forward-to=198.18.0.1 regexp="bbs.tuitui.info" type=FWD
-add forward-to=198.18.0.1 regexp="tumutanzi.com" type=FWD
-add forward-to=198.18.0.1 regexp="tumview.com" type=FWD
-add forward-to=198.18.0.1 regexp="tunein.com" type=FWD
-add forward-to=198.18.0.1 regexp="tunnelbear.com" type=FWD
-add forward-to=198.18.0.1 regexp="tunnelblick.net" type=FWD
-add forward-to=198.18.0.1 regexp="tunnelr.com" type=FWD
-add forward-to=198.18.0.1 regexp="tunsafe.com" type=FWD
-add forward-to=198.18.0.1 regexp="tuitwit.com" type=FWD
-add forward-to=198.18.0.1 regexp="turbobit.net" type=FWD
-add forward-to=198.18.0.1 regexp="turbohide.com" type=FWD
-add forward-to=198.18.0.1 regexp="turkistantimes.com" type=FWD
-add forward-to=198.18.0.1 regexp="tushycash.com" type=FWD
-add forward-to=198.18.0.1 regexp="app.tutanota.com" type=FWD
-add forward-to=198.18.0.1 regexp="tuvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="tuzaijidi.com" type=FWD
-add forward-to=198.18.0.1 regexp="tw01.org" type=FWD
-add forward-to=198.18.0.1 regexp="tumblr.com" type=FWD
-add forward-to=198.18.0.1 regexp="lecloud.net" type=FWD
-add forward-to=198.18.0.1 regexp="cosmic.monar.ch" type=FWD
-add forward-to=198.18.0.1 regexp="slutmoonbeam.com" type=FWD
-add forward-to=198.18.0.1 regexp="blog.soylent.com" type=FWD
-add forward-to=198.18.0.1 regexp="tv.com" type=FWD
-add forward-to=198.18.0.1 regexp="tvants.com" type=FWD
-add forward-to=198.18.0.1 regexp="forum.tvb.com" type=FWD
-add forward-to=198.18.0.1 regexp="news.tvb.com" type=FWD
-add forward-to=198.18.0.1 regexp="news.tvb.com" type=FWD
-add forward-to=198.18.0.1 regexp="news.tvbs.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="tvboxnow.com" type=FWD
-add forward-to=198.18.0.1 regexp="tvider.com" type=FWD
-add forward-to=198.18.0.1 regexp="tvunetworks.com" type=FWD
-add forward-to=198.18.0.1 regexp="tw-blog.com" type=FWD
-add forward-to=198.18.0.1 regexp="twapperkeeper.com" type=FWD
-add forward-to=198.18.0.1 regexp="twapperkeeper.com" type=FWD
-add forward-to=198.18.0.1 regexp="twaud.io" type=FWD
-add forward-to=198.18.0.1 regexp="twbbs.org" type=FWD
-add forward-to=198.18.0.1 regexp="twbbs.tw" type=FWD
-add forward-to=198.18.0.1 regexp="twblogger.com" type=FWD
-add forward-to=198.18.0.1 regexp="tweepmag.com" type=FWD
-add forward-to=198.18.0.1 regexp="tweepml.org" type=FWD
-add forward-to=198.18.0.1 regexp="tweetbackup.com" type=FWD
-add forward-to=198.18.0.1 regexp="tweetboard.com" type=FWD
-add forward-to=198.18.0.1 regexp="tweetboard.com" type=FWD
-add forward-to=198.18.0.1 regexp="tweetboner.biz" type=FWD
-add forward-to=198.18.0.1 regexp="tweetcs.com" type=FWD
-add forward-to=198.18.0.1 regexp="deck.ly" type=FWD
-add forward-to=198.18.0.1 regexp="mtw.tl" type=FWD
-add forward-to=198.18.0.1 regexp="tweetedtimes.com" type=FWD
-add forward-to=198.18.0.1 regexp="tweetmylast.fm" type=FWD
-add forward-to=198.18.0.1 regexp="tweetphoto.com" type=FWD
-add forward-to=198.18.0.1 regexp="tweetphoto.com" type=FWD
-add forward-to=198.18.0.1 regexp="tweetrans.com" type=FWD
-add forward-to=198.18.0.1 regexp="tweetree.com" type=FWD
-add forward-to=198.18.0.1 regexp="tweetree.com" type=FWD
-add forward-to=198.18.0.1 regexp="tweettunnel.com" type=FWD
-add forward-to=198.18.0.1 regexp="tweetwally.com" type=FWD
-add forward-to=198.18.0.1 regexp="tweetymail.com" type=FWD
-add forward-to=198.18.0.1 regexp="twelve.today" type=FWD
-add forward-to=198.18.0.1 regexp="tweez.net" type=FWD
-add forward-to=198.18.0.1 regexp="twftp.org" type=FWD
-add forward-to=198.18.0.1 regexp="twgreatdaily.com" type=FWD
-add forward-to=198.18.0.1 regexp="twibase.com" type=FWD
-add forward-to=198.18.0.1 regexp="twibble.de" type=FWD
-add forward-to=198.18.0.1 regexp="twibbon.com" type=FWD
-add forward-to=198.18.0.1 regexp="twibs.com" type=FWD
-add forward-to=198.18.0.1 regexp="twicountry.org" type=FWD
-add forward-to=198.18.0.1 regexp="twicsy.com" type=FWD
-add forward-to=198.18.0.1 regexp="twiends.com" type=FWD
-add forward-to=198.18.0.1 regexp="twifan.com" type=FWD
-add forward-to=198.18.0.1 regexp="twiffo.com" type=FWD
-add forward-to=198.18.0.1 regexp="twiffo.com" type=FWD
-add forward-to=198.18.0.1 regexp="twilog.org" type=FWD
-add forward-to=198.18.0.1 regexp="twimbow.com" type=FWD
-add forward-to=198.18.0.1 regexp="twindexx.com" type=FWD
-add forward-to=198.18.0.1 regexp="twipple.jp" type=FWD
-add forward-to=198.18.0.1 regexp="twipple.jp" type=FWD
-add forward-to=198.18.0.1 regexp="twip.me" type=FWD
-add forward-to=198.18.0.1 regexp="twishort.com" type=FWD
-add forward-to=198.18.0.1 regexp="twishort.com" type=FWD
-add forward-to=198.18.0.1 regexp="twistar.cc" type=FWD
-add forward-to=198.18.0.1 regexp="twister.net.co" type=FWD
-add forward-to=198.18.0.1 regexp="twisterio.com" type=FWD
-add forward-to=198.18.0.1 regexp="twisternow.com" type=FWD
-add forward-to=198.18.0.1 regexp="twistory.net" type=FWD
-add forward-to=198.18.0.1 regexp="twitbrowser.net" type=FWD
-add forward-to=198.18.0.1 regexp="twitcause.com" type=FWD
-add forward-to=198.18.0.1 regexp="twitgether.com" type=FWD
-add forward-to=198.18.0.1 regexp="twiggit.org" type=FWD
-add forward-to=198.18.0.1 regexp="twitgoo.com" type=FWD
-add forward-to=198.18.0.1 regexp="twitiq.com" type=FWD
-add forward-to=198.18.0.1 regexp="twitiq.com" type=FWD
-add forward-to=198.18.0.1 regexp="twitlonger.com" type=FWD
-add forward-to=198.18.0.1 regexp="tl.gd" type=FWD
-add forward-to=198.18.0.1 regexp="twitmania.com" type=FWD
-add forward-to=198.18.0.1 regexp="twitoaster.com" type=FWD
-add forward-to=198.18.0.1 regexp="twitoaster.com" type=FWD
-add forward-to=198.18.0.1 regexp="twitonmsn.com" type=FWD
-add forward-to=198.18.0.1 regexp="twit2d.com" type=FWD
-add forward-to=198.18.0.1 regexp="twitstat.com" type=FWD
-add forward-to=198.18.0.1 regexp="firstfivefollowers.com" type=FWD
-add forward-to=198.18.0.1 regexp="retweeteffect.com" type=FWD
-add forward-to=198.18.0.1 regexp="tweeplike.me" type=FWD
-add forward-to=198.18.0.1 regexp="tweepguide.com" type=FWD
-add forward-to=198.18.0.1 regexp="turbotwitter.com" type=FWD
-add forward-to=198.18.0.1 regexp="twitvid.com" type=FWD
-add forward-to=198.18.0.1 regexp="twt.tl" type=FWD
-add forward-to=198.18.0.1 regexp="twittbot.net" type=FWD
-add forward-to=198.18.0.1 regexp="ads-twitter.com" type=FWD
-add forward-to=198.18.0.1 regexp="twttr.com" type=FWD
-add forward-to=198.18.0.1 regexp="twitter4j.org" type=FWD
-add forward-to=198.18.0.1 regexp="twittercounter.com" type=FWD
-add forward-to=198.18.0.1 regexp="twitterfeed.com" type=FWD
-add forward-to=198.18.0.1 regexp="twittergadget.com" type=FWD
-add forward-to=198.18.0.1 regexp="twitterkr.com" type=FWD
-add forward-to=198.18.0.1 regexp="twittermail.com" type=FWD
-add forward-to=198.18.0.1 regexp="twitterrific.com" type=FWD
-add forward-to=198.18.0.1 regexp="twittertim.es" type=FWD
-add forward-to=198.18.0.1 regexp="twittertim.es" type=FWD
-add forward-to=198.18.0.1 regexp="twitthat.com" type=FWD
-add forward-to=198.18.0.1 regexp="twitturk.com" type=FWD
-add forward-to=198.18.0.1 regexp="twitturly.com" type=FWD
-add forward-to=198.18.0.1 regexp="twiyia.com" type=FWD
-add forward-to=198.18.0.1 regexp="twstar.net" type=FWD
-add forward-to=198.18.0.1 regexp="twtkr.com" type=FWD
-add forward-to=198.18.0.1 regexp="twreporter.org" type=FWD
-add forward-to=198.18.0.1 regexp="twskype.com" type=FWD
-add forward-to=198.18.0.1 regexp="twtrland.com" type=FWD
-add forward-to=198.18.0.1 regexp="twurl.nl" type=FWD
-add forward-to=198.18.0.1 regexp="twyac.org" type=FWD
-add forward-to=198.18.0.1 regexp="tycool.com" type=FWD
-add forward-to=198.18.0.1 regexp="typepad.com" type=FWD
-add forward-to=198.18.0.1 regexp="blog.expofutures.com" type=FWD
-add forward-to=198.18.0.1 regexp="legaltech.law.com" type=FWD
-add forward-to=198.18.0.1 regexp="blogs.tampabay.com" type=FWD
-add forward-to=198.18.0.1 regexp="contests.twilio.com" type=FWD
-add forward-to=198.18.0.1 regexp="typora.io" type=FWD
-add forward-to=198.18.0.1 regexp="u9un.com" type=FWD
-add forward-to=198.18.0.1 regexp="ubddns.org" type=FWD
-add forward-to=198.18.0.1 regexp="uberproxy.net" type=FWD
-add forward-to=198.18.0.1 regexp="uc-japan.org" type=FWD
-add forward-to=198.18.0.1 regexp="china.ucanews.com" type=FWD
-add forward-to=198.18.0.1 regexp="ucdc1998.org" type=FWD
-add forward-to=198.18.0.1 regexp="uderzo.it" type=FWD
-add forward-to=198.18.0.1 regexp="udn.com" type=FWD
-add forward-to=198.18.0.1 regexp="udn.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="udnbkk.com" type=FWD
-add forward-to=198.18.0.1 regexp="uforadio.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="ufreevpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="uhdwallpapers.org" type=FWD
-add forward-to=198.18.0.1 regexp="uhrp.org" type=FWD
-add forward-to=198.18.0.1 regexp="uighur.nl" type=FWD
-add forward-to=198.18.0.1 regexp="uighurbiz.net" type=FWD
-add forward-to=198.18.0.1 regexp="ukcdp.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="ukliferadio.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="ukliferadio.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="ultravpn.fr" type=FWD
-add forward-to=198.18.0.1 regexp="ultravpn.fr" type=FWD
-add forward-to=198.18.0.1 regexp="ultraxs.com" type=FWD
-add forward-to=198.18.0.1 regexp="umich.edu" type=FWD
-add forward-to=198.18.0.1 regexp="unblock.cn.com" type=FWD
-add forward-to=198.18.0.1 regexp="unblock-us.com" type=FWD
-add forward-to=198.18.0.1 regexp="unblock-us.com" type=FWD
-add forward-to=198.18.0.1 regexp="unblockdmm.com" type=FWD
-add forward-to=198.18.0.1 regexp="unblocksit.es" type=FWD
-add forward-to=198.18.0.1 regexp="uncyclomedia.org" type=FWD
-add forward-to=198.18.0.1 regexp="uncyclopedia.hk" type=FWD
-add forward-to=198.18.0.1 regexp="uncyclopedia.tw" type=FWD
-add forward-to=198.18.0.1 regexp="underwoodammo.com" type=FWD
-add forward-to=198.18.0.1 regexp="underwoodammo.com" type=FWD
-add forward-to=198.18.0.1 regexp="unholyknight.com" type=FWD
-add forward-to=198.18.0.1 regexp="cldr.unicode.org" type=FWD
-add forward-to=198.18.0.1 regexp="unirule.cloud" type=FWD
-add forward-to=198.18.0.1 regexp="unknownspace.org" type=FWD
-add forward-to=198.18.0.1 regexp="unpo.org" type=FWD
-add forward-to=198.18.0.1 regexp="unstable.icu" type=FWD
-add forward-to=198.18.0.1 regexp="untraceable.us" type=FWD
-add forward-to=198.18.0.1 regexp="uocn.org" type=FWD
-add forward-to=198.18.0.1 regexp="tor.updatestar.com" type=FWD
-add forward-to=198.18.0.1 regexp="upghsbc.com" type=FWD
-add forward-to=198.18.0.1 regexp="uploaded.net" type=FWD
-add forward-to=198.18.0.1 regexp="uploaded.net" type=FWD
-add forward-to=198.18.0.1 regexp="uploaded.to" type=FWD
-add forward-to=198.18.0.1 regexp="upmedia.mg" type=FWD
-add forward-to=198.18.0.1 regexp="upornia.com" type=FWD
-add forward-to=198.18.0.1 regexp="uproxy.org" type=FWD
-add forward-to=198.18.0.1 regexp="uptodown.com" type=FWD
-add forward-to=198.18.0.1 regexp="ur7s.com" type=FWD
-add forward-to=198.18.0.1 regexp="urbandictionary.com" type=FWD
-add forward-to=198.18.0.1 regexp="urbansurvival.com" type=FWD
-add forward-to=198.18.0.1 regexp="myshare.url.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="urlborg.com" type=FWD
-add forward-to=198.18.0.1 regexp="urlparser.com" type=FWD
-add forward-to=198.18.0.1 regexp="us.to" type=FWD
-add forward-to=198.18.0.1 regexp="usacn.com" type=FWD
-add forward-to=198.18.0.1 regexp="usaip.eu" type=FWD
-add forward-to=198.18.0.1 regexp="uscnpm.org" type=FWD
-add forward-to=198.18.0.1 regexp="uscardforum.com" type=FWD
-add forward-to=198.18.0.1 regexp="usma.edu" type=FWD
-add forward-to=198.18.0.1 regexp="ustibetcommittee.org" type=FWD
-add forward-to=198.18.0.1 regexp="ustream.tv" type=FWD
-add forward-to=198.18.0.1 regexp="usus.cc" type=FWD
-add forward-to=198.18.0.1 regexp="utopianpal.com" type=FWD
-add forward-to=198.18.0.1 regexp="uvwxyz.xyz" type=FWD
-add forward-to=198.18.0.1 regexp="uwants.com" type=FWD
-add forward-to=198.18.0.1 regexp="uyghur.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="uyghur-j.org" type=FWD
-add forward-to=198.18.0.1 regexp="uyghuraa.org" type=FWD
-add forward-to=198.18.0.1 regexp="uyghuramerican.org" type=FWD
-add forward-to=198.18.0.1 regexp="uyghurbiz.org" type=FWD
-add forward-to=198.18.0.1 regexp="uyghurcanadian.ca" type=FWD
-add forward-to=198.18.0.1 regexp="uyghurcongress.org" type=FWD
-add forward-to=198.18.0.1 regexp="uyghurpen.org" type=FWD
-add forward-to=198.18.0.1 regexp="uyghurpress.com" type=FWD
-add forward-to=198.18.0.1 regexp="uyghurstudies.org" type=FWD
-add forward-to=198.18.0.1 regexp="uyghurtribunal.com" type=FWD
-add forward-to=198.18.0.1 regexp="uygur.org" type=FWD
-add forward-to=198.18.0.1 regexp="uymaarip.com" type=FWD
-add forward-to=198.18.0.1 regexp="v2fly.org" type=FWD
-add forward-to=198.18.0.1 regexp="v2ray.com" type=FWD
-add forward-to=198.18.0.1 regexp="v2raycn.com" type=FWD
-add forward-to=198.18.0.1 regexp="v2raytech.com" type=FWD
-add forward-to=198.18.0.1 regexp="valeursactuelles.com" type=FWD
-add forward-to=198.18.0.1 regexp="vansky.com" type=FWD
-add forward-to=198.18.0.1 regexp="vaticannews.va" type=FWD
-add forward-to=198.18.0.1 regexp="vcf-online.org" type=FWD
-add forward-to=198.18.0.1 regexp="vcfbuilder.org" type=FWD
-add forward-to=198.18.0.1 regexp="venetianmacao.com" type=FWD
-add forward-to=198.18.0.1 regexp="veoh.com" type=FWD
-add forward-to=198.18.0.1 regexp="vercel.app" type=FWD
-add forward-to=198.18.0.1 regexp="mysite.verizon.net" type=FWD
-add forward-to=198.18.0.1 regexp="vermonttibet.org" type=FWD
-add forward-to=198.18.0.1 regexp="versavpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="verybs.com" type=FWD
-add forward-to=198.18.0.1 regexp="viber.com" type=FWD
-add forward-to=198.18.0.1 regexp="victimsofcommunism.org" type=FWD
-add forward-to=198.18.0.1 regexp="vid.me" type=FWD
-add forward-to=198.18.0.1 regexp="vidble.com" type=FWD
-add forward-to=198.18.0.1 regexp="videobam.com" type=FWD
-add forward-to=198.18.0.1 regexp="videobam.com" type=FWD
-add forward-to=198.18.0.1 regexp="videomega.tv" type=FWD
-add forward-to=198.18.0.1 regexp="videopediaworld.com" type=FWD
-add forward-to=198.18.0.1 regexp="vietdaikynguyen.com" type=FWD
-add forward-to=198.18.0.1 regexp="vilavpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="vimeo.com" type=FWD
-add forward-to=198.18.0.1 regexp="vimeo.com" type=FWD
-add forward-to=198.18.0.1 regexp="vimperator.org" type=FWD
-add forward-to=198.18.0.1 regexp="vincnd.com" type=FWD
-add forward-to=198.18.0.1 regexp="vinniev.com" type=FWD
-add forward-to=198.18.0.1 regexp="www.lib.virginia.edu" type=FWD
-add forward-to=198.18.0.1 regexp="virtualrealporn.com" type=FWD
-add forward-to=198.18.0.1 regexp="visibletweets.com" type=FWD
-add forward-to=198.18.0.1 regexp="ny.visiontimes.com" type=FWD
-add forward-to=198.18.0.1 regexp="viu.com" type=FWD
-add forward-to=198.18.0.1 regexp="vivaldi.com" type=FWD
-add forward-to=198.18.0.1 regexp="vivthomas.com" type=FWD
-add forward-to=198.18.0.1 regexp="vjav.com" type=FWD
-add forward-to=198.18.0.1 regexp="vllcs.org" type=FWD
-add forward-to=198.18.0.1 regexp="vmixcore.com" type=FWD
-add forward-to=198.18.0.1 regexp="vnet.link" type=FWD
-add forward-to=198.18.0.1 regexp="vocn.tv" type=FWD
-add forward-to=198.18.0.1 regexp="vocus.cc" type=FWD
-add forward-to=198.18.0.1 regexp="voicettank.org" type=FWD
-add forward-to=198.18.0.1 regexp="vot.org" type=FWD
-add forward-to=198.18.0.1 regexp="vovo2000.com" type=FWD
-add forward-to=198.18.0.1 regexp="voxer.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpn.ac" type=FWD
-add forward-to=198.18.0.1 regexp="vpn4all.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpnaccount.org" type=FWD
-add forward-to=198.18.0.1 regexp="vpnaccounts.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpncup.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpnbook.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpncoupons.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpndada.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpnfire.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpnforgame.net" type=FWD
-add forward-to=198.18.0.1 regexp="vpngate.jp" type=FWD
-add forward-to=198.18.0.1 regexp="vpngate.net" type=FWD
-add forward-to=198.18.0.1 regexp="vpnhq.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpnhub.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpnmaster.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpnmentor.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpninja.net" type=FWD
-add forward-to=198.18.0.1 regexp="vpnintouch.net" type=FWD
-add forward-to=198.18.0.1 regexp="vpnjack.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpnjack.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpnpick.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpnpop.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpnpronet.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpnreactor.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpnreviewz.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpnsecure.me" type=FWD
-add forward-to=198.18.0.1 regexp="vpnshazam.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpnshieldapp.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpntunnel.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpnuk.info" type=FWD
-add forward-to=198.18.0.1 regexp="vpnunlimitedapp.com" type=FWD
-add forward-to=198.18.0.1 regexp="vpnvip.com" type=FWD
-add forward-to=198.18.0.1 regexp="vporn.com" type=FWD
-add forward-to=198.18.0.1 regexp="vraiesagesse.net" type=FWD
-add forward-to=198.18.0.1 regexp="vtunnel.com" type=FWD
-add forward-to=198.18.0.1 regexp="vuku.cc" type=FWD
-add forward-to=198.18.0.1 regexp="lists.w3.org" type=FWD
-add forward-to=198.18.0.1 regexp="w3schools.com" type=FWD
-add forward-to=198.18.0.1 regexp="waffle1999.com" type=FWD
-add forward-to=198.18.0.1 regexp="waikeung.org" type=FWD
-add forward-to=198.18.0.1 regexp="wainao.me" type=FWD
-add forward-to=198.18.0.1 regexp="waiwaier.com" type=FWD
-add forward-to=198.18.0.1 regexp="wallmama.com" type=FWD
-add forward-to=198.18.0.1 regexp="wallornot.org" type=FWD
-add forward-to=198.18.0.1 regexp="wallpapercasa.com" type=FWD
-add forward-to=198.18.0.1 regexp="wallsttv.com" type=FWD
-add forward-to=198.18.0.1 regexp="waltermartin.com" type=FWD
-add forward-to=198.18.0.1 regexp="waltermartin.org" type=FWD
-add forward-to=198.18.0.1 regexp="www.wan-press.org" type=FWD
-add forward-to=198.18.0.1 regexp="wanderinghorse.net" type=FWD
-add forward-to=198.18.0.1 regexp="wangafu.net" type=FWD
-add forward-to=198.18.0.1 regexp="wangjinbo.org" type=FWD
-add forward-to=198.18.0.1 regexp="wanglixiong.com" type=FWD
-add forward-to=198.18.0.1 regexp="wango.org" type=FWD
-add forward-to=198.18.0.1 regexp="wangruoshui.net" type=FWD
-add forward-to=198.18.0.1 regexp="www.wangruowang.org" type=FWD
-add forward-to=198.18.0.1 regexp="want-daily.com" type=FWD
-add forward-to=198.18.0.1 regexp="wapedia.mobi" type=FWD
-add forward-to=198.18.0.1 regexp="warroom.org" type=FWD
-add forward-to=198.18.0.1 regexp="waselpro.com" type=FWD
-add forward-to=198.18.0.1 regexp="watchout.tw" type=FWD
-add forward-to=198.18.0.1 regexp="wattpad.com" type=FWD
-add forward-to=198.18.0.1 regexp="washeng.net" type=FWD
-add forward-to=198.18.0.1 regexp="watchmygf.net" type=FWD
-add forward-to=198.18.0.1 regexp="wav.tv" type=FWD
-add forward-to=198.18.0.1 regexp="wd.bible" type=FWD
-add forward-to=198.18.0.1 regexp="wealth.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="wearn.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkcoc.weather.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="hudatoriq.web.id" type=FWD
-add forward-to=198.18.0.1 regexp="web2project.net" type=FWD
-add forward-to=198.18.0.1 regexp="webbang.net" type=FWD
-add forward-to=198.18.0.1 regexp="weblagu.com" type=FWD
-add forward-to=198.18.0.1 regexp="webs-tv.net" type=FWD
-add forward-to=198.18.0.1 regexp="www.websnapr.com" type=FWD
-add forward-to=198.18.0.1 regexp="webwarper.net" type=FWD
-add forward-to=198.18.0.1 regexp="webworkerdaily.com" type=FWD
-add forward-to=198.18.0.1 regexp="wechatlawsuit.com" type=FWD
-add forward-to=198.18.0.1 regexp="wefightcensorship.org" type=FWD
-add forward-to=198.18.0.1 regexp="weiboleak.com" type=FWD
-add forward-to=198.18.0.1 regexp="weijingsheng.org" type=FWD
-add forward-to=198.18.0.1 regexp="weiming.info" type=FWD
-add forward-to=198.18.0.1 regexp="weiquanwang.org" type=FWD
-add forward-to=198.18.0.1 regexp="weisuo.ws" type=FWD
-add forward-to=198.18.0.1 regexp="welt.de" type=FWD
-add forward-to=198.18.0.1 regexp="wemigrate.org" type=FWD
-add forward-to=198.18.0.1 regexp="wengewang.com" type=FWD
-add forward-to=198.18.0.1 regexp="wengewang.org" type=FWD
-add forward-to=198.18.0.1 regexp="trans.wenweipo.com" type=FWD
-add forward-to=198.18.0.1 regexp="wenxuecity.com" type=FWD
-add forward-to=198.18.0.1 regexp="wenyunchao.com" type=FWD
-add forward-to=198.18.0.1 regexp="westca.com" type=FWD
-add forward-to=198.18.0.1 regexp="westernwolves.com" type=FWD
-add forward-to=198.18.0.1 regexp="westpoint.edu" type=FWD
-add forward-to=198.18.0.1 regexp="wetpussygames.com" type=FWD
-add forward-to=198.18.0.1 regexp="wexiaobo.org" type=FWD
-add forward-to=198.18.0.1 regexp="wexiaobo.org" type=FWD
-add forward-to=198.18.0.1 regexp="wezhiyong.org" type=FWD
-add forward-to=198.18.0.1 regexp="wezone.net" type=FWD
-add forward-to=198.18.0.1 regexp="wforum.com" type=FWD
-add forward-to=198.18.0.1 regexp="whatblocked.com" type=FWD
-add forward-to=198.18.0.1 regexp="wheelockslatin.com" type=FWD
-add forward-to=198.18.0.1 regexp="whoer.net" type=FWD
-add forward-to=198.18.0.1 regexp="whotalking.com" type=FWD
-add forward-to=198.18.0.1 regexp="whylover.com" type=FWD
-add forward-to=198.18.0.1 regexp="whyx.org" type=FWD
-add forward-to=198.18.0.1 regexp="wikileaks.ch" type=FWD
-add forward-to=198.18.0.1 regexp="wikileaks.com" type=FWD
-add forward-to=198.18.0.1 regexp="wikileaks.de" type=FWD
-add forward-to=198.18.0.1 regexp="wikileaks.eu" type=FWD
-add forward-to=198.18.0.1 regexp="wikileaks.lu" type=FWD
-add forward-to=198.18.0.1 regexp="wikileaks.org" type=FWD
-add forward-to=198.18.0.1 regexp="wikileaks.pl" type=FWD
-add forward-to=198.18.0.1 regexp="wildammo.com" type=FWD
-add forward-to=198.18.0.1 regexp="collateralmurder.com" type=FWD
-add forward-to=198.18.0.1 regexp="collateralmurder.org" type=FWD
-add forward-to=198.18.0.1 regexp="wikilivres.info" type=FWD
-add forward-to=198.18.0.1 regexp="wikimapia.org" type=FWD
-add forward-to=198.18.0.1 regexp="wikiwand.com" type=FWD
-add forward-to=198.18.0.1 regexp="wikiwiki.jp" type=FWD
-add forward-to=198.18.0.1 regexp="casino.williamhill.com" type=FWD
-add forward-to=198.18.0.1 regexp="sports.williamhill.com" type=FWD
-add forward-to=198.18.0.1 regexp="vegas.williamhill.com" type=FWD
-add forward-to=198.18.0.1 regexp="willw.net" type=FWD
-add forward-to=198.18.0.1 regexp="windowsphoneme.com" type=FWD
-add forward-to=198.18.0.1 regexp="windscribe.com" type=FWD
-add forward-to=198.18.0.1 regexp="community.windy.com" type=FWD
-add forward-to=198.18.0.1 regexp="wingy.site" type=FWD
-add forward-to=198.18.0.1 regexp="winwhispers.info" type=FWD
-add forward-to=198.18.0.1 regexp="wionews.com" type=FWD
-add forward-to=198.18.0.1 regexp="wiredbytes.com" type=FWD
-add forward-to=198.18.0.1 regexp="wiredpen.com" type=FWD
-add forward-to=198.18.0.1 regexp="wireguard.com" type=FWD
-add forward-to=198.18.0.1 regexp="wisevid.com" type=FWD
-add forward-to=198.18.0.1 regexp="whispersystems.org" type=FWD
-add forward-to=198.18.0.1 regexp="wjbk.org" type=FWD
-add forward-to=198.18.0.1 regexp="wmflabs.org" type=FWD
-add forward-to=198.18.0.1 regexp="wn.com" type=FWD
-add forward-to=198.18.0.1 regexp="woeser.com" type=FWD
-add forward-to=198.18.0.1 regexp="wokar.org" type=FWD
-add forward-to=198.18.0.1 regexp="wolfax.com" type=FWD
-add forward-to=198.18.0.1 regexp="wolfax.com" type=FWD
-add forward-to=198.18.0.1 regexp="wombo.ai" type=FWD
-add forward-to=198.18.0.1 regexp="woolyss.com" type=FWD
-add forward-to=198.18.0.1 regexp="woopie.jp" type=FWD
-add forward-to=198.18.0.1 regexp="woopie.jp" type=FWD
-add forward-to=198.18.0.1 regexp="woopie.tv" type=FWD
-add forward-to=198.18.0.1 regexp="woopie.tv" type=FWD
-add forward-to=198.18.0.1 regexp="workatruna.com" type=FWD
-add forward-to=198.18.0.1 regexp="workers.dev" type=FWD
-add forward-to=198.18.0.1 regexp="workersthebig.net" type=FWD
-add forward-to=198.18.0.1 regexp="worldjournal.com" type=FWD
-add forward-to=198.18.0.1 regexp="worldvpn.net" type=FWD
-add forward-to=198.18.0.1 regexp="videopress.com" type=FWD
-add forward-to=198.18.0.1 regexp="chenshan20042005.wordpress.com" type=FWD
-add forward-to=198.18.0.1 regexp="chinaview.wordpress.com" type=FWD
-add forward-to=198.18.0.1 regexp="cnbbnews.wordpress.com" type=FWD
-add forward-to=198.18.0.1 regexp="freedominfonetweb.wordpress.com" type=FWD
-add forward-to=198.18.0.1 regexp="hka8964.wordpress.com" type=FWD
-add forward-to=198.18.0.1 regexp="hkanews.wordpress.com" type=FWD
-add forward-to=198.18.0.1 regexp="hqsbnet.wordpress.com" type=FWD
-add forward-to=198.18.0.1 regexp="hqsbonline.wordpress.com" type=FWD
-add forward-to=198.18.0.1 regexp="investigating.wordpress.com" type=FWD
-add forward-to=198.18.0.1 regexp="jobnewera.wordpress.com" type=FWD
-add forward-to=198.18.0.1 regexp="matthewdgreen.wordpress.com" type=FWD
-add forward-to=198.18.0.1 regexp="minghuiyw.wordpress.com" type=FWD
-add forward-to=198.18.0.1 regexp="wo3ttt.wordpress.com" type=FWD
-add forward-to=198.18.0.1 regexp="sujiatun.wordpress.com" type=FWD
-add forward-to=198.18.0.1 regexp="xijie.wordpress.com" type=FWD
-add forward-to=198.18.0.1 regexp="wp.com" type=FWD
-add forward-to=198.18.0.1 regexp="wowlegacy.ml" type=FWD
-add forward-to=198.18.0.1 regexp="wowporn.com" type=FWD
-add forward-to=198.18.0.1 regexp="wowgirls.com" type=FWD
-add forward-to=198.18.0.1 regexp="woxinghuiguo.com" type=FWD
-add forward-to=198.18.0.1 regexp="woyaolian.org" type=FWD
-add forward-to=198.18.0.1 regexp="wpoforum.com" type=FWD
-add forward-to=198.18.0.1 regexp="wqyd.org" type=FWD
-add forward-to=198.18.0.1 regexp="wrchina.org" type=FWD
-add forward-to=198.18.0.1 regexp="wretch.cc" type=FWD
-add forward-to=198.18.0.1 regexp="writesonic.com" type=FWD
-add forward-to=198.18.0.1 regexp="wsj.com" type=FWD
-add forward-to=198.18.0.1 regexp="wsj.net" type=FWD
-add forward-to=198.18.0.1 regexp="wuerkaixi.com" type=FWD
-add forward-to=198.18.0.1 regexp="wufafangwen.com" type=FWD
-add forward-to=198.18.0.1 regexp="wufi.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="wuguoguang.com" type=FWD
-add forward-to=198.18.0.1 regexp="wujie.net" type=FWD
-add forward-to=198.18.0.1 regexp="wujieliulan.com" type=FWD
-add forward-to=198.18.0.1 regexp="wujieliulan.com" type=FWD
-add forward-to=198.18.0.1 regexp="wukangrui.net" type=FWD
-add forward-to=198.18.0.1 regexp="wuw.red" type=FWD
-add forward-to=198.18.0.1 regexp="wuyanblog.com" type=FWD
-add forward-to=198.18.0.1 regexp="wwitv.com" type=FWD
-add forward-to=198.18.0.1 regexp="wzyboy.im" type=FWD
-add forward-to=198.18.0.1 regexp="x.co" type=FWD
-add forward-to=198.18.0.1 regexp="x-berry.com" type=FWD
-add forward-to=198.18.0.1 regexp="x-art.com" type=FWD
-add forward-to=198.18.0.1 regexp="x-wall.org" type=FWD
-add forward-to=198.18.0.1 regexp="x1949x.com" type=FWD
-add forward-to=198.18.0.1 regexp="x365x.com" type=FWD
-add forward-to=198.18.0.1 regexp="xanga.com" type=FWD
-add forward-to=198.18.0.1 regexp="xbabe.com" type=FWD
-add forward-to=198.18.0.1 regexp="xbookcn.com" type=FWD
-add forward-to=198.18.0.1 regexp="xcafe.in" type=FWD
-add forward-to=198.18.0.1 regexp="xcity.jp" type=FWD
-add forward-to=198.18.0.1 regexp="destiny.xfiles.to" type=FWD
-add forward-to=198.18.0.1 regexp="xgmyd.com" type=FWD
-add forward-to=198.18.0.1 regexp="xhamster.com" type=FWD
-add forward-to=198.18.0.1 regexp="xhamster.com" type=FWD
-add forward-to=198.18.0.1 regexp="xianjian.tw" type=FWD
-add forward-to=198.18.0.1 regexp="xiaolan.me" type=FWD
-add forward-to=198.18.0.1 regexp="xiaoma.org" type=FWD
-add forward-to=198.18.0.1 regexp="xiaohexie.com" type=FWD
-add forward-to=198.18.0.1 regexp="xiaxiaoqiang.net" type=FWD
-add forward-to=198.18.0.1 regexp="xiezhua.com" type=FWD
-add forward-to=198.18.0.1 regexp="forum.xinbao.de" type=FWD
-add forward-to=198.18.0.1 regexp="xing.com" type=FWD
-add forward-to=198.18.0.1 regexp="xinjiangpolicefiles.org" type=FWD
-add forward-to=198.18.0.1 regexp="xinmiao.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="xinsheng.net" type=FWD
-add forward-to=198.18.0.1 regexp="xinshijue.com" type=FWD
-add forward-to=198.18.0.1 regexp="xinhuanet.org" type=FWD
-add forward-to=198.18.0.1 regexp="xinyubbs.net" type=FWD
-add forward-to=198.18.0.1 regexp="xixicui.icu" type=FWD
-add forward-to=198.18.0.1 regexp="xizang-zhiye.org" type=FWD
-add forward-to=198.18.0.1 regexp="xjp.cc" type=FWD
-add forward-to=198.18.0.1 regexp="xjp.cc" type=FWD
-add forward-to=198.18.0.1 regexp="xjtravelguide.com" type=FWD
-add forward-to=198.18.0.1 regexp="xlfmtalk.com" type=FWD
-add forward-to=198.18.0.1 regexp="xlfmwz.info" type=FWD
-add forward-to=198.18.0.1 regexp="xml-training-guide.com" type=FWD
-add forward-to=198.18.0.1 regexp="xmovies.com" type=FWD
-add forward-to=198.18.0.1 regexp="xnxx.com" type=FWD
-add forward-to=198.18.0.1 regexp="xpdo.net" type=FWD
-add forward-to=198.18.0.1 regexp="xpud.org" type=FWD
-add forward-to=198.18.0.1 regexp="xtube.com" type=FWD
-add forward-to=198.18.0.1 regexp="blog.xuite.net" type=FWD
-add forward-to=198.18.0.1 regexp="vlog.xuite.net" type=FWD
-add forward-to=198.18.0.1 regexp="xuzhiyong.net" type=FWD
-add forward-to=198.18.0.1 regexp="xuchao.org" type=FWD
-add forward-to=198.18.0.1 regexp="xuchao.net" type=FWD
-add forward-to=198.18.0.1 regexp="xuchao.net" type=FWD
-add forward-to=198.18.0.1 regexp="xvideo.cc" type=FWD
-add forward-to=198.18.0.1 regexp="xvideos.com" type=FWD
-add forward-to=198.18.0.1 regexp="xvideos-cdn.com" type=FWD
-add forward-to=198.18.0.1 regexp="xvideos.es" type=FWD
-add forward-to=198.18.0.1 regexp="xvbelink.com" type=FWD
-add forward-to=198.18.0.1 regexp="xvinlink.com" type=FWD
-add forward-to=198.18.0.1 regexp="xsden.info" type=FWD
-add forward-to=198.18.0.1 regexp="xxx.com" type=FWD
-add forward-to=198.18.0.1 regexp="xxx.xxx" type=FWD
-add forward-to=198.18.0.1 regexp="xxxx.com.au" type=FWD
-add forward-to=198.18.0.1 regexp="xxxymovies.com" type=FWD
-add forward-to=198.18.0.1 regexp="xys.org" type=FWD
-add forward-to=198.18.0.1 regexp="xysblogs.org" type=FWD
-add forward-to=198.18.0.1 regexp="xyy69.com" type=FWD
-add forward-to=198.18.0.1 regexp="xyy69.info" type=FWD
-add forward-to=198.18.0.1 regexp="y2mate.com" type=FWD
-add forward-to=198.18.0.1 regexp="yadi.sk" type=FWD
-add forward-to=198.18.0.1 regexp="yakbutterblues.com" type=FWD
-add forward-to=198.18.0.1 regexp="yam.com" type=FWD
-add forward-to=198.18.0.1 regexp="yam.org.tw" type=FWD
-add forward-to=198.18.0.1 regexp="yande.re" type=FWD
-add forward-to=198.18.0.1 regexp="disk.yandex.com" type=FWD
-add forward-to=198.18.0.1 regexp="disk.yandex.ru" type=FWD
-add forward-to=198.18.0.1 regexp="yangjianli.com" type=FWD
-add forward-to=198.18.0.1 regexp="yasni.co.uk" type=FWD
-add forward-to=198.18.0.1 regexp="news.ycombinator.com" type=FWD
-add forward-to=198.18.0.1 regexp="yeahteentube.com" type=FWD
-add forward-to=198.18.0.1 regexp="yecl.net" type=FWD
-add forward-to=198.18.0.1 regexp="yeelou.com" type=FWD
-add forward-to=198.18.0.1 regexp="yeeyi.com" type=FWD
-add forward-to=198.18.0.1 regexp="yegle.net" type=FWD
-add forward-to=198.18.0.1 regexp="yegle.net" type=FWD
-add forward-to=198.18.0.1 regexp="yes123.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="yesasia.com" type=FWD
-add forward-to=198.18.0.1 regexp="yesasia.com.hk" type=FWD
-add forward-to=198.18.0.1 regexp="yes-news.com" type=FWD
-add forward-to=198.18.0.1 regexp="yespornplease.com" type=FWD
-add forward-to=198.18.0.1 regexp="yeyeclub.com" type=FWD
-add forward-to=198.18.0.1 regexp="yhcw.net" type=FWD
-add forward-to=198.18.0.1 regexp="yidio.com" type=FWD
-add forward-to=198.18.0.1 regexp="yigeni.com" type=FWD
-add forward-to=198.18.0.1 regexp="yilubbs.com" type=FWD
-add forward-to=198.18.0.1 regexp="s.yimg.com" type=FWD
-add forward-to=198.18.0.1 regexp="xa.yimg.com" type=FWD
-add forward-to=198.18.0.1 regexp="yipub.com" type=FWD
-add forward-to=198.18.0.1 regexp="yinlei.org" type=FWD
-add forward-to=198.18.0.1 regexp="yizhihongxing.com" type=FWD
-add forward-to=198.18.0.1 regexp="yobt.tv" type=FWD
-add forward-to=198.18.0.1 regexp="yogichen.org" type=FWD
-add forward-to=198.18.0.1 regexp="yong.hu" type=FWD
-add forward-to=198.18.0.1 regexp="you.com" type=FWD
-add forward-to=198.18.0.1 regexp="youxu.info" type=FWD
-add forward-to=198.18.0.1 regexp="youjizz.com" type=FWD
-add forward-to=198.18.0.1 regexp="youmaker.com" type=FWD
-add forward-to=198.18.0.1 regexp="youngspiration.hk" type=FWD
-add forward-to=198.18.0.1 regexp="youpai.org" type=FWD
-add forward-to=198.18.0.1 regexp="yourepeat.com" type=FWD
-add forward-to=198.18.0.1 regexp="yourprivatevpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="yousendit.com" type=FWD
-add forward-to=198.18.0.1 regexp="youthforfreechina.org" type=FWD
-add forward-to=198.18.0.1 regexp="blog.youthwant.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="me.youthwant.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="share.youthwant.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="topic.youthwant.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="youporn.com" type=FWD
-add forward-to=198.18.0.1 regexp="youporngay.com" type=FWD
-add forward-to=198.18.0.1 regexp="yourlisten.com" type=FWD
-add forward-to=198.18.0.1 regexp="yourlust.com" type=FWD
-add forward-to=198.18.0.1 regexp="youshun12.com" type=FWD
-add forward-to=198.18.0.1 regexp="youversion.com" type=FWD
-add forward-to=198.18.0.1 regexp="youversion.com" type=FWD
-add forward-to=198.18.0.1 regexp="ytht.net" type=FWD
-add forward-to=198.18.0.1 regexp="yuanming.net" type=FWD
-add forward-to=198.18.0.1 regexp="yulghun.com" type=FWD
-add forward-to=198.18.0.1 regexp="yunchao.net" type=FWD
-add forward-to=198.18.0.1 regexp="yvesgeleyn.com" type=FWD
-add forward-to=198.18.0.1 regexp="yx51.net" type=FWD
-add forward-to=198.18.0.1 regexp="yyii.org" type=FWD
-add forward-to=198.18.0.1 regexp="yyjlymb.xyz" type=FWD
-add forward-to=198.18.0.1 regexp="yysub.net" type=FWD
-add forward-to=198.18.0.1 regexp="yzzk.com" type=FWD
-add forward-to=198.18.0.1 regexp="z-lib.org" type=FWD
-add forward-to=198.18.0.1 regexp="zacebook.com" type=FWD
-add forward-to=198.18.0.1 regexp="zalmos.com" type=FWD
-add forward-to=198.18.0.1 regexp="zannel.com" type=FWD
-add forward-to=198.18.0.1 regexp="zaobao.com" type=FWD
-add forward-to=198.18.0.1 regexp="zaobao.com.sg" type=FWD
-add forward-to=198.18.0.1 regexp="zaobao.com.sg" type=FWD
-add forward-to=198.18.0.1 regexp="zdnet.com.tw" type=FWD
-add forward-to=198.18.0.1 regexp="zello.com" type=FWD
-add forward-to=198.18.0.1 regexp="zenmate.com" type=FWD
-add forward-to=198.18.0.1 regexp="zenmate.com.ru" type=FWD
-add forward-to=198.18.0.1 regexp="zerohedge.com" type=FWD
-add forward-to=198.18.0.1 regexp="zeronet.io" type=FWD
-add forward-to=198.18.0.1 regexp="zeutch.com" type=FWD
-add forward-to=198.18.0.1 regexp="zgzcjj.net" type=FWD
-add forward-to=198.18.0.1 regexp="zhanbin.net" type=FWD
-add forward-to=198.18.0.1 regexp="zhangtianliang.com" type=FWD
-add forward-to=198.18.0.1 regexp="zhanlve.org" type=FWD
-add forward-to=198.18.0.1 regexp="zhenghui.org" type=FWD
-add forward-to=198.18.0.1 regexp="zhengjian.org" type=FWD
-add forward-to=198.18.0.1 regexp="zhengwunet.org" type=FWD
-add forward-to=198.18.0.1 regexp="zhenlibu.info" type=FWD
-add forward-to=198.18.0.1 regexp="zhenlibu.info" type=FWD
-add forward-to=198.18.0.1 regexp="zhenlibu1984.com" type=FWD
-add forward-to=198.18.0.1 regexp="zhenxiang.biz" type=FWD
-add forward-to=198.18.0.1 regexp="zhongguo.ca" type=FWD
-add forward-to=198.18.0.1 regexp="zhongguorenquan.org" type=FWD
-add forward-to=198.18.0.1 regexp="zhongguotese.net" type=FWD
-add forward-to=198.18.0.1 regexp="zhongguotese.net" type=FWD
-add forward-to=198.18.0.1 regexp="zhongmeng.org" type=FWD
-add forward-to=198.18.0.1 regexp="zhreader.com" type=FWD
-add forward-to=198.18.0.1 regexp="zhuangbi.me" type=FWD
-add forward-to=198.18.0.1 regexp="zhuatieba.com" type=FWD
-add forward-to=198.18.0.1 regexp="zhuichaguoji.org" type=FWD
-add forward-to=198.18.0.1 regexp="zhuichaguoji.org" type=FWD
-add forward-to=198.18.0.1 regexp="zi.media" type=FWD
-add forward-to=198.18.0.1 regexp="book.zi5.me" type=FWD
-add forward-to=198.18.0.1 regexp="zillionk.com" type=FWD
-add forward-to=198.18.0.1 regexp="zinio.com" type=FWD
-add forward-to=198.18.0.1 regexp="zkaip.com" type=FWD
-add forward-to=198.18.0.1 regexp="realforum.zkiz.com" type=FWD
-add forward-to=198.18.0.1 regexp="zmw.cn" type=FWD
-add forward-to=198.18.0.1 regexp="zomobo.net" type=FWD
-add forward-to=198.18.0.1 regexp="zonaeuropa.com" type=FWD
-add forward-to=198.18.0.1 regexp="zonghexinwen.com" type=FWD
-add forward-to=198.18.0.1 regexp="zoogvpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="zootool.com" type=FWD
-add forward-to=198.18.0.1 regexp="zophar.net" type=FWD
-add forward-to=198.18.0.1 regexp="writer.zoho.com" type=FWD
-add forward-to=198.18.0.1 regexp="zorrovpn.com" type=FWD
-add forward-to=198.18.0.1 regexp="zpn.im" type=FWD
-add forward-to=198.18.0.1 regexp="zspeeder.me" type=FWD
-add forward-to=198.18.0.1 regexp="zuo.la" type=FWD
-add forward-to=198.18.0.1 regexp="zuobiao.me" type=FWD
-add forward-to=198.18.0.1 regexp="zuola.com" type=FWD
-add forward-to=198.18.0.1 regexp="zvereff.com" type=FWD
-add forward-to=198.18.0.1 regexp="zyxel.com" type=FWD
-add forward-to=198.18.0.1 regexp="zyzc9.com" type=FWD
-add forward-to=198.18.0.1 regexp="phobos.apple.com" type=FWD
+:global dnsserver "198.18.0.1"
+/ip dns static remove [/ip dns static find name="example.com"]
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="imgur.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cuiweiping.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="crackle.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="itasoftware.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kodingen.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dolf.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="marc.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="etvonline.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="r0.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="trtc.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sytes.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="asg.to"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="voachineseblog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tumblr.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="robustnessiskey.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="noxinfluencer.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bitbay.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yourprivatevpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nflximg.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vjav.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wombo.ai"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nnews.eu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="telegra.ph"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="juziyue.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="olevod.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sitemaps.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="comefromchina.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="discord.gg"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="spideroak.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="csis.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="toonel.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cmule.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="get.dev"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cattt.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="moviefap.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="quora.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blubrry.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kichiku-doujinko.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wanz-factory.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jkforum.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zerohedge.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="4shared.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zh.uncyclopedia.wikia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="junefourth-20.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gmgard.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wheelockslatin.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="erodoujinlog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="himalayanglacier.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="881903.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hyperrate.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="civilmedia.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wowlegacy.ml"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cloakpoint.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="turbotwitter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="onejav.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xcity.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dvorak.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="noodlevpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="memorybbs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="christianfreedom.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gopetition.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="depositphotos.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="standupfortibet.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="raremovie.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.websnapr.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googleplay.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blogblog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="engagedaily.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="static.comico.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="angela-merkel.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="s1.nudezz.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="laogai.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ocaspro.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="paper.li"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="news.tvb.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="commandarms.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tw.myblog.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="muzi.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="app.tutanota.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="weiboleak.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hoover.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="javhuge.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dajiyuan.eu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gamejolt.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bnbstatic.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="urbandictionary.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibethouse.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="icoco.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="costco.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rsshub.app"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hqjapanesesex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="weiboscope.jmsc.hku.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="androidplus.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="archive.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="funkyimg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdig.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="goldjizz.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="e-classical.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tweets.seraph.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="voatibetanenglish.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="paste.ee"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="squirrelvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="webwarper.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="myspacecdn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="404museum.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="seed4.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="abc.xyz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dropboxusercontent.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="springboardplatform.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdn.softlayer.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wealth.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="falundafa-florida.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="exhentai.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nalandabodhi.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="weiquanwang.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="youversion.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vultryhw.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dlive.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinaxchina.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gettr.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="towngain.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="warbler.iconfactory.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="faith100.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="search.yahoo.co.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shadeyouvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tiananmenduizhi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rthk.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinatimes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zhuichaguoji.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wenxuecity.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="imlive.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="openstreetmap.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="x365x.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wangafu.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="boxunblog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="communistcrimes.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetfocus.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rusvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jkb.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dw.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="commentshk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hongzhi.li"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hk.jiepang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bgvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="aiweiweiblog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hongkong.fandom.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="snowlionpub.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="udn.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="peace.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pobieramy.top"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dessci.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="laoyang.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pin6.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="t.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibethouse.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hurgokbayrak.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="howtoforge.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdbook.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="8-d.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="etools.ncol.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="youpai.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="centurys.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nurgo-software.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mykomica.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="umich.edu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hide.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uyghurstudies.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vmixcore.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="free-proxy.cz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gfsale.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="matters.town"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="emulefans.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shellfire.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="anonfiles.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="slideshare.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wallsttv.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="orientaldaily.com.my"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="anonymouse.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xysblogs.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.owind.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tuzaijidi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bravotube.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jav2be.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mhradio.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tiktokv.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.taup.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="conoha.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="i.lithium.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ai.binwang.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="panoramio.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fq.wikia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fallenark.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.cryptographyengineering.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="meripet.biz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="falunasia.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="6parknews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ancsconf.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vocn.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bithumb.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="accountkit.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freebrowser.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="qq.co.za"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="adcex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="prism-break.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="boxun.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="acevpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vraiesagesse.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="acast.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ifcss.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thefacebook.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bullogger.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="9cache.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="investigating.wordpress.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="j.mp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cutscenes.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="actfortibet.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="epochtimes.co.il"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="softether.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="startuplivingchina.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tweeplike.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="u15.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yuanming.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ipalter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yam.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="alvinalexander.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gtv1.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twtr2src.ogaoga.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="unholyknight.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="epochtimes.se"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ftv.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="disk.yandex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="power.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="feeds.fileforum.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="m.hkgalden.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sumrando.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mingjingnews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="peacefire.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sadpanda.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="washingtonpost.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mayimayi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="redditlist.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="olehdtv.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="reason.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tarr.uspto.gov"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nic.cz.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="duoweitimes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="goregrish.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hechaji.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="npa.go.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mo.nightlife141.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="buzzorange.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="withgoogle.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hidden-advent.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetonline.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gatecoin.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ixquick.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="talkonly.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="topsy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gfw.report"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ecsm.vs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="generated.photos"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="avmoo.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gjczz.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="2008xianzhang.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sharecool.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thetibetcenter.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mymediarom.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yes123.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mefeedia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bitterwinter.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dougscripts.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="usmgtcg.ning.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wiredpen.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hsjp.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnmentor.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ismaelan.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpntunnel.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="18board.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.thechinastory.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="share.america.gov"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="softfamous.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freessh.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="stanford.edu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cgdepot.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mega.nz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="savetibet.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ftchinese.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tbsec.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="openid.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.sogoo.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="namgyalmonastery.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="otcbtc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="buffered.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="msguancha.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="arena.taipei"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kyoyue.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="axureformac.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="raggedbanner.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="niu.moe"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taipeisociety.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="metafilter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="christusrex.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dilber.se"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="echofon.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="news.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bnrmetal.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="checkgfw.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mcreasite.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetanfeministcollective.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="g-queen.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="beijing1989.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="goodhope.school"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wmflabs.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cristyli.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="forum.idsam.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tmagazine.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bookepub.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mvg.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="my.pcloud.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="china.ucanews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wpoforum.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="forum.xinbao.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="overplay.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jeanyim.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="antiwave.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="meshrep.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tabtter.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rangzen.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="collateralmurder.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdp2006.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="m.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="abematv.akamaized.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dabr.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="time.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="89-64.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freetibet.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="javtag.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nytimes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.ranxiang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="free-ss.site"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="alabout.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnmaster.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googleapps.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ivacy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetsupportgroup.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ofile.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="app.cloudcone.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="polymer-project.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="smhric.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twapperkeeper.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="faluninfo.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="oversea.istarshine.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="arethusa.su"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="victimsofcommunism.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yidio.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pinterest.co.kr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="picasaweb.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="centralnation.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dabr.eu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="truth101.co.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ibvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.idlcoyote.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="busayari.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gamer2-cds.cdn.hinet.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zomobo.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="epochtimes.ie"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="aex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dl.box.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="onion.city"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="venetianmacao.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="proxyanonimo.es"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bybit.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="liangzhichuanmei.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="multiproxy.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pornrapidshare.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="c2cx.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="braumeister.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gardennetworks.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yunchao.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freeoz.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uploaded.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googleblog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="epochtimes.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sorting-algorithms.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="westca.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdp1998.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="clearharmony.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bird.so"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbs.cantonese.asia"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lzjscript.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetexpress.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gardennetworks.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="isupportuyghurs.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="duckduckgo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="1pondo.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="njuice.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkcnews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="feedly.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="allconnected.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="radio-canada.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nordstromrack.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kb.monitorware.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pdproxy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lama.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lecloud.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pki.goog"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cytode.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mcfog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tbswd.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pinterest.se"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="guruonline.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.skype.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twurl.nl"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zim.vn"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lhakar.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="proxyroad.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zenmate.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="postadult.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bandcamp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="itweet.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="newyorker.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="crossthewall.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mod.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ivonblog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dalianmeng.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cn.fmnnow.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="msa-it.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="libertytimes.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="limiao.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xinjiangpolicefiles.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="steemit.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hk.hao123img.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freebeacon.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="im.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="leirentv.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pawoo.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="facebook.hu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinaaffairs.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bangdream.space"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nicovideo.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="eyevio.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="crunchyroll.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hk.rd.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dbgjd.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bitmex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ustream.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="spankbang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fillthesquare.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="youtube-nocookie.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uocn.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twistar.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnreviewz.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="archive.ph"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hacg.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cyberghost.natado.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uploaded.to"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="brkmd.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdn.jwplayer.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="alexlur.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="read01.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hmvdigital.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnfire.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mswe1.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wiki.keso.cn"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="truthontour.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="giga-web.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cn.uncyclopedia.wikia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rd.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="surfeasy.com.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="iyouport.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ocsp.int-x3.letsencrypt.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="share.dmhy.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shkspr.mobi"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="guishan.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="expressvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chengmingmag.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twittercounter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dlyoutube.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetan-alliance.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="darrenliuwei.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="indianarrative.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="newmitbbs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bowenpress.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinman.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wionews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="psblog.name"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ftvnews.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="motiyun.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="withyoutube.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="onedrive.live.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wechatlawsuit.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hahlo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fanqianghou.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dailysabah.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibet3rdpole.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vincnd.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="getoutline.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pornstarclub.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thestandnews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="falungong.org.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="megavideo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="desipro.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="biliworld.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="groups.google.cn"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hk.myblog.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetanhealth.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hojemacau.com.mo"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lab.skk.moe"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wozy.in"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.syx86.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hung-ya.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="stoptibetcrisis.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="referer.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hotvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="oxfordscholarship.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xuzhiyong.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bitcoinworld.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="crossvpn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xiaolan.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pbwiki.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="casino.williamhill.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="coze.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="appshopper.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hidemycomp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ibit.am"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="aiph.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="timtales.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="adpl.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="murmur.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ironsocket.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetancommunity.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wuerkaixi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="redchinacn.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="writesonic.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shadowsocks9.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdp1989.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="greatfirewallofchina.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xskywalker.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freeman2.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="scmp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yilubbs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vid.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="avdb.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kknews.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="c-span.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shipcamouflage.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="isc.sans.edu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rapidvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="exmo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="you-get.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cq99.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="oclp.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="1984bbs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="expatshield.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dajusha.baywords.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="guangnianvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="aenhancers.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinaaid.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ntdtv.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hdtvb.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="greatfire.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bloodshed.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xn--oiq.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="firearmsworld.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="flgjustice.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="experts-univers.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="video.aol.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="treemall.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cams.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bwh1.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="koornk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="savethesounds.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="casinobellini.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="466453.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="internetfreedom.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kannewyork.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kwok7.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="globalmediaoutreach.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="news.msn.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="orient-doll.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="getfoxyproxy.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="citizensradio.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fqrouter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dtiblog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www1.american.edu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="reutersmedia.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rolfoundation.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zenmate.com.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ka-wai.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="snapchat.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="emilylau.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="urchin.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="md-t.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="skyvegas.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="falundafa-pa.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="feministteacher.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jiaoyou8.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ethermine.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="switchvpn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dwnews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huobipro.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="line-apps.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="friendsoftibet.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="waselpro.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="coinegg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fleshbot.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="naacoalition.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="archive.md"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="app.smartmailcloud.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dcmilitary.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="michaelmarketl.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="disconnect.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="anchorfree.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="osfoora.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vercel.app"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinagfw.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="observechina.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cmi.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="akademiye.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="avmoo.pw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bit-z.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ao3.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tortoisesvn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tiltbrush.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ndi.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="openallweb.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="safeguarddefenders.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cn.streetvoice.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nokola.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zhengjian.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="simbolostwitter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uproxy.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="coingi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sosreader.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="web.dev"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nytimg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinaway.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="deutsche-welle.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hk01.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cldr.unicode.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="swagbucks.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="christiantimes.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetancommunityuk.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="go-pki.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huhaitai.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xlfmwz.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetgermany.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="findyoutube.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cn.dayabook.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="goldbetsports.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dynupdate.no-ip.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="meta.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pcdvd.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="iepl.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbs.hasi.wang"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mybet.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="goo.gle"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rawgithub.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="redtube.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fw.cm"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nikkei.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dish.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="newcenturynews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mobatek.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="juoaa.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pornhd.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ebookbrowse.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bloomberg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="av.nightlife141.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="humanparty.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cartoonmovement.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="en.hao123.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sherabgyaltsen.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="forum.my903.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ucdc1998.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="archiveofourown.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinanewscenter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rferl.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="waikeung.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="isunaffairs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jintian.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ntbk.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="news.seehua.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lkcn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="switch1.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="whatsapp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yinlei.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="army.mil"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uforadio.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="e-gold.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thisav.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="website.informer.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wiki.oauth.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fzh999.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="emule-ed2k.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.istef.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="aspistrategist.org.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blogs.tampabay.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wikiwiki.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="moonbbs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="us.to"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tech2.in.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cclifefl.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ganjingworld.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zhenxiang.biz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rolia.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wd.bible"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pmatehunter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="maskedip.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hexieshe.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pinimg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="apps.evozi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tacc.cwb.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="razyboard.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="heqinglian.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="overdaily.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibet.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="reuters.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="periscope.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="d3rhr7kgmtrq1v.cloudfront.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wikileaks.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vivaldi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mixpod.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="falun.caltech.edu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gate.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zyxel.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="secretchina.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="javmoo.xyz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="southnews.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xvideos.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="api.recaptcha.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="24smile.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="t.orzdream.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="typepad.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="redballoonsolidarity.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="unirule.cloud"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nybooks.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tiananmenuniv.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cloudflare-ipfs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="panluan.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ss7.vzw.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="arctosia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cusu.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="brave.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="soundcloud.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="agoogleaday.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="spring4u.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="domains.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rapidmoviez.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="manyvoices.news"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xinyubbs.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="minghui-school.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="peopo.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="azirevpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="marxist.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="caobian.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="akow.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="naitik.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kanzhongguo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="qxbbs.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="meyou.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="evchk.wikia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="multiupload.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="youtube.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="epochhk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hrichina.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="flyzy2005.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mthruf.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="saveliuxiaobo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zillionk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cablegatesearch.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="danbooru.donmai.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="safechat.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="greatfire.us7.list-manage.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="appledaily.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kk-whys.co.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zhongguo.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pen.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sevenload.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zh.wikiquote.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="memehk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shadowsocks.com.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xiaohexie.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cosplayjav.pl"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="li.taipei"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitter4j.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="news.ycombinator.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huhangfei.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="discoins.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pbxes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="netflav.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="offbeatchina.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pttgame.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twibbon.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yeahteentube.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hellotxt.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="doctorvoice.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mandiant.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="baixing.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="friendfeed-media.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dadazim.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="prozz.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dynawebinc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fullerconsideration.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="net-fits.pro"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chineseradioseattle.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetanentrepreneurs.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="monster.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jornaldacidadeonline.com.br"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nekoslovakia.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pritunl.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="times.hinet.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="moon.fm"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wangruoshui.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="advertfan.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="imgmega.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hongkongfp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lsd.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.m-sport.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hk.knowledge.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ourtv.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="avgle.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="savemedia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tineye.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tubewolf.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="me.youthwant.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jmscult.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="atgfw.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="12vpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huanghuagang.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="search.aol.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hacg.in"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="onion.ly"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="usno.navy.mil"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mx.hao123.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hongmeimei.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sneakme.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blogcity.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="admin.recaptcha.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="youtu.be"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jpl.nasa.gov"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="goagent.codeplex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nitter.pussthecat.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wda.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="666kb.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="firebaseio.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="savetibet.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="glass8.eu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitoaster.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnpronet.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="soundofhope.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gab.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="juyuange.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="left21.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xvinlink.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googledrive.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mindrolling.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uscardforum.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yourlust.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="appsocks.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="iyouport.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="syncback.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="specxinzl.jigsy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hk.gradconnection.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ovpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkhkhk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="metro.taipei"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetsites.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="etizer.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="city9x.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="player.fm"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="teachparentstech.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="religioustolerance.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="56cun04.jigsy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ngodupdongchung.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="app.evozi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="search.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="onmoon.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xjp.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="biedian.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="passion.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hizb-ut-tahrir.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="oculus.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="developers.box.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xn--9pr62r24a.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetlibre.free.fr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freechinaforum.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="golden-ages.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="javzoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yande.re"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hst.net.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="camfrog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zhuatieba.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fakku.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lifemiles.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hudson.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chenpokong.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rsf-chinese.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="faproxy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitbrowser.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ghut.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="python.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="businesstoday.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="icij.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wingy.site"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="forum.baby-kingdom.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinamule.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fooooo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="clearsurance.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tubeislam.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="want-daily.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ninjaproxy.ninja"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gongmeng.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="buy.yahoo.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="poolin.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nytco.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="redhotlabs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="iam.soy"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="holyspiritspeaks.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="falunart.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitchcdn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fochk.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="premproxy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ktzhk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="youtubekids.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="facebook.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="podcast.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nyaa.si"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cuihua.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="diigo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cool18.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zacebook.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="plm.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yeyeclub.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="playboy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googleapis.cn"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="china-mmm.jp.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cccat.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="penchinese.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="radioline.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="certificate.revocationcheck.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="coinex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zynamics.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rangwang.biz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twimbow.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gotdns.ch"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nottinghampost.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vegasred.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="minghui-a.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="graphql.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="metacafe.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cos-moe.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="caribbeancom.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twishort.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="liveleak.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="home.so-net.net.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetansports.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="madrau.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="static.shemalez.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="elgoog.im"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gvt3.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="windowsphoneme.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="newsweek.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="citizenlab.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hulu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="crchina.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dpp.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="perplexity.ai"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="advertisercommunity.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="data.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="impact.org.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinesedailynews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ub0.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="proxynetwork.org.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbs.ozchinese.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taweet.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="overcast.fm"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="newcenturymc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="notepad-plus-plus.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fscked.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nflximg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="coolaler.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="secureservercdn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ilovelongtoes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="x.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ss.carryzhou.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="news.omy.sg"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mpettis.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="neverforget8964.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="inmediahk.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mash.to"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vegas.williamhill.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="brucewang.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hugoroy.eu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pioneer-worker.forums-free.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="feer.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bl-doujinsouko.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="carmotorshow.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="savetibet.fr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="theguardian.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huyandex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="monica.im"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="riku.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="exchristian.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="9bis.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="trt.net.tr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="youporngay.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ieasy5.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="artstation.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="panamapapers.sueddeutsche.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="igfw.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googleplus.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="51.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="axios.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkdc.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ifjc.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="forum.mymaji.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wsj.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huiyi.in"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tw.answers.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="westernwolves.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wenyunchao.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="psiphon3.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="erodaizensyu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="filmingfortibet.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mikesoltys.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="now.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tui.orzdream.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="localbitcoins.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ytimg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mingjingtimes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chromeenterprise.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="51luoben.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="android-x86.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="initiativesforchina.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="le-vpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hi-on.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yourepeat.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="supchina.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="claude.ai"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twifan.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="iconpaper.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitterrific.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="andfaraway.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="teck.in"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="japantimes.co.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jims.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cn.voa.mobi"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="s8forum.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="netsneak.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bnn.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="android.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fast.wistia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huashangnews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ai-wen.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="beric.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="putty.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fengzhenghu.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinafreepress.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="slheng.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dstk.dk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tw.news.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wiki.gamerp.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="brazzers.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="underwoodammo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zspeeder.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shadowsocks.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.kangye.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tweetboard.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="holymountaincn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="netsarang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bet365.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="redbubble.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nokogiri.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="opentech.fund"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wlx.sowiki.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="telegraph.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="openvpn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="purevpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="x-art.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="i1.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="virtualrealporn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freeweibo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gluckman.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="imb.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="poskotanews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.businessinsider.com.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="matsushimakaede.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="coinrail.co.kr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="m.slandr.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="i2p2.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="flitto.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yyjlymb.xyz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="daodu14.jigsy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="newspeak.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mofa.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="video.foxbusiness.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fulue.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="brizzly.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="newchen.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetanyouthcongress.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbs.sou-tong.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="disk.yandex.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="greatroc.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zdnet.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sapikachu.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="addyoutube.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="themoviedb.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mingpaomonthly.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="looktoronto.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="news.nationalgeographic.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="parse.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zh.wikisource.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tunnelr.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="api.linksalpha.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ipicture.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="weisuo.ws"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sjrt.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="research.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="usmc.mil"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yvesgeleyn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="graph.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tunsafe.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dm530.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="islam.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="doubibackup.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinalawandpolicy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ukcdp.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lighti.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="falundafa-nc.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="la-forum.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="japan-whores.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lsmchinese.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="peoplenews.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="atchinese.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="c-spanvideo.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twisterio.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="makemymood.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibettimes.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ufreevpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.tiney.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="viu.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="h-china.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kqes.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kurtmunger.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="caochangqing.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="v2raycn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cmcn.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tubepornclassic.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdn.assets.lfpcontent.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www2.ohchr.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="threatchaos.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ustibetcommittee.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sunmedia.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rxhj.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pinterest.at"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pornhub.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="foreignpolicy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freechina.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hoovers.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blogtd.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="news.cnyes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bettervpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="backchina.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="securetunnel.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="page.link"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="storify.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uyghurcongress.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="32red.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="innermongolia.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huluim.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnsecure.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="news100.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="okayfreedom.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="1989report.hkja.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="usfk.mil"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dotplane.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freenewscn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sinocism.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twimg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="v2ex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="longtermly.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="polymerhk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="epochtimes.it"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="app.heywire.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="aolchannels.aol.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="provpnaccounts.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="stackoverflow.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zaobao.com.sg"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="newstarnet.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jfqu37.xyz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bt95.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="alternativeto.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tahr.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkopentv.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wlcnew.jigsy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mobileways.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taiwantt.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="download.cnet.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sspro.ml"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetcorps.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ld.hao123img.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="asianews.it"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.calibre-ebook.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cointiger.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fanqiangzhe.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tfhub.dev"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="falunworld.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="justhost.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mohu.club"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="encyclopedia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="facebook.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tweetedtimes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twilog.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="g.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mysite.verizon.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vaticannews.va"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="socrec.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zannel.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnintouch.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="javmobile.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="epochtimes.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbc.in"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="css.pixnet.in"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinaeweekly.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tiananmenuniv.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="valeursactuelles.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="6parker.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wowgirls.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="civitai.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="api-secure.recaptcha.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.soylent.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="happy-vpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mymoe.moe"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="china18.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="naweeklytimes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chromeexperiments.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="globaljihad.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gvt1.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hutianyi.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nflxso.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="genius.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="newsmax.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wukangrui.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="straplessdildo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xn--i2ru8q2qg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jieshibaobao.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="motor4ik.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thefrontier.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="assimp.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tchrd.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cusp.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xinsheng.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wizcrafts.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="edgecastcdn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="voa-11.akacast.akamaistream.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="eksisozluk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chenpokongvip.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnunlimitedapp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bwsj.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinaaid.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zhuangbi.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="d3c33hcgiwev3.cloudfront.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pdetails.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googlegroups.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shattered.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="erabaru.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tintuc101.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="topic.youthwant.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="aobo.com.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="badiucao.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="oizoblog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pbs.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pride.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="actimes.com.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thedw.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twelve.today"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wowporn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="boobstagram.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kebrum.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="networkedblogs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sspanel.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="duck.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="about.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tbsn.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tiananmenmother.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bignews.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dnssec.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="broadbook.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="im88.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="indiemerch.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinasmile.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbs-tw.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="x-berry.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="old-cat.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpninja.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="archives.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mojim.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wjbk.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ebtcbank.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shenzhoufilm.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dw.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="killwall.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hougaige.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="amnesty.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="anchor.fm"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="falundafamuseum.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nalandawest.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="welt.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="foxtang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="javfor.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="h1n1china.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="southpark.cc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="scratch.mit.edu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hk.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="adultkeep.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ssglobal.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="azubu.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pinterest.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twibase.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freekazakhs.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ilbe.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="faststone.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nvdst.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="assets.bwbx.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ifan.cz.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sunporno.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sensortower.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="18board.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="etsy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zhenlibu.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="breakwall.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shodanhq.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="whatsapp.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="betvictor.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kingdomsalvation.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="info-graf.fr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dafahao.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cmule.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hrntt.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tycool.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zvereff.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="peing.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="getmdl.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hottg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="athenaeizou.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="godaddy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cfr.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="10musume.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="favstar.fm"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="changp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="w.idaiwan.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kobobooks.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="steel-storm.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="safety.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lovetvshow.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thetvdb.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mcadforums.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdn.seatguru.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vine.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pinterest.nl"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="liquidvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googlehosted.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="myforum.com.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kraken.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bizhat.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="iask.bz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="livemint.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="neowin.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="qixianglu.cn"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetwrites.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="trendsmap.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="anthonycalzadilla.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hornytrip.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pixiv.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fuckgfw.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="speakerdeck.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kwongwah.com.my"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="powercx.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="plays.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nationalinterest.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="maturejp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkip.org.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="e-zone.com.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sun1911.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="facebookquotes4u.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="newscn.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tigervpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="d2pass.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fb.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="enewstree.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="36rain.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googlezip.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tuidang.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnaccount.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ggssl.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ebookee.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="proton.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googleusercontent.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nationwide.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wikileaks.pl"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nordstromimage.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gmodules.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fa.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="darpa.mil"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gongminliliang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="iicns.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinese.soifind.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="youtubeeducation.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sockslist.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="purpose.nike.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tttan.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hotcoin.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dailidaili.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetswiss.ch"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dalailamaworld.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fc2cn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="justmysocks1.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kspcoin.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vcf-online.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="quran.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="amnestyusa.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="facebook.br"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gartlive.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="translate.goog"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="falundafaindia.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hola.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="edubridge.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="anysex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cenews.eu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="electionsmeter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="youtubegaming.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tenzinpalmo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dailynews.sina.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tehrantimes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinaelections.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="adult.friendfinder.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pao-pao.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="secure.logmein.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="byrut.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="incloak.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="db.tt"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freeyoutubeproxy.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="page2rss.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="darktoy.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kaotic.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibet.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pincong.rocks"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ledger.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twbbs.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="citizencn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="apartments.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sadistic-v.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mercyprophet.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pshvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="python.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dastrassi.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="beijingzx.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="debug.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="matome-plus.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="alwaysdata.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="teco-mo.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lagranepoca.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hk.news.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="stickeraction.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="busu.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="substack.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibet.a.se"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wiki.esu.im"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="metart.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="oann.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="images-gaytube.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="singtaousa.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="globalmuseumoncommunism.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jgoodies.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinesen.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fangeqiang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="scribd.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chobit.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="2021hkcharter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="merit-times.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ff.im"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lyfhk.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="top10vpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="project-syndicate.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="retweetrank.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twittbot.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="qoos.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="flecheinthepeche.fr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taiwannation.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkctu.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="facesofnyfw.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="worldvpn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tweetrans.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bangyoulater.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hegre-art.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkgalden.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="apkplz.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cecc.gov"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.youthwant.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taiwanyes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="edicypages.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huaxia-news.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wengewang.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sstmlt.moe"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="china21.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="relaxbbs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="isuntv.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="minghui.or.kr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="booktopia.com.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nbcnews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mondex.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="money-link.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ift.tt"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="users.skynet.be"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cloud.mail.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ifreewares.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibet.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="media.nu.nl"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="avdb.in"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twittertim.es"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="swissinfo.ch"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="warroom.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="duihuahrjournal.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sethwklein.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chaoex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nat.moe"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chromecast.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taiwanyes.ning.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cn.freeones.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="in99.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="socialblade.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="phobos.apple.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kyohk.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinadigitaltimes.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="efukt.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="longtoes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pximg.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="imageflea.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbs.hanminzu.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="am730.com.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="incredibox.fr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lers.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ck101.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lsmkorean.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="creaders.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="qanote.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hustlercash.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mitbbs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetsun.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thb.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wowhead.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kiwi.kz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tw.iqiyi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="esurance.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdninstagram.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shadow.ma"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="google.dev"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="harunyahya.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cn.ibtimes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="djangosnippets.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinagreenparty.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bloglines.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="etokki.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="business.page"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tenor.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="marguerite.su"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="superzooi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="focustaiwan.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="myforum.com.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="geek-art.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="findyoutube.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="youporn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gekikame.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hwayue.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freegao.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="aofriend.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uymaarip.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbchat.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wufafangwen.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="esu.dog"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wikipedia.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kyzyhello.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ruten.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="facesoftibetanselfimmolators.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tkcs-collins.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="apat1989.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="proxfree.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="city365.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="okk.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tweetphoto.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wqyd.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.americorps.gov"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uighur.narod.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freedomhouse.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="etaiwannews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thesaturdaypaper.com.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taolun.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lingvodics.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="plexvpn.pro"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbs.brockbbs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twaud.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nuzcom.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="comments.app"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kanzhongguo.eu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="firstrade.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tube911.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="abc.net.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="exx.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.pentalogic.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vansky.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbsland.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="independent.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="de-sci.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="usaip.eu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yyii.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="liujianshu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="my.mail.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.lib.virginia.edu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="javakiba.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rcam.target.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="connect.facebook.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="erktv.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tvants.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="qgirl.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="surfshark.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hautelook.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="betternet.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="waveprotocol.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="secretgarden.no"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="line.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="friends-of-tibet.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pemulihan.or.id"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdw.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="radiovaticana.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freedominfonetweb.wordpress.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="adsense.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="galenwu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="aliengu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="icu-project.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rti.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fastpic.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tw.jiepang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="steganos.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="21sextury.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bunbunhk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zoogvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="therock.net.nz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="trialofccp.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cmp.hku.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zorrovpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="waymo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitlonger.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hk-pub.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yong.hu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="2017.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitch.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blogcatalog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="deviantart.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="himalayan-foundation.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cirosantilli.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jamaat.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="scache2.vzw.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cari.com.my"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="greatfirewall.biz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="opendemocracy.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mx981.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="moroneta.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="helloqueer.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xys.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wikiwand.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="douhokanko.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="apkmirror.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tw-blog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="internetdefenseleague.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dalailama.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pokerstars.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jobnewera.wordpress.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thevivekspot.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tvunetworks.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yegle.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="toytractorshow.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bangkokpost.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="f2pool.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dingchin.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="revver.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thinkingtaiwan.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uyghurpen.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sohcradio.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkjc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fbsbx.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="imagefap.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vimperator.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cableav.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="theepochtimes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hiccears.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinageeks.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="upmedia.mg"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pekingduck.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="get.page"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="npa.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="inxian.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="streamable.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="falun-co.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="frommel.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hizbuttahrir.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="versavpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="whoer.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetanculture.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="5aimiku.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="apkcombo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="americangreencard.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="proxypy.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ogaoga.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twreporter.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="greatroc.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="aamacau.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cellulo.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="usus.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thegioitinhoc.vn"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shwchurch.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nflxvideo.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mirrormedia.mg"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fanqiangdang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="madewithcode.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="weiming.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tinypaste.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mitbbsau.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="justfreevpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uukanshu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="catholic.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="meansys.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="abitno.linpie.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkchronicles.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.lamenhu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pureinsight.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tiandixing.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sis001.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="guo.media"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tfiflve.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="goofind.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="borgenmagazine.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="highpeakspureearth.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nga.mil"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twblogger.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tinychat.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="diaoyuislands.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lrip.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="decodet.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bloomfortune.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="minzhuzhanxian.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="co.ng.mil"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="china-review.com.ua"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pinterest.dk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="showbiz.omy.sg"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="asiansexdiary.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="libertysculpturepark.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.s4miniarchive.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkbookcity.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="goldwave.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nrk.no"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tv.jtbc.joins.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="renminbao.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkzone.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blogs.libraryinformationtechnology.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="coinut.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="david-kilgour.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ganges.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="potato.im"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="github.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sitekreator.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="factpedia.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="manicur4ik.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mpinews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lushstories.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="qz.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="avidemux.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="radiohilight.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="joinmastodon.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uyghurtribunal.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bb-chat.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="amazon.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tbpic.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nflxext.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huaren.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hecaitou.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fangongheike.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="top.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sankakucomplex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tweetdeck.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="flipkart.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ntdtv.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="getiton.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zhenghui.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twibble.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hnjhj.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbs.kimy.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="juliereyc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="piraattilahti.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yesasia.com.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="askynz.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="t-g.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="greenvpn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="highrockmedia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gvm.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tipo.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.workflow.is"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xuchao.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="modernchinastudies.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dit-inc.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tt1069.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mingpaonews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="goldeneyevault.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="activpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yysub.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wikileaks.ch"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sacks.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kobo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wireguard.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="epochtimes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="porntvblog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uyghurbiz.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="onapp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cling.omy.sg"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chineseupress.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="linkedin.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="seevpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hsselite.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="insecam.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shwchurch3.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twiffo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.kindleren.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xmovies.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huggingface.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="t.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="85st.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="surrenderat20.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="share.ovi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="croxyproxy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="catchgod.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="quitccp.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rfaweb.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xinmiao.com.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="alternate-tools.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wildammo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="plurk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="berlinerbericht.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="foxdie.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wezhiyong.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shahit.biz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="techviz.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pstatic.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bastillepost.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xpdo.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cactusvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="softether-download.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="internetpopculture.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gwtproject.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="link-o-rama.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gunsandammo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="airvpn.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="falsefire.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www2.rocketbbs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="8z1.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="news.hk.msn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="doub.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pastie.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sourceforge.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thetinhat.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitiq.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="newhighlandvision.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="canadameet.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="s3-ap-northeast-1.amazonaws.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="community.windy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fhreports.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nanyangpost.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="guancha.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dw-world.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="whyx.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ccue.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="theprint.in"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="onlytweets.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="saveuighur.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tensorflow.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="torrenty.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="banorte.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ourdearamy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blogger.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zhenlibu1984.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fiddle.jshell.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twittermail.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="globalrescue.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="goo.ne.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dvdpac.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="identi.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rael.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twstar.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="baidu.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twyac.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="appbrain.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kenengba.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tianyantong.org.cn"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="research.jmsc.hku.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kik.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="multiply.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ismprofessional.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="on.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sis.xxx"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="appspot.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="goo.gl"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="grammaly.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="untraceable.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="slutmoonbeam.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gather.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="eslite.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="christianstudy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="youshun12.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="navyfamily.navy.mil"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bitz.ai"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="e-info.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="10beasts.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hitomi.la"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="efksoft.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ncn.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hoxx.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zhao.jinhai.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="angularjs.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ntdtv.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="iportal.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="institut-tibetain.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="timdir.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ss-link.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twgreatdaily.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="disp.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sesawe.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="medium.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="soupofmedia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="my.opera.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kepard.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="onlygayvideo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thenewslens.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetrelieffund.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ai.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibet.to"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="duihua.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="turbobit.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="premeforwindows7.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="magazines.sina.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yizhihongxing.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mingjinglishi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="static-economist.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freewechat.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="brookings.edu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wallpapercasa.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uhdwallpapers.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nf.id.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbs.ecstart.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="boxpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="meme.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ltn.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hidemyass.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="telegram.dog"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="centauro.com.br"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="discordapp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fanhaolou.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jubushoushen.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="summify.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yespornplease.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thepiratebay.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sports.williamhill.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="toypark.in"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="teddysun.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.abclite.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="barton.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="moptt.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="videopress.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="expekt.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="app.box.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twtrland.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="godfootsteps.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rfi.fr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="leafyvpn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="horrorporn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="biblesforamerica.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fuckcnnic.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mixero.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="classicalguitarblog.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="atnext.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mychinamyhome.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chithu.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="strongvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dnscrypt.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="myparagliding.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nytstyle.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnhq.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="opml.radiotime.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sex8.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hacg.red"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="duplicati.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ipvanish.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="oyghan.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="51jav.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="matainja.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="exblog.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="i2runner.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.fuckgfw233.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tangben.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="autodraw.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hotfrog.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="imageshack.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wzyboy.im"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="video.ap.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="geekheart.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpn.sv.cmu.edu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googlesource.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taoism.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chenshan20042005.wordpress.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huobi.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="funp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wiki.phonegap.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="quiz.directory"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wujie.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="e-hentaidb.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="almasdarnews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nccwatch.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uighur.nl"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kukuku.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="superokayama.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="linuxtoy.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freetibetanheroes.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wiki.cnitter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gati.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="go141.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ilhamtohtiinstitute.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="aspi.org.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="demosisto.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gohappy.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wiki.moegirl.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="geti2p.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="1688.com.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="archive.li"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="appsto.re"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wheretowatch.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bell.wiki"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hentaitube.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="megarotic.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="heartyit.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="qi-gong.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dotvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dwnews.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jiji.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gfw.press"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="picacomiccn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thywords.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.ajsands.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="allfinegirls.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nextdigital.com.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sketchappsources.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.jackjia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="utopianpal.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ivpn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="proxpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twistory.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mangafox.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xlfmtalk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wezone.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jigong1024.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tumview.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="honven.xyz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tryheart.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="com.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="furl.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zpn.im"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnshazam.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="proxifier.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mangafox.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="asianwomensfilm.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="guaguass.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="paljorpublications.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="filmy.olabloga.pl"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dfas.mil"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ss.levyhsu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="navyreserve.navy.mil"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetonline.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="85cc.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cointobe.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="guaguass.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="eastern-ark.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="4bluestones.biz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="6parkbbs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="1337x.to"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vtunnel.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taiwanncf.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="disqus.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="proyectoclubes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gate-project.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="caijinglengyan.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ozvoice.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wikimapia.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinalawtranslate.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xxx.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freeilhamtohti.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gmail.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="141jj.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="you.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="myeclipseide.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="itemfix.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pacopacomama.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="forum.slime.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="matome-plus.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="whitebear.freebearblog.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hqcdp.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lesoir.be"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zeronet.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkdf.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="maniash.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bannedbook.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bloomberg.cn"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.sina.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="savevid.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taiwanus.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="livingonline.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="certificate-transparency.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.excite.co.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sugarsync.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="protonvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tuidang.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="news.ebc.net.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="globalvoices.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinese-leaders.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bitc.bme.emory.edu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="falunhr.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nationalawakening.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hardsextube.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="isgreat.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mad-ar.ch"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="books.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="deja.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taipeitimes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uberproxy.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="truthsocial.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="proxomitron.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dajiyuan.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="broadpressinc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dongtaiwang.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tnp.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="playpcesor.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jp.hao123.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gtricks.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tweepguide.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="simpleproductivityblog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uyghur-j.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="24hrs.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sbme.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="salvation.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tweettunnel.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="radiko.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vnet.link"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="madthumbs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="anthropic.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taiwan-sex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="stupidvideos.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pixelqi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sogrady.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="myiphide.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="foxgay.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vllcs.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lamnia.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gfbv.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gotw.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinese.irib.ir"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fbcdn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="urbansurvival.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ogate.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="longmusic.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="livecoin.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ecministry.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="onthehunt.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hk.geocities.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnpick.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="foxsub.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="softwarebychuck.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nordvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="letscorp.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yobit.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="eevpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="talkcc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="github.blog"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="windscribe.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="omny.fm"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mysinablog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="djorz.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="htkou.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="helpeachpeople.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mfxmedia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnshieldapp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bcex.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="search.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="javbus.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tweetmylast.fm"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cumlouder.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="63i.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="viu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tweepml.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="go.nesnode.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="qtweeter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zhangtianliang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="githubassets.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ttv.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dawangidc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="getmalus.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="registry.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="androidify.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="religionnews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="news.sina.com.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kinokuniya.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vimeo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbs.huasing.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ipfs.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="imageglass.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huayuworld.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mega.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinese.donga.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="journalofdemocracy.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jpopforum.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uighurbiz.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zhongmeng.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="brutaltgp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="playno1.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="beijingspring.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jichangtj.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tiantibooks.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sss.camp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kakao.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="csuchen.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="togetter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="openvpn.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sndcdn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetanwomen.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tamiaode.tk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tube8.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jcpenney.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kantie.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="goldenfrog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.nbc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bookdepository.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dailymail.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kawase.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="afr.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tweepmag.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wuyanblog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="npsboost.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mastodon.host"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mos.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="btku.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mattwilcox.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitturk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnvip.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkday.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tnaflix.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ramcity.com.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinamz.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bloglovin.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="popvote.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="alanhou.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fastssh.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkpeanut.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="3arabtv.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nbtvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="teco-hk.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="9bis.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ctowc.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="contests.twilio.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="toptip.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="videomega.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="south-plus.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gsp.target.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="greatfirewallofchina.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nighost.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="privatevpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="youwin.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="elpais.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="privoxy.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gamer.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rlwlw.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="akiba-online.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ads-twitter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="storm.mg"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cobinhood.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="politicalchina.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="deviantart.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tcpspeed.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jwmusic.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gclubs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mh4u.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ipredator.se"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="k-doujin.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rateyourmusic.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="inoreader.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sogclub.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="compileheart.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="keontech.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bemywife.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yangjianli.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="relay.firefox.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nytcn.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fringenetwork.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gcmasia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="stboy.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinatopsex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uscnpm.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hka8964.wordpress.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jma.go.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="youthforfreechina.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blinw.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="boyangu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tw01.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="metrolife.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chaturbate.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="netflix.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="schema.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="powerapple.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="imgchili.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vcfbuilder.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gvt0.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gazotube.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetoffice.ch"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lausan.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sharpdaily.com.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hideme.nl"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="spotflux.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="findmespot.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nylonstockingsonline.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mathable.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rsf.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pythonhackers.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wexiaobo.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="redditmedia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pursuestar.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nakedsecurity.sophos.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ny.stgloballink.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="delcamp.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="counter.social"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zonaeuropa.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vuku.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="annatam.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shooshtime.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="badoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jitouch.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="savethedate.foo"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jfqu36.club"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="clearwisdom.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ladbrokes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tuitwit.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bartender.dowjones.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chicagoncmtv.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xm.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pearlher.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="apidocs.linksalpha.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="s1heng.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bigjapanesesex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibethouse.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bankmobilevibe.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="netalert.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="youngspiration.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="liberal.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="matrix.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pcc.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="apiary.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sugumiru18.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="alforattv.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="psiphon.civisec.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="catch22.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="amazon.co.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="141hongkong.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="grindr.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="meteorshowersonline.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="geph.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="5i01.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="991.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="qienkuen.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="keycdn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinesedemocracy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blueangellive.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="breakgfw.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="resilio.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tbskkinabalu.page.tl"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="macts.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="2lipstube.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="westpoint.edu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shadowsocks.be"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thinkwithgoogle.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bypasscensorship.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nusatrip.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="canyu.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pandavpnpro.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="eic-av.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rssmeme.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twibs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="desc.se"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="s.yimg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chenguangcheng.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="familyfed.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="poloniex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="faz.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="helplinfen.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="suprememastertv.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetanbuddhistinstitute.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wallmama.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zyzc9.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="leorockwell.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="smchbooks.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nepusoku.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="oyax.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="etherdelta.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="book.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sacom.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zhanlve.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="smartdnsproxy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="id.heroku.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twt.tl"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sowers.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="clubhouseapi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tweetcs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="crd-net.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gnci.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="laqingdan.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="meizhong.blog"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="99cn.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lupm.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="meizhong.report"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="issuu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="itaiwan.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hbo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="waiwaier.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.wan-press.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wanglixiong.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="spencertipping.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vmpsoft.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="id.hao123.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mihua.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="patreon.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gojet.krtco.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uhrp.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dubox.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="daxa.cn"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uc-japan.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="babynet.com.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="woolyss.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freelotto.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wufi.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="international-news.newsmagazine.asia"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="post852.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xsden.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nutsvpn.work"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xbabe.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="alasbarricadas.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="coursehero.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lefora.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thebobs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="telegram.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpncup.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fffff.at"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rou.video"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rutracker.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="newstapa.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="soh.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="noypf.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="moodyz.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="threads.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mediachinese.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ptt.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="crrev.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="getuploader.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ftx.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ar.hao123.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="phayul.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnreactor.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tiktok.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="godns.work"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="epochtimestr.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nmsl.website"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="raw.githack.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkmap.live"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hanime.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xuchao.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mastodon.cloud"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zinio.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="eeas.europa.eu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gobet.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wsj.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="manta.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinainterimgov.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="igoogle.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.antd.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="throughnightsfire.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cbs.ntu.edu.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bandwagonhost.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="br.st"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="biantailajiao.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="flgg.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nobodycanstop.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="circlethebayfortibet.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kingstone.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="baizhi.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dabr.mobi"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="juliepost.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cl.d0z.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="feitianacademy.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="washeng.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="straitstimes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="raremovie.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googlearth.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hk.video.news.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twister.net.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="avaaz.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="iwara.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nobel.se"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="laptoplockdown.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="furinkan.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="niusnews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gravatar.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="inthenameofconfuciusmovie.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="androidtv.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="glype.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chrome.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cherrysave.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="photofocus.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="4rbtv.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nutaku.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="torlock.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nyti.ms"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="avg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="puffinbrowser.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tweetymail.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="figprayer.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="getsync.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nakido.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ecimg.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gdzf.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ukliferadio.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kusocity.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ssh91.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cap.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sysresccd.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yt.be"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbtoystore.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.fizzik.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="flyvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mixi.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dalailamacenter.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shenyunshop.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bnews.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="edoors.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jamyangnorbu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdn.printfriendly.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibet-initiative.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uyghuraa.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="1991way.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wikileaks.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="12vpn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blewpass.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ultravpn.fr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nofile.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="secretsline.biz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="po2b.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkusu.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pagodabox.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="apk.support"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="janwongphoto.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xiaoma.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="daiphapinfo.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="8964museum.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="namsisi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="usinfo.state.gov"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="x.company"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="joachims.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thetibetpost.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.lester850.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="upornia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="theblaze.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="news.sina.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wujieliulan.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cynscribe.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tonyyan.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="writer.zoho.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mubi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="weijingsheng.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wallornot.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shutterstock.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="daliulian.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="on2.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="presidentlee.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lvv2.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="turbohide.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="clinica-tibet.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="1000giri.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="greenfieldbookstore.com.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="terabox.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mycnnews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fileflyer.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blogs.yahoo.co.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cn-proxy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tv.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sundayguardianlive.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bitvise.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gaymap.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googlelabs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wainao.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="channelnewsasia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="illusionfactory.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="heungkongdiscuss.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jamestown.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ch.shvoong.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fofg.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rixcloud.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="danke4china.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkbc.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="img.dlsite.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hiitch.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitthat.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="iptvbin.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="appledaily.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pandavpn-jp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vrsmash.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="free-gate.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetoffice.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tbs-rainbow.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="proxylist.org.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="discordapp.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="devio.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dphk.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rawgit.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tapatalk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googlecode.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zozotown.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ur7s.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="startpage.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="linear-abematv.akamaized.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="alwaysvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="post76.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="artofpeacefoundation.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twicountry.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="spicevpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dongtaiwang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="waffle1999.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jable.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="heyuedi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdn-images.mailchimp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lastfm.es"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbs.mikocon.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="phapluan.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nitter.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitstat.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lenwhite.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibet.nu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="biantailajiao.in"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="goodreaders.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="icedrive.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="unseen.is"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="stories.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="upcoming.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ssr.tools"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="baijie.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="quitccp.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="unblock.cn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="w3schools.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ibiblio.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="abclite.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="saiq.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gospelherald.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sobees.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hungerstrikeforaids.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.goo.ne.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mergersandinquisitions.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="arte.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetfund.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnaccounts.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="michaelanti.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="morningsun.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="deck.ly"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="business-humanrights.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dragonex.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="telegram.space"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="laod.cn"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="konachan.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bdsmvideos.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hd.stheadline.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinachange.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="unblock-us.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="euronews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="idemocracy.asia"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bigone.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="g0v.social"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="facebook.in"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="interactivebrokers.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lightyearvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="surfeasy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="allinfa.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bfnn.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="behance.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="aboluowang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blockedbyhk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="beijing2022.art"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkanews.wordpress.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="carrd.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uyghurpress.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ccue.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gelbooru.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="85cc.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hexieshe.xyz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="great-firewall.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ny.visiontimes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="archiveofourown.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="impp.mn"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="moeerolibrary.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="webmproject.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xys.dxiong.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="youxu.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="itaboo.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gsearch.media"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bitcointalk.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="coingecko.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cardinalkungfoundation.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="updates.tdesktop.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnjack.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dl-laby.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="linkuswell.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twiyia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="china101.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="plunder.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="maruta.be"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="aptoide.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinacomments.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="data.flurry.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="eriversoft.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cnnews.chosun.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uptodown.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wuw.red"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="redchinacn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="calendarz.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="democrats.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chrdnet.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="boxun.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="flickr.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="standwithhk.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="deepmind.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fxnetworks.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="libredd.it"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="weblagu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rangzen.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uyghuramerican.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="whereiswerner.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="safervpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="api.pureapk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mcaf.ee"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dlsite.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="unstable.icu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="streamate.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="icams.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wiredbytes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chatgpt.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="torproject.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="falun-ny.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="budaedu.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bitinka.com.ar"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yeeyi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pentoy.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fantv.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="readydown.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tw.bid.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="directcreative.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hackthatphone.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="myaudiocast.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="prestige-av.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ice.audionow.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="iuhrdf.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wisevid.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vidble.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dnvod.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jinx.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mercdn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="imagevenue.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sprite.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="line-scdn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="assembla.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xnxx.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lsm.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ganjing.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pourquoi.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ifanqiang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twiggit.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wapedia.mobi"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fgmtv.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xtube.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="aomiwang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dalailama80.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gcr.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ohmyrss.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mjlsh.usc.cuhk.edu.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tweez.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinesegay.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="finler.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="crisisresponse.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ping.fm"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="viber.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tbcollege.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="internet.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="suissl.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sankei.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jbtalks.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="speedify.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yzzk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="getlantern.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkfaa.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ja.wikipedia.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="somee.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="slickvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdpwu.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dontmovetochina.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="stc.com.sa"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="oex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="raidcall.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="flickrhivemind.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="iphonetaiwan.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mingdemedia.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yulghun.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tcnynj.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="a5.com.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taiwannews.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mewe.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="brandonhutchinson.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="c-est-simple.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pinterest.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="spotify.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fail.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="realitykings.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="book.zi5.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thetibetconnection.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="isaacmao.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lanterncn.cn"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="maiplus.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="scache1.vzw.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pokerstars.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibettruth.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="earlytibet.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hotgoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zuola.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bayvoice.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinatweeps.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="page.bid.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sujiatun.wordpress.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="archives.gov"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="asiaharvest.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="suche.gmx.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xinhuanet.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hk.search.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.gmiddle.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tw.mall.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dolc.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gizlen.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xvideo.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chubun.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sinomontreal.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uyghur.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hmonghot.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sinocast.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="legaltech.law.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hacg.club"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yeelou.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdpusa.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="businessinsider.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="whispersystems.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="inkbunny.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tma.co.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinaworker.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="heeact.edu.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gclooney.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="muchosucko.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="minghui.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freedomchina.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="transparency.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shangfang.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinaaid.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pt.im"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="culture.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googlevideo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sipml5.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="faluninfo.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="churchinhongkong.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hmvdigital.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="october-review.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="anontext.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="digisfera.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="voacantonese.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="corumcollege.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="atlaspost.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huaxiabao.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mponline.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dotsub.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mohu.ml"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="heritage.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="al-qimmah.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.imdb.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdn1.lp.saboom.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mjib.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="questvisual.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="socks-proxy.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="azerimix.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mypikpak.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="githubusercontent.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="g-area.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tw.tomonews.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="facebook.design"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="addictedtocoffee.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pinoy-n.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yobt.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="spreadshirt.es"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="breakingtweets.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fb.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="catfightpayperview.xxx"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taiwankiss.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="visibletweets.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tinc-vpn.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fangong.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.taiwanonline.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="leeao.com.cn"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="doubmirror.cf"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hxwk.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdpeu.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rconversation.blogs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bolehvpn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="movements.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="minghuiyw.wordpress.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.linksalpha.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hec.su"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="extmatrix.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="japanfirst.asianfreeforum.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ibros.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lsforum.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="toppornsites.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibet.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="makkahnewspaper.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xijie.wordpress.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="omni7.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="quannengshen.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbc.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinese-memorial.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xuehua.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="eromangadouzin.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="stat.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdn-telegram.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.moztw.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="israbox.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="redd.it"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="forum.tvb.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="0rz.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="famunion.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tapanwap.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="theporndude.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dupola.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thedalailamamovie.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="binance.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="qusi8.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="briian.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="aiss.anws.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinasoul.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cnpolitics.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rti.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="evschool.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="omnitalk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xinqimeng.over-blog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="moeaic.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nvtongzhisheng.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cn.uptodown.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="technews.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blockcn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="aiweiwei.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="doujincafe.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wikileaks.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="have8.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="radioaustralia.net.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tmpp.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="m.plixi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ai-kan.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hpa.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tbssqh.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="giantessnight.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twtkr.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="popyard.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taiwanjustice.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pullfolio.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wattpad.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="myshare.url.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jihadology.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blockcast.it"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinapress.com.my"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="amiblockedornot.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinafile.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uku.im"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="goagent.biz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uvwxyz.xyz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="udn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dragonsprings.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jingpin.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hwinfo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="adultfriendfinder.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uncyclopedia.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cacnw.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hitbtc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="video.aol.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hbg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fangeming.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thebcomplex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdef.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="novelasia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="luxebc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="timesnownews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="coat.co.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mgoon.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="graphis.ne.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="martincartoons.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="breached.to"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="th.hao123.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="webpkgcache.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="imkev.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hexxeh.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="isohunt.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xn--4gq171p.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ipfire.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gabocorp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="koolsolutions.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="forum.sina.com.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetpolicy.eu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ntdtv.cz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="radiovncr.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gu-chu-sum.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="x1949x.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gs-discuss.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kinmen.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kucoin.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ytht.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xing.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="martau.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xinshijue.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="godsdirectcontact.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cn.nytstyle.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="frontlinedefenders.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="stumbleupon.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="goodreads.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="starp2p.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="epochweek.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="clementine-player.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huaglad.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rocksdb.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="help.linksalpha.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="digiland.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.oxid.it"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fzh999.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pastebin.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="opensea.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shenyun.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="justtristan.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mastodon.xyz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="forum.setty.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="coin2co.in"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twit2d.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="falunau.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="popxi.click"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="idiomconnection.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="techspot.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="123rf.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="subacme.rerouted.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitonmsn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="moby.to"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="officeoftibet.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="5278.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="daidostup.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="livestream.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="beeg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="videopediaworld.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="citizenlab.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nat.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpngate.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xfinity.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sohfrance.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tunnelbear.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dns.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gaywatch.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="privatetunnel.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="e123.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="af.mil"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wokar.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="1-apple.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="30boxes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="environment.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="news.sinchew.com.my"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gunsamerica.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="firstfivefollowers.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpn.ac"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gmhz.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tunnelblick.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cpj.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="livingstream.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wanderinghorse.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="openai.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hopedialogue.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wango.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pinterest.fr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="potvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="asdfg.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="getcloak.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pornmm.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="get.app"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="21andy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="alwaysdata.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lizhizhuangbi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="qiangwaikan.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xhamster.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="astrill.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="livevideo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbs.qmzdd.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mike.cz.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="six-degrees.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lists.w3.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gettyimages.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xn--p8j9a0d9c9a.xn--q9jyb4c"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pts.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ok.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="devv.ai"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fanswong.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="resistchina.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kagyu.org.za"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="documentingreality.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="renyurenquan.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ctwant.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="qiangyou.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="playboyplus.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tweetwally.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="qtrac.eu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="theportalwiki.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="s-cute.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bjzc.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="politicalconsultation.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googlecommerce.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wangjinbo.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gcc.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dharmakara.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wenzhao.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="comparitech.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nhentai.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="knowyourmeme.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="igfw.tech"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wemigrate.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="whotalking.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rthk.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wwitv.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freealim.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="9gag.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="streamingthe.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="provideocoalition.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="doublethinklab.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yecl.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rtalabel.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xyy69.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="orn.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="procopytips.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ontrac.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pcij.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="myradio.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freehongkong.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="feedx.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="olumpo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twip.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bfsh.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="radio.garden"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="videobam.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="askstudent.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xvbelink.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jihadintel.meforum.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="falundafa.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ow.ly"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="catholic.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jobso.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="javseen.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lighten.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mirrorbooks.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tsunagarumon.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hideman.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="github.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnpop.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fnac.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pwned.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="voicettank.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="woeser.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="goagentplus.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="whatblocked.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="workersthebig.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="coolder.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="s3-ap-southeast-2.amazonaws.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="1e100.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nintendium.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="whylover.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="faydao.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xbookcn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="openleaks.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="d1c37gjwa26taa.cloudfront.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="maplew.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibet.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="financetwitter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="appledaily.com.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shenyunperformingarts.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ac.jiruan.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uwants.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jinpianwang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.sciencemag.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xa.yimg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="duckmylife.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdjp.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hidemy.name"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fbworkmail.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="telegram-cdn.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="boysmaster.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hqmovies.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blinkx.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googleapis.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wefightcensorship.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zzcloud.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="saintyculture.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zuobiao.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="radicalparty.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="waltermartin.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bitfinex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="me.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mlzs.work"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="duckduckgo-owned-server.yahoo.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkgpao.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bwgyhw.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="6do.news"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="trulyergonomic.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="softsmirror.cf"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="privacybox.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetanliberation.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hket.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cn.shafaqna.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ssl.webpack.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cclife.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="deadline.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="iipdigital.usembassy.gov"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="retweetist.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nytchina.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mychinanews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bynet.co.il"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="plus.codes"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="globalvoicesonline.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="torrentz.eu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="voxer.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="englishfromengland.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cmx.im"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bitshare.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bailandaily.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="alive.bar"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkfreezone.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mgstage.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nzchinese.net.nz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbcchinese.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thehun.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="recoveryversion.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shizhao.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="megaproxy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetcharity.in"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fangong.forums-free.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dscn.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thinkgeek.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vermonttibet.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="phncdn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitcause.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bloombergview.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="obyte.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blogspot.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="andygod.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="liudejun.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mnewstv.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="exmormon.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="collateralmurder.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tw.streetvoice.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hotair.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkgolden.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sos.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="avoision.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="streema.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="i818hk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pds.nasa.gov"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.xuite.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="coolloud.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="liuxiaobo.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="oursteps.com.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetaction.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pinterest.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pixeldrain.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="iphonix.fr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jinbushe.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kompozer.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="iblogserv-f.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taa-usa.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="aculo.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vip-enterprise.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="d1b183sg0nvnuh.cloudfront.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="akiba-web.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="liquiditytp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="madonna-av.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tagwalk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yasni.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="softwaredownload.gitbooks.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gloryhole.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kwcg.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mqxd.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkptu.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="alkasir.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="qianbai.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="api.ai"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wikileaks.lu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdpweb.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="golang.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ipoock.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fangbinxing.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkacg.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fourface.nodesnoop.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="erights.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fflick.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="calebelston.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="apkpure.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="casatibet.org.mx"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="luckydesigner.space"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xixicui.icu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitgether.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tw.mobi.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thereallove.kr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fulione.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.gmiddle.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="scache.vzw.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gtv.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kadokawa.co.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="unknownspace.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbs.mychat.to"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="api.dropboxapi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bonbonme.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vatn.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blackvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="unblocksit.es"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="logiqx.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lvhai.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huobi.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="milph.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="apartmentratings.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shixiao.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cotweet.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="qiwen.lu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="epochweekly.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tanc.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="woopie.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="homeservershow.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vevo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xxxymovies.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thebodyshop-usa.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fireofliberty.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huffpost.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinayuanmin.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zuo.la"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetoffice.com.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="boardreader.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huffingtonpost.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hudatoriq.web.id"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="youjizz.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="epochtimes.fr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bitchute.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="savetibet.nl"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gutteruncensored.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sstmlt.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.shadowsocks.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pornhubdeutsch.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cmegroup.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="futuremessage.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="qbittorrent.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="b-ok.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gongwt.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetoralhistory.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dns2go.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="poe.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lrfz.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="skimtube.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="citypopulation.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pure18.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pscp.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinachannel.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ae.hao123.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rfalive1.akacast.akamaistream.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fapdu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="igvita.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gigporno.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wikileaks.eu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="store.steampowered.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dmm.co.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nanyang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="heix.pp.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ubddns.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="change.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tushycash.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shenzhouzhengdao.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="npnt.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jan.ai"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitturly.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vod.wwe.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="landofhope.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pornsharing.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="laogairesearch.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="picacomic.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="omct.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bestvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lamrim.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="eireinikotaerukai.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uygur.fc2web.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zhreader.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pureconcepts.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rocket-inc.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="design.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googlechinawebmaster.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="qstatus.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cn.sandscotaicentral.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mtw.tl"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="china21.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="telesco.pe"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="unpo.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="arlingtoncemetery.mil"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="d-fukyu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbsfeed.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vn.hao123.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hqsbonline.wordpress.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="flog.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="foreignaffairs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="philborges.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="altrec.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lightnovel.cn"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="spb.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="inote.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bullguard.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hybrid-analysis.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="oculuscdn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="storj.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="topbtc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hostloc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zootool.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bangchen.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="friendfeed.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mmaaxx.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gzone-anime.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yourlisten.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="theconversation.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="humanrightspressawards.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="soubory.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="insidevoa.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitvid.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twipple.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpn4all.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="x-wall.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hizb-ut-tahrir.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mpfinance.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hub.docker.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fc2blog.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fxcm-chinese.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rumble.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cdn.helixstudios.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbs.junglobal.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tw.money.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xml-training-guide.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nyaa.eu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zello.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="alldrawnsex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="savetibet.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nhi.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huping.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="solv.finance"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="delicious.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ht.ly"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vlog.xuite.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yigeni.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="threadreaderapp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xvideos.es"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="workatruna.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinese.engadget.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gaopi.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="seesmic.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jbtalks.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sproutcore.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="redditstatic.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sm-miracle.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="usma.edu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.pathtosharepoint.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dw-world.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wrchina.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="home.sina.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dysfz.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="guaneryu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="forum.omy.sg"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="falundafa-sacramento.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="paperb.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pytorch.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="laomiu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="btku.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cnd.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="eurekavpt.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mymusic.net.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="phmsociety.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lihkg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="minzhuhua.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tradingview.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tv.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ebook.hyread.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.dmm.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nexttv.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xvideos-cdn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sexinsex.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taiwannation.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="theblemish.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chromercise.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="7capture.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ventureswell.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sinoinsider.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="btcbank.bank"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fzlm.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="prosiben.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibet.fr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="winwhispers.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="photodharma.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vot.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sproxy.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="u9un.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="v2ray.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnhub.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freemuse.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sftuk.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freechinaweibo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="daum.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nexton-net.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kkbox.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jbtalks.my"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bakgeekhome.tk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="soylentnews.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="englishforeveryone.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="atc.org.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mediafreakcity.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bebo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twftp.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ampproject.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zh.ecdm.wikia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="metroradio.com.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="big.one"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cw.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="inkui.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="facebookmail.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hotpot.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googlefiber.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zkaip.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="webrtc.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="upghsbc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="coolstuffinc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bestforchina.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thomasbernhard.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taipei.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yes-news.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tunein.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ntdtv.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dmcdn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sejie.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="goreforum.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taaze.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="banana-vpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="synergyse.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="voacambodia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="89.64.charter.constitutionalism.solutions"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cchere.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="softnology.biz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bild.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chingcheong.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="liuxiaotong.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jiangweiping.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="civicparty.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="citizenscommission.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="paxful.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="stoweboyd.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="notify.dropboxapi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shiksha.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bigfools.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ct.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sfshibao.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="video.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="placemix.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dalailama.mn"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="minghui-b.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zgzcjj.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ulop.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="codeskulptor.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cn2.streetvoice.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="apkmonk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bit.ly"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nradio.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="allgirlsallowed.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sex3.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="falundafa-dc.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="china-mmm.sa.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zh.wikinews.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="supervpn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="secure.hustler.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dizhuzhishang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="torrentkitty.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wav.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="aei.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vod-abematv.akamaized.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="theinitium.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hikinggfw.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bloomberg.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="crbug.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.monlamit.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="privatepaste.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="free-ssh.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbs.netbig.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="1bao.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zb.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.cmoinc.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dropbox.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="oricon.co.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="monocloud.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="about.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="share.youthwant.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="textnow.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tw.hao123.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ntdtvla.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ihakka.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="9news.com.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="apkpure.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="codeshare.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="prayforchina.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="material.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.martinoei.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="game735.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tsquare.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="simplecd.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="javlibrary.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="truebuddha-md.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hxwq.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="new-3lunch.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googleideas.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hacg.li"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tuvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gov.taipei"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="64tianwang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="feeder.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="njactb.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="discord.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twskype.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yesasia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="data-vocabulary.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="helloandroid.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="flipboard.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cato.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="godoc.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinaaid.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="geekerhome.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="discuss.com.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mvdis.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="imagezilla.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="theync.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="antichristendom.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="agro.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yogichen.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="173ng.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ntd.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.exblog.co.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vinniev.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnuk.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="okx.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bettween.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tracfone.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xianjian.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="liaowangxizang.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="finchvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="securitykiss.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="grow.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="news.tvbs.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="acg18.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mobile01.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pixnet.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="clyp.it"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitgoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="feelssh.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="woxinghuiguo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="stephaniered.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yakbutterblues.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="getastrill.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vporn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="theatrum-belli.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.powerpointninja.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="btctrade.im"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="singaporepools.com.sg"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lastcombat.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="frootvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="newtalk.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tweetboner.biz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blip.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xiezhua.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huobi.sc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googleweblight.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="news.singtao.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gnews.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinaview.wordpress.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ninecommentaries.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ntbna.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="newstatesman.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="presentationzen.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tu8964.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.cnyes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="epochtimes-romania.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="angelfire.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zattoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hotspotshield.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gooday.xyz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="eu.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.klip.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hola.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbs.sina.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="aniscartujo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="avmoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pubu.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bolin.netfirms.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="animecrazy.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jsdelivr.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tmi.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="1984bbs.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kendatire.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taiwandaily.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="x.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taiwannation.50webs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="archive.fo"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hideipvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twiends.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="angola.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="2047.name"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pbxes.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="digitalnomadsproject.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="free4u.com.ar"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pachosting.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sylfoundation.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="devpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hrw.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="singtao.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="newstamago.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wuguoguang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="liangyou.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ritter.vg"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tipas.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rukor.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="soup.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zi.media"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="newipnow.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hklts.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freemoren.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dpr.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="acgkj.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="duckdns.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetalk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="castbox.fm"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.zensur.freerk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="iphone4hongkong.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="campaignforuyghurs.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="macgamestore.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="daolan.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pictures.playboy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sinoants.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twbbs.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gofundme.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tvider.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thetrotskymovie.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="leisurecafe.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bad.news"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkhrm.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tw.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="phuquocservices.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpngate.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tosh.comedycentral.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="efcc.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sokamonline.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="realforum.zkiz.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="indiablooms.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="islamhouse.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="drmingxia.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jukujo-club.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="reddit.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shadowsocks-r.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dtic.mil"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cna.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="newyorktimes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shinychan.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="berlintwitterwall.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinayouth.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="git.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="china-mmm.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ggpht.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zeutch.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cbc.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gcpnews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fqok.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="muzu.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="video.pbs.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="neo-miracle.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rixcloud.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbci.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ithelp.ithome.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="greatzhonghua.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="red-lang.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="stranabg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="songjianjun.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="voaindonesia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cn.giganews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="telegramdownload.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="srocket.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twicsy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="y2mate.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dcard.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="matters.news"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="auctions.yahoo.co.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cochina.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chromestatus.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="barnabu.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitterkr.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="statueofdemocracy.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dalailama.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="getgom.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="globalvpn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkreporter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="riseup.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="acgbox.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ronjoneswriter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mizzmona.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="v2fly.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="g6hentai.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lbank.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nuuvem.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nownews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="omnitalk.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bod.asia"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="top81.ws"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fda.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googlemail.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mrtweet.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="omgili.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="r18.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="anobii.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="firstpost.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="socialwhale.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tora.to"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bx.tl"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="otto.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="eromon.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="parler.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fofldfradio.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huobi.pro"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dollf.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cn.theaustralian.com.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="solana.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="babylonbee.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="larsgeorge.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="drgan.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="himemix.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="middle-way.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="imgasd.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="theatlantic.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="login.target.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wengewang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="amitabhafoundation.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ushuarencity.echainhost.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dowei.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dalailamafellows.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zh.pokerstrategy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nytimes.map.fastly.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hackmd.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tweetree.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="steamcommunity.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="parkansky.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rule34.xxx"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="netcolony.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="linux.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="whatbrowser.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="api-verify.recaptcha.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fastestvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="parsevideo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="verybs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="worldjournal.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cloudfunctions.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="en.favotter.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="abc.pp.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ghidra-sre.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="opensource.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ilove80.be"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mullvad.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="icl-fi.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="npm.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="logos.com.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="civilhrfront.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitterfeed.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wforum.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="av.movie"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rcinet.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="get.how"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sulian.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uraban.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="purepdf.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dmhy.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="centerforhumanreprod.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkupop.hku.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vilavpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="facebook.nl"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fpmt.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="img.ly"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="openwebster.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freevpn.nl"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nsc.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="eesti.ee"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ccdtr.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="turntable.fm"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="feedburner.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="soulcaliburhentai.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ernestmandel.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twittergadget.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="epochtimes.co.kr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="64wiki.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fnac.be"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="savetibetstore.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thechinacollection.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fourthinternational.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freemorenews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dynu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tl.gd"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chenpokong.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="privateinternetaccess.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="teamamericany.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ipjetable.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sis001.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twisternow.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cms.gov"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="localdomain.ws"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bullog.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blogimg.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wretch.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twindexx.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="national-lottery.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kinmen.travel"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cnbbnews.wordpress.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freenetproject.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hautelookcdn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="teensinasia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ntbt.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="advanscene.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="helpster.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zonghexinwen.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="4everproxy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vovo2000.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xpud.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pulse.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="junauza.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zhengwunet.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ameblo.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="crossfire.co.kr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="woyaolian.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="myanniu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gaoming.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gotrusted.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="workers.dev"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wearn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hakkatv.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pbworks.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="f8.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rationalwiki.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cyberghostvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pinterest.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xbtce.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wikimedia.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitmania.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gfw.org.ua"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cosmic.monar.ch"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pandapow.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mixx.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="spem.at"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hrweb.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gamer-cds.cdn.hinet.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="epochtimes.de"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpn.cmu.edu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chrlawyers.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="metarthunter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twttr.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="superpages.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tn2.shemalez.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fengzhenghu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="stage64.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taiwantp.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="spendee.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ccthere.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="grotty-monday.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="spaces.hightail.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jtvnw.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="airconsole.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="staticflickr.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="eyny.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="signal.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taiwanjobs.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="voagd.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="picturesocial.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vietdaikynguyen.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wo3ttt.wordpress.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="communitychoicecu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fanglizhi.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fring.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twerkingbutt.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="club1069.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mypopescu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="etherscan.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="listennotes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="breaking911.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ordns.he.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uncyclomedia.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="microvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="br.hao123.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mol.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rarbgprx.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dfn.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="karayou.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freewallpaper4.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rdio.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="6park.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ssrshare.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="creativelab5.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xn--ngstr-lra8j.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ignitedetroit.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xgmyd.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="line.naver.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="listentoyoutube.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ngensis.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uygur.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="indiandefensenews.in"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="billypan.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ecfa.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ttvnw.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hutong9.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="furbo.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ranyunfei.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="exrates.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="firetweet.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thewgo.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ntdtv.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="jjgirls.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="facebook.se"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fanqiangyakexi.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkhrc.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lamayeshe.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vocus.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="logbot.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zhongguotese.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gwins.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googlebot.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hidecloud.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googlepagecreator.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fleursdeslettres.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="slacker.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rthklive2-lh.akamaihd.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="quoracdn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="destiny.xfiles.to"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="unblockdmm.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mycould.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="retweeteffect.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinasocialdemocraticparty.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="derekhsu.homeip.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lncn.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetmuseum.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="library.usc.cuhk.edu.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.dwheeler.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="in-disguise.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="great-roc.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kinghost.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dailyview.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wingamestore.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nordstrom.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="d2bay.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tor.updatestar.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hmoegirl.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="apk-dl.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbs.tuitui.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sa.hao123.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rojo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tw.voa.mobi"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fbaddins.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="justpaste.it"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="to-porno.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="91porn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="scriptspot.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taup.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="grandtrial.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="old.nabble.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="turkistantimes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="baramangaonline.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shapeservices.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.expofutures.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huaxin.ph"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="scramble.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="busytrade.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nitter.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bitsnoop.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="javhub.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bit.do"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dupola.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="monitorchina.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sinoca.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mega.co.nz"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="siteks.uk.to"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="news.now.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yadi.sk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dabr.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="amnesty.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kineox.free.fr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="perfect-privacy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="userapi.nytlog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zh.pttpedia.wikia.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="btc98.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="99btgc01.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cochina.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="willw.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="backtotiananmen.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibettelegraph.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="asiaone.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googledomains.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pandora.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tn3.shemalez.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nuexpo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="watchout.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="torrentproject.se"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fb.watch"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zamimg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="online.recoveryversion.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitpic.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.orchidbbs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gamez.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uderzo.it"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="faceless.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tw.knowledge.yahoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="deezer.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.tablesgenerator.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="messenger.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hihistory.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="buzzsprout.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="drsunacademy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="exploader.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="old.honeynet.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="a-normal-day.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="podbean.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="233abc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="skyxvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="atlanta168.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="skybet.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="veoh.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="passwords.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="trouw.nl"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="voatibetan.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="iask.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="grangorz.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taiwanhot.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="posts.careerengine.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wiki.jqueryui.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googleinsidesearch.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="onmoon.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.foolsmountain.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="franklc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tokyocn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nexon.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="botanwang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="totalvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="curvefish.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="erodoujinworld.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ciciai.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="admob.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ironpython.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zhanbin.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="phosphation13.rssing.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="muzi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sakuralive.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wikilivres.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freevpn.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="csmonitor.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uyghurcanadian.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nypost.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="netme.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="occupytiananmen.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="reflectivecode.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="soc.mil"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lookpic.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="coinmarketcap.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="webs-tv.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chromium.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sydneytoday.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="widevine.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zaobao.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="newsancai.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yam.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkcoc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinahorizon.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kxsw.life"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tew.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="uncyclopedia.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rolsociety.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.wangruowang.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpncoupons.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nationalreview.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="secure.raxcdn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="matthewdgreen.wordpress.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xxxx.com.au"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="duga.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="penchinese.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tsdr.uspto.gov"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="opus-gaming.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googlescholar.comUSA"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yhcw.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkreporter.loved.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="telegram.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gamebase.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ultraxs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkcoc.weather.com.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpndada.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbs.morbell.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="my-private-network.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hdlt.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.hustlercash.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="koranmandarin.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="storagenewsletter.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pinterest.co.uk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="t66y.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hk32168.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="htl.li"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="helpuyghursnow.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bx.in.th"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="a248.e.akamai.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="studentsforafreetibet.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nyt.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="magic-net.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fpmtmexico.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xcafe.in"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="crucial.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fatbtc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="webbang.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="artsy.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huhamhire.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="minzhuzhongguo.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibet-envoy.eu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ironbigfools.compython.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="securityinabox.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnbook.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lockestek.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="btdigg.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ntsna.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="alliance.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pct.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="v2raytech.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tw.gigacircle.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkacg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.eastturkistan.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ss.pythonic.life"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="twitter.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetoffice.eu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dropbooks.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkci.org.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rutube.ru"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xxx.xxx"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="epa.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="italiatibet.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="localpresshk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pinterest.com.mx"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tcpspeed.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hdzog.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="itshidden.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="watchmygf.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gongm.in"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="html5rocks.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gvlib.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nylon-angel.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="faiththedog.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="khatrimaza.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="organharvestinvestigation.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="urlparser.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yx51.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mimiai.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tokyo-porn-tube.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="readingtimes.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="brill.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="crazyshit.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="iphonehacks.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="quantumbooter.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="duyaoss.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tiny.cc"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="orzistic.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rmbl.ws"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="newschinacomment.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="www.aolnews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="msha.gov"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kun.im"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mastodon.social"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="podictionary.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="englishpen.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fucd.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googleearth.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="joinclubhouse.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rfi.my"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yipub.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="solarsystem.nasa.gov"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="oanda.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wetpussygames.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bibox.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mercatox.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taedp.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tianti.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.taragana.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="images.comico.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xyy69.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yahoo.com.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="moonbingo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="girlbanker.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="raindrop.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="allcoin.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tvboxnow.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kzeng.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lpsg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="video.aol.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mathiew-badimon.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kagyuoffice.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wolfax.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="908taiwan.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nic.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="owltail.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="snaptu.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="asacp.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="global.bing.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="miroguide.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="talkboxapp.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googlemashups.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mohu.rocks"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="typora.io"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tpi.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lerosua.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="igcd.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="shopee.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bbs.skykiwi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="crocotube.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="91vps.club"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="carfax.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thecenter.mit.edu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kanshifang.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vpnforgame.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ghostpath.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="e-hentai.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="webworkerdaily.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xn--czq75pvv1aj5c.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tn1.shemalez.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="like.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="download.aircrack-ng.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="geocities.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freetribe.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nko.navy.mil"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="z-lib.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mingpao.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="seattlefdc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nlfreevpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="expecthim.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="listorious.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="whatsonweibo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lala.im"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cts.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="feixiaohao.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="qiandao.today"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="molihua.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nchrd.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetsociety.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="meripet.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sidelinesnews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="taisounds.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="waltermartin.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="apigee.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dafagood.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fanqiang.network"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hk.frienddy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hkfront.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="psiphon.ca"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="immigration.gov.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="readmoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="asianspiss.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="leisurepro.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="changsa.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blockless.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="areca-backup.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thehousenews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="csdparty.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xiaomi.eu"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="godsdirectcontact.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="swissvpn.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ait.org.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="pin-cong.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="usacn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="otnd.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ytn.co.kr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="googleartproject.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="inside.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="torvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="homedepot.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="epochtimes-bg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="demo.opera-mini.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="glorystar.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="43110.cf"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="btdig.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gts-vpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fnc.ebc.net.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zophar.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="18onlygirls.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="12bet.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lematin.ch"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kindleren.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="torguard.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="voanews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sustainability.google"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="searx.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gstatic.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="archive.is"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ccthere.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ippotv.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="web2project.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tor.blingblingsquad.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wego.here.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="allmovie.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gagaoolala.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="say2.info"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rfa.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="duping.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gumroad.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="timesofindia.indiatimes.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="iredmail.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hqsbnet.wordpress.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="trans.wenweipo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kagyuoffice.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sheikyermami.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="eromanga-kingdom.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="acgnx.se"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="netflix.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="showwe.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="cccat.co"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="forum.cyberctm.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chinalaborwatch.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="chat.lmsys.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="eastturkistangovernmentinexile.us"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blogtd.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="video.fdbox.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="raizoji.or.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="ma.hao123.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="entermap.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sjum.cn"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="all4mom.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="d100.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="youmaker.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="yousendit.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="esg.t91y.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="owl.li"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="adult-sex-games.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freeyellow.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thegay.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="urlborg.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="filesor.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="site90.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xanga.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="megurineluka.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="asianage.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xizang-zhiye.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tweetbackup.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zhao.1984.city"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="open.com.hk"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xjtravelguide.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vds.rightster.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="greenpeace.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dmc.nico"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="onlineyoutube.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="coinbene.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freakshare.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="meetup.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nemesis2.qx.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="atdmt.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sstm.moe"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="000webhost.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="woopie.tv"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="motherless.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zalmos.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="oursogo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zhongguorenquan.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="h-moe.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="hootsuite.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="abebooks.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sino-monthly.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="huobi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="earthvpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="naughtyamerica.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freenet-china.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="wire.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rsdlmonitor.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="instagram.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="odysee.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="sthoo.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="auntology.fandom.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="break.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="dailymotion.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="xiaxiaoqiang.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="freedomsherald.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="thediplomat.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="okex.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="encrypt.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="peacehall.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="martsangkagyuofficial.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tibetnetwork.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="torrentprivacy.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nic.gov"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="latelinenews.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="kawaiikawaii.jp"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tronscan.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="nobelprize.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bumingbai.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="blog.syx86.cn"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="mahabodhi.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="vivthomas.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="lzmtnews.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="archive.today"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="udnbkk.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="karkhung.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="zmw.cn"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="gmozomg.izihost.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="labiennale.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="boomssr.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="static01.nyt.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="springwood.me"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="beevpn.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="voachinese.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="fangmincn.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="seezone.net"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="afantibbs.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="rightbtc.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="forum.palmislife.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="bnext.com.tw"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="meridian-trust.org"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="tumutanzi.com"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="agnesb.fr"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="85.17.73.31"
+/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="afreecatv.com"
+/ip dns cache flush
