@@ -83,7 +83,7 @@ def create_gfwlist_rsc(input_file, output_file):
             f.write(f'    "{domain}";\n')
         f.write('}\n')
         f.write(':foreach domain in=$domainList do={\n')
-        f.write('    /ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=no name=$domain\n')
+        f.write('    /ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=no name=GFW regexp=$domain\n')
         f.write('}\n')
         f.write('/ip dns cache flush\n')
 
@@ -114,7 +114,7 @@ def create_diff_dns_rsc(to_add, to_remove, output_file):
             # 删除需要删除的记录
             if to_remove:
                 for domain in to_remove:
-                    f.write('/ip dns static remove [/ip dns static find name="{}"]\n'.format(domain))
+                    f.write('/ip dns static remove [/ip dns static find name="GFW" regexp="{}"]\n'.format(domain))
 
             # 添加需要添加的记录
             if to_add:
@@ -124,7 +124,7 @@ def create_diff_dns_rsc(to_add, to_remove, output_file):
                     f.write(f'    "{domain}";\n')
                 f.write('}\n')
                 f.write(':foreach domain in=$domainList do={\n')
-                f.write('    /ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=no name=$domain\n')
+                f.write('    /ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=no name=GFW regexp=$domain\n')
                 f.write('}\n')
 
             # 只有在有需要添加或删除的条目时才刷新缓存
