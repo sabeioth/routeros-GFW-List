@@ -4786,9 +4786,9 @@
     "zvereff.com";
     "zyxel.com";
     "zyzc9.com";
-    "phobos.apple.com";
+    "phobos.apple.com*";
 }
 :foreach domain in=$domainList do={
-    /ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name=$domain
+    /ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=no name=$domain
 }
 /ip dns cache flush
