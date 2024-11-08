@@ -125,4 +125,4 @@ def main():
     log_info("gfwlist.rsc 和 dns.rsc 文件已创建。")
 
 if __name__ == "__main__":
-main()
+    main()
