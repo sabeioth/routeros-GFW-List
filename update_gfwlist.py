@@ -115,7 +115,7 @@ def main():
     processed_domains_file = 'processed_domains.txt'
     gfwlist_rsc = 'gfwlist.rsc'
     dns_rsc = 'dns.rsc'
-    dnsserver = '192.18.0.1'  # 在这里定义 DNS 服务器地址
+    dnsserver = '192.168.0.98'  # 在这里定义 DNS 服务器地址
 
     # 创建临时目录
     tmp_dir = tempfile.mkdtemp()
