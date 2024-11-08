@@ -116,8 +116,15 @@ def create_diff_dns_rsc(to_add, to_remove, output_file, dns_server):
             f.write('/ip dns static remove [/ip dns static find name="{}"]\n'.format(domain))
 
         # 添加需要添加的记录
-        for domain in to_add:
-            f.write('/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="{}"\n'.format(domain))
+        if to_add:
+            f.write('/ip dns static\n')
+            f.write(':local domainList {\n')
+            for domain in to_add:
+                f.write(f'    "{domain}";\n')
+            f.write('}\n')
+            f.write(':foreach domain in=$domainList do={\n')
+            f.write('    /ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name=$domain\n')
+            f.write('}\n')
 
         f.write('/ip dns cache flush\n')
 
