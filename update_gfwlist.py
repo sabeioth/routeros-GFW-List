@@ -1,5 +1,6 @@
 import os
 import requests
+import base64
 import tempfile
 import re
 
@@ -27,8 +28,9 @@ def download_gfwlist(url, output_file):
     log_info("Downloading and decoding gfwlist...")
     response = requests.get(url)
     if response.status_code == 200:
+        content = base64.b64decode(response.content).decode('utf-8')
         with open(output_file, 'w') as f:
-            f.write(response.text)
+            f.write(content)
         log_info("Decoded content saved to gfwlist.txt")
         return True
     else:
@@ -93,7 +95,7 @@ def create_dns_rsc(input_file, output_file, dns_server):
 
 # 主函数
 def main():
-    url = 'https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt'
+    url = 'https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt'
     gfwlist_txt = 'gfwlist.txt'
     processed_domains_file = 'processed_domains.txt'
     gfwlist_rsc = 'gfwlist.rsc'
