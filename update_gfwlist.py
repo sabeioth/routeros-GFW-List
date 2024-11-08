@@ -69,32 +69,45 @@ def process_gfwlist(content, output_file):
     with open(output_file, 'w') as f:
         f.write('\n'.join(domains))
 
-# 获取现有的 DNS 静态记录
-def get_existing_records():
-    log_info("Fetching existing DNS static records...")
-    # 假设你有一个方法可以从 RouterOS 设备获取现有的 DNS 静态记录
-    # 这里只是一个示例，实际情况下你可能需要通过 API 或其他方式获取
-    existing_records = [
-        "85.17.73.31",
-        "afreecatv.com",
-        "agnesb.fr",
-        "example.com"
-    ]
-    return existing_records
-
-# 生成新的 DNS RSC 文件
-def create_dns_rsc(input_file, output_file, dns_server):
-    log_info("Creating dns.rsc...")
+# 创建 GFWList RSC 文件
+def create_gfwlist_rsc(input_file, output_file):
+    log_info("Creating gfwlist.rsc...")
     with open(input_file, 'r') as f:
-        new_domains = set(f.read().splitlines())
+        domains = f.read().splitlines()
 
-    existing_records = set(get_existing_records())
+    with open(output_file, 'w') as f:
+        f.write(':global dnsserver\n')
+        f.write('/ip dns static remove [/ip dns static find forward-to=$dnsserver]\n')
+        f.write('/ip dns static\n')
+        f.write(':local domainList {\n')
+        for domain in domains:
+            f.write(f'    "{domain}";\n')
+        f.write('}\n')
+        f.write(':foreach domain in=$domainList do={\n')
+        f.write('    /ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name=$domain\n')
+        f.write('}\n')
+        f.write('/ip dns cache flush\n')
 
-    # 找出需要添加、删除和保留的记录
-    to_add = new_domains - existing_records
-    to_remove = existing_records - new_domains
-    to_keep = existing_records & new_domains
+# 比较新旧 gfwlist.rsc 文件
+def compare_rsc_files(old_file, new_file):
+    log_info("Comparing old and new gfwlist.rsc files...")
 
+    with open(old_file, 'r') as f:
+        old_content = f.read()
+    with open(new_file, 'r') as f:
+        new_content = f.read()
+
+    old_domains = set(re.findall(r'"([^"]+)"', old_content))
+    new_domains = set(re.findall(r'"([^"]+)"', new_content))
+
+    to_add = new_domains - old_domains
+    to_remove = old_domains - new_domains
+
+    return to_add, to_remove
+
+# 生成差异化的 DNS RSC 文件
+def create_diff_dns_rsc(to_add, to_remove, output_file, dns_server):
+    log_info("Creating diff dns.rsc...")
     with open(output_file, 'w') as f:
         f.write(':global dnsserver "{}"\n'.format(dns_server))
 
@@ -106,10 +119,6 @@ def create_dns_rsc(input_file, output_file, dns_server):
         for domain in to_add:
             f.write('/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="{}"\n'.format(domain))
 
-        # 保留现有的记录
-        for domain in to_keep:
-            f.write('/ip dns static add forward-to=$dnsserver type=FWD address-list=gfw_list match-subdomain=yes name="{}"\n'.format(domain))
-
         f.write('/ip dns cache flush\n')
 
 # 主函数
@@ -117,6 +126,7 @@ def main():
     url = 'https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt'
     gfwlist_txt = 'gfwlist.txt'
     processed_domains_file = 'processed_domains.txt'
+    gfwlist_rsc = 'gfwlist.rsc'
     dns_rsc = 'dns.rsc'
     dns_server = '198.18.0.1'
     include_list = 'include_list.txt'
@@ -134,11 +144,21 @@ def main():
     # 处理 GFWList 文件
     process_gfwlist(content, os.path.join(tmp_dir, processed_domains_file))
 
-    # 排序包含和排除的域名列表
-    sort_files(include_list, exclude_list)
+    # 创建新的 gfwlist.rsc 文件
+    create_gfwlist_rsc(os.path.join(tmp_dir, processed_domains_file), os.path.join(tmp_dir, gfwlist_rsc))
 
-    # 创建 DNS RSC 文件
-    create_dns_rsc(os.path.join(tmp_dir, processed_domains_file), dns_rsc, dns_server)
+    # 比较新旧 gfwlist.rsc 文件
+    old_gfwlist_rsc = 'gfwlist.rsc'
+    if os.path.exists(old_gfwlist_rsc):
+        to_add, to_remove = compare_rsc_files(old_gfwlist_rsc, os.path.join(tmp_dir, gfwlist_rsc))
+    else:
+        to_add, to_remove = set(), set()
+
+    # 生成差异化的 dns.rsc 文件
+    create_diff_dns_rsc(to_add, to_remove, dns_rsc, dns_server)
+
+    # 将新的 gfwlist.rsc 文件移动到当前目录
+    os.replace(os.path.join(tmp_dir, gfwlist_rsc), gfwlist_rsc)
 
     log_info("dns.rsc 文件已创建。")
 
