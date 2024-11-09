@@ -1,4 +1,4 @@
-:global dnsserver "192.168.0.98"
+:global dnsserver "192.18.0.1"
 /ip dns static remove [/ip dns static find forward-to=$dnsserver]
 /ip dns static
 :local domainList {
