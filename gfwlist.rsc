@@ -718,7 +718,8 @@
     "brookings.edu";
     "brucewang.net";
     "brutaltgp.com";
-    "bt2mag.com";
+    "bsky.app";
+    "bsky.social";
     "bt95.com";
     "btaia.com";
     "btbtav.com";
@@ -1269,6 +1270,7 @@
     "debug.com";
     "deck.ly";
     "decodet.co";
+    "deepai.org";
     "deepmind.com";
     "deezer.com";
     "definebabe.com";
@@ -1349,6 +1351,7 @@
     "dnsrd.com";
     "dnssec.net";
     "dnvod.tv";
+    "docs.new";
     "doctorvoice.org";
     "documentingreality.com";
     "dogfartnetwork.com";
@@ -2213,6 +2216,7 @@
     "greenvpn.org";
     "grindr.com";
     "grotty-monday.com";
+    "ground.news";
     "groups.google.cn";
     "grow.google";
     "gs-discuss.com";
@@ -2256,16 +2260,12 @@
     "h528.com";
     "h5dm.com";
     "h5galgame.me";
-    "hacg.club";
-    "hacg.in";
-    "hacg.li";
-    "hacg.me";
-    "hacg.red";
     "hacken.cc";
     "hacker.org";
     "hackmd.io";
     "hackthatphone.net";
     "hahlo.com";
+    "haijiao.com";
     "hakkatv.org.tw";
     "handcraftedsoftware.org";
     "hanime.tv";
@@ -2309,6 +2309,7 @@
     "hentaivideoworld.com";
     "heqinglian.net";
     "heritage.org";
+    "herokuapp.com";
     "heungkongdiscuss.com";
     "hexieshe.com";
     "hexieshe.xyz";
@@ -2461,6 +2462,7 @@
     "howtoforge.com";
     "hoxx.com";
     "hpa.gov.tw";
+    "hpjav.com";
     "hqcdp.org";
     "hqjapanesesex.com";
     "hqmovies.com";
@@ -2548,6 +2550,7 @@
     "iask.bz";
     "iask.ca";
     "iav19.com";
+    "iavian.net";
     "ibiblio.org";
     "ibit.am";
     "iblist.com";
@@ -3816,6 +3819,7 @@
     "pcanywhere.net";
     "pcc.gov.tw";
     "pcdvd.com.tw";
+    "pcgamestorrents.com";
     "pchome.com.tw";
     "pcij.org";
     "pcstore.com.tw";
@@ -4361,6 +4365,7 @@
     "sharpdaily.tw";
     "shat-tibet.com";
     "shattered.io";
+    "sheets.new";
     "sheikyermami.com";
     "shellfire.de";
     "shenshou.org";
@@ -4444,6 +4449,7 @@
     "sleazydream.com";
     "slheng.com";
     "slickvpn.com";
+    "slides.new";
     "slideshare.net";
     "slinkset.com";
     "slutload.com";
@@ -4459,6 +4465,7 @@
     "smith.edu";
     "smyxy.org";
     "snapchat.com";
+    "snapseed.com";
     "snaptu.com";
     "sndcdn.com";
     "sneakme.net";
@@ -5463,6 +5470,7 @@
     "vporn.com";
     "vpser.net";
     "vraiesagesse.net";
+    "vrchat.com";
     "vrmtr.com";
     "vrsmash.com";
     "vtunnel.com";
@@ -5563,6 +5571,7 @@
     "wha.la";
     "whatblocked.com";
     "whatbrowser.org";
+    "whats.new";
     "whatsapp.com";
     "whatsapp.net";
     "whatsonweibo.com";
