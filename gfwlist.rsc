@@ -97,6 +97,7 @@
     "5i01.com";
     "5isotoi5.org";
     "5maodang.com";
+    "611study.icu";
     "63i.com";
     "64museum.org";
     "64tianwang.com";
@@ -265,6 +266,7 @@
     "ameblo.jp";
     "americangreencard.com";
     "americanunfinished.com";
+    "americorps.gov";
     "amiblockedornot.com";
     "amigobbs.net";
     "amitabhafoundation.us";
@@ -733,6 +735,7 @@
     "brucewang.net";
     "brutaltgp.com";
     "bsky.app";
+    "bsky.network";
     "bsky.social";
     "bt95.com";
     "btaia.com";
@@ -845,6 +848,7 @@
     "cccat.cc";
     "cccat.co";
     "ccdtr.org";
+    "ccfd.org.tw";
     "cchere.com";
     "ccim.org";
     "cclife.ca";
@@ -1111,6 +1115,7 @@
     "code1984.com";
     "codeshare.io";
     "codeskulptor.org";
+    "cofacts.tw";
     "coin2co.in";
     "coinbase.com";
     "coinbene.com";
@@ -2094,7 +2099,6 @@
     "goagent.biz";
     "goagent.codeplex.com";
     "goagentplus.com";
-    "gobet.cc";
     "godaddy.com";
     "godfootsteps.org";
     "godns.work";
@@ -2237,6 +2241,7 @@
     "graphis.ne.jp";
     "graphql.org";
     "gravatar.com";
+    "greasyfork.org";
     "great-firewall.com";
     "great-roc.org";
     "greatfire.org";
@@ -2255,6 +2260,7 @@
     "greenvpn.net";
     "greenvpn.org";
     "grindr.com";
+    "grok.com";
     "grotty-monday.com";
     "ground.news";
     "groups.google.cn";
@@ -2707,6 +2713,7 @@
     "iownyour.biz";
     "iownyour.org";
     "ipalter.com";
+    "ipdefenseforum.com";
     "ipfire.org";
     "ipfs.io";
     "iphone4hongkong.com";
@@ -3556,6 +3563,7 @@
     "news.tvbs.com.tw";
     "news.yahoo.com";
     "news.ycombinator.com";
+    "news1.kr";
     "news100.com.tw";
     "newsancai.com";
     "newsblur.com";
@@ -3619,6 +3627,7 @@
     "nobel.se";
     "nobelprize.org";
     "nobodycanstop.us";
+    "nodeseek.com";
     "nofile.io";
     "nokogiri.org";
     "nokola.com";
@@ -3642,7 +3651,6 @@
     "npa.gov.tw";
     "npm.gov.tw";
     "npnt.me";
-    "nps.gov";
     "npsboost.com";
     "nradio.me";
     "nrk.no";
@@ -3829,6 +3837,7 @@
     "pachosting.com";
     "pacificpoker.com";
     "packetix.net";
+    "pacom.mil";
     "pacopacomama.com";
     "padmanet.com";
     "page.bid.yahoo.com";
@@ -3924,6 +3933,7 @@
     "picturedip.com";
     "pictures.playboy.com";
     "picturesocial.com";
+    "picuki.com";
     "pigav.com";
     "pimg.tw";
     "pin-cong.com";
@@ -4695,7 +4705,6 @@
     "strikingly.com";
     "strongvpn.com";
     "strongwindpress.com";
-    "student.tw";
     "studentsforafreetibet.org";
     "stumbleupon.com";
     "stupidvideos.com";
@@ -5382,7 +5391,6 @@
     "users.skynet.be";
     "usfk.mil";
     "ushuarencity.echainhost.com";
-    "usinfo.state.gov";
     "usma.edu";
     "usmc.mil";
     "usmgtcg.ning.com";
@@ -5781,7 +5789,6 @@
     "wwitv.com";
     "www.abclite.net";
     "www.ajsands.com";
-    "www.americorps.gov";
     "www.antd.org";
     "www.aolnews.com";
     "www.businessinsider.com.au";
